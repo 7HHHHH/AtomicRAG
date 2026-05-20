@@ -19,7 +19,6 @@ from .llm import _get_llm_class, BaseLLM
 from .embedding_model import _get_embedding_model_class, BaseEmbeddingModel
 from .embedding_store import EmbeddingStore
 from .information_extraction import OpenIE
-from .evaluation.qa_eval import QAExactMatch, QAF1Score
 from .prompts.linking import get_query_instruction
 from .prompts.prompt_template_manager import PromptTemplateManager
 from .fragment_filter import FragmentFilter, FragmentFilterRequest
@@ -873,36 +872,18 @@ class AtomicRAG:
     async def rag_qa_async(self,
                            queries: List[str | QuerySolution],
                            gold_answers: List[List[str]] = None
-                           ) -> Tuple[List[QuerySolution], List[str], List[Dict]] | Tuple[List[QuerySolution], List[str], List[Dict], Dict]:
+                           ) -> Tuple[List[QuerySolution], List[str], List[Dict]]:
         """
         Async version of retrieval-augmented QA using the AtomicRAG framework.
         """
-        if gold_answers is not None:
-            qa_em_evaluator = QAExactMatch(global_config=self.global_config)
-            qa_f1_evaluator = QAF1Score(global_config=self.global_config)
-
         if not isinstance(queries[0], QuerySolution):
             queries = await self.retrieve_async(queries=queries)
 
         queries_solutions, all_response_message, all_metadata = await self.qa_async(queries)
 
         if gold_answers is not None:
-            overall_qa_em_result, example_qa_em_results = qa_em_evaluator.calculate_metric_scores(
-                gold_answers=gold_answers, predicted_answers=[qa_result.answer for qa_result in queries_solutions],
-                aggregation_fn=np.max)
-            overall_qa_f1_result, example_qa_f1_results = qa_f1_evaluator.calculate_metric_scores(
-                gold_answers=gold_answers, predicted_answers=[qa_result.answer for qa_result in queries_solutions],
-                aggregation_fn=np.max)
-
-            overall_qa_em_result.update(overall_qa_f1_result)
-            overall_qa_results = overall_qa_em_result
-            overall_qa_results = {k: round(float(v), 4) for k, v in overall_qa_results.items()}
-            logger.info(f"Evaluation results for QA: {overall_qa_results}")
-
             for idx, q in enumerate(queries_solutions):
                 q.gold_answers = list(gold_answers[idx])
-
-            return queries_solutions, all_response_message, all_metadata, overall_qa_results
 
         return queries_solutions, all_response_message, all_metadata
 

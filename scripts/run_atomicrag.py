@@ -139,9 +139,8 @@ async def process_corpus(
 
         logging.info(f"🔍 Found {len(corpus_questions)} questions for {corpus_name}")
 
-        # Prepare queries and gold answers
+        # Prepare queries
         all_queries = [q["question"] for q in corpus_questions]
-        gold_answers = [[q['answer']] for q in corpus_questions]
 
         # Configure AtomicRAG
         def build_config(force_rebuild: bool) -> BaseConfig:
@@ -210,7 +209,7 @@ async def process_corpus(
         # Process questions
         results = []
 
-        rag_outputs = await rag_system.rag_qa_async(queries=all_queries, gold_answers=gold_answers)
+        rag_outputs = await rag_system.rag_qa_async(queries=all_queries)
         queries_solutions = rag_outputs[0]
         solutions = [query.to_dict() for query in queries_solutions]
 
