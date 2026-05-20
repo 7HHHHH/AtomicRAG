@@ -83,7 +83,7 @@ Application-level concurrency defaults live in `configs/atomicrag/config.json`:
 }
 ```
 
-Do not commit real API keys. The repo `.gitignore` excludes `**/llm.env`, but check `git status` before pushing.
+For local setup, copy `configs/atomicrag/llm.env.example` to `configs/atomicrag/llm.env` and fill in your own API settings. Only the example file is versioned.
 
 ## Data Format
 
