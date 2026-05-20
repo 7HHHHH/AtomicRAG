@@ -1,0 +1,626 @@
+[
+  {
+    "id": "Novel-55755d12",
+    "question_type": "Fact Retrieval",
+    "question": "Which publishing house released George Eliot's novel 'Impressions of Theophrastus Such' according to the information provided in the text?",
+    "answer": "William Blackwood and Sons published 'Impressions of Theophrastus Such'.",
+    "source": "Novel-10762",
+    "evidence": "William Blackwood and Sons published 'Impressions of Theophrastus Such'."
+  },
+  {
+    "id": "Novel-c84ff06e",
+    "question_type": "Fact Retrieval",
+    "question": "Who is identified as the author of the novel 'Impressions of Theophrastus Such' in the narrative?",
+    "answer": "George Eliot is the author of 'Impressions of Theophrastus Such'.",
+    "source": "Novel-10762",
+    "evidence": "George Eliot is the author of 'Impressions of Theophrastus Such'."
+  },
+  {
+    "id": "Novel-038fe57c",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the scholarly debate between Grampus and his critics, how did Megalosaurus interpret the words of Grampus?",
+    "answer": "Megalosaurus took the words of Grampus in their most literal sense.",
+    "source": "Novel-10762",
+    "evidence": "Megalosaurus took the words of Grampus literally."
+  },
+  {
+    "id": "Novel-98ea72d7",
+    "question_type": "Fact Retrieval",
+    "question": "Within the academic discussion about ancient cultures in 'Impressions of Theophrastus Such', are the Zuzumotzis known by any other names?",
+    "answer": "Zuzumotzis are also known as Zuzitotzums.",
+    "source": "Novel-10762",
+    "evidence": "Zuzumotzis are also known as Zuzitotzums."
+  },
+  {
+    "id": "Novel-262024cc",
+    "question_type": "Fact Retrieval",
+    "question": "During the scholarly controversy involving Grampus and Merman, who corresponded with Grampus about the dispute?",
+    "answer": "Butzkopf and Dugong wrote to Grampus regarding the scholarly dispute.",
+    "source": "Novel-10762",
+    "evidence": "Butzkopf wrote to Grampus regarding the scholarly dispute.; Dugong wrote to Grampus regarding the scholarly dispute."
+  },
+  {
+    "id": "Novel-2a4fcbab",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative, how does the character Hinze express his opinion about the poet Chaucer?",
+    "answer": "Hinze regards Chaucer as a poet of the first order.",
+    "source": "Novel-10762",
+    "evidence": "Hinze regards Chaucer as a poet of the first order."
+  },
+  {
+    "id": "Novel-e471244c",
+    "question_type": "Fact Retrieval",
+    "question": "According to the philosophical discussion presented in 'Impressions of Theophrastus Such', what is described as the ultimate goal that all organisms strive for?",
+    "answer": "Organisms strive for unconscious perfection.",
+    "source": "Novel-10762",
+    "evidence": "Organisms strive for unconscious perfection."
+  },
+  {
+    "id": "Novel-ee43e743",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the narrative's discussion of natural processes, what do inorganic combinations include according to the text?",
+    "answer": "Inorganic combinations involve minerals.",
+    "source": "Novel-10762",
+    "evidence": "Inorganic combinations involve minerals."
+  },
+  {
+    "id": "Novel-84097016",
+    "question_type": "Fact Retrieval",
+    "question": "Within the narrative's exploration of technology and the future, what kind of powers is a machine described as possessing?",
+    "answer": "A machine has chemical powers.",
+    "source": "Novel-10762",
+    "evidence": "A machine has chemical powers."
+  },
+  {
+    "id": "Novel-7e5c21ca",
+    "question_type": "Fact Retrieval",
+    "question": "According to the philosophical reflections in the text, to what is consciousness related?",
+    "answer": "Consciousness is related to organisms.",
+    "source": "Novel-10762",
+    "evidence": "Consciousness is related to organisms."
+  },
+  {
+    "id": "Novel-cd5e7cb5",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative's description of the natural world, of what larger structure are minerals considered to be a part?",
+    "answer": "Minerals are part of earth's crust.",
+    "source": "Novel-10762",
+    "evidence": "Minerals are part of earth's crust."
+  },
+  {
+    "id": "Novel-01876f03",
+    "question_type": "Fact Retrieval",
+    "question": "In his critical judgments throughout the novel, which group did Lentulus consistently undervalue?",
+    "answer": "Lentulus rated poets low in his evaluations.",
+    "source": "Novel-10762",
+    "evidence": "Lentulus rated poets low in his evaluations."
+  },
+  {
+    "id": "Novel-2ad3d9f2",
+    "question_type": "Fact Retrieval",
+    "question": "During his philosophical musings in the story, where does Lentulus take a walk that frames his conversation about society and ideas?",
+    "answer": "Lentulus walked along the Mall.",
+    "source": "Novel-10762",
+    "evidence": "Lentulus took a walk along the Mall."
+  },
+  {
+    "id": "Novel-a2cb0b77",
+    "question_type": "Fact Retrieval",
+    "question": "Which publications are listed in the novel as having reviewed Vorticella's book 'The Channel Islands'?",
+    "answer": "'The Channel Islands' was reviewed by Independent Monitor, Cockaleekie Advertiser, Church Clock, Penllwy Universe, Latchgate Argus, Goodwin Sands Opinion, Land's End Times, Pumpshire Post, Medley Pie, and Pumpiter Gazette and Literary Watchman.",
+    "source": "Novel-10762",
+    "evidence": "'The Channel Islands' was reviewed by Independent Monitor.; 'The Channel Islands' was reviewed by Cockaleekie Advertiser.; 'The Channel Islands' was reviewed by Church Clock.; 'The Channel Islands' was reviewed by Penllwy Universe.; 'The Channel Islands' was reviewed by Latchgate Argus.; 'The Channel Islands' was reviewed by Goodwin Sands Opinion.; 'The Channel Islands' was reviewed by Land's End Times.; 'The Channel Islands' was reviewed by Pumpshire Post.; 'The Channel Islands' was reviewed by Medley Pie.; 'The Channel Islands' was reviewed by Pumpiter Gazette and Literary Watchman."
+  },
+  {
+    "id": "Novel-c1baeaa2",
+    "question_type": "Fact Retrieval",
+    "question": "To which notable figures is Vorticella compared in the narrative, highlighting her sense of self-importance as an author?",
+    "answer": "Vorticella was compared to Shakspere and Monas.",
+    "source": "Novel-10762",
+    "evidence": "Vorticella was compared to Shakspere.; Vorticella was compared to Monas."
+  },
+  {
+    "id": "Novel-c939b0fc",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of literary criticism within the narrative, in which publication does the character Volvox contribute his writings?",
+    "answer": "Volvox writes in the Independent Monitor.",
+    "source": "Novel-10762",
+    "evidence": "Volvox writes in the Independent Monitor."
+  },
+  {
+    "id": "Novel-0c89dcba",
+    "question_type": "Fact Retrieval",
+    "question": "According to the discussion of individuality and social enrichment in the novel, what has a modern book on Liberty maintained regarding the freedom of individual men?",
+    "answer": "A modern book on Liberty has maintained that from the freedom of individual men to persist in idiosyncrasies, the world may be enriched.",
+    "source": "Novel-10762",
+    "evidence": "A modern book on Liberty has maintained that the world may be enriched from the freedom of individual men to persist in idiosyncrasies."
+  },
+  {
+    "id": "Novel-0c731c0a",
+    "question_type": "Fact Retrieval",
+    "question": "Within the narrative’s examination of national sentiment, on what fundamental point are Englishmen portrayed as being in agreement?",
+    "answer": "Englishmen are agreed that England itself shall not be subject to foreign rule.",
+    "source": "Novel-10762",
+    "evidence": "Englishmen are agreed that England shall not be subject to foreign rule."
+  },
+  {
+    "id": "Novel-fb164cc9",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's discussion of ancestry and heritage, to whom do Englishmen have a common relationship as described in the text?",
+    "answer": "Englishmen have a common relationship to old English seamen.",
+    "source": "Novel-10762",
+    "evidence": "Englishmen have a common relationship to old English seamen."
+  },
+  {
+    "id": "Novel-74d0061e",
+    "question_type": "Fact Retrieval",
+    "question": "How are Germanic immigrants characterized in the text with respect to their religious identity?",
+    "answer": "Germanic immigrants are considered to be more or less Christian.",
+    "source": "Novel-10762",
+    "evidence": "Germanic immigrants are considered to be more or less Christian."
+  },
+  {
+    "id": "Novel-bafd084c",
+    "question_type": "Fact Retrieval",
+    "question": "What sense of common descent do Englishmen possess as depicted in the narrative?",
+    "answer": "Englishmen have a sense of common descent with old English seamen.",
+    "source": "Novel-10762",
+    "evidence": "Englishmen have a sense of common descent with old English seamen."
+  },
+  {
+    "id": "Novel-80dbdef2",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's account of English history, who is described as having played a major role in shaping the nation?",
+    "answer": "Old English seamen conquered the natives.",
+    "source": "Novel-10762",
+    "evidence": "Old English seamen conquered the natives."
+  },
+  {
+    "id": "Novel-e51d1eaa",
+    "question_type": "Fact Retrieval",
+    "question": "Against whose power did the Jews make their most eminent struggle, as described in the historical reflections of the novel?",
+    "answer": "The Jews made their most eminent struggle against the power of Rome.",
+    "source": "Novel-10762",
+    "evidence": "The Jews made their most eminent struggle against the power of Rome."
+  },
+  {
+    "id": "Novel-00e339ea",
+    "question_type": "Fact Retrieval",
+    "question": "To whom are Semitic Christians said to bear a dangerous resemblance in complexion, persistence, and wealth according to the narrative's discussion of social perceptions?",
+    "answer": "Semitic Christians are said to be dangerously like their unconverted brethren, the Jews, in complexion, persistence, and wealth.",
+    "source": "Novel-10762",
+    "evidence": "Semitic Christians are said to resemble their unconverted brethren, the Jews.; Semitic Christians are said to resemble the Jews in complexion.; Semitic Christians are said to resemble the Jews in persistence.; Semitic Christians are said to resemble the Jews in wealth."
+  },
+  {
+    "id": "Novel-50f95cb6",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's commentary on social and political attitudes, towards which group are the English felt in high quarters to have been too lenient?",
+    "answer": "The English are felt in high quarters to have been too lenient towards the Irish.",
+    "source": "Novel-10762",
+    "evidence": "The English are felt to have been too lenient towards the Irish."
+  },
+  {
+    "id": "Novel-a1c1d077",
+    "question_type": "Fact Retrieval",
+    "question": "What has Europe long been accustomed to consider about the Jews, as discussed in the text's examination of cultural perceptions?",
+    "answer": "Europe has long been used to consider Jews as altogether exceptional.",
+    "source": "Novel-10762",
+    "evidence": "Europe has long considered Jews as altogether exceptional."
+  },
+  {
+    "id": "Novel-be31fc13",
+    "question_type": "Fact Retrieval",
+    "question": "What subject did the character Spike hold a strong opinion about, according to his political discussions in the novel?",
+    "answer": "Spike had a strong opinion about the Reform Bill.",
+    "source": "Novel-10762",
+    "evidence": "Spike had a strong opinion about the Reform Bill."
+  },
+  {
+    "id": "Novel-17991540",
+    "question_type": "Fact Retrieval",
+    "question": "Who is credited in the narrative with writing the playful review or notice in the publication 'Medley Pie'?",
+    "answer": "Vibrio wrote the playful notice in the 'Medley Pie'.",
+    "source": "Novel-10762",
+    "evidence": "Vibrio wrote the playful notice in the 'Medley Pie'."
+  },
+  {
+    "id": "Novel-cb613dcd",
+    "question_type": "Fact Retrieval",
+    "question": "Which character in the narrative expressed a willingness to be accursed from Christ for the sake of others?",
+    "answer": "The Apostle of the Gentiles expressed the wish to be accursed from Christ for the sake of others.",
+    "source": "Novel-10762",
+    "evidence": "The Apostle of the Gentiles expressed the wish to be accursed from Christ for the sake of others."
+  },
+  {
+    "id": "Novel-bb9550cb",
+    "question_type": "Fact Retrieval",
+    "question": "How did Lentulus, in his evaluations within the narrative, regard poets in terms of quality?",
+    "answer": "Lentulus regarded poets as being of low quality.",
+    "source": "Novel-10762",
+    "evidence": "Lentulus regarded poets as being of low quality."
+  },
+  {
+    "id": "Novel-c5bc82ff",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's reflections on national development, what type of individuals are nations expected to produce?",
+    "answer": "Nations will produce thinkers.",
+    "source": "Novel-10762",
+    "evidence": "Nations are expected to produce thinkers."
+  },
+  {
+    "id": "Novel-d91335dd",
+    "question_type": "Fact Retrieval",
+    "question": "Which character was known for bringing up obscure topics during the scholarly controversies in the novel?",
+    "answer": "Merman talked about Magicodumbras and Zuzumotzis.",
+    "source": "Novel-10762",
+    "evidence": "Merman talked about Magicodumbras.; Merman talked about Zuzumotzis."
+  },
+  {
+    "id": "Novel-3cf0e356",
+    "question_type": "Fact Retrieval",
+    "question": "Where did the character Mixtus demonstrate his ability in business in the narrative?",
+    "answer": "Mixtus had ability in business in London.",
+    "source": "Novel-10762",
+    "evidence": "Mixtus demonstrated his ability in business in London."
+  },
+  {
+    "id": "Novel-57cbe929",
+    "question_type": "Fact Retrieval",
+    "question": "Who wrote about Jersey fisheries in the narrative?",
+    "answer": "Vorticella wrote about Jersey fisheries.",
+    "source": "Novel-10762",
+    "evidence": "Vorticella authored a discussion about Jersey fisheries."
+  },
+  {
+    "id": "Novel-afecbccb",
+    "question_type": "Fact Retrieval",
+    "question": "Who asked Felicia for her opinion on the state of Art in England?",
+    "answer": "Hinze asked Felicia for her opinion on the state of Art in England.",
+    "source": "Novel-10762",
+    "evidence": "Hinze asked Felicia for her opinion on the state of Art in England."
+  },
+  {
+    "id": "Novel-d964c7f3",
+    "question_type": "Fact Retrieval",
+    "question": "Who asked large questions to Felicia during their dialogue in the narrative?",
+    "answer": "Hinze put large questions to Felicia.",
+    "source": "Novel-10762",
+    "evidence": "Hinze put large questions to Felicia."
+  },
+  {
+    "id": "Novel-6b3f89bd",
+    "question_type": "Complex Reasoning",
+    "question": "Why are old English seamen described as foundational to English national identity in the novel?",
+    "answer": "Because Englishmen have a common relationship to old English seamen and are descendants of them.",
+    "source": "Novel-10762",
+    "evidence": "Englishmen have a common relationship to old English seamen.; Englishmen are descendants of old English seamen."
+  },
+  {
+    "id": "Novel-4ff142d9",
+    "question_type": "Complex Reasoning",
+    "question": "How does 'Impressions of Theophrastus Such' depict the historical struggles and influence of the Jews?",
+    "answer": "Jews are portrayed as having made the most eminent struggle against the power of Rome and are said to have a monetary hold on governments.",
+    "source": "Novel-10762",
+    "evidence": "Jews are portrayed as having made the most eminent struggle against the power of Rome.; Jews are said to have a monetary hold on governments."
+  },
+  {
+    "id": "Novel-5504201a",
+    "question_type": "Complex Reasoning",
+    "question": "According to the narrative, how is the relationship between Christ and the Jews described?",
+    "answer": "Christ is described as having the heart of a Jew and as coming from the Israelites.",
+    "source": "Novel-10762",
+    "evidence": "Christ is described as having the heart of a Jew.; Christ is described as coming from the Israelites."
+  },
+  {
+    "id": "Novel-219da1ba",
+    "question_type": "Complex Reasoning",
+    "question": "How does the text describe the relationship between the human organism and the machine in the chapter where Trost discusses technological advancement?",
+    "answer": "The machine is described as an extension of the human organism.",
+    "source": "Novel-10762",
+    "evidence": "The machine is described as an extension of the human organism."
+  },
+  {
+    "id": "Novel-27281f31",
+    "question_type": "Complex Reasoning",
+    "question": "Why might Hinze be considered knowledgeable about Chaucer in the narrative?",
+    "answer": "Hinze might be considered knowledgeable about Chaucer because he regards Chaucer as a poet of the first order and has had the education and other advantages of a gentleman.",
+    "source": "Novel-10762",
+    "evidence": "Hinze regards Chaucer as a poet of the first order.; Hinze has had the education and other advantages of a gentleman."
+  },
+  {
+    "id": "Novel-393b7cd3",
+    "question_type": "Complex Reasoning",
+    "question": "How did Spike demonstrate his support for Progress in the narrative?",
+    "answer": "Spike demonstrated his support for Progress by being a devotee of it and voting on its side.",
+    "source": "Novel-10762",
+    "evidence": "Spike demonstrated his support for Progress by being a devotee of it.; Spike demonstrated his support for Progress by voting on its side."
+  },
+  {
+    "id": "Novel-c31057de",
+    "question_type": "Complex Reasoning",
+    "question": "Based on the text's exploration of religious and cultural history, what complex relationship between Jews and Christianity is described?",
+    "answer": "The Jews resisted the expansion of Christianity, yet Christianity was born through the separateness of the Jews, illustrating a complex relationship between the two.",
+    "source": "Novel-10762",
+    "evidence": "The Jews resisted the expansion of Christianity.; Christianity was born through the separateness of the Jews.; There is a complex relationship between Jews and Christianity."
+  },
+  {
+    "id": "Novel-34a26da4",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative describing Hinze's social behavior, how does Hinze interact with both Tulpian and Felicia?",
+    "answer": "Hinze is fervid in his desire to hear Tulpian and actively engages in conversation with Felicia.",
+    "source": "Novel-10762",
+    "evidence": "Hinze is fervid in his desire to hear Tulpian's opinions.; Hinze actively engages in conversation with Felicia."
+  },
+  {
+    "id": "Novel-9d34bcac",
+    "question_type": "Complex Reasoning",
+    "question": "How does 'Impressions of Theophrastus Such' characterize Merman's professional and personal connections to London?",
+    "answer": "Merman had a practice as a conveyancer in London and was considered a young man of promise there, demonstrating both professional and personal ties to the city.",
+    "source": "Novel-10762",
+    "evidence": "Merman had a practice as a conveyancer in London.; Merman was considered a young man of promise in London.; Merman had both professional and personal ties to London."
+  },
+  {
+    "id": "Novel-2514e7e6",
+    "question_type": "Complex Reasoning",
+    "question": "According to 'Impressions of Theophrastus Such', what was Lentulus's attitude toward poets?",
+    "answer": "Lentulus rated poets low and was more than indifferent to them, showing a dismissive or critical attitude toward poetry.",
+    "source": "Novel-10762",
+    "evidence": "Lentulus rated poets low.; Lentulus was indifferent to poets.; Lentulus showed a dismissive or critical attitude toward poetry."
+  },
+  {
+    "id": "Novel-8d3b0983",
+    "question_type": "Complex Reasoning",
+    "question": "How did Vorticella's relationship with her book 'The Channel Islands' manifest in her behavior?",
+    "answer": "Vorticella wrote about 'The Channel Islands' and continually tried to bring it into discussions, indicating an ongoing preoccupation with the topic.",
+    "source": "Novel-10762",
+    "evidence": "Vorticella wrote about 'The Channel Islands'.; Vorticella continually tried to bring 'The Channel Islands' into discussions.; Vorticella was preoccupied with the reception of 'The Channel Islands'."
+  },
+  {
+    "id": "Novel-5459ea22",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of 'Impressions of Theophrastus Such', what roles did Jews play in history and society?",
+    "answer": "Jews have a monetary hold on governments and made the most eminent struggle against the power of Rome, reflecting both financial influence and historical resistance.",
+    "source": "Novel-10762",
+    "evidence": "Jews have a monetary hold on governments.; Jews made a significant struggle against the power of Rome.; Jews reflect both financial influence and historical resistance."
+  },
+  {
+    "id": "Novel-1e1b5a87",
+    "question_type": "Complex Reasoning",
+    "question": "How did Hinze's agreement with Felicia reflect views on England's rulers?",
+    "answer": "Hinze agreed with Felicia, who did not say there was actual decline in Art in England, which was seen as full of good men and having good rulers from Mr Pitt to the Duke of Wellington.",
+    "source": "Novel-10762",
+    "evidence": "Hinze agreed with Felicia.; Felicia did not say there was actual decline in Art in England.; England was seen as full of good men and good rulers from Mr Pitt to the Duke of Wellington."
+  },
+  {
+    "id": "Novel-3793e04f",
+    "question_type": "Complex Reasoning",
+    "question": "How are Felicia's statements connected to the legacy of England's rulers?",
+    "answer": "Felicia did not say there was actual decline in Art in England, which was seen as full of good men and good rulers from Mr Pitt to the Duke of Wellington.",
+    "source": "Novel-10762",
+    "evidence": "Felicia did not say there was actual decline in Art in England.; England was seen as full of good men.; England had good rulers from Mr Pitt to the Duke of Wellington."
+  },
+  {
+    "id": "Novel-1b41b50e",
+    "question_type": "Complex Reasoning",
+    "question": "How are Felicia's statements linked to the emancipation of Catholics?",
+    "answer": "Felicia did not say there was actual decline in Art in England, which had good rulers from Mr Pitt to the Duke of Wellington, who was for emancipating the Catholics.",
+    "source": "Novel-10762",
+    "evidence": "Felicia did not say there was actual decline in Art in England.; England had good rulers from Mr Pitt to the Duke of Wellington.; The Duke of Wellington was for emancipating the Catholics."
+  },
+  {
+    "id": "Novel-7a865739",
+    "question_type": "Complex Reasoning",
+    "question": "How are the Duke of Wellington's policies connected to the Irish?",
+    "answer": "The Duke of Wellington was for emancipating the Catholics, who were expected to be modest because they were Irish.",
+    "source": "Novel-10762",
+    "evidence": "The Duke of Wellington was for emancipating the Catholics.; Catholics were expected to be modest because they were Irish."
+  },
+  {
+    "id": "Novel-f58f85a8",
+    "question_type": "Complex Reasoning",
+    "question": "How does the logical sequence relate the adoption and covenants to Christ?",
+    "answer": "The Israelites are those to whom pertain the adoption, the glory, the covenants, the giving of the law, the service of God, and the promises, and Christ came of the Israelites.",
+    "source": "Novel-10762",
+    "evidence": "The Israelites pertain to the adoption.; The Israelites pertain to the glory.; The Israelites pertain to the covenants.; The Israelites pertain to the giving of the law.; The Israelites pertain to the service of God.; The Israelites pertain to the promises.; Christ came from the Israelites."
+  },
+  {
+    "id": "Novel-62dd2247",
+    "question_type": "Complex Reasoning",
+    "question": "How is the concept of English national character built up through the logical chains provided?",
+    "answer": "England is described as lovable and laudable with good rulers from Mr Pitt to the Duke of Wellington, under whom the Catholics (who were Irish) were emancipated, and the English have a sense of common descent as Englishmen, who should know and acknowledge their common relationship to old English seamen.",
+    "source": "Novel-10762",
+    "evidence": "England is described as lovable.; England is described as laudable.; England had good rulers from Mr Pitt to the Duke of Wellington.; The Catholics were emancipated under the rule of good leaders.; The English have a sense of common descent as Englishmen.; The English should acknowledge their common relationship to old English seamen."
+  },
+  {
+    "id": "Novel-b35eb264",
+    "question_type": "Complex Reasoning",
+    "question": "How do the logical chains connect the emancipation of Catholics to the sense of English common descent?",
+    "answer": "The Duke of Wellington was for emancipating the Catholics, who were Irish and were considered to have been too lenient towards the English, who have a sense of common descent as Englishmen.",
+    "source": "Novel-10762",
+    "evidence": "The Duke of Wellington was for emancipating the Catholics.; The Catholics were Irish.; The Irish were considered to have been too lenient towards the English.; The English have a sense of common descent as Englishmen."
+  },
+  {
+    "id": "Novel-dca192a7",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative's discussion of national identity and labor, how is the relationship between Englishmen and English seamen influenced by their shared sense of common descent, and in what way are Englishmen described as being driven to honest and ineloquent labor by the presence of Scotch and Irish people within their society?",
+    "answer": "Englishmen are bound together by a deep-rooted sense of common descent, a shared heritage that distinguishes them from those of other blood. Yet, the increasing presence and influence of Scotch and Irish people within English society—particularly their prominence in the press and their industriousness—has, in the eyes of some, compelled many Englishmen to retreat into honest but unadorned labor. This dynamic is portrayed as both a response to the perceived encroachment of outsiders and a lament for the potential dilution of distinctive English national characteristics.",
+    "source": "Novel-10762",
+    "evidence": "Englishmen have a sense of common descent with other English people.; Englishmen are driven to honest and ineloquent labor.; Scotch and Irish people are present within English society."
+  },
+  {
+    "id": "Novel-455e0c99",
+    "question_type": "Contextual Summarize",
+    "question": "Within the novel's exploration of national character and social dynamics, how are the Jews portrayed in terms of their historical resistance against Rome, their influence over government finances, and the potential for their collective wealth to secure significant political power, such as control over seats in Parliament?",
+    "answer": "The Jews are depicted as a people marked by their historic and valiant resistance against the might of Rome, most notably through the heroic efforts of the Maccabees. In the present, their influence is seen not only in their enduring sense of national identity but also in their considerable financial power, which extends to a significant hold over government finances. This collective wealth is portrayed as so formidable that it is thought capable of securing for them a substantial share of political authority, with the suggestion that half the seats in Parliament could be placed at their disposal.",
+    "source": "Novel-10762",
+    "evidence": "Jews are characterized by their struggle against the power of Rome.; Jews have a monetary hold on governments.; Jews' wealth is considered likely to secure half the seats in Parliament."
+  },
+  {
+    "id": "Novel-1b22b62b",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of social gatherings depicted in the narrative, what are the various connections and interpersonal dynamics between Hinze, Chaucer, Tulpian, and Felicia, specifically regarding Hinze's literary regard for Chaucer, Tulpian's frequent appeals to Hinze on numerous subjects, Hinze's upbringing and education as a gentleman, Felicia's prohibition of Hinze conveying information to Rosemary, and Felicia's reference to Wilhelm Meister?",
+    "answer": "Hinze, with his deferential bearing and almost theatrical admiration, holds Chaucer in high esteem—though his regard is often filtered through the opinions of others, as he delights in citing authorities rather than forming his own judgments. Tulpian frequently turns to Hinze for advice or commentary on a wide array of topics, recognizing in him the polished manners and education of a gentleman, even if Hinze’s mind is more a collection of borrowed furnishings than original convictions. Felicia, meanwhile, exerts her own influence by expressly forbidding Hinze from conveying certain information to Rosemary, and she underscores her intellectual presence by quoting Wilhelm Meister, weaving literary reference into the fabric of their social interactions.",
+    "source": "Novel-10762",
+    "evidence": "Hinze regards Chaucer.; Tulpian appeals to Hinze on numerous subjects.; Hinze has had the education and advantages of a gentleman.; Felicia forbade Hinze from telling Rosemary something.; Felicia quoted Wilhelm Meister."
+  },
+  {
+    "id": "Novel-00c39b29",
+    "question_type": "Contextual Summarize",
+    "question": "According to the narrative's philosophical discourse, how are machines described in relation to human organisms, particularly in being portrayed as extensions of the human body, and what potential developments are discussed regarding their chemical and mechanical powers, including the role of molecular movements and the possibility that such movements may eventually lead to fission, thereby allowing machines to supersede humans?",
+    "answer": "Machines are described as extensions of the human organism and may eventually supersede humans. They possess chemical and mechanical powers, where chemical powers involve molecular movements, and these molecular movements may lead to fission.",
+    "source": "Novel-10762",
+    "evidence": "Machines are described as extensions of the human organism.; Machines may eventually supersede humans.; Machines possess chemical and mechanical powers.; Chemical powers involve molecular movements.; Molecular movements may lead to fission."
+  },
+  {
+    "id": "Novel-0002d2de",
+    "question_type": "Contextual Summarize",
+    "question": "What was Spike's relationship to the idea of Progress in the context of societal development, as depicted in the section of the novel where his political actions and personal beliefs are discussed?",
+    "answer": "Spike was, in his own way, a devotee of Progress—though not out of any conscious allegiance to lofty ideals or abstract causes. His support for Progress was rooted in the practical realities of his life, particularly his long-standing involvement in spinning and weaving from a manufacturing perspective. Without ever naming it as such, he embodied the spirit of Progress through his daily work and habits, voting on its side more from ingrained custom than from philosophical conviction. His gentlemanly appearance and meticulous attention to personal cleanliness further reflected a man shaped by the routines and values of industrious modernity, rather than by any passionate attachment to the grand rhetoric of societal advancement.",
+    "source": "Novel-10762",
+    "evidence": "Spike was a devotee of Progress.; Spike voted on the side of Progress."
+  },
+  {
+    "id": "Novel-6da13b57",
+    "question_type": "Contextual Summarize",
+    "question": "During their conversation about the state of Art in England, how do the interactions between Hinze and Felicia illustrate their intellectual and personal dynamics?",
+    "answer": "Hinze, with an air of almost reverential anticipation, solicited Felicia’s thoughts on the state of Art in England, treating her as if she were an oracle whose words carried unusual weight. Felicia, feeling the pressure of his expectant gaze and eager deference, responded with a light, self-deprecating laugh, admitting that she believed English art suffered from 'bad taste in the patrons and want of inspiration in the artists.' Hinze, undeterred by her modesty and perhaps even more impressed by it, agreed with deep conviction, affirming her assessment and complimenting her cultivated taste. Their exchange revealed not only Hinze’s admiration and eagerness to align himself with Felicia’s views, but also Felicia’s discomfort with being placed on a pedestal, leading her to gently push back against the notion of her own infallibility.",
+    "source": "Novel-10762",
+    "evidence": "Hinze asked Felicia for her opinion on the state of Art in England.; Felicia gave her opinion on the state of Art in England.; Hinze agreed with Felicia's opinion."
+  },
+  {
+    "id": "Novel-3e66af03",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative's analysis of social forces, what role does 'public spirit' play in affecting society and penetrating the community, and how is this influence characterized in relation to communal well-being?",
+    "answer": "Public spirit is portrayed as a vital force that should permeate every class and influence each individual's conduct, urging people to look beyond personal interests and contribute to the general welfare. However, the narrative warns that this influence must be genuine and rooted in a sense of duty—particularly in the thorough and honest execution of one's daily work. When public spirit inspires individuals to fulfill their responsibilities with care and integrity, it becomes a cornerstone of communal well-being. Conversely, if it leads people to neglect their essential tasks in favor of superficial activism, it is seen as a harmful distortion, undermining both societal prosperity and happiness.",
+    "source": "Novel-10762",
+    "evidence": "Public spirit affects society.; Public spirit penetrates the community."
+  },
+  {
+    "id": "Novel-5f6b723d",
+    "question_type": "Contextual Summarize",
+    "question": "How does the novel depict the Jews in relation to their historical struggles and influence in society?",
+    "answer": "The novel depicts the Jews as a people marked by remarkable force and resilience, qualities that have enabled them to secure prominent positions not only in commerce but also within the political sphere. Their historical narrative is one of determined resistance—most notably against the expansion of Christianity and in their struggle to preserve their national identity and traditions, as seen in the heroic efforts of the Maccabees. In contemporary society, this same toughness is described as allowing them to claim the 'best prizes,' with their wealth affording them significant influence, even to the extent of holding sway over governments. This ongoing monetary power is portrayed as both a testament to their adaptability and a source of tension within the broader community.",
+    "source": "Novel-10762",
+    "evidence": "Jews are depicted as having force and toughness.; Jews are depicted as winning top positions in political life.; Jews are depicted as having resisted the expansion of Christianity.; Jews are depicted as having a monetary hold on governments."
+  },
+  {
+    "id": "Novel-d72543ef",
+    "question_type": "Contextual Summarize",
+    "question": "Which periodicals are mentioned in the novel as having reviewed Vorticella's book, and what does their inclusion suggest about the reception and reach of her work?",
+    "answer": "'The Channel Islands' was reviewed by a range of periodicals, including the Cockaleekie Advertiser, the Pumpiter Gazette and Literary Watchman, and the Pumpshire Post. The inclusion of such titles—spanning both local and distant publications—suggests that Vorticella's work achieved a notable breadth of reception, extending beyond her provincial town to attract the attention of critics from far-flung counties. This array of reviews, carefully preserved in her elegantly bound album, not only reflects the pride she took in her literary accomplishment but also hints at the social importance and reach her book attained within and beyond her immediate community.",
+    "source": "Novel-10762",
+    "evidence": "'The Channel Islands' was reviewed by the Cockaleekie Advertiser.; 'The Channel Islands' was reviewed by the Pumpiter Gazette and Literary Watchman.; 'The Channel Islands' was reviewed by the Pumpshire Post."
+  },
+  {
+    "id": "Novel-880d8f25",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative describe the relationship between machines and human organisms, and what future developments are suggested?",
+    "answer": "The narrative vividly portrays machines as extensions of the human organism—limbs immeasurably more powerful, subtle finger-tips that grant mastery over the vast and the minute. While some characters argue that machines remain dependent on human skill and oversight, there is an uneasy prediction that, as machines become increasingly autonomous—capable of self-supply, self-repair, and even reproduction—they may ultimately transcend their creators. The text contemplates a future in which these 'steely organisms' could surpass human beings, performing with infallible precision all that humans have done only imperfectly, and perhaps even banishing the noisy consciousness that defines humanity itself.",
+    "source": "Novel-10762",
+    "evidence": "Machines are described as extensions of human organisms.; Machines are predicted to eventually supersede human organisms."
+  },
+  {
+    "id": "Novel-1466d7c5",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative context where Hinze and Felicia discuss the state of Art in England, how is their relationship characterized with respect to their differing views?",
+    "answer": "Their relationship is marked by a subtle tension and mutual curiosity, as Hinze listens to Felicia with rapt attention, eager for her opinions even as he does not fully agree with her. Felicia, meanwhile, is careful not to overstate her views, clarifying with a touch of brusqueness that she does not claim there is an actual decline in English Art. This dynamic reveals a nuanced interplay: Hinze's reverence and eagerness contrast with Felicia's modesty and reluctance to be seen as an authority, highlighting both their differing perspectives and the gentle, almost playful, negotiation of their intellectual rapport.",
+    "source": "Novel-10762",
+    "evidence": "Hinze did not agree with Felicia regarding the state of Art in England.; Felicia did not claim there was an actual decline in English Art."
+  },
+  {
+    "id": "Novel-b97e069d",
+    "question_type": "Contextual Summarize",
+    "question": "Within the narrative's depiction of early nineteenth-century England, what social expectations were placed upon Catholics of Irish descent?",
+    "answer": "Catholics, particularly those of Irish descent, were burdened with the expectation of heightened modesty, a social demand rooted not only in their faith but also in the prejudices attached to their Irish identity. They were tacitly reminded to keep a low profile, to be grateful for what was provided, and to mind their own business—an attitude imposed by a society that viewed their presence with suspicion and insisted that, given their Irishness, they ought to be especially humble and unobtrusive.",
+    "source": "Novel-10762",
+    "evidence": "Catholics of that period were expected to be modest.; Catholics of that period were expected to be modest because they were Irish."
+  },
+  {
+    "id": "Novel-058b0e04",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative's account of English governance, what role did the Duke of Wellington play following his succession of Mr Pitt, especially regarding religious policy?",
+    "answer": "After Mr Pitt, the Duke of Wellington assumed leadership, and his tenure was marked by a significant shift in religious policy—he supported the emancipation of Catholics. This stance distinguished his administration, as it reflected a willingness to challenge longstanding prejudices and extend greater rights to a previously marginalized group, even as it stirred controversy among those who preferred the established order.",
+    "source": "Novel-10762",
+    "evidence": "Mr Pitt was succeeded by the Duke of Wellington.; The Duke of Wellington was for emancipating the Catholics."
+  },
+  {
+    "id": "Novel-4b859a57",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative characterize England’s positive qualities through its portrayal of national leadership and society during the period from Mr Pitt to the Duke of Wellington?",
+    "answer": "The narrative paints England as a nation imbued with warmth and virtue, describing it as lovable and laudable, a country guided by good men and wise rulers from the era of Mr Pitt through to the Duke of Wellington. This idealized vision is filtered through a nostalgic lens, where even the so-called 'bad times' seem softened by the comfort and stability provided by its leaders and institutions, making the England of that period appear not only admirable but almost romantic in its sense of order and goodness.",
+    "source": "Novel-10762",
+    "evidence": "England is described as lovable.; England is described as laudable.; England is described as full of good men.; England is described as having good rulers from Mr Pitt to the Duke of Wellington."
+  },
+  {
+    "id": "Novel-69d1d35a",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative depict the transfer and preservation of religious and legal traditions from the Israelites to their descendants?",
+    "answer": "The narrative vividly portrays the Israelites as the inheritors and steadfast preservers of a profound spiritual and legal legacy. They are depicted as the people to whom belong the adoption, the glory, the covenants, the giving of the law, and the service of God—treasures passed down through generations. This inheritance is not merely a matter of tradition, but a living bond, felt deeply by each new generation as both a privilege and a responsibility. The text emphasizes the enduring sense of kinship and duty among the descendants, who cherish the immortal achievements and sorrows of their ancestors, and who strive to maintain their unique identity and faithfulness to these sacred traditions, even amidst external pressures and changing times.",
+    "source": "Novel-10762",
+    "evidence": "The Israelites are associated with adoption.; The Israelites are associated with glory.; The Israelites are associated with covenants.; The Israelites are associated with the giving of the law.; The Israelites are associated with the service of God."
+  },
+  {
+    "id": "Novel-90fcd2bb",
+    "question_type": "Contextual Summarize",
+    "question": "According to the narrative, how is the continuity of virtue and effective leadership in England illustrated through the succession of rulers from Mr Pitt to the Duke of Wellington?",
+    "answer": "England is described as lovable, laudable, full of good men, and having good rulers from Mr Pitt to the Duke of Wellington.",
+    "source": "Novel-10762",
+    "evidence": "England is described as lovable.; England is described as laudable.; England is described as full of good men.; England is described as having good rulers from Mr Pitt to the Duke of Wellington."
+  },
+  {
+    "id": "Novel-158384f7",
+    "question_type": "Contextual Summarize",
+    "question": "Within the broader narrative, how is the religious and legal inheritance of the Israelites described?",
+    "answer": "The Israelites are depicted as the inheritors of a profound spiritual and legal legacy: to them belong the adoption as God's chosen people, the radiant glory of their history, the sacred covenants made with their ancestors, the giving of the law that shaped their identity, the service of God in worship and ritual, and the enduring promises that have defined their destiny. This inheritance is not merely a list of privileges, but a living connection to their ancestors' achievements and sorrows, binding each generation to a shared sense of purpose and hope.",
+    "source": "Novel-10762",
+    "evidence": "The Israelites are associated with adoption.; The Israelites are associated with glory.; The Israelites are associated with covenants.; The Israelites are associated with the giving of the law.; The Israelites are associated with the service of God.; The Israelites are associated with the promises."
+  },
+  {
+    "id": "Novel-3d413e64",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Felicia. Write a diary entry reflecting on your conversation with Hinze, your thoughts on the state of art in England, and the influence of its rulers from Mr Pitt to the Duke of Wellington, noting that Mr Pitt was succeeded by the Duke of Wellington.",
+    "answer": "Diary Entry — Today I found myself in conversation with Mr. Hinze, whose eager attentiveness left me both flattered and a little embarrassed. He seemed to hang on my every word, as though I were some Delphic oracle, and pressed me for my thoughts on the state of art in England. I confessed, with a laugh meant to lighten the moment, that while I see faults—bad taste among patrons and a lack of inspiration in some artists—I never meant to suggest there is a true decline. England, to my mind, remains a country of admirable men, its spirit shaped and strengthened by leaders of rare quality, from Mr Pitt to his successor, the Duke of Wellington. Their guidance gives me hope for our times. It is reassuring, too, to find in Hinze a kindred spirit, someone who shares my faith in England’s promise, even as we acknowledge its imperfections.",
+    "source": "Novel-10762",
+    "evidence": "Felicia spoke with Hinze today.; Hinze agreed with Felicia on many points.; Felicia discussed the supposed decline in art in England.; Felicia clarified that she never claimed there was an actual decline in art.; Felicia believes England is full of good men.; Felicia thinks the quality of rulers improves the character of the people.; Mr Pitt was succeeded by the Duke of Wellington.; Felicia feels hopeful about the times.; Felicia appreciates the leadership of Mr Pitt and the Duke of Wellington.; Felicia finds comfort in sharing her perspective with Hinze."
+  },
+  {
+    "id": "Novel-fc1f08f3",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the discussion between Hinze and Felicia as a news report, focusing on their views about English art and leadership, and noting that Mr Pitt was succeeded by the Duke of Wellington.",
+    "answer": "London — In a lively and thoughtful discussion, Mr. Hinze and Mrs. Felicia exchanged views on the current state of English art and the nation’s leadership. Mrs. Felicia, known for her discerning taste, was quick to dispel any suggestion that she believed English art to be in decline. Instead, she remarked—amid laughter and a touch of self-deprecation—that while there are flaws, such as poor taste among patrons and a want of inspiration in some artists, she does not set herself up as an unpleasable critic. Hinze, visibly impressed, agreed wholeheartedly with her assessment. The conversation turned to the broader character of England, with Felicia expressing her admiration for the country’s enduring virtues and the steady guidance of its leaders, from Mr Pitt to his successor, the Duke of Wellington. Their exchange reflected a shared optimism about England’s future, grounded in both cultural appreciation and respect for its statesmen.",
+    "source": "Novel-10762",
+    "evidence": "Hinze expressed agreement with Felicia regarding the cultural state of England.; Felicia clarified that she did not state there was an actual decline in English art.; Felicia admires England, describing it as lovable and laudable.; Felicia believes England is filled with good men.; Felicia thinks England is governed by capable leaders.; Mr Pitt was succeeded by the Duke of Wellington.; The conversation included the Duke's efforts toward Catholic emancipation.; The conversation reflected ongoing social reforms."
+  },
+  {
+    "id": "Novel-d446abb7",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are the Duke of Wellington. Write a diary entry about your efforts to emancipate the Catholics and your thoughts on the Irish and English relations.",
+    "answer": "Diary Entry — Today I pressed on with my efforts to secure Catholic emancipation, a cause that weighs heavily upon my mind. I cannot help but reflect on the delicate position of the Catholics, particularly those of Irish descent, who are so often reminded of the need for modesty in the face of English suspicion. There persists, in the corridors of power, a belief that the Irish have been too yielding to English authority, yet I see in England a nation bound by a sense of shared heritage and unity. It is my earnest hope that these reforms, though contentious, will lay the groundwork for a more harmonious relationship between our peoples, dispelling old grievances and fostering a spirit of mutual respect.",
+    "source": "Novel-10762",
+    "evidence": "The Duke of Wellington continued his advocacy for Catholic emancipation today.; The Catholics of this era know the necessity of modesty.; The Duke is aware of the Irish heritage of Catholics.; There is a sentiment in high places that the Irish have been too lenient toward the English.; England is a nation with a sense of common descent and unity.; The Duke hopes that reforms will foster greater harmony across all groups."
+  },
+  {
+    "id": "Novel-fce3c59a",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the political developments in England, from Mr Pitt, who was succeeded by the Duke of Wellington, as a news article highlighting social reform and national identity.",
+    "answer": "London — England continues to be lauded as a nation of good men and wise rulers, according to recent commentary. The leadership transition from Mr Pitt, who was succeeded by the Duke of Wellington, has been marked by significant social reforms, including the Duke’s push for Catholic emancipation. Observers note that Catholics, particularly those of Irish descent, have shown remarkable modesty in these times. Meanwhile, the English retain a strong sense of common descent and kinship with Englishmen and seamen, uniting the country under shared values.",
+    "source": "Novel-10762",
+    "evidence": "England is lauded as a nation of good men and wise rulers.; The leadership transition from Mr Pitt to the Duke of Wellington has occurred.; The transition has been marked by significant social reforms.; The Duke of Wellington is pushing for Catholic emancipation.; Catholics of Irish descent have shown remarkable modesty.; The English retain a strong sense of common descent and kinship.; The country is united under shared values."
+  },
+  {
+    "id": "Novel-46f66098",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are an Irish Catholic during the period of emancipation efforts. Write a diary entry expressing your feelings about English society and your own modesty, considering that it was felt in high quarters that the English had been too lenient towards the Irish.",
+    "answer": "Diary Entry — These are uneasy days for an Irish Catholic such as myself. The winds of change blow through England, with the Duke of Wellington championing our emancipation, yet I cannot help but feel the weight of centuries pressing upon my shoulders. In the grand halls and high quarters, they murmur that the English have been too lenient with us, as if our very presence is a threat to their cherished ways. I walk softly, ever conscious of my Irishness, striving to show humility and restraint, hoping that our modesty will not be mistaken for weakness. My heart aches for acceptance, for a place where our faith and heritage might be seen not as a stain, but as a thread in the fabric of this nation. Still, I wonder if our humility will ever be enough to quiet the voices that see us only as outsiders.",
+    "source": "Novel-10762",
+    "evidence": "As an Irish Catholic, these are times of great change.; The Duke of Wellington is pushing for Catholic emancipation.; Irish Catholics are aware of the need for modesty due to their heritage.; Some in high quarters believe the English have been too lenient toward the Irish.; Irish Catholics hope their humility will be recognized.; Irish Catholics seek their place in English society."
+  },
+  {
+    "id": "Novel-d8e24b59",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Mr Pitt. Write a diary entry reflecting on your role as a ruler of England, your succession by the Duke of Wellington, and the perceived virtues of the country.",
+    "answer": "Diary Entry — As I reflect upon my years guiding the helm of England, I am struck by the trials we have weathered and the indomitable spirit that has carried us through. Ours is a nation both lovable and laudable, its strength found not only in its institutions but in the quiet decency of its people. Now, as I prepare to yield my place to the Duke of Wellington, I do so with a sense of solemn hope. His resolve in pursuing Catholic emancipation promises to further the cause of justice and to burnish England’s reputation for fairness. Though the burdens of leadership have been heavy, I am heartened by the knowledge that our country’s virtues endure, and that the future may yet be brighter for all her sons.",
+    "source": "Novel-10762",
+    "evidence": "Mr Pitt's tenure as a ruler of England has been marked by many challenges.; Mr Pitt is proud of the spirit of the nation.; Mr Pitt believes England is lovable and laudable.; England is full of good men.; Mr Pitt is passing the torch to the Duke of Wellington.; Mr Pitt is confident that the Duke's pursuit of Catholic emancipation will enhance the country's reputation for justice and decency."
+  }
+]

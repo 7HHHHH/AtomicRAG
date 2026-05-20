@@ -1,0 +1,866 @@
+[
+  {
+    "id": "Novel-1295f7a6",
+    "question_type": "Fact Retrieval",
+    "question": "What natural features were located near the cabin as described in the narrative?",
+    "answer": "the river and the cane-brake",
+    "source": "Novel-47558",
+    "evidence": "The river was located near the cabin.; The cane-brake was located near the cabin."
+  },
+  {
+    "id": "Novel-b3af6970",
+    "question_type": "Fact Retrieval",
+    "question": "In the novel, what liquid was the stone jug, found in a character's cabin, half full of?",
+    "answer": "The stone jug was half full of whisky.",
+    "source": "Novel-47558",
+    "evidence": "The stone jug was half full of whisky."
+  },
+  {
+    "id": "Novel-5025010a",
+    "question_type": "Fact Retrieval",
+    "question": "With whom was Cole Conway traveling or keeping company, according to the events described in the story?",
+    "answer": "Cole Conway was in company with Steve Sharp.",
+    "source": "Novel-47558",
+    "evidence": "Cole Conway was in company with Steve Sharp."
+  },
+  {
+    "id": "Novel-f61e2128",
+    "question_type": "Fact Retrieval",
+    "question": "To whom did Aunt Katy leave her possessions in her will, as detailed in the story's account of her relationship to the orphaned Suza Fairfield?",
+    "answer": "Aunt Katy bequeathed her possessions to Suza Fairfield.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Katy bequeathed her possessions to Suza Fairfield."
+  },
+  {
+    "id": "Novel-abe5fc71",
+    "question_type": "Fact Retrieval",
+    "question": "After completing its journey, at which city did the steamboat Enterprise land according to the narrative?",
+    "answer": "The Enterprise landed at Louisville.",
+    "source": "Novel-47558",
+    "evidence": "The Enterprise landed at Louisville."
+  },
+  {
+    "id": "Novel-1f290988",
+    "question_type": "Fact Retrieval",
+    "question": "In which U.S. state is the city of Louisville, as identified in the events of the story?",
+    "answer": "Louisville is located in Kentucky.",
+    "source": "Novel-47558",
+    "evidence": "Louisville is located in Kentucky."
+  },
+  {
+    "id": "Novel-3d21bfb3",
+    "question_type": "Fact Retrieval",
+    "question": "With whom did Don Carlo share a business partnership in the wood yard operations at Shirt-Tail Bend?",
+    "answer": "Don Carlo was a partner of Dan Carlo.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo was a partner of Dan Carlo."
+  },
+  {
+    "id": "Novel-e354dbd2",
+    "question_type": "Fact Retrieval",
+    "question": "On which river is the location known as Shirt-Tail Bend, where woodcutters such as Don Carlo worked?",
+    "answer": "Shirt-Tail Bend is on the Mississippi.",
+    "source": "Novel-47558",
+    "evidence": "Shirt-Tail Bend is on the Mississippi."
+  },
+  {
+    "id": "Novel-33142c97",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the antagonist that physically fought against Don Carlo during the conflict at Shirt-Tail Bend?",
+    "answer": "Brindle Bill fought Don Carlo.",
+    "source": "Novel-47558",
+    "evidence": "Brindle Bill fought Don Carlo."
+  },
+  {
+    "id": "Novel-34a94dcc",
+    "question_type": "Fact Retrieval",
+    "question": "In which town did Brindle Bill, the woodcutter and gambler, reside during the events of the story?",
+    "answer": "Brindle Bill lived in Port William.",
+    "source": "Novel-47558",
+    "evidence": "Brindle Bill lived in Port William."
+  },
+  {
+    "id": "Novel-c421a232",
+    "question_type": "Fact Retrieval",
+    "question": "After leaving his business at Shirt-Tail Bend, where did Don Carlo go?",
+    "answer": "Don Carlo went back to Kentucky.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo returned to Kentucky."
+  },
+  {
+    "id": "Novel-0d21d2d6",
+    "question_type": "Fact Retrieval",
+    "question": "Which character did Brindle Bill express disbelief toward during the discussion about the inheritance and family matters?",
+    "answer": "Brindle Bill did not believe Rose.",
+    "source": "Novel-47558",
+    "evidence": "Brindle Bill expressed disbelief toward Rose."
+  },
+  {
+    "id": "Novel-bfa9a27b",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Roxie Daymon live before moving to Chicago?",
+    "answer": "Roxie Daymon lived in Louisville.",
+    "source": "Novel-47558",
+    "evidence": "Roxie Daymon lived in Louisville before moving to Chicago."
+  },
+  {
+    "id": "Novel-eac1c791",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Aunt Katy move after leaving the Demitt estate?",
+    "answer": "Aunt Katy moved to Port William.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Katy moved to Port William.; Aunt Katy brought Suza Fairfield with her."
+  },
+  {
+    "id": "Novel-909f9360",
+    "question_type": "Fact Retrieval",
+    "question": "Which character left Price's Confederate army without permission during the events following the battle, and for what personal reason?",
+    "answer": "Cæsar Simon stole away from Price's army.",
+    "source": "Novel-47558",
+    "evidence": "Cæsar Simon left Price's Confederate army without permission.; Cæsar Simon stole away from Price's army."
+  },
+  {
+    "id": "Novel-f10f3bc4",
+    "question_type": "Fact Retrieval",
+    "question": "During their encounter after the battle, did Cousin Cæsar recognize his old acquaintance Steve Brindle, and what was the outcome of their meeting?",
+    "answer": "No, Cousin Cæsar did not recognize Steve Brindle.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar did not recognize Steve Brindle."
+  },
+  {
+    "id": "Novel-2a0d5063",
+    "question_type": "Fact Retrieval",
+    "question": "Whom did Daymon, the laborer and husband, abuse during their troubled marriage as described in the narrative?",
+    "answer": "Daymon abused his wife.",
+    "source": "Novel-47558",
+    "evidence": "Daymon abused his wife."
+  },
+  {
+    "id": "Novel-ff41533a",
+    "question_type": "Fact Retrieval",
+    "question": "Where did a portion of Price's Confederate army show cowardice during a Civil War battle?",
+    "answer": "A portion of Price's army showed the white feather at Iuka.",
+    "source": "Novel-47558",
+    "evidence": "A portion of Price's army showed the white feather at Iuka."
+  },
+  {
+    "id": "Novel-3e2b82f5",
+    "question_type": "Fact Retrieval",
+    "question": "What was Steve Brindle's role in General Pearce's army during the Civil War?",
+    "answer": "Steve Brindle was a private in the army of General Pearce.",
+    "source": "Novel-47558",
+    "evidence": "Steve Brindle was a private in the army of General Pearce."
+  },
+  {
+    "id": "Novel-e49be454",
+    "question_type": "Fact Retrieval",
+    "question": "Where was Aunt Patsy Perkins's brother buried?",
+    "answer": "Aunt Patsy's dear brother was buried in Indiana.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Patsy's dear brother was buried in Indiana."
+  },
+  {
+    "id": "Novel-c97b2e2b",
+    "question_type": "Fact Retrieval",
+    "question": "Which character received a letter that became a topic of conversation regarding family and visitors?",
+    "answer": "Old Perkins received a letter from Indiana.",
+    "source": "Novel-47558",
+    "evidence": "Old Perkins received a letter from Indiana."
+  },
+  {
+    "id": "Novel-e5676a79",
+    "question_type": "Fact Retrieval",
+    "question": "Who taught Roxie the art of penmanship during her upbringing?",
+    "answer": "Old Ben Robertson taught Roxie the art of penmanship.",
+    "source": "Novel-47558",
+    "evidence": "Old Ben Robertson taught Roxie the art of penmanship."
+  },
+  {
+    "id": "Novel-9fb94929",
+    "question_type": "Fact Retrieval",
+    "question": "To which country did Susan Lasco emigrate with her father after losing hope of recovering the family fortune?",
+    "answer": "Susan Lasco emigrated to America.",
+    "source": "Novel-47558",
+    "evidence": "Susan Lasco emigrated to America."
+  },
+  {
+    "id": "Novel-b3eac8b2",
+    "question_type": "Fact Retrieval",
+    "question": "Who is credited with the discovery of America in the narrative's historical references?",
+    "answer": "Columbus discovered America.",
+    "source": "Novel-47558",
+    "evidence": "Columbus discovered America."
+  },
+  {
+    "id": "Novel-0429f83c",
+    "question_type": "Fact Retrieval",
+    "question": "In which state is Bush Bayou, where the narrator began his surveying journey before crossing the Mississippi River?",
+    "answer": "Bush Bayou is located in Arkansas.",
+    "source": "Novel-47558",
+    "evidence": "Bush Bayou is located in Arkansas."
+  },
+  {
+    "id": "Novel-152bec6a",
+    "question_type": "Fact Retrieval",
+    "question": "Who offered to arrange legal testimony for Roxie Daymon during the estate dispute?",
+    "answer": "Governor Morock offered to arrange the testimony for Roxie Daymon.",
+    "source": "Novel-47558",
+    "evidence": "Governor Morock offered to arrange the testimony for Roxie Daymon."
+  },
+  {
+    "id": "Novel-84c55f8a",
+    "question_type": "Fact Retrieval",
+    "question": "Who sat with Roxie Daymon during her riverboat journey?",
+    "answer": "Simon sat with Roxie Daymon.",
+    "source": "Novel-47558",
+    "evidence": "Simon sat with Roxie Daymon during her riverboat journey."
+  },
+  {
+    "id": "Novel-0c2f999d",
+    "question_type": "Fact Retrieval",
+    "question": "To whom did Don Carlo appeal for help or understanding during difficulties at Shirt-Tail Bend?",
+    "answer": "Don Carlo appealed to Dan Carlo.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo appealed to Dan Carlo for help."
+  },
+  {
+    "id": "Novel-b6dc1118",
+    "question_type": "Fact Retrieval",
+    "question": "On which steamboat did the Englishman lose his life in a fire?",
+    "answer": "The Englishman went up in Brandywine.",
+    "source": "Novel-47558",
+    "evidence": "The Englishman went up in Brandywine."
+  },
+  {
+    "id": "Novel-ba2c8007",
+    "question_type": "Fact Retrieval",
+    "question": "Who was a contending candidate to become the foster parent of Rose after her separation from her family?",
+    "answer": "Mrs. Evaline Estep was a contending candidate for Rose.",
+    "source": "Novel-47558",
+    "evidence": "Mrs. Evaline Estep was a contending candidate for Rose."
+  },
+  {
+    "id": "Novel-5c30dd24",
+    "question_type": "Fact Retrieval",
+    "question": "Which character consistently obeyed Tom Ditamus during their journey in the covered wagon with their children?",
+    "answer": "Tom's wife obeyed Tom Ditamus.",
+    "source": "Novel-47558",
+    "evidence": "Tom's wife obeyed Tom Ditamus.; Tom's wife traveled in the covered wagon with their children."
+  },
+  {
+    "id": "Novel-8622e4cc",
+    "question_type": "Fact Retrieval",
+    "question": "In which state was Conway, later known as Cole Conway, born according to the story's account of his early life?",
+    "answer": "Conway was born in Tennessee.",
+    "source": "Novel-47558",
+    "evidence": "Conway was born in Tennessee."
+  },
+  {
+    "id": "Novel-b4916c72",
+    "question_type": "Fact Retrieval",
+    "question": "Who discovered the wounded Cousin Cæsar on the battlefield and assisted him after the conflict at Oak Hill (Springfield)?",
+    "answer": "The Cherokee Indian found Cousin Cæsar.",
+    "source": "Novel-47558",
+    "evidence": "The Cherokee Indian found Cousin Cæsar.; Cousin Cæsar was wounded on the battlefield."
+  },
+  {
+    "id": "Novel-90704d0a",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the character that 'rose like a spirit from the dead' to come and stand by Daymon during his darkest hour, as described in the story?",
+    "answer": "Roxie rose like a spirit from the dead to come and stand by Daymon.",
+    "source": "Novel-47558",
+    "evidence": "Roxie rose like a spirit from the dead.; Roxie stood by Daymon during his darkest hour."
+  },
+  {
+    "id": "Novel-941c0004",
+    "question_type": "Fact Retrieval",
+    "question": "To which city did cousin Cæsar travel after his early years, as he sought new opportunities and adventures?",
+    "answer": "Cousin Cæsar went to Paducah.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar went to Paducah.; Cousin Cæsar sought new opportunities and adventures."
+  },
+  {
+    "id": "Novel-4bb300c3",
+    "question_type": "Fact Retrieval",
+    "question": "Who gave Cousin Cæsar his first lesson in the rewards of imagination, shaping his outlook and ambitions during childhood?",
+    "answer": "Cousin Cæsar received the first lesson of reward for imagination from big-sis.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar received the first lesson of reward for imagination from big-sis.; Big-sis shaped Cousin Cæsar's outlook and ambitions during childhood."
+  },
+  {
+    "id": "Novel-acec9fa2",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the character that made a proposition to Conway, prompting an exchange of personal histories while they shared a straw shed?",
+    "answer": "Sharp made a proposition to Conway.",
+    "source": "Novel-47558",
+    "evidence": "Sharp made a proposition to Conway.; Conway and Sharp shared a straw shed."
+  },
+  {
+    "id": "Novel-7c81f966",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative, in which U.S. state was the city of Louisville located?",
+    "answer": "Louisville was located in Kentucky.",
+    "source": "Novel-47558",
+    "evidence": "Louisville was located in Kentucky."
+  },
+  {
+    "id": "Novel-f6b5155a",
+    "question_type": "Fact Retrieval",
+    "question": "With whom was Don Carlo a business partner in the wood yard enterprise at Shirt-Tail Bend?",
+    "answer": "Don Carlo was a partner of Dan Carlo.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo was a partner of Dan Carlo.; Don Carlo was involved in the wood yard enterprise at Shirt-Tail Bend."
+  },
+  {
+    "id": "Novel-14c841bc",
+    "question_type": "Fact Retrieval",
+    "question": "During the legal and inheritance discussions, to which character did Roxie speak regarding the arrangements and challenges she faced?",
+    "answer": "Roxie spoke to Governor Morock.",
+    "source": "Novel-47558",
+    "evidence": "Roxie spoke to Governor Morock.; Roxie discussed arrangements and challenges she faced."
+  },
+  {
+    "id": "Novel-651ea4b6",
+    "question_type": "Fact Retrieval",
+    "question": "Which child did Tom Ditamus attempt to remove from Port William in his covered wagon as part of a scheme involving Aunt Katy's estate?",
+    "answer": "Suza Fairfield was captured by Tom Ditamus.",
+    "source": "Novel-47558",
+    "evidence": "Tom Ditamus captured Suza Fairfield.; Tom Ditamus attempted to remove Suza Fairfield from Port William."
+  },
+  {
+    "id": "Novel-16bc9e87",
+    "question_type": "Fact Retrieval",
+    "question": "From which state did General Pearce's army originate during the Civil War events described in the novel?",
+    "answer": "General Pearce had his army from Arkansas.",
+    "source": "Novel-47558",
+    "evidence": "General Pearce's army originated from Arkansas."
+  },
+  {
+    "id": "Novel-8a166224",
+    "question_type": "Fact Retrieval",
+    "question": "Who taught Roxie the art of penmanship during her youth?",
+    "answer": "Old Ben Robertson taught Roxie the art of penmanship.",
+    "source": "Novel-47558",
+    "evidence": "Old Ben Robertson taught Roxie the art of penmanship."
+  },
+  {
+    "id": "Novel-cb249d9b",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the character that saw Steve Brindle during the events following a battle, leading to an encounter between two old acquaintances?",
+    "answer": "Cousin Cæsar saw Steve Brindle.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar saw Steve Brindle."
+  },
+  {
+    "id": "Novel-3d95a5f2",
+    "question_type": "Fact Retrieval",
+    "question": "In which state did Tom Fairfield learn to read and write before migrating to Kentucky, as recounted in his family's early history?",
+    "answer": "Tom Fairfield learned to read and write in Virginia.",
+    "source": "Novel-47558",
+    "evidence": "Tom Fairfield learned to read and write in Virginia."
+  },
+  {
+    "id": "Novel-b73b866c",
+    "question_type": "Fact Retrieval",
+    "question": "Who admitted Aunt Patsy Perkins when she visited Roxie Daymon in Chicago?",
+    "answer": "Roxie admitted Aunt Patsy Perkins.",
+    "source": "Novel-47558",
+    "evidence": "Roxie admitted Aunt Patsy Perkins into the room."
+  },
+  {
+    "id": "Novel-4eb4395b",
+    "question_type": "Fact Retrieval",
+    "question": "Who was considered as a possible foster parent for Roxie Fairfield after the separation of the Fairfield sisters?",
+    "answer": "Aunt Fillis Foster was a contending candidate for Roxie.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Fillis Foster was a contending candidate for Roxie."
+  },
+  {
+    "id": "Novel-11483e85",
+    "question_type": "Fact Retrieval",
+    "question": "At which location did General Van Dorn make a rash military attack during the Civil War, as described in the narrative?",
+    "answer": "Gen. Van Dorn made a rash attack at Corinth.",
+    "source": "Novel-47558",
+    "evidence": "Gen. Van Dorn made a rash attack at Corinth."
+  },
+  {
+    "id": "Novel-efd1af00",
+    "question_type": "Complex Reasoning",
+    "question": "What was the relationship between Don Carlo and Dan Carlo, and who was Dan Carlo associated with among the local figures in Shirt-Tail Bend?",
+    "answer": "Don Carlo and Dan Carlo were partners, and Dan Carlo was also associated with Brindle Bill.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo and Dan Carlo were partners.; Dan Carlo was associated with Brindle Bill."
+  },
+  {
+    "id": "Novel-e0c754c6",
+    "question_type": "Complex Reasoning",
+    "question": "Why is Shirt-Tail Bend significant to Don Carlo, and what events contributed to his reputation there before his return to Kentucky?",
+    "answer": "Shirt-Tail Bend is significant to Don Carlo because he was the hero of Shirt-Tail Bend, which is on the Mississippi river, and he later went back to Kentucky.",
+    "source": "Novel-47558",
+    "evidence": "Shirt-Tail Bend is significant to Don Carlo.; Don Carlo was the hero of Shirt-Tail Bend.; Shirt-Tail Bend is located on the Mississippi River.; Don Carlo later returned to Kentucky."
+  },
+  {
+    "id": "Novel-bd7c7e1a",
+    "question_type": "Complex Reasoning",
+    "question": "How is Aunt Katy connected to Port William and Suza Fairfield?",
+    "answer": "Aunt Katy is connected to Port William because she moved there and bequeathed her possessions to Suza Fairfield; Suza Fairfield also returned to Port William.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Katy moved to Port William.; Aunt Katy bequeathed her possessions to Suza Fairfield.; Suza Fairfield returned to Port William."
+  },
+  {
+    "id": "Novel-e2ac8ec4",
+    "question_type": "Complex Reasoning",
+    "question": "Within the context of Aunt Patsy Perkins's family in the novel, what is Jim's relationship to Aunt Patsy's dear brother, who was buried in Indiana?",
+    "answer": "Jim is the son of Aunt Patsy's dear brother, who was buried in Indiana.",
+    "source": "Novel-47558",
+    "evidence": "Jim is the son of Aunt Patsy's dear brother.; Aunt Patsy's dear brother was buried in Indiana."
+  },
+  {
+    "id": "Novel-413d4c7e",
+    "question_type": "Complex Reasoning",
+    "question": "During the events surrounding the battle at Iuka, Price's army was said to have 'shown the white feather.' Was Cousin Cæsar present in that division of Price's army that showed cowardice at Iuka?",
+    "answer": "No, Cousin Cæsar was not in the division that showed the white feather at Iuka.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar was not in the division of Price's army that showed cowardice at Iuka.; The division of Price's army showed the white feather at Iuka."
+  },
+  {
+    "id": "Novel-f63520dd",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative, how did Roxie Daymon facilitate communication with Cousin Cæsar, particularly in relation to legal matters following Young Simon's death?",
+    "answer": "Roxie facilitated communication with Cæsar by handing him a note.",
+    "source": "Novel-47558",
+    "evidence": "Roxie facilitated communication with Cousin Cæsar.; Roxie handed Cousin Cæsar a note."
+  },
+  {
+    "id": "Novel-8307a348",
+    "question_type": "Complex Reasoning",
+    "question": "What actions did Steve Brindle take in relation to Price's army and Cole Conway?",
+    "answer": "Steve Brindle deserted from Price's army and made a proposition to Cole Conway.",
+    "source": "Novel-47558",
+    "evidence": "Steve Brindle deserted from Price's army.; Steve Brindle made a proposition to Cole Conway."
+  },
+  {
+    "id": "Novel-02d254bc",
+    "question_type": "Complex Reasoning",
+    "question": "How was Aunt Patsy Perkins's ability to communicate and her conversational style described in the narrative, especially in relation to her social interactions in Chicago and her remarks to Mrs. Daymon?",
+    "answer": "Aunt Patsy Perkins could talk faster and more than any woman west of the Alleghany Mountains.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Patsy Perkins could talk faster than any woman west of the Alleghany Mountains.; Aunt Patsy Perkins talked more than any woman west of the Alleghany Mountains."
+  },
+  {
+    "id": "Novel-83eb6b6b",
+    "question_type": "Complex Reasoning",
+    "question": "Why are Cole Conway and Steve Sharp considered important figures in the novel's narrative, and what roles did they play together, particularly regarding their professions and activities such as playing cards?",
+    "answer": "Cole Conway was an engineer who was in company with Steve Sharp, a pilot, and they played cards together.",
+    "source": "Novel-47558",
+    "evidence": "Cole Conway was an engineer.; Steve Sharp was a pilot.; Cole Conway and Steve Sharp played cards together."
+  },
+  {
+    "id": "Novel-df78005a",
+    "question_type": "Complex Reasoning",
+    "question": "What was cousin Cæsar's involvement with Rob Roy's stone jug, including what was inside it and how Cæsar resolved to play a trick on Rob Roy in the backwoods setting of the novel?",
+    "answer": "Cousin Cæsar stole the stone jug, which was half full of whisky, and resolved to play a trick on Rob Roy.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar stole the stone jug.; The stone jug was half full of whisky.; Cousin Cæsar resolved to play a trick on Rob Roy."
+  },
+  {
+    "id": "Novel-e0f29bbd",
+    "question_type": "Complex Reasoning",
+    "question": "In the legal disputes over Young Simon's estate, what actions did Governor Morock take regarding Roxie Daymon's legal affairs, and how did he use the thousand dollars he obtained from Cousin Cæsar during the process?",
+    "answer": "Governor Morock offered to arrange the testimony for Roxie Daymon and used nearly all of the thousand dollars obtained from Cousin Cæsar.",
+    "source": "Novel-47558",
+    "evidence": "Governor Morock offered to arrange the testimony for Roxie Daymon.; Governor Morock used nearly all of the thousand dollars obtained from Cousin Cæsar."
+  },
+  {
+    "id": "Novel-55f0c0e2",
+    "question_type": "Complex Reasoning",
+    "question": "What role did Aunt Katy Demitt play in Suza Fairfield's upbringing, and how is Suza Fairfield regarded in Port William?",
+    "answer": "Aunt Katy Demitt raised and educated Suza Fairfield, who is the belle of Port William.",
+    "source": "Novel-47558",
+    "evidence": "The Duke of York sent an order to Samuel Pepys."
+  },
+  {
+    "id": "Novel-8407a0ab",
+    "question_type": "Complex Reasoning",
+    "question": "According to the narrative, what was the relationship between Don Carlo and Dan Carlo, and where was Don Carlo from prior to the events at Shirt-Tail Bend?",
+    "answer": "Don Carlo was a partner of Dan Carlo and was from Shirt-Tail Bend.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo was a partner of Dan Carlo.; Don Carlo was from Shirt-Tail Bend."
+  },
+  {
+    "id": "Novel-7b4429ac",
+    "question_type": "Fact Retrieval",
+    "question": "What was Roxie Daymon's relationship with Simon, and how did Simon learn about Roxie's family background?",
+    "answer": "Roxie Daymon was engaged to Simon, and Simon learned about Roxie's family from his cousin Cæsar.",
+    "source": "Novel-47558",
+    "evidence": "Roxie Daymon was engaged to Simon.; Simon learned about Roxie's family from his cousin Cæsar."
+  },
+  {
+    "id": "Novel-6d12f4ff",
+    "question_type": "Complex Reasoning",
+    "question": "What was the connection between Steve Brindle and Cousin Cæsar during the war, and what notable action did Steve Brindle take regarding Price's army?",
+    "answer": "Steve Brindle was an old comrade of Cousin Cæsar and deserted from Price's army.",
+    "source": "Novel-47558",
+    "evidence": "Steve Brindle was an old comrade of Cousin Cæsar.; Steve Brindle deserted from Price's army."
+  },
+  {
+    "id": "Novel-baed6d13",
+    "question_type": "Complex Reasoning",
+    "question": "Within the social hierarchy of Chicago described in the novel, what was Aunt Patsy Perkins's social standing, and what was her relationship with Jim, her brother's son?",
+    "answer": "Aunt Patsy Perkins floated upon the surface of upper-tendom in Chicago and is good to Jim.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Patsy Perkins floated upon the surface of upper-tendom in Chicago.; Aunt Patsy Perkins was good to Jim."
+  },
+  {
+    "id": "Novel-eb7624ca",
+    "question_type": "Complex Reasoning",
+    "question": "What did Cousin Cæsar do with Rob Roy's stone jug, and what was its contents at the time?",
+    "answer": "Cousin Cæsar stole a stone jug, which was half full of whisky.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar stole a stone jug.; The stone jug was half full of whisky."
+  },
+  {
+    "id": "Novel-2782702e",
+    "question_type": "Complex Reasoning",
+    "question": "How did Tom Fairfield become associated with Kentucky, and what is revealed about his ancestry from Virginia?",
+    "answer": "Tom Fairfield found employment in Kentucky and was descended from Virginia.",
+    "source": "Novel-47558",
+    "evidence": "Tom Fairfield found employment in Kentucky.; Tom Fairfield was descended from Virginia."
+  },
+  {
+    "id": "Novel-6384e08b",
+    "question_type": "Complex Reasoning",
+    "question": "How is Aunt Katy connected to John A. Lasco and his family's journey to America in the narrative?",
+    "answer": "Aunt Katy knew Tom Fairfield, who married Susan Lasco, the sister of John A. Lasco, who did not emigrate to America.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Katy knew Tom Fairfield.; Tom Fairfield married Susan Lasco.; Susan Lasco was the sister of John A. Lasco.; John A. Lasco did not emigrate to America."
+  },
+  {
+    "id": "Novel-e8c4934c",
+    "question_type": "Complex Reasoning",
+    "question": "Describe the chain of relationships linking Rose, Brindle Bill, Steve Brindle, and Cousin Cæsar.",
+    "answer": "Rose did not believe Brindle Bill, who was the father of Steve Brindle, who was an old comrade of Cousin Cæsar.",
+    "source": "Novel-47558",
+    "evidence": "Rose did not believe Brindle Bill.; Brindle Bill was the father of Steve Brindle.; Steve Brindle was an old comrade of Cousin Cæsar."
+  },
+  {
+    "id": "Novel-e91ba512",
+    "question_type": "Complex Reasoning",
+    "question": "How are Suza Fairfield and Aunt Katy's movements related in the context of the relocation to Port William?",
+    "answer": "Suza Fairfield lived with Aunt Katy, who moved to Port William.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield lived with Aunt Katy.; Aunt Katy moved to Port William."
+  },
+  {
+    "id": "Novel-78ac3c0f",
+    "question_type": "Complex Reasoning",
+    "question": "Explain the sequence of events involving Don Carlo, Dan Carlo, and Brindle Bill that leads to a confrontation.",
+    "answer": "Dan Carlo was a partner of Don Carlo, who later fought Brindle Bill.",
+    "source": "Novel-47558",
+    "evidence": "Dan Carlo was a partner of Don Carlo.; Don Carlo later fought Brindle Bill."
+  },
+  {
+    "id": "Novel-8b22460c",
+    "question_type": "Complex Reasoning",
+    "question": "Trace the chain of events from Roxie’s communication with Aunt-Katy to John A. Lasco’s emigration.",
+    "answer": "Roxie told Aunt-Katy, who knew Tom Fairfield, who married Susan Lasco, whose brother was John A. Lasco, who did not emigrate to America.",
+    "source": "Novel-47558",
+    "evidence": "Roxie communicated with Aunt-Katy.; Aunt-Katy knew Tom Fairfield.; Tom Fairfield married Susan Lasco.; Susan Lasco had a brother named John A. Lasco.; John A. Lasco did not emigrate to America."
+  },
+  {
+    "id": "Novel-174494d5",
+    "question_type": "Complex Reasoning",
+    "question": "How does the family relationship between Cæsar Simon and Young Simon connect to S. S. Simon?",
+    "answer": "Cæsar Simon was cousin of Young Simon, who was the only son of S. S. Simon.",
+    "source": "Novel-47558",
+    "evidence": "Cæsar Simon was a cousin of Young Simon.; Young Simon was the only son of S. S. Simon."
+  },
+  {
+    "id": "Novel-3ebe35dc",
+    "question_type": "Complex Reasoning",
+    "question": "How is the barque’s destination ultimately linked to the backwoodsmen?",
+    "answer": "The barque was headed for a cabin, which was built by backwoodsmen.",
+    "source": "Novel-47558",
+    "evidence": "The barque was headed for a cabin.; The cabin was built by backwoodsmen."
+  },
+  {
+    "id": "Novel-9684639c",
+    "question_type": "Complex Reasoning",
+    "question": "What links Don Carlo’s heroism at Shirt-Tail Bend to the Mississippi and the barque?",
+    "answer": "Don Carlo is the hero of Shirt-Tail Bend, which is on the Mississippi, which was crossed with a barque.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo is the hero of Shirt-Tail Bend.; Shirt-Tail Bend is located on the Mississippi.; The Mississippi was crossed with a barque."
+  },
+  {
+    "id": "Novel-1e49f181",
+    "question_type": "Complex Reasoning",
+    "question": "What is the logical connection between Don Carlo’s partnership with Dan Carlo and Suza Fairfield’s capture by Tom Ditamus?",
+    "answer": "Don Carlo rode side by side toward Port William with Suza Fairfield, who was then captured by Tom Ditamus.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo rode side by side with Suza Fairfield toward Port William.; Suza Fairfield was captured by Tom Ditamus."
+  },
+  {
+    "id": "Novel-c03282ac",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between Tom Ditamus and the Ohio river?",
+    "answer": "Tom Ditamus moved to the Ohio river.",
+    "source": "Novel-47558",
+    "evidence": "Tom Ditamus moved to the Ohio river."
+  },
+  {
+    "id": "Novel-6b752e90",
+    "question_type": "Complex Reasoning",
+    "question": "What is the chain of connections from big-sis’s influence on Cæsar Simon to Young Simon’s parentage?",
+    "answer": "Big-sis raised Cæsar Simon, who was cousin of Young Simon, who is the only son of S. S. Simon.",
+    "source": "Novel-47558",
+    "evidence": "Big-sis raised Cæsar Simon.; Cæsar Simon was a cousin of Young Simon.; Young Simon is the only son of S. S. Simon."
+  },
+  {
+    "id": "Novel-48cb4128",
+    "question_type": "Complex Reasoning",
+    "question": "How is Governor Morock’s offer related to Roxie Daymon’s engagement to Young Simon?",
+    "answer": "Governor Morock offered to arrange the testimony for Roxie Daymon, who was engaged to be married to Young Simon.",
+    "source": "Novel-47558",
+    "evidence": "Governor Morock offered to arrange testimony for Roxie Daymon.; Roxie Daymon was engaged to be married to Young Simon."
+  },
+  {
+    "id": "Novel-f7192b8f",
+    "question_type": "Complex Reasoning",
+    "question": "What is the multi-hop relationship between Don Carlo’s journey to headquarters and Brindle Bill’s interest in Dan Carlo?",
+    "answer": "Don Carlo went to headquarters, which was a resort for Brindle Bill, who wanted to swindle Dan Carlo.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo went to headquarters.; Headquarters was a resort for Brindle Bill.; Brindle Bill wanted to swindle Dan Carlo."
+  },
+  {
+    "id": "Novel-28e09b62",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative link the cabin’s construction to the actions of the barque?",
+    "answer": "The barque was headed for a cabin, which was built by backwoodsmen.",
+    "source": "Novel-47558",
+    "evidence": "The barque was headed for a cabin.; The cabin was built by backwoodsmen."
+  },
+  {
+    "id": "Novel-f2ebfaaa",
+    "question_type": "Complex Reasoning",
+    "question": "Explain the connection from S. S. Simon’s association with Dan Carlo to Don Carlo’s partnership and subsequent confrontation with Brindle Bill.",
+    "answer": "S. S. Simon was with Dan Carlo, who was a partner of Don Carlo, who fought Brindle Bill.",
+    "source": "Novel-47558",
+    "evidence": "S. S. Simon was with Dan Carlo.; Dan Carlo was a partner of Don Carlo.; Don Carlo fought Brindle Bill."
+  },
+  {
+    "id": "Novel-e2b2fca2",
+    "question_type": "Complex Reasoning",
+    "question": "How is the movement of Suza Fairfield toward Port William connected to Aunt Katy’s relationship to Suza?",
+    "answer": "Don Carlo rode side by side toward Port William with Suza Fairfield, who lived with Aunt Katy.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo rode side by side toward Port William with Suza Fairfield.; Suza Fairfield lived with Aunt Katy."
+  },
+  {
+    "id": "Novel-a10c1cfa",
+    "question_type": "Complex Reasoning",
+    "question": "How is Don Carlo’s involvement with Suza Fairfield ultimately linked to Tom Ditamus’s move to the Cumberland mountains?",
+    "answer": "Don Carlo rode side by side toward Port William with Suza Fairfield, who was captured by Tom Ditamus, who moved to the Cumberland mountains.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo rode side by side toward Port William with Suza Fairfield.; Suza Fairfield was captured by Tom Ditamus.; Tom Ditamus moved to the Cumberland mountains."
+  },
+  {
+    "id": "Novel-8c2e2f09",
+    "question_type": "Complex Reasoning",
+    "question": "How does the relationship between Suza Fairfield and Aunt Katy relate to Aunt Katy’s feelings toward Suza?",
+    "answer": "Suza Fairfield lived with Aunt Katy, who doted on Suza Fairfield.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield lived with Aunt Katy.; Aunt Katy doted on Suza Fairfield."
+  },
+  {
+    "id": "Novel-fcf87025",
+    "question_type": "Contextual Summarize",
+    "question": "Throughout the narrative of 'Pen Pictures,' what relationships does Roxie have with key political figures such as Governor Morock, as well as family or mentor figures like Ben Robertson and Aunt Patsy Perkins? Please detail Roxie's consultation with Gov. Morock regarding her legal and financial affairs, Gov. Morock's promise to 'pick up the crumbs' for her, how Roxie was taught penmanship by Ben Robertson during her schooling, and her interactions and thoughts involving Aunt Patsy Perkins.",
+    "answer": "Roxie consulted Gov. Morock, Gov. Morock was to pick up the crumbs for Roxie, she was taught the art of penmanship by Ben Robertson, was visited by Aunt Patsy Perkins, and thought of Aunt Patsy.",
+    "source": "Novel-47558",
+    "evidence": "Roxie consulted Gov. Morock regarding her legal and financial affairs.; Gov. Morock promised to 'pick up the crumbs' for Roxie.; Ben Robertson taught Roxie the art of penmanship during her schooling.; Aunt Patsy Perkins visited Roxie.; Roxie thought of Aunt Patsy."
+  },
+  {
+    "id": "Novel-024819a8",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of the novel 'Pen Pictures,' what is the nature of the relationship between Cole Conway and Steve Sharp, especially as depicted during their time spent together playing cards, being in each other's company, and discovering a steam carriage?",
+    "answer": "Cole Conway and Steve Sharp shared a close, if precarious, partnership, bound together by their fortunes and misfortunes in 'the game.' Their companionship was marked by long nights spent playing cards in dimly lit saloons, where luck often turned against them, leaving them penniless and seeking shelter in a straw shed on the outskirts of town. In these moments of hardship, their camaraderie was evident—sharing dreams, disappointments, and the hope of better days, as when Conway recounted his vivid dream of newfound wealth to Sharp, underscoring the trust and mutual reliance that defined their relationship.",
+    "source": "Novel-47558",
+    "evidence": "Cole Conway and Steve Sharp were in each other's company.; Cole Conway and Steve Sharp found a steam carriage together.; Cole Conway and Steve Sharp played cards together."
+  },
+  {
+    "id": "Novel-5cb17774",
+    "question_type": "Contextual Summarize",
+    "question": "Within the narrative of 'Pen Pictures,' how is the relationship between Roxie Daymon and Governor Morock depicted, particularly regarding their interactions over legal affairs and the Simon estate in Chicago? Please describe how Governor Morock, known as a fashionable lawyer among the upper-ten, offered to arrange testimony for Roxie Daymon and was later condemned by her, and also include how Roxie Daymon learned about her family background from Aunt Patsy Perkins.",
+    "answer": "Governor Morock, a prominent and fashionable lawyer among Chicago's elite, offered to arrange testimony for Roxie Daymon in her legal struggles over the Simon estate. Despite his polished manners and influential reputation, Roxie saw through his self-serving motives and ultimately condemned him, recognizing that his promises were hollow and his assistance came at a price. In contrast to her dealings with Morock, Roxie found genuine connection and understanding in her conversations with Aunt Patsy Perkins, who revealed to her the truths of her family background, offering Roxie a sense of identity and resilience in the face of loss and betrayal.",
+    "source": "Novel-47558",
+    "evidence": "Governor Morock offered to arrange testimony for Roxie Daymon.; Governor Morock was a fashionable lawyer among the upper-ten in Chicago.; Roxie Daymon condemned Governor Morock.; Roxie Daymon learned about her family background from Aunt Patsy Perkins."
+  },
+  {
+    "id": "Novel-1d7e42b7",
+    "question_type": "Contextual Summarize",
+    "question": "In 'Pen Pictures,' how is Cousin Cæsar's involvement both in military affairs and within his family relationships portrayed? Please include details about his close counsel with Cliff Carlo regarding legal matters, his service under General Price during the Civil War, and the circumstances in which he was ultimately left alone by Steve Brindle.",
+    "answer": "Cousin Cæsar is portrayed as a man deeply enmeshed in both the legal and military struggles of his time. In family affairs, he is seen in earnest, sometimes tense, counsel with Cliff Carlo over the complex legal contest surrounding the Simon estate, refusing to compromise and determined to see matters through, no matter the risk. His military involvement is equally resolute: a born soldier, he serves under General Price during the Civil War, animated by the clang of arms and the call to battle. Yet, despite his courage and steadfastness, he experiences the sting of isolation when Steve Brindle, once a companion, deserts him, leaving Cæsar alone with only the camaraderie of fellow southern soldiers. This abandonment marks a turning point, as Cæsar, ever defiant, resolves to stand firm even as the idea of desertion haunts him for the first time.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar was in close counsel with Cliff Carlo regarding legal matters.; Cousin Cæsar served under General Price during the Civil War.; Cousin Cæsar was left alone by Steve Brindle."
+  },
+  {
+    "id": "Novel-0b161de9",
+    "question_type": "Contextual Summarize",
+    "question": "What are the key events that define the life and relationships of Suza Fairfield in 'Pen Pictures'?",
+    "answer": "Suza Fairfield’s life is defined by both her origins and her radiant presence in the community. Orphaned at a young age, she was lovingly raised and educated by old Aunt Katy Demitt, whose home became both her refuge and her world. As the acknowledged belle of Port William, Suza captivated all who met her, drawing the admiration of many suitors, yet she remained steadfastly devoted to Aunt Katy, never consenting to leave her side. Her engagement to Don Carlo, the hero of Shirt-Tail Bend, was the talk of the neighborhood—a union that seemed to unite local legend with local beauty. Through it all, Suza’s grace, loyalty, and gentle spirit made her a cherished figure, her life shaped by affection, duty, and the quiet strength of her upbringing.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield was raised and educated by Aunt Katy Demitt.; Suza Fairfield was engaged to be married to Don Carlo.; Suza Fairfield was the belle of Port William."
+  },
+  {
+    "id": "Novel-0dd275c6",
+    "question_type": "Contextual Summarize",
+    "question": "What roles and actions does the Cherokee Indian undertake in the events of 'Pen Pictures'?",
+    "answer": "The Cherokee Indian, serving as a camp follower in General McCulloch's army, played a pivotal role in the unfolding events. Alongside Steve Brindle, he was searching the battlefield for missing friends when they stumbled upon the wounded Cousin Cæsar. With swift resourcefulness, the Cherokee darted to a campfire, gathered ashes in his cap, and applied them to Cæsar's wound, helping to staunch the bleeding and ultimately saving his life. His presence in the war was not by chance, but rather the result of Albert Pike bringing him and others of his people into the conflict, thus placing him at the heart of these dramatic moments.",
+    "source": "Novel-47558",
+    "evidence": "The Cherokee Indian served as a camp follower of General McCulloch.; The Cherokee Indian played a significant part in saving the life of Cousin Cæsar during battle.; The Cherokee Indian was brought into the war by Albert Pike."
+  },
+  {
+    "id": "Novel-5ba676fd",
+    "question_type": "Contextual Summarize",
+    "question": "What major military actions and strategic decisions are associated with General Price in 'Pen Pictures'?",
+    "answer": "General Price's campaign in Missouri was marked by bold maneuvers and decisive actions. After reaching the Missouri river at Lexington on September 12th, he led his forces to capture a well-entrenched Federal force under Colonel Mulligan on the 20th, seizing valuable artillery and thousands of bayonet guns. Yet, the looming threat of large Federal armies north of the river compelled Price to make the strategic decision to retreat south, preserving his army for future engagements. His campaign in Missouri thus became a testament to both his tactical prowess and his ability to adapt to shifting circumstances on the battlefield.",
+    "source": "Novel-47558",
+    "evidence": "General Price retreated south from the Missouri river.; General Price captured a Federal force at Lexington.; General Price had a campaign in Missouri."
+  },
+  {
+    "id": "Novel-20eb3bc8",
+    "question_type": "Contextual Summarize",
+    "question": "How is the conflict and relationship between Don Carlo and Brindle Bill portrayed in the novel 'Pen Pictures'?",
+    "answer": "The conflict between Don Carlo and Brindle Bill is portrayed as a dramatic clash of character and willpower. Brindle Bill, notorious as the settlement's bully and a man who boasted of his victories, was used to having his way through intimidation and physical strength. Don Carlo, in contrast, was a man of quiet resolve, belonging to the opposing party in the community. When Brindle Bill, feeling personally insulted by Don Carlo, demanded a fight, the entire settlement watched as the two men faced off. Despite Brindle Bill's physical prowess and bluster, it was Don Carlo's true courage and determination that prevailed in the sharp and uncertain contest. The turning point came when Don landed a decisive blow, breaking the fear that Brindle Bill had instilled in others. With Brindle Bill's defeat and subsequent departure from the settlement, Don Carlo was rightfully celebrated as the Hero of Shirt-Tail Bend, marking a new era for the community.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo defied Brindle Bill.; Don Carlo fought Brindle Bill.; Don Carlo was identified as the Hero of Shirt-Tail Bend."
+  },
+  {
+    "id": "Novel-3b99f5cd",
+    "question_type": "Contextual Summarize",
+    "question": "Within the narrative of 'Pen Pictures,' what are the familial and geographical connections of Don and Dan Carlo?",
+    "answer": "Don and Dan Carlo, dear brothers and equal partners in one of Shirt-Tail Bend's principal wood yards, shared both familial and business ties rooted deeply in the settlement. Though united by blood and enterprise, their spirits diverged: Don was steadfast and responsible, while Dan, a friend of Brindle Bill, was more reckless and unreliable. Despite Don's repeated efforts to appeal to Dan's sense of family pride and responsibility—often during long, somber nights in their bachelor household—Dan would promise, again and again, to reform his ways. Yet, these promises were always broken, leaving Don to shoulder the burdens of their business and the scorn of their extended family. Their partnership and struggles were emblematic of the hardships faced by those trying to rise above poverty and reputation in Shirt-Tail Bend.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo was a partner of Dan Carlo.; Don Carlo was from Shirt-Tail Bend.; Dan Carlo promised to reform to Don Carlo."
+  },
+  {
+    "id": "Novel-0bc96001",
+    "question_type": "Contextual Summarize",
+    "question": "In 'Pen Pictures,' what role did Aunt Katy Demitt play in Suza Fairfield's upbringing and inheritance?",
+    "answer": "Aunt Katy Demitt played a profound and nurturing role in Suza Fairfield's life, raising and educating her with the devoted care of a foster mother whose love was both rare and deep. Despite being surrounded by relatives who often caused her distress, Aunt Katy lavished all her affection on Suza, cherishing her as the single bright flower in an otherwise barren field. This unwavering devotion culminated in Aunt Katy entrusting Suza with her most closely guarded secrets and, ultimately, bequeathing all her earthly possessions—including five hundred dollars in gold and silver—to Suza in her will. In this way, Aunt Katy not only shaped Suza's upbringing but also secured her future, leaving her as the sole heir to both her material legacy and her heartfelt love.",
+    "source": "Novel-47558",
+    "evidence": "Aunt Katy Demitt raised Suza Fairfield.; Aunt Katy Demitt educated Suza Fairfield.; Aunt Katy Demitt doted on Suza Fairfield.; Aunt Katy Demitt bequeathed her possessions to Suza Fairfield."
+  },
+  {
+    "id": "Novel-60207b7e",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative, how do the familial and mentorship connections—specifically, Cousin Cæsar Simon receiving his first lesson of reward for imagination from big-sis, who also raised him as the son of S. S. Simon's brother—impact the development of Cæsar Simon's character and his later relationships and actions within the interconnected Simon, Carlo, and Fairfield families?",
+    "answer": "Cousin Cæsar Simon’s character is deeply shaped by the nurturing guidance of his 'big-sis,' who not only raised him after the early loss of his parents but also became his first mentor. In a moment that would echo throughout his life, big-sis rewarded young Cæsar’s imaginative spirit—when he gazed at soap bubbles and dreamed of them turning into bread, she gave him her last loaf, teaching him that creativity and wonder could bring real, tangible rewards. This early lesson, coupled with the steadfast support of his adoptive family, instilled in Cæsar a sense of belonging and a penchant for curiosity. These qualities later influenced his actions and relationships within the interconnected Simon, Carlo, and Fairfield families, as he became a trusted figure, delivering important information and participating in the subtle currents that shaped the destinies of those around him.",
+    "source": "Novel-47558",
+    "evidence": "Cousin Cæsar received his first lesson of reward for imagination from big-sis.; Big-sis raised Cæsar Simon.; Cæsar Simon is the son of S. S. Simon's brother.; The mentorship and familial link set the foundation for Cæsar Simon's later interactions.; Cæsar Simon was involved in delivering important information.; Cæsar Simon was part of a broader network that influences events among the Simon, Carlo, and Fairfield families."
+  },
+  {
+    "id": "Novel-cf31582b",
+    "question_type": "Contextual Summarize",
+    "question": "How do Suza Fairfield's family and social ties shape her fate and the choices she makes throughout the story?",
+    "answer": "Suza Fairfield’s fate and choices are deeply shaped by the web of family and social ties that surround her. Her close association with Don Carlo, as they ride side by side toward Port William, hints at a bond forged through shared experience and mutual respect, even as the language of courtship remains unspoken. The trauma of her capture by Tom Ditamus marks a turning point, thrusting her into vulnerability and uncertainty, yet also revealing her resilience. Most profoundly, her residence with Aunt Katy envelops her in a rare, almost maternal devotion—Aunt Katy’s love for Suza is described as singular and consuming, making Suza both cherished and, in some ways, confined. These relationships—marked by affection, adversity, and dependence—guide Suza’s decisions and ultimately shape the course of her life, as she navigates loyalty, independence, and the expectations of those who care for her.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield rode side by side toward Port William with Don Carlo.; Suza Fairfield was captured by Tom Ditamus.; Suza Fairfield lived with Aunt Katy."
+  },
+  {
+    "id": "Novel-41396a13",
+    "question_type": "Contextual Summarize",
+    "question": "What is the narrative significance of Don Carlo's partnership with Dan Carlo and his status as the hero of Shirt-Tail Bend in shaping the themes of heroism and community within the story?",
+    "answer": "Don Carlo was a partner of Dan Carlo and is the hero of Shirt-Tail Bend, which is on the Mississippi.",
+    "source": "Novel-47558",
+    "evidence": "Don Carlo was a partner of Dan Carlo.; Don Carlo is the hero of Shirt-Tail Bend.; Shirt-Tail Bend is located on the Mississippi River."
+  },
+  {
+    "id": "Novel-63bc945d",
+    "question_type": "Contextual Summarize",
+    "question": "How are the legal, familial, and romantic storylines intertwined in the narrative?",
+    "answer": "The legal, familial, and romantic storylines are intricately woven together through Roxie Daymon’s engagement to Simon, a union shadowed by uncertainty and the looming contest over the Simon estate. Simon’s efforts to secure a promise from Rose Simon add another layer of familial negotiation and alliance, as each character maneuvers within the tangled web of inheritance and loyalty. Meanwhile, Governor Morock’s offer to arrange testimony for Roxie underscores the legal battles simmering beneath the surface, his involvement hinting at both the necessity of legal acumen and the influence of money in determining the outcome. Together, these threads create a tapestry where personal relationships and legal strategies are inseparable, each shaping the fate of the others.",
+    "source": "Novel-47558",
+    "evidence": "Roxie Daymon was engaged to Simon.; Simon obtained a promise from Rose Simon.; Governor Morock offered to arrange the testimony for Roxie Daymon."
+  },
+  {
+    "id": "Novel-a320136c",
+    "question_type": "Contextual Summarize",
+    "question": "How do letters and formal inquiries contribute to the unfolding of the plot and the resolution of legal or inheritance matters in the story?",
+    "answer": "Cliff Carlo wrote a letter of inquiry to Governor Morock, who offered to arrange the testimony for Roxie Daymon.",
+    "source": "Novel-47558",
+    "evidence": "Cliff Carlo wrote a letter of inquiry to Governor Morock.; Governor Morock offered to arrange the testimony for Roxie Daymon."
+  },
+  {
+    "id": "Novel-830feb2a",
+    "question_type": "Contextual Summarize",
+    "question": "How does the story portray the process of family movement and resettlement?",
+    "answer": "The story vividly portrays the process of family movement and resettlement through the intertwined lives of Aunt Katy and Suza Fairfield. Aunt Katy, a woman of quiet means and guarded secrets, moved to Port William to occupy one of the village’s finest houses, bringing with her the young orphan Suza Fairfield. Suza, raised and educated by Aunt Katy, became not only her companion but also the belle of Port William, steadfastly refusing to leave Aunt Katy’s side despite the attention of many suitors. Their household, the subject of much speculation among the Demitt relations, stands as a testament to the bonds of chosen family and the ways in which resettlement can shape both individual destinies and the fabric of a community.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield lived with Aunt Katy.; Aunt Katy moved to Port William."
+  },
+  {
+    "id": "Novel-f2701a9f",
+    "question_type": "Contextual Summarize",
+    "question": "In what ways do both formal and informal promises influence the relationships among Simon, Rose Simon, and Roxie Daymon?",
+    "answer": "Both formal and informal promises deeply influence the relationships among Simon, Rose Simon, and Roxie Daymon. Simon, with persuasive words and careful reasoning, secured a promise from Rose Simon to let him manage their business affairs, a decision that would affect their financial future and the fate of their inheritance. Meanwhile, Roxie Daymon’s consent to marry Simon—despite his failing health—adds a poignant layer to their connection, her agreement shrouded in silence and mystery. These promises, spoken and unspoken, bind the characters together, shaping their choices and the course of their intertwined lives.",
+    "source": "Novel-47558",
+    "evidence": "Simon obtained a promise from Rose Simon.; Roxie Daymon consented to wed Simon."
+  },
+  {
+    "id": "Novel-cbc2a30b",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative employ the motif of captivity and rescue in Suza Fairfield's storyline, and what impact does this have on her character?",
+    "answer": "The narrative weaves the motif of captivity and rescue through Suza Fairfield’s ordeal: after being captured by Tom Ditamus and transported in his wagon, Suza finds herself yearning for freedom. Her journey is marked by both physical and emotional captivity, as she recalls the 'hateful prison wagon' and the uncertainty of her fate. Yet, Suza’s determination and resourcefulness shine as she escapes, wading through the creek and following the road toward Port William. The moment she finally returns and is embraced by Aunt Katy is not just a literal rescue, but a symbolic reclaiming of agency and belonging. This episode deepens Suza’s storyline, transforming her from a passive victim into a resilient figure who, inspired by Aunt Katy’s words, finds her own way back to safety and love.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield was captured by Tom Ditamus.; Tom Ditamus moved to the Ohio River."
+  },
+  {
+    "id": "Novel-b9736d42",
+    "question_type": "Contextual Summarize",
+    "question": "How do the interactions between Rose and Brindle Bill illustrate the roles of belief and skepticism in shaping the dynamics of their characters throughout the novel?",
+    "answer": "Rose’s persistent disbelief in Brindle Bill’s words underscores the tension between belief and skepticism that shapes their relationship. Despite Brindle Bill’s elaborate stories and self-serving schemes, Rose remains wary, her skepticism acting as both shield and silent protest against manipulation. Even as she allows Simon to manage the business and money changes hands, Rose’s refusal to trust Brindle Bill reveals her inner strength and discernment. This dynamic not only highlights the power struggles at play but also illustrates how skepticism can serve as a form of resistance, influencing the balance of power and the unfolding of events between the characters.",
+    "source": "Novel-47558",
+    "evidence": "Rose did not believe Brindle Bill.; Rose's disbelief illustrates the role of skepticism in their character dynamics."
+  },
+  {
+    "id": "Novel-a4a83818",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events surrounding Roxie's charge by Governor Morock as a news article.",
+    "answer": "Governor Morock has officially charged Roxie in connection with recent events, sources confirm. The charge follows the delivery of a note to the Governor by Cousin Cæsar. Roxie, reportedly, conveyed news of the charge to Aunt Katy, a close acquaintance of Tom Fairfield. Fairfield, married to Susan Lasco, is linked by marriage to the Lasco family, whose ties extend to John A. Lasco, an emigrant who remained in the old country. The circumstances leading to the charge remain under investigation.",
+    "source": "Novel-47558",
+    "evidence": "Governor Morock has officially charged Roxie.; The charge is in connection with recent events.; Cousin Cæsar delivered a note to the Governor.; Roxie conveyed news of the charge to Aunt Katy.; Aunt Katy is a close acquaintance of Tom Fairfield.; Tom Fairfield is married to Susan Lasco.; The Lasco family is linked by marriage to Tom Fairfield.; John A. Lasco is an emigrant who remained in the old country.; The circumstances leading to the charge remain under investigation."
+  },
+  {
+    "id": "Novel-e0a374bb",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Don Carlo. Narrate the events of traveling to headquarters and your partnership with Dan Carlo, including your encounter with Brindle Bill.",
+    "answer": "The night air was thick with anticipation as I rode alongside my steadfast partner, Dan Carlo, both of us silent but resolute as we made our way toward headquarters—a place whispered about as Brindle Bill’s haunt. Every hoofbeat seemed to echo the tension simmering between us and the trouble that awaited. Brindle Bill, notorious for his bluster and strength, had made no secret of his intentions toward Simon, and I knew a confrontation was inevitable. When we arrived, the cabin was locked tight, shadows flickering behind the cracks of the door. I scaled the jutting logs and slipped down the chimney, landing in the midst of a tense gathering. Brindle Bill rose, cards in hand, his challenge unmistakable. The fight that followed was fierce—Bill’s brute force against my agility, the outcome uncertain with every blow. Blood was drawn, and the air was thick with the scent of sweat and fear. Through it all, Dan and I stood together, our partnership tested but unbroken, facing down the storm that Brindle Bill and his allies had conjured.",
+    "source": "Novel-47558",
+    "evidence": "I rode alongside my trusted partner, Dan Carlo.; We were heading towards headquarters.; The place was known as a resort for the notorious Brindle Bill.; Tensions ran high because Brindle Bill wanted Simon.; I confronted Brindle Bill at headquarters.; I ended up fighting Brindle Bill.; The partnership with Dan was put to the test."
+  },
+  {
+    "id": "Novel-11abd566",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events of Suza Fairfield's capture and journey as a diary entry from Suza's perspective.",
+    "answer": "Dear Diary, My heart is still pounding from the day’s ordeal. I was riding beside Don Carlo, the road to Port William stretching ahead, when out of nowhere Tom Ditamus seized me. Fear gripped me as I thought of Aunt Katy, who had only just settled with me in Port William—her house so quiet, the fire burned low, and her gentle hands always ready to comfort me. As Tom’s captive, I felt small and powerless, but I clung to hope that Aunt Katy was safe and that Don Carlo would not abandon me. Tonight, I do not know what tomorrow will bring, but I pray for courage and for the strength to find my way back to those who love me.",
+    "source": "Novel-47558",
+    "evidence": "Suza Fairfield was riding side by side with Don Carlo toward Port William.; Tom Ditamus captured Suza Fairfield.; Suza had been living with Aunt Katy.; Aunt Katy had just moved to Port William with Suza.; Suza hopes Aunt Katy is safe.; Suza hopes Don Carlo can help her."
+  },
+  {
+    "id": "Novel-f847846c",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Young Simon. Write a diary entry about your family connections and your feelings about the events involving your cousin Cæsar and Roxie.",
+    "answer": "As the only son of S. S. Simon, I find myself tangled in the web of our family's history more than ever. Lately, my cousin Cæsar has been at the heart of everything—he delivered that important note to the Governor, and he’s the one who finally told me the truth about Roxie’s family and the old debt that shadows our estate. I can’t help but worry for Roxie, now that I’ve heard she’s been charged with something I don’t fully understand. The more I learn, the more I feel the weight of our connections: big-sis who raised Cæsar, our ties to the Carlow and Brindle families, and the secrets that seem to bind us all together. Sometimes it feels like every step I take is guided by the choices and mistakes of those who came before me. I wish I could do more for Roxie, but all I can do now is hope that the truth will come to light, and that our family can find peace after so much turmoil.",
+    "source": "Novel-47558",
+    "evidence": "I am the only son of S. S. Simon.; I often hear stories about my family.; My cousin, Cæsar, has been at the center of recent events.; Cæsar delivered a note to the Governor.; Cæsar helped Simon learn about Roxie's family.; I hear Roxie has been charged.; I worry for Roxie.; Our family feels interconnected.; Big-sis is raising Cæsar.; We have ties to the Carlow and Brindle families."
+  },
+  {
+    "id": "Novel-cabc388f",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events of Don Carlo as the hero of Shirt-Tail Bend and the crossing of the Mississippi as a newspaper story.",
+    "answer": "Shirt-Tail Bend, a noted landmark on the Mississippi, has found its hero in Don Carlo. Recently, the area saw heightened activity as the barque crossed the Mississippi, heading for a remote cabin built by backwoodsmen. Don Carlo’s actions have drawn praise, though tensions remain with figures like Brindle Bill still at large.",
+    "source": "Novel-47558",
+    "evidence": "Shirt-Tail Bend is a noted landmark on the Mississippi.; Don Carlo is considered a hero of Shirt-Tail Bend.; The area saw heightened activity as the barque crossed the Mississippi.; The barque was heading for a remote cabin built by backwoodsmen.; Don Carlo’s actions have drawn praise.; Tensions remain with figures like Brindle Bill still at large."
+  }
+]

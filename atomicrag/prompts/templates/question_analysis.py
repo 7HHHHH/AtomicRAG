@@ -1,0 +1,32 @@
+from string import Template
+
+
+prompt_template = Template(
+    """You are an expert assistant for a knowledge-graph RAG system.\n\n"
+    "Decide if the user question needs decomposition and, if yes, write atomic sub-questions that cover the whole ask.\n\n"
+    "Question: ${question}\n"
+    "Decompose when:\n"
+    "- Multiple entities/relations or multi-hop reasoning is needed\n"
+    "- \"How/why/compare\" reasoning that spans steps\n"
+    "- Compound prompts unlikely to be answered by one fact\n\n"
+    "Do NOT decompose when:\n"
+    "- One fact answers it (who/what/when/where)\n"
+    "- Only one entity/relation with a direct answer\n\n"
+    "If you decompose, write up to ${max_sub_questions} sub-questions. Each must:\n"
+    "1) Cover exactly one aspect\n"
+    "2) Be answerable independently via retrieval\n"
+    "3) Stay in the same domain/context\n\n"
+    "Focus label options: \"entity\", \"relationship\", \"reasoning\", \"context\".\n\n"
+    "Return JSON only:\n"
+    "{\n"
+    "  \"needs_decomposition\": true/false,\n"
+    "  \"complexity_score\": number 0-10,\n"
+    "  \"reasoning\": \"short justification\",\n"
+    "  \"sub_questions\": [\n"
+    "    {\"id\": 1, \"question\": \"...\", \"focus\": \"entity\"}\n"
+    "  ]\n"
+    "}\n"
+    "- If needs_decomposition is false, sub_questions = [].\n"
+    "- If true, include 2-5 (or fewer if truly simple).\n\n"
+    "Output:"""
+)

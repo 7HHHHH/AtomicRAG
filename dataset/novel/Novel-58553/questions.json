@@ -1,0 +1,898 @@
+[
+  {
+    "id": "Novel-25302adf",
+    "question_type": "Fact Retrieval",
+    "question": "Who employed Asaph Hall during his early career as a carpenter before he became an astronomer?",
+    "answer": "Asaph Hall worked for Peter Bogart during his early career as a carpenter.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall worked for Peter Bogart during his early career as a carpenter."
+  },
+  {
+    "id": "Novel-c8d26f3e",
+    "question_type": "Fact Retrieval",
+    "question": "What notable mountain did Angeline Hall climb during her travels, according to her biography?",
+    "answer": "Angeline Hall ascended Mt. Monadnock.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall ascended Mt. Monadnock during her travels."
+  },
+  {
+    "id": "Novel-e9340ec8",
+    "question_type": "Fact Retrieval",
+    "question": "In which location did Asaph Hall earn money by working as a carpenter to support his further education, prior to his studies at Harvard?",
+    "answer": "Asaph Hall earned money at Plymouth Hollow.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall earned money at Plymouth Hollow.; Asaph Hall worked as a carpenter to support his further education."
+  },
+  {
+    "id": "Novel-879889ee",
+    "question_type": "Fact Retrieval",
+    "question": "With which prominent astronomer did Asaph Hall become acquainted during his early scientific career, marking an important step in his professional development?",
+    "answer": "Asaph Hall became acquainted with Dr. Benjamin Apthorp Gould.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall became acquainted with Dr. Benjamin Apthorp Gould.; Dr. Benjamin Apthorp Gould was a prominent astronomer."
+  },
+  {
+    "id": "Novel-a77dafa9",
+    "question_type": "Fact Retrieval",
+    "question": "During which major historical event was Asaph Hall raised to prominence, as indicated by his increased recognition in the field of astronomy?",
+    "answer": "Asaph Hall was raised to prominence during the Civil War.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was raised to prominence during the Civil War.; Asaph Hall's recognition in the field of astronomy increased during the Civil War."
+  },
+  {
+    "id": "Novel-973bc3d0",
+    "question_type": "Fact Retrieval",
+    "question": "Whom did Asaph Hall help protect during a public event in Boston, demonstrating his commitment to the abolitionist cause?",
+    "answer": "Asaph Hall helped protect Wendell Phillips.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall helped protect Wendell Phillips.; Wendell Phillips was involved in a public event in Boston."
+  },
+  {
+    "id": "Novel-0b514b7c",
+    "question_type": "Fact Retrieval",
+    "question": "In which state did Asaph Hall undergo baptism, reflecting a significant personal event during his time in the Midwest?",
+    "answer": "Asaph Hall was baptized in Ohio.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was baptized in Ohio.; Asaph Hall's baptism was a significant personal event."
+  },
+  {
+    "id": "Novel-13fbbea3",
+    "question_type": "Fact Retrieval",
+    "question": "Which individual, related to Angeline Hall, was wounded at the Battle of Bull Run during the Civil War?",
+    "answer": "Constant Woodward was wounded at Bull Run.",
+    "source": "Novel-58553",
+    "evidence": "Constant Woodward was wounded at the Battle of Bull Run.; The Battle of Bull Run occurred during the Civil War."
+  },
+  {
+    "id": "Novel-1b8745a9",
+    "question_type": "Fact Retrieval",
+    "question": "To whom did Angeline Hall plead during a difficult financial and personal period in her marriage, as she and her husband faced hardship?",
+    "answer": "Angeline pleaded with Asaph Hall.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall pleaded with Asaph Hall.; Angeline Hall and her husband faced hardship during a difficult financial and personal period."
+  },
+  {
+    "id": "Novel-637bb2bd",
+    "question_type": "Fact Retrieval",
+    "question": "To whom did Asaph Hall sub-let a room during his early years living in Cambridge, as he and Angeline struggled to make ends meet?",
+    "answer": "Asaph Hall sub-let a room to a German pack-peddler.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall sub-let a room to a German pack-peddler.; Asaph Hall lived in Cambridge during his early years."
+  },
+  {
+    "id": "Novel-6f2d6386",
+    "question_type": "Fact Retrieval",
+    "question": "From which ancestor was Asaph Hall descended, as noted in the biographical account of his family background?",
+    "answer": "Asaph Hall was descended from John Hall.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was descended from John Hall.; John Hall is an ancestor of Asaph Hall."
+  },
+  {
+    "id": "Novel-80328029",
+    "question_type": "Fact Retrieval",
+    "question": "At which educational institution did Asaph Hall serve as a teacher, along with his wife Angeline, before pursuing his astronomical career?",
+    "answer": "Asaph Hall taught at Shalersville Institute.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall taught at Shalersville Institute.; Angeline Hall was also a teacher at Shalersville Institute."
+  },
+  {
+    "id": "Novel-6ff7589c",
+    "question_type": "Fact Retrieval",
+    "question": "Who else taught at Shalersville Institute during Asaph Hall's time in Ohio?",
+    "answer": "Angeline also taught at Shalersville Institute.",
+    "source": "Novel-58553",
+    "evidence": "Angeline taught at Shalersville Institute."
+  },
+  {
+    "id": "Novel-5f9dfcb6",
+    "question_type": "Fact Retrieval",
+    "question": "Who did Asaph Hall become charmed with during his visit to Rodman?",
+    "answer": "Asaph Hall was charmed with Ruth Stickney.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was charmed with Ruth Stickney."
+  },
+  {
+    "id": "Novel-d4f3ad82",
+    "question_type": "Fact Retrieval",
+    "question": "At which observatory did Asaph Hall begin his professional career in astronomy after moving to Cambridge?",
+    "answer": "Asaph Hall worked at Harvard Observatory.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall worked at Harvard Observatory."
+  },
+  {
+    "id": "Novel-a438f1ad",
+    "question_type": "Fact Retrieval",
+    "question": "Who received an invitation from Carrie Clark, according to the correspondence in the biography?",
+    "answer": "C. A. S. HALL received an invitation from Carrie Clark.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL received an invitation from Carrie Clark."
+  },
+  {
+    "id": "Novel-1e78dd0f",
+    "question_type": "Fact Retrieval",
+    "question": "Who accompanied Mrs. Hall on her travels in her later years?",
+    "answer": "Mrs. Hall was accompanied by Miss Sarah Waitt.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall was accompanied by Miss Sarah Waitt."
+  },
+  {
+    "id": "Novel-6c255c33",
+    "question_type": "Fact Retrieval",
+    "question": "What literary work did C. A. S. HALL read during her later years?",
+    "answer": "C. A. S. HALL read Prometheus Bound.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL read Prometheus Bound."
+  },
+  {
+    "id": "Novel-34c3dd3d",
+    "question_type": "Fact Retrieval",
+    "question": "Near which location was David Hall killed in battle, according to the family history?",
+    "answer": "David Hall was killed in battle near Lake George.",
+    "source": "Novel-58553",
+    "evidence": "David Hall was killed in battle near Lake George."
+  },
+  {
+    "id": "Novel-611ac003",
+    "question_type": "Fact Retrieval",
+    "question": "Who wrote a letter to Asaph, according to the family correspondence?",
+    "answer": "ANGELINE HALL wrote to ASAPH.",
+    "source": "Novel-58553",
+    "evidence": "ANGELINE HALL wrote to ASAPH."
+  },
+  {
+    "id": "Novel-bc1a34dd",
+    "question_type": "Fact Retrieval",
+    "question": "In which state did Mrs. Hall observe a total eclipse of the sun during her travels?",
+    "answer": "Mrs. Hall observed the total eclipse of the sun in Colorado.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall observed the total eclipse of the sun in Colorado."
+  },
+  {
+    "id": "Novel-04e27815",
+    "question_type": "Fact Retrieval",
+    "question": "What literary work was C. A. S. HALL working on in her later years?",
+    "answer": "C. A. S. HALL was working on Prometheus Unbound.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL was working on Prometheus Unbound."
+  },
+  {
+    "id": "Novel-21a6662e",
+    "question_type": "Fact Retrieval",
+    "question": "Where did C. A. S. HALL reside during her years in Washington, D.C.?",
+    "answer": "C. A. S. HALL lived on N Street.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL lived on N Street."
+  },
+  {
+    "id": "Novel-552983d2",
+    "question_type": "Fact Retrieval",
+    "question": "Which historical figure was associated with Asaph Hall 1st during the capture of Ticonderoga?",
+    "answer": "Asaph Hall 1st was with Ethan Allen at the capture of Ticonderoga.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall 1st was with Ethan Allen at the capture of Ticonderoga."
+  },
+  {
+    "id": "Novel-5179c591",
+    "question_type": "Fact Retrieval",
+    "question": "Which notable location did Mrs. Hall visit during her travels, as recounted in the biographical narrative?",
+    "answer": "Mrs. Hall visited Lake George.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall visited Lake George."
+  },
+  {
+    "id": "Novel-4bb6d825",
+    "question_type": "Fact Retrieval",
+    "question": "What did Chloe Angeline Stickney tell her sons about her birthday?",
+    "answer": "Chloe Angeline Stickney told her sons that her birthday fell on All Saints’ Day.",
+    "source": "Novel-58553",
+    "evidence": "Chloe Angeline Stickney told her sons that her birthday fell on All Saints’ Day."
+  },
+  {
+    "id": "Novel-bb0fe530",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Moses Stickney live before settling in the Black River Country?",
+    "answer": "Moses Stickney came from New Hampshire.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney came from New Hampshire."
+  },
+  {
+    "id": "Novel-08144fc9",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Theophilus Stickney reside during a significant period of his life?",
+    "answer": "He lived in Black River Country.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney lived in Black River Country."
+  },
+  {
+    "id": "Novel-deee1f4b",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Theophilus Stickney die?",
+    "answer": "He died in Rochester.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney died in Rochester."
+  },
+  {
+    "id": "Novel-fdfcf977",
+    "question_type": "Fact Retrieval",
+    "question": "Who was Electa's father?",
+    "answer": "Electa was the daughter of Elisha Cook.",
+    "source": "Novel-58553",
+    "evidence": "Electa was the daughter of Elisha Cook."
+  },
+  {
+    "id": "Novel-c06a99a5",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Elisha Cook travel after leaving Connecticut in the early 1800s?",
+    "answer": "Elisha Cook traveled to New York State and Lake Ontario.",
+    "source": "Novel-58553",
+    "evidence": "Elisha Cook traveled to New York State.; Elisha Cook traveled to Lake Ontario."
+  },
+  {
+    "id": "Novel-f3a5a8a3",
+    "question_type": "Fact Retrieval",
+    "question": "Who was Moses Stickney's wife?",
+    "answer": "Moses Stickney was married to Mary Hastings.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney was married to Mary Hastings."
+  },
+  {
+    "id": "Novel-db30377a",
+    "question_type": "Fact Retrieval",
+    "question": "In which town was Chloe Angeline Stickney, later known as Angeline Hall, born?",
+    "answer": "She was born in Rodman.",
+    "source": "Novel-58553",
+    "evidence": "Chloe Angeline Stickney was born in Rodman."
+  },
+  {
+    "id": "Novel-0f576b9d",
+    "question_type": "Fact Retrieval",
+    "question": "At which historic battle did Moses Stickney, the grandfather of Angeline Hall, fight during the American Revolution?",
+    "answer": "Moses Stickney fought at Bunker Hill.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney fought at Bunker Hill during the American Revolution."
+  },
+  {
+    "id": "Novel-7d90c178",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the husband of Huldah, establishing a family connection in the ancestry of Angeline Hall?",
+    "answer": "Elisha Cook was the husband of Huldah.",
+    "source": "Novel-58553",
+    "evidence": "Elisha Cook was the husband of Huldah."
+  },
+  {
+    "id": "Novel-d2b6f3bf",
+    "question_type": "Fact Retrieval",
+    "question": "In which town was Nellie, a relative of Angeline Hall, buried?",
+    "answer": "Nellie was buried in Rodman.",
+    "source": "Novel-58553",
+    "evidence": "Nellie was buried in Rodman."
+  },
+  {
+    "id": "Novel-58a3acce",
+    "question_type": "Fact Retrieval",
+    "question": "Whom did Theophilus Stickney, the father of Angeline Hall, marry?",
+    "answer": "Theophilus Stickney married Electa.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney married Electa."
+  },
+  {
+    "id": "Novel-4482bd32",
+    "question_type": "Fact Retrieval",
+    "question": "Who cared for Angeline Hall during her time of need?",
+    "answer": "Ruth took care of Angeline Hall during her time of need.",
+    "source": "Novel-58553",
+    "evidence": "Ruth took care of Angeline Hall during her time of need."
+  },
+  {
+    "id": "Novel-ecfaba9c",
+    "question_type": "Fact Retrieval",
+    "question": "What literary project was C. A. S. HALL, also known as Angeline Hall, working on near the end of her life?",
+    "answer": "C. A. S. HALL is working on Prometheus Unbound.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL is working on Prometheus Unbound."
+  },
+  {
+    "id": "Novel-ecf1e8d7",
+    "question_type": "Fact Retrieval",
+    "question": "In which city did Asaph Hall pursue his academic studies under Professor Brünnow?",
+    "answer": "Asaph Hall is in Ann Arbor.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall is in Ann Arbor while pursuing his academic studies."
+  },
+  {
+    "id": "Novel-51147943",
+    "question_type": "Fact Retrieval",
+    "question": "Who accompanied Mrs. Hall, also known as Angeline Hall, during her travels later in her life?",
+    "answer": "Mrs. Hall was accompanied by Miss Sarah Waitt.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall was accompanied by Miss Sarah Waitt during her travels."
+  },
+  {
+    "id": "Novel-6959b244",
+    "question_type": "Fact Retrieval",
+    "question": "What notable natural landmark did C. A. S. HALL, also known as Angeline Hall, see during her travels?",
+    "answer": "C. A. S. HALL saw Wilmington Notch.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL saw Wilmington Notch during her travels."
+  },
+  {
+    "id": "Novel-5d011928",
+    "question_type": "Fact Retrieval",
+    "question": "To whom did Angeline write letters during her marriage?",
+    "answer": "Angeline wrote letters to Asaph.",
+    "source": "Novel-58553",
+    "evidence": "Angeline wrote letters to Asaph."
+  },
+  {
+    "id": "Novel-f1c88331",
+    "question_type": "Fact Retrieval",
+    "question": "Which biblical book did Angeline Stickney quote in her writings, especially in the context of her advocacy against slavery?",
+    "answer": "Angeline Stickney quoted Deut.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney quoted the book of Deuteronomy."
+  },
+  {
+    "id": "Novel-554369df",
+    "question_type": "Fact Retrieval",
+    "question": "With whom was Ruth, the younger sister, especially close during her childhood in Rodman?",
+    "answer": "Ruth was companion of Angeline.",
+    "source": "Novel-58553",
+    "evidence": "Ruth was a close companion of Angeline."
+  },
+  {
+    "id": "Novel-cb2502ae",
+    "question_type": "Fact Retrieval",
+    "question": "Who taught the school that Angeline attended after moving to Wilna?",
+    "answer": "Angeline attended school taught by Edwin Ingalls.",
+    "source": "Novel-58553",
+    "evidence": "Angeline attended a school taught by Edwin Ingalls."
+  },
+  {
+    "id": "Novel-ccfae8e3",
+    "question_type": "Fact Retrieval",
+    "question": "Which individual is associated with the town of Rodman as their birthplace and childhood home in the biography?",
+    "answer": "Rodman is associated with Angeline Stickney.",
+    "source": "Novel-58553",
+    "evidence": "Rodman is associated with Angeline Stickney."
+  },
+  {
+    "id": "Novel-ce60ae6d",
+    "question_type": "Fact Retrieval",
+    "question": "In which town did Angeline Hall live for many years while raising her family?",
+    "answer": "Angeline Hall lived in Georgetown for many years.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall lived in Georgetown for many years."
+  },
+  {
+    "id": "Novel-35f3815e",
+    "question_type": "Fact Retrieval",
+    "question": "At which educational institution did Asaph Hall teach before his career in astronomy?",
+    "answer": "Asaph Hall taught at Shalersville Institute.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall taught at Shalersville Institute."
+  },
+  {
+    "id": "Novel-83ff7511",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence from the novel demonstrates C. A. S. HALL's literary education, particularly in relation to classical works?",
+    "answer": "C. A. S. HALL read 'Prometheus Bound' and is working on 'Prometheus Unbound.'",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL read 'Prometheus Bound.'; C. A. S. HALL is working on 'Prometheus Unbound.'"
+  },
+  {
+    "id": "Novel-5a2c0504",
+    "question_type": "Complex Reasoning",
+    "question": "What is Mrs. Hall's connection to Harvard College?",
+    "answer": "Mrs. Hall is connected to Harvard College through Angeline Hall, who was educated there.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall is connected to Harvard College through Angeline Hall.; Angeline Hall was educated at Harvard College."
+  },
+  {
+    "id": "Novel-38a8b852",
+    "question_type": "Complex Reasoning",
+    "question": "What is Percival's educational association with Harvard College?",
+    "answer": "Percival mastered the three R’s at Harvard College, as did Sam.",
+    "source": "Novel-58553",
+    "evidence": "Percival mastered the three R’s at Harvard College.; Sam also mastered the three R’s at Harvard College."
+  },
+  {
+    "id": "Novel-0b5acb42",
+    "question_type": "Complex Reasoning",
+    "question": "What specific evidence from the novel demonstrates that C. A. S. HALL was socially well-connected?",
+    "answer": "C. A. S. HALL received invitations from Carrie Clark, Mr. Berrien, and Mrs. King.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL received invitations from Carrie Clark.; C. A. S. HALL received invitations from Mr. Berrien.; C. A. S. HALL received invitations from Mrs. King."
+  },
+  {
+    "id": "Novel-535c413f",
+    "question_type": "Complex Reasoning",
+    "question": "What passages in the biography illustrate that Mrs. Hall traveled extensively or had a broad interest in travel?",
+    "answer": "Mrs. Hall observed the total eclipse of the sun in Colorado, visited Lake George and John Brown's farm, and longed to visit Europe.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall observed the total eclipse of the sun in Colorado.; Mrs. Hall visited Lake George.; Mrs. Hall visited John Brown's farm.; Mrs. Hall expressed her longing to visit Europe."
+  },
+  {
+    "id": "Novel-bce86fcf",
+    "question_type": "Complex Reasoning",
+    "question": "Why is Moses Stickney considered a significant figure in Washington’s army?",
+    "answer": "Moses Stickney is considered significant because he was in Washington’s army and fought at Bunker Hill.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney is considered significant in Washington’s army.; Moses Stickney fought at Bunker Hill."
+  },
+  {
+    "id": "Novel-a6155d9a",
+    "question_type": "Complex Reasoning",
+    "question": "What is Theophilus Stickney's connection to the War of 1812?",
+    "answer": "Theophilus Stickney lived during the War of 1812.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney lived during the War of 1812."
+  },
+  {
+    "id": "Novel-9b3c8ac0",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between Elisha Cook and the Black River Country?",
+    "answer": "Elisha Cook traveled to the Black River Country.",
+    "source": "Novel-58553",
+    "evidence": "Elisha Cook traveled to the Black River Country."
+  },
+  {
+    "id": "Novel-641dcaf5",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between Theophilus Stickney and Electa?",
+    "answer": "Theophilus Stickney was married to Electa.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney was married to Electa."
+  },
+  {
+    "id": "Novel-333a4a3b",
+    "question_type": "Complex Reasoning",
+    "question": "How are Moses Stickney and Daniel Gilman related?",
+    "answer": "Moses Stickney was the father-in-law of Daniel Gilman.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney was the father-in-law of Daniel Gilman."
+  },
+  {
+    "id": "Novel-01abc791",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between Asaph Hall and Angeline Stickney?",
+    "answer": "Angeline was loved by Asaph Hall (A. HALL).",
+    "source": "Novel-58553",
+    "evidence": "Angeline was loved by Asaph Hall."
+  },
+  {
+    "id": "Novel-7faeddee",
+    "question_type": "Complex Reasoning",
+    "question": "How did the Civil War impact Asaph Hall's career, and what was his involvement with Phillips?",
+    "answer": "Asaph Hall was raised to prominence by the Civil War and protected Wendell Phillips.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was raised to prominence by the Civil War.; Asaph Hall protected Wendell Phillips."
+  },
+  {
+    "id": "Novel-84ec68f0",
+    "question_type": "Complex Reasoning",
+    "question": "What was Asaph Hall's association with the Shalersville Institute, and who else taught there?",
+    "answer": "Asaph Hall and Angeline both taught at Shalersville Institute.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall taught at Shalersville Institute.; Angeline taught at Shalersville Institute."
+  },
+  {
+    "id": "Novel-c41cab28",
+    "question_type": "Complex Reasoning",
+    "question": "How is Angeline Stickney's education at New York Central College connected to prominent patrons such as Horace Greeley and John Pierpont?",
+    "answer": "Angeline Stickney received a degree from New York Central College, which was patronized by Horace Greeley.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney received a degree from New York Central College.; New York Central College was patronized by Horace Greeley."
+  },
+  {
+    "id": "Novel-f00f6356",
+    "question_type": "Complex Reasoning",
+    "question": "What was Asaph Hall's relationship with the Harvard Observatory?",
+    "answer": "Asaph Hall worked at the Harvard Observatory, which paid him.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall worked at the Harvard Observatory.; The Harvard Observatory paid Asaph Hall."
+  },
+  {
+    "id": "Novel-c22fc609",
+    "question_type": "Complex Reasoning",
+    "question": "What roles did Angeline Hall have in her teaching career according to the evidence provided?",
+    "answer": "Angeline Hall taught at the Shalersville Institute and was Sam's school teacher.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall taught at the Shalersville Institute.; Angeline Hall was Sam's school teacher."
+  },
+  {
+    "id": "Novel-e7ebb96c",
+    "question_type": "Complex Reasoning",
+    "question": "In what ways was Ruth connected to Angeline Stickney during their educational journey?",
+    "answer": "Ruth was with Angeline Stickney at McGrawville and wished to be with her.",
+    "source": "Novel-58553",
+    "evidence": "Ruth was with Angeline Stickney at McGrawville.; Ruth wished to be with Angeline Stickney."
+  },
+  {
+    "id": "Novel-c7bf38df",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence connects Moses Stickney to both Washington’s army and Mt. Monadnock?",
+    "answer": "Moses Stickney was in Washington’s army and lived near Mt. Monadnock.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney was in Washington’s army.; Moses Stickney lived near Mt. Monadnock."
+  },
+  {
+    "id": "Novel-833304f8",
+    "question_type": "Complex Reasoning",
+    "question": "What is Angeline Stickney's association with the field of Astronomy?",
+    "answer": "Angeline Stickney studied Astronomy and Mathematical Astronomy.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney studied Astronomy.; Angeline Stickney studied Mathematical Astronomy."
+  },
+  {
+    "id": "Novel-efd5b238",
+    "question_type": "Complex Reasoning",
+    "question": "What direct experiences did Asaph Hall have at Bull Run during the Civil War?",
+    "answer": "Asaph Hall heard the roar of cannon at Bull Run and hunted for wounded friends there.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall heard the roar of cannon at Bull Run.; Asaph Hall hunted for wounded friends at Bull Run."
+  },
+  {
+    "id": "Novel-52ca0ffb",
+    "question_type": "Complex Reasoning",
+    "question": "How did Angeline Hall demonstrate her interest in gardening?",
+    "answer": "Angeline Hall cultivated crocuses and English ivy.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall cultivated crocuses.; Angeline Hall cultivated English ivy."
+  },
+  {
+    "id": "Novel-16a39fa8",
+    "question_type": "Complex Reasoning",
+    "question": "According to the narrative, what literary works was C. A. S. HALL engaged with, specifically mentioning her reading of 'Prometheus Bound' and her work on 'Prometheus Unbound'?",
+    "answer": "C. A. S. HALL was working on 'Prometheus Unbound' and read 'Prometheus Bound.'",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. HALL was working on 'Prometheus Unbound'.; C. A. S. HALL read 'Prometheus Bound'."
+  },
+  {
+    "id": "Novel-a5d38351",
+    "question_type": "Complex Reasoning",
+    "question": "How was Theophilus Stickney associated with the War of 1812 and Daniel Gilman?",
+    "answer": "Theophilus Stickney lived during the War of 1812 and sought Daniel Gilman.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney lived during the War of 1812.; Theophilus Stickney sought Daniel Gilman."
+  },
+  {
+    "id": "Novel-7b682af7",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence is there of Asaph Hall's professional affiliations or appointments?",
+    "answer": "Asaph Hall was appointed at the U.S. Naval Observatory, and Mr. Hall might have the vacant place at the Naval Observatory.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall was appointed at the U.S. Naval Observatory.; Mr. Hall might have the vacant place at the Naval Observatory."
+  },
+  {
+    "id": "Novel-def9b488",
+    "question_type": "Complex Reasoning",
+    "question": "How do Angeline Hall's actions reflect her religious beliefs and principles?",
+    "answer": "Angeline Hall instilled moral principles in her sons and withdrew from the Unitarian Sunday School.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Hall instilled moral principles in her sons.; Angeline Hall withdrew from the Unitarian Sunday School."
+  },
+  {
+    "id": "Novel-950b879f",
+    "question_type": "Complex Reasoning",
+    "question": "What do the records reveal about Ruth's educational goals and her feelings regarding Angeline?",
+    "answer": "Ruth could go through the scientific course in two years after next spring term at college and felt lonely without Angeline.",
+    "source": "Novel-58553",
+    "evidence": "Ruth could go through the scientific course in two years after next spring term at college.; Ruth felt lonely without Angeline."
+  },
+  {
+    "id": "Novel-35afeb4b",
+    "question_type": "Complex Reasoning",
+    "question": "According to the evidence, what subjects did Angeline Stickney address in her writings?",
+    "answer": "Angeline Stickney wrote about Slavery and the Garden of Eden.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney wrote about Slavery.; Angeline Stickney wrote about the Garden of Eden."
+  },
+  {
+    "id": "Novel-8e47e516",
+    "question_type": "Complex Reasoning",
+    "question": "What role did Mrs. Hall play in Professor Hall’s observational work with the large Clark refractor?",
+    "answer": "Mrs. Hall encouraged Professor Hall, who then made a careful search with the large Clark refractor.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall encouraged Professor Hall.; Professor Hall made a careful search with the large Clark refractor."
+  },
+  {
+    "id": "Novel-e05c1bd8",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence is there of Mrs. Hall’s exposure to religious sermons during her time at college?",
+    "answer": "Mrs. Hall heard the sermons of Rev. F. D. Huntington, who preached at the college chapel.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall heard the sermons of Rev. F. D. Huntington.; Rev. F. D. Huntington preached at the college chapel."
+  },
+  {
+    "id": "Novel-50b92532",
+    "question_type": "Complex Reasoning",
+    "question": "What events suggest Mrs. Hall had an indirect connection to Georgetown?",
+    "answer": "Mrs. Hall wrote to Mary, who visited Georgetown.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall wrote to Mary.; Mary visited Georgetown."
+  },
+  {
+    "id": "Novel-dbf05650",
+    "question_type": "Complex Reasoning",
+    "question": "What connections exist between Asaph Hall’s wife and Moses Stickney through education and family?",
+    "answer": "Angeline, Asaph Hall's wife, attended school taught by Edwin Ingalls, whose wife Charlotte was the sister of Mary Stickney.",
+    "source": "Novel-58553",
+    "evidence": "Angeline, Asaph Hall's wife, attended school taught by Edwin Ingalls.; Charlotte, Edwin Ingalls' wife, was the sister of Mary Stickney."
+  },
+  {
+    "id": "Novel-2c5e5b5e",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence suggests that Mr. Hall reminded Mrs. Hall of something?",
+    "answer": "Mr. Hall reminded Mrs. Hall, as indicated by their correspondence.",
+    "source": "Novel-58553",
+    "evidence": "Mr. Hall reminded Mrs. Hall.; Their correspondence indicated that Mr. Hall reminded Mrs. Hall."
+  },
+  {
+    "id": "Novel-d6a4a3c5",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between Angeline Stickney’s journey to Wisconsin and her correspondence with Mr. Hall?",
+    "answer": "Angeline Stickney, who was heading to Wisconsin, wrote to Mr. Hall.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney was heading to Wisconsin.; Angeline Stickney wrote to Mr. Hall."
+  },
+  {
+    "id": "Novel-2eef29fc",
+    "question_type": "Complex Reasoning",
+    "question": "How is Angeline Stickney related to Moses Stickney in the novel?",
+    "answer": "Charlotte was the sister of Mary Stickney, Charlotte was Edwin Ingalls's wife, and Edwin Ingalls taught Angeline. Moses Stickney was the grandfather of Angeline Stickney.",
+    "source": "Novel-58553",
+    "evidence": "Charlotte was the sister of Mary Stickney.; Charlotte was the wife of Edwin Ingalls.; Edwin Ingalls taught Angeline.; Moses Stickney was the grandfather of Angeline Stickney."
+  },
+  {
+    "id": "Novel-bdd38dc1",
+    "question_type": "Complex Reasoning",
+    "question": "How is Mrs. Hall associated with Rev. F. D. Huntington’s sermons at a college chapel?",
+    "answer": "Mrs. Hall heard the sermons of Rev. F. D. Huntington, who preached at the college chapel.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall heard the sermons of Rev. F. D. Huntington.; Rev. F. D. Huntington preached at the college chapel."
+  },
+  {
+    "id": "Novel-699623ab",
+    "question_type": "Complex Reasoning",
+    "question": "How is Professor Hall’s search with the large Clark refractor indirectly encouraged by Mrs. Hall?",
+    "answer": "Mrs. Hall encouraged Professor Hall, who then made a careful search with the large Clark refractor.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall encouraged Professor Hall.; Professor Hall made a careful search with the large Clark refractor."
+  },
+  {
+    "id": "Novel-6bb8a85b",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence does the novel provide of Mrs. Hall's travel and exploration activities?",
+    "answer": "Although Mrs. Hall spent most of her life in her native country, the novel provides vivid glimpses of her adventurous spirit and longing for exploration. In 1878, she journeyed to Colorado with her young son Percival and her husband to witness the awe-inspiring total eclipse of the sun—a rare and memorable event. Her travels also took her to John Brown's farm and the tranquil shores of Lake George, often motivated by family ties and a desire for restorative escapes in nature. Despite these experiences, a poignant note lingers in the narrative: at the close of her life, Mrs. Hall yearned to visit Europe, a dream left unfulfilled as death intervened.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall observed a total eclipse of the sun in Colorado.; Mrs. Hall visited John Brown's farm.; Mrs. Hall visited Lake George.; Mrs. Hall expressed a longing to visit Europe."
+  },
+  {
+    "id": "Novel-d21811b0",
+    "question_type": "Contextual Summarize",
+    "question": "What details are given about Moses Stickney's military service in the narrative?",
+    "answer": "The narrative paints Moses Stickney as a stalwart figure of the Revolutionary era, whose pride in his military service was matched only by his enduring vigor. He was known for recounting tales of his time with Washington’s army, and tradition holds that he carried his long-barreled musket at the Battle of Bunker Hill. Even in old age, with bloodshot eyes and a frame still upright and strong, Moses remained a living testament to the trials and heroism of that formative conflict.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney served in Washington’s army.; Moses Stickney carried his musket at the Battle of Bunker Hill."
+  },
+  {
+    "id": "Novel-61d081d5",
+    "question_type": "Contextual Summarize",
+    "question": "How is Theophilus Stickney depicted in relation to the War of 1812 and the settlement of the Great Lakes region?",
+    "answer": "Theophilus Stickney is depicted as a man whose life was deeply intertwined with the era of the War of 1812 and the settlement of the Great Lakes region. He is remembered not only for living through those turbulent times, but also for his steadfast resolve to carve out a home on the shores of the Great Lakes. Despite the challenges and personal shortcomings he faced, Theophilus is portrayed as a generous, large-hearted pioneer, fond of music and song, whose spirit embodied both the old loyalties to New England and Old England and the new ambitions of the American frontier.",
+    "source": "Novel-58553",
+    "evidence": "Theophilus Stickney lived during the War of 1812.; Theophilus Stickney resolved to win a home on the shores of the Great Lakes."
+  },
+  {
+    "id": "Novel-46ec9d7b",
+    "question_type": "Contextual Summarize",
+    "question": "According to the subgraphs, what uses and products are associated with trees?",
+    "answer": "Sugar Maple is used for making furniture, trees are used for cooking victuals and to keep us warm, and sugar is made from Sugar Maple.",
+    "source": "Novel-58553",
+    "evidence": "Sugar Maple is used for making furniture.; Trees are used for cooking victuals.; Trees are used to keep us warm.; Sugar is made from Sugar Maple."
+  },
+  {
+    "id": "Novel-1565017b",
+    "question_type": "Contextual Summarize",
+    "question": "According to the subgraphs, what is the connection between glass and the discovery of planetary worlds?",
+    "answer": "Glass, with its remarkable clarity and versatility, is essential for crafting telescopes—those delicate instruments through which humanity has peered into the vastness of space. It is by the aid of glass that telescopes have been fashioned, and through these lenses, nearly all our knowledge of the mighty host of planetary worlds has been discovered. Thus, glass forms the very window through which the secrets of distant planets have been revealed to us.",
+    "source": "Novel-58553",
+    "evidence": "Glass is used to make telescopes.; Telescopes are used to discover planetary worlds."
+  },
+  {
+    "id": "Novel-51a4d6d2",
+    "question_type": "Contextual Summarize",
+    "question": "What connections do the subgraphs reveal between Americans and their cultural or political heritage?",
+    "answer": "Americans realized the dream of Brotherhood of Man, clung to the English Bible and the songs of Merrie England, and defied the political authority of the Old World.",
+    "source": "Novel-58553",
+    "evidence": "Americans realized the dream of Brotherhood of Man.; Americans clung to the English Bible.; Americans clung to the songs of Merrie England.; Americans defied the political authority of the Old World."
+  },
+  {
+    "id": "Novel-b08051d8",
+    "question_type": "Contextual Summarize",
+    "question": "According to the subgraphs, what role does potash play in the manufacturing of telescopes?",
+    "answer": "Potash, derived from the ashes of certain trees, plays a crucial role in the creation of glass. When combined with flint or sand and subjected to a strong fire, potash helps to melt these materials into glass—a substance indispensable to daily life. This very glass, once formed, becomes the essential material from which telescopes are crafted. Through these glass lenses, humanity has been able to peer into the vastness of the planetary worlds, unlocking knowledge that would otherwise remain hidden. Thus, potash is not merely a byproduct, but a vital link in the chain that leads from humble ashes to the powerful telescopes that expand our understanding of the universe.",
+    "source": "Novel-58553",
+    "evidence": "Potash is used for making glass.; Glass is used to make telescopes."
+  },
+  {
+    "id": "Novel-5df1a831",
+    "question_type": "Contextual Summarize",
+    "question": "What types of objects are classified as furniture according to the subgraphs?",
+    "answer": "Furniture includes tables, boards, and bureaus.",
+    "source": "Novel-58553",
+    "evidence": "Furniture includes tables.; Furniture includes boards.; Furniture includes bureaus."
+  },
+  {
+    "id": "Novel-5779b132",
+    "question_type": "Contextual Summarize",
+    "question": "What is the source of sugar as described in the subgraphs?",
+    "answer": "Sugar is made from the sap of the Sugar Maple tree, a process that highlights the remarkable usefulness of this tree. The sap is carefully collected and transformed into sugar, providing a valuable and sweet resource that is cherished in many households.",
+    "source": "Novel-58553",
+    "evidence": "Sugar is made from Sugar Maple."
+  },
+  {
+    "id": "Novel-dfb56ae9",
+    "question_type": "Contextual Summarize",
+    "question": "How are ashes involved in the production of glass, according to the subgraphs?",
+    "answer": "Ashes, far from being mere waste, are put to valuable use by being transformed into potash. With the help of flint or sand and a strong fire, this potash becomes an essential ingredient in the making of glass—a material that brings light into our homes, aids the elderly in seeing, and even enables the construction of telescopes that reveal the wonders of the planetary worlds.",
+    "source": "Novel-58553",
+    "evidence": "Ashes are used for making potash.; Potash is used for making glass."
+  },
+  {
+    "id": "Novel-37ade7a5",
+    "question_type": "Complex Reasoning",
+    "question": "What cultural elements did Americans cling to as per the subgraphs?",
+    "answer": "Americans clung tenaciously to the English Bible and the cherished songs of Merrie England, holding fast to these cultural touchstones as enduring links to their ancestral heritage even as other customs and phrases faded into obscurity.",
+    "source": "Novel-58553",
+    "evidence": "Americans clung to the English Bible.; Americans clung to the songs of Merrie England."
+  },
+  {
+    "id": "Novel-50c09918",
+    "question_type": "Contextual Summarize",
+    "question": "How did Americans express their defiance towards the Old World according to the subgraphs?",
+    "answer": "Americans expressed their defiance towards the Old World by openly rejecting its political authority, drawing inspiration from revolutionary acts such as boycotting English goods and embracing their own locally made products, thereby asserting their independence and determination to forge a distinct identity.",
+    "source": "Novel-58553",
+    "evidence": "Americans defied the political authority of the Old World."
+  },
+  {
+    "id": "Novel-62476085",
+    "question_type": "Contextual Summarize",
+    "question": "How are glass and telescopes connected in the context of the subgraphs?",
+    "answer": "Glass, crafted from the ashes of useful trees and refined with care, forms the very heart of telescopes. Through these glass lenses, humanity has been able to peer into the vastness of the planetary worlds, unlocking knowledge that would otherwise remain forever hidden. Thus, in the context of the subgraphs, glass is not merely a material, but the essential medium through which telescopes reveal the mysteries of the universe.",
+    "source": "Novel-58553",
+    "evidence": "Glass is used to make telescopes."
+  },
+  {
+    "id": "Novel-e1ea6840",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative of 'An Astronomer's Wife', how are family relationships and educational influences depicted through the connections between Angeline Stickney, who attended school taught by Edwin Ingalls (later a settler in Wisconsin), and her later marriage to Asaph Hall?",
+    "answer": "The narrative weaves a rich tapestry of family relationships and educational influences through Angeline Stickney’s life. Orphaned at a young age, Angeline found guidance and support within her extended family, living with her sister Charlotte and her husband, Edwin Ingalls. Edwin, a man of character and resourcefulness, not only became a familial anchor but also served as Angeline’s schoolteacher, nurturing her early love of learning. Their journeys—Edwin and Charlotte’s eventual move to Wisconsin, Angeline’s own path as both student and teacher—reflect the close interconnection between kinship and education. Later, Angeline’s marriage to Asaph Hall further entwines these personal and intellectual threads, illustrating how family bonds and educational mentorship shaped her life and legacy.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney attended school taught by Edwin Ingalls.; Edwin Ingalls later settled in Wisconsin.; Angeline Stickney became the wife of Asaph Hall.; The relationships highlight the intertwining of education and family ties."
+  },
+  {
+    "id": "Novel-ab511ca1",
+    "question_type": "Contextual Summarize",
+    "question": "Within the Hall family as described in 'An Astronomer's Wife', what patterns of correspondence and support among family members are evident, considering that Angeline Stickney wrote to Mr. Hall, Angeline Hall wrote to Mary, and C. A. S. HALL is shown writing to Percival?",
+    "answer": "The Hall family’s pattern of correspondence reveals a web of ongoing communication and heartfelt support. Angeline Stickney’s letters to Mr. Hall brim with affection and longing, sometimes offering practical directions and at other times expressing deep disappointment when plans go awry. Angeline Hall’s letters to Mary, and C. A. S. HALL’s messages to Percival, further illustrate a family that remains closely knit despite physical distances. Through these exchanges, sympathy, advice, and encouragement flow freely, sustaining bonds and offering comfort during times of separation or hardship.",
+    "source": "Novel-58553",
+    "evidence": "Angeline Stickney wrote to Mr. Hall.; Angeline Hall wrote to Mary.; C. A. S. HALL wrote to Percival.; These writings indicate ongoing communication and support within the family."
+  },
+  {
+    "id": "Novel-2e5bd777",
+    "question_type": "Contextual Summarize",
+    "question": "What does the migration and settlement narrative involving Angeline Stickney and Edwin Ingalls reveal about westward movement and interconnectedness, given that Edwin Ingalls, who taught Angeline, eventually settled in Wisconsin, which was also a destination for Angeline Stickney?",
+    "answer": "The narrative of Angeline Stickney and Edwin Ingalls is woven with the threads of westward migration and enduring personal connections. Edwin Ingalls, once Angeline’s teacher and later her brother-in-law, became a pioneer in Wisconsin—a destination that would also draw Angeline herself. Their intertwined journeys reflect not only the spirit of westward movement but also the way education, family ties, and shared aspirations shaped the paths of those seeking new beginnings on the frontier.",
+    "source": "Novel-58553",
+    "evidence": "Edwin Ingalls taught Angeline Stickney.; Edwin Ingalls eventually settled in Wisconsin.; Wisconsin was also the destination for Angeline Stickney.; This indicates a westward movement and interconnectedness between education and migration."
+  },
+  {
+    "id": "Novel-8b03247a",
+    "question_type": "Contextual Summarize",
+    "question": "How do the logical chains in 'An Astronomer's Wife' illustrate the involvement of multiple generations within the family lineage, as seen in Moses Stickney being the grandfather of Angeline Stickney, who later becomes the wife of Asaph Hall?",
+    "answer": "The logical chains intricately trace the threads of family lineage across multiple generations, vividly illustrating how figures like Moses Stickney—Revolutionary War veteran and patriarch—stand as the grandfather of Angeline Stickney. Through these connections, the narrative not only highlights Moses’s enduring legacy but also follows the lineage forward to Angeline, who later becomes the wife of Asaph Hall. In doing so, the story weaves together the lives, virtues, and histories of ancestors and descendants, creating a rich, multi-generational tapestry that underscores the enduring influence of family heritage.",
+    "source": "Novel-58553",
+    "evidence": "Moses Stickney is the grandfather of Angeline Stickney.; Angeline Stickney later becomes the wife of Asaph Hall.; The chains detail relationships spanning several generations.; This illustrates a multi-generational family narrative."
+  },
+  {
+    "id": "Novel-6a7c5328",
+    "question_type": "Contextual Summarize",
+    "question": "How is the theme of mentorship or influence depicted through educational and familial links in 'An Astronomer's Wife', considering that Angeline Stickney attended school taught by Edwin Ingalls, who himself is described as a person of character and thrift like his wife Charlotte Ingalls?",
+    "answer": "The theme of mentorship and influence is brought to life through the educational and familial bonds surrounding Angeline Stickney. Edwin Ingalls, her teacher and brother-in-law, emerges as a guiding figure—his cheery encouragement and steadfast character offering Angeline both comfort and inspiration during a turbulent period in her youth. Like his wife Charlotte, Edwin is portrayed as a person of character and thrift, embodying the values of resilience and industriousness. Their example, both in the classroom and at home, fosters in Angeline a love of learning and a habit of independent study, suggesting that the positive influence of mentors and family can shape a young mind across generations.",
+    "source": "Novel-58553",
+    "evidence": "Edwin Ingalls is depicted as a mentor to Angeline Stickney.; Edwin Ingalls taught Angeline Stickney.; Edwin Ingalls is described as a person of character.; Edwin Ingalls is described as a person of thrift.; Charlotte Ingalls is described as a person of character and thrift.; The relationship suggests a lineage of positive influence."
+  },
+  {
+    "id": "Novel-c1630df1",
+    "question_type": "Contextual Summarize",
+    "question": "How do the intellectual and social connections of the Hall family extend beyond immediate relatives in 'An Astronomer's Wife', as illustrated by Mrs. Hall's knowledge of Mr. Pritchett's language and her attendance at sermons by Rev. F. D. Huntington?",
+    "answer": "Connections extend to figures such as Mr. Pritchett, whose language Mrs. Hall knew, and Rev. F. D. Huntington, whose sermons Mrs. Hall heard, illustrating the family's broader intellectual and social network.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall knew Mr. Pritchett's language.; Mrs. Hall attended sermons by Rev. F. D. Huntington.; The Hall family's connections extend beyond immediate relatives.; Mr. Pritchett is a figure connected to the Hall family.; Rev. F. D. Huntington is a figure connected to the Hall family."
+  },
+  {
+    "id": "Novel-1a4899a9",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of 'An Astronomer's Wife', how is encouragement and support for academic or scientific endeavors depicted within the Hall family?",
+    "answer": "Mrs. Hall’s encouragement is depicted as both heartfelt and practical—her unwavering enthusiasm for Professor Hall’s work inspires him to persist in his search with the Clark refractor, even when the odds seem slim. Each night, she sends him to the observatory with a nourishing lunch and awaits his return with eager anticipation, her support creating an atmosphere of excitement and unity within the family. This nurturing presence not only bolsters Professor Hall’s resolve but also draws the entire household closer together, underscoring the vital role of encouragement and support in their academic and scientific pursuits.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall is shown encouraging Professor Hall.; Professor Hall made a careful search with the Clark refractor.; Mrs. Hall's encouragement highlights her supportive role in Professor Hall's work."
+  },
+  {
+    "id": "Novel-683d976c",
+    "question_type": "Contextual Summarize",
+    "question": "What role does education play within the Hall family narrative as depicted in 'An Astronomer's Wife', considering Angeline's attendance at a school taught by Edwin Ingalls and Mrs. Hall's exposure to sermons by Rev. F. D. Huntington?",
+    "answer": "Education weaves itself throughout the Hall family narrative, shaping both character and destiny. Angeline’s attendance at the school taught by Edwin Ingalls is more than a routine of lessons; it is a testament to her early thirst for knowledge, as she eagerly pursues studies in natural philosophy and devours history books outside of class. This intellectual curiosity is mirrored in Mrs. Hall’s exposure to the thoughtful sermons of Rev. F. D. Huntington and other cultural influences, suggesting that learning—whether formal or informal—holds a place of deep significance within the family. The narrative paints education not merely as a background detail, but as a vital force nurturing resilience, independence, and a lifelong habit of inquiry.",
+    "source": "Novel-58553",
+    "evidence": "Education is a recurring theme in the Hall family narrative.; Angeline attended a school taught by Edwin Ingalls.; Mrs. Hall was exposed to sermons by Rev. F. D. Huntington.; Other intellectual influences are part of Mrs. Hall's education."
+  },
+  {
+    "id": "Novel-40077fb0",
+    "question_type": "Contextual Summarize",
+    "question": "How is the interconnectedness of the Hall and Stickney families portrayed in 'An Astronomer's Wife', specifically through the marriage of Asaph Hall and Angeline Stickney, and the lineage connecting Moses Stickney as grandfather to Angeline Stickney?",
+    "answer": "The interconnectedness of the Hall and Stickney families is vividly portrayed through both lineage and union. The marriage of Asaph Hall and Angeline Stickney serves as a living bridge between two storied families, their histories entwined not only by affection but by shared values and legacy. Angeline’s direct descent from Moses Stickney—her paternal grandfather, a figure remembered for his strength and longevity—anchors her firmly within a lineage of resilience and distinction. Through these generational ties and the union of Asaph and Angeline, the narrative reveals a tapestry of family bonds that stretch across time, linking past and present in a continuous thread of heritage.",
+    "source": "Novel-58553",
+    "evidence": "Asaph Hall married Angeline Stickney.; Moses Stickney is the grandfather of Angeline Stickney.; The marriage and lineage illustrate the interconnectedness of the Hall and Stickney families."
+  },
+  {
+    "id": "Novel-7e9dd8e6",
+    "question_type": "Contextual Summarize",
+    "question": "How is the theme of encouragement and achievement highlighted in the Hall family's scientific pursuits?",
+    "answer": "The theme of encouragement and achievement is vividly brought to life through the Hall family's dynamic, particularly in the way Mrs. Hall's unwavering enthusiasm and support fuel Professor Hall's scientific pursuits. Though she may not fully grasp the complexities of his astronomical research, Mrs. Hall's faith in her husband never wavers. Each night, she sends him off to the observatory with a nourishing lunch and a heart full of hope, eagerly awaiting news of his discoveries. Professor Hall himself acknowledges that he might have abandoned the daunting search for a Martian satellite—given the slim odds and the weight of prior failed attempts—if not for his wife's steadfast encouragement. Her belief in him becomes a quiet but powerful force, drawing the family closer together and imbuing his careful, methodical work with a sense of shared purpose and emotional support. In this way, the Hall family's story beautifully illustrates how encouragement within the home can inspire perseverance and lead to remarkable scientific achievement.",
+    "source": "Novel-58553",
+    "evidence": "Mrs. Hall encourages Professor Hall.; Professor Hall uses the Clark refractor for careful searching.; Family support impacts scientific efforts in the Hall family."
+  },
+  {
+    "id": "Novel-c338ba28",
+    "question_type": "Contextual Summarize",
+    "question": "How do the logical chains in 'An Astronomer's Wife' reflect ongoing correspondence and emotional ties among family members, as seen in the exchange of letters between Angeline Stickney and Mr. Hall, Mrs. Hall and Mary, and C. A. S. HALL and Percival?",
+    "answer": "The ongoing exchange of letters among Angeline Stickney and Mr. Hall, Mrs. Hall and Mary, and C. A. S. HALL and Percival serves as a poignant testament to the enduring emotional bonds and thoughtful communication that knit the family together. These correspondences are more than mere updates; they are vessels for longing, encouragement, and affection, carrying heartfelt messages across distances and time. Whether it is Angeline's tender words to Mr. Hall during her travels, expressing both her hopes and her disappointments, or the affectionate notes exchanged between other family members, each letter weaves a thread of connection that sustains their relationships. Through these logical chains of correspondence, the family's emotional life is revealed—full of longing, reassurance, and the quiet strength that comes from knowing one is loved and remembered, no matter how far apart they may be.",
+    "source": "Novel-58553",
+    "evidence": "Letters are exchanged between Angeline Stickney and Mr. Hall.; Letters are exchanged between Mrs. Hall and Mary.; Letters are exchanged between C. A. S. HALL and Percival.; The exchanges reflect strong emotional ties among family members."
+  },
+  {
+    "id": "Novel-b7aacdf9",
+    "question_type": "Contextual Summarize",
+    "question": "What evidence is provided in 'An Astronomer's Wife' of family members acting as companions or supporters during events and travels?",
+    "answer": "The narrative vividly illustrates the spirit of family companionship and support: Percival is seen accompanying Mrs. Hall, providing her with company and assistance during her activities, while Mrs. Hall herself is a steadfast source of encouragement for Professor Hall. Her unwavering enthusiasm for his astronomical pursuits is evident—each night, she sends him to the observatory with a nourishing lunch and awaits his return with eager anticipation. This mutual devotion and encouragement among family members not only strengthens their bonds but also sustains them through the challenges and triumphs of their endeavors and travels.",
+    "source": "Novel-58553",
+    "evidence": "Percival is shown accompanying Mrs. Hall.; Mrs. Hall encourages Professor Hall.; The actions indicate family companionship during various activities."
+  },
+  {
+    "id": "Novel-8c4b4b2f",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Ruth. Write a diary entry about your relationship with Angeline Hall and how you are doing.",
+    "answer": "Diary Entry — Living with Angeline Hall has been a blessing. She always looks out for me and ensures I am well cared for. I am happy to say that I am doing well, and I feel at home with her and the rest of the family. Watching the boys help Sam with their tasks has been heartwarming.",
+    "source": "Novel-58553",
+    "evidence": "Living with Angeline Hall has been a blessing for Ruth.; Angeline Hall looks out for Ruth.; Angeline Hall ensures Ruth is well cared for.; Ruth feels at home with Angeline Hall and the rest of the family.; Ruth finds it heartwarming to watch the boys help Sam with their tasks."
+  },
+  {
+    "id": "Novel-65be7ca5",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the sequence of C. A. S. Hall thinking of Asaph Hall and writing to Percival as a reflective diary entry.",
+    "answer": "Diary Entry — Today, as I wrote to Percival, thoughts of Asaph Hall crossed my mind. His example inspires me to continue working diligently. Sam has been a great help lately, thanks to Angeline Hall's organization of the boys. Our family ties run deep, and I am grateful for their support.",
+    "source": "Novel-58553",
+    "evidence": "C. A. S. Hall thought of Asaph Hall while writing to Percival.; Asaph Hall's example inspires C. A. S. Hall to work diligently.; Sam has been a great help to C. A. S. Hall lately.; Angeline Hall organized the boys to help Sam.; C. A. S. Hall is grateful for the family's support."
+  }
+]

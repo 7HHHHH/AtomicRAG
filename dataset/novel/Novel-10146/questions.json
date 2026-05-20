@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "Novel-d33c7c47",
+    "question_type": "Fact Retrieval",
+    "question": "During the events of the Sioux outbreak described in the novel, who was the commanding officer of Company B of the Fifth regiment that was sent to respond to the initial hostilities at the upper agency?",
+    "answer": "Capt. Marsh commanded Company B of the Fifth regiment.",
+    "source": "Novel-10146",
+    "evidence": "Capt. Marsh commanded Company B of the Fifth regiment.; Company B of the Fifth regiment was sent to respond to initial hostilities at the upper agency."
+  },
+  {
+    "id": "Novel-cbf3a899",
+    "question_type": "Fact Retrieval",
+    "question": "Within the historical account of the St. Paul fire department, which fire company, originally an active participant, was eventually replaced by St. Paul Hose Company No. 1?",
+    "answer": "Hope Engine Company No. 1 participated in the St. Paul fire department and was replaced by St. Paul Hose Company No. 1.",
+    "source": "Novel-10146",
+    "evidence": "Hope Engine Company No. 1 participated in the St. Paul fire department.; Hope Engine Company No. 1 was replaced by St. Paul Hose Company No. 1."
+  },
+  {
+    "id": "Novel-5847f72a",
+    "question_type": "Fact Retrieval",
+    "question": "When the town of Corinth was threatened by rebel forces during the Civil War, how did it respond?",
+    "answer": "Corinth retreated from the rebels.",
+    "source": "Novel-10146",
+    "evidence": "Corinth retreated from the rebels during the Civil War."
+  },
+  {
+    "id": "Novel-b96942cc",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the Civil War events surrounding Pittsburg Landing, how is the location of Pittsburg described in relation to Crump's Landing?",
+    "answer": "Pittsburg is near Crump's Landing.",
+    "source": "Novel-10146",
+    "evidence": "Pittsburg is near Crump's Landing."
+  },
+  {
+    "id": "Novel-f7f1757f",
+    "question_type": "Fact Retrieval",
+    "question": "During the period of unrest in Kentucky and Ohio described in the narrative, who was the leader of the marauding forces operating in Ohio?",
+    "answer": "Morgan led marauders in Ohio.",
+    "source": "Novel-10146",
+    "evidence": "Morgan led marauders in Ohio during the period of unrest."
+  },
+  {
+    "id": "Novel-c1efee91",
+    "question_type": "Fact Retrieval",
+    "question": "To which location was Capt. Shelly ordered to provide relief during the Civil War events recounted in the novel?",
+    "answer": "Capt. Shelly was ordered to the relief of Fort Donelson.",
+    "source": "Novel-10146",
+    "evidence": "Capt. Shelly was ordered to provide relief during the Civil War.; Capt. Shelly was ordered to the relief of Fort Donelson."
+  },
+  {
+    "id": "Novel-1d1d9414",
+    "question_type": "Fact Retrieval",
+    "question": "Who was responsible for constructing the Winslow House, one of the significant hotels mentioned during St. Paul's early history in the novel?",
+    "answer": "J.M. Winslow constructed the Winslow House.",
+    "source": "Novel-10146",
+    "evidence": "J.M. Winslow constructed the Winslow House.; The Winslow House is one of the significant hotels mentioned during St. Paul's early history."
+  },
+  {
+    "id": "Novel-0a4ab9d6",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative, how were Lafayette S. Emmett and Dan Emmet related?",
+    "answer": "Lafayette S. Emmett was a brother of Dan Emmet.",
+    "source": "Novel-10146",
+    "evidence": "Lafayette S. Emmett was a brother of Dan Emmet."
+  },
+  {
+    "id": "Novel-d6553e21",
+    "question_type": "Fact Retrieval",
+    "question": "During the elaborate parade celebrating the successful laying of the Atlantic cable in St. Paul, who portrayed a prominent historical figure in the procession?",
+    "answer": "Col. R.E.J. Miles represented George Washington during the parade.",
+    "source": "Novel-10146",
+    "evidence": "Col. R.E.J. Miles represented George Washington during the parade."
+  },
+  {
+    "id": "Novel-81fe9edb",
+    "question_type": "Fact Retrieval",
+    "question": "In the historical events described, which prominent political figure made the International hotel in St. Paul his headquarters during his visit?",
+    "answer": "The International hotel was made headquarters by William H. Seward.",
+    "source": "Novel-10146",
+    "evidence": "William H. Seward made the International hotel his headquarters during his visit."
+  },
+  {
+    "id": "Novel-f059dea2",
+    "question_type": "Fact Retrieval",
+    "question": "At which intersection in St. Paul was the International hotel, a significant site during the events described, located?",
+    "answer": "The International hotel was located on Seventh and Jackson streets.",
+    "source": "Novel-10146",
+    "evidence": "The International hotel was located on Seventh and Jackson streets."
+  },
+  {
+    "id": "Novel-fcf0f880",
+    "question_type": "Fact Retrieval",
+    "question": "During the parade in which Col. R.E.J. Miles portrayed George Washington, who accompanied him in the line of march?",
+    "answer": "Miss Emily Dow was in the line of march with Col. R.E.J. Miles.",
+    "source": "Novel-10146",
+    "evidence": "Miss Emily Dow was in the line of march with Col. R.E.J. Miles."
+  },
+  {
+    "id": "Novel-942fc620",
+    "question_type": "Fact Retrieval",
+    "question": "During the grand parade held in St. Paul to celebrate the Atlantic cable, who portrayed a notable female historical figure?",
+    "answer": "Miss Emily Dow represented Martha Washington during the parade.",
+    "source": "Novel-10146",
+    "evidence": "Miss Emily Dow represented Martha Washington during the parade."
+  },
+  {
+    "id": "Novel-574362f8",
+    "question_type": "Fact Retrieval",
+    "question": "Where in St. Paul was the Windsor hotel situated, according to the narrative's account of city landmarks?",
+    "answer": "The Windsor hotel was located at the intersection of Fifth street and St. Peter street.",
+    "source": "Novel-10146",
+    "evidence": "The Windsor hotel was located at the intersection of Fifth street and St. Peter street."
+  },
+  {
+    "id": "Novel-061d8a5d",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the individual responsible for building the Carpenter house, one of the notable hotels mentioned in the novel's history of St. Paul?",
+    "answer": "The Carpenter house was built by Warren Carpenter.",
+    "source": "Novel-10146",
+    "evidence": "The Carpenter house was built by Warren Carpenter."
+  },
+  {
+    "id": "Novel-968bc9b0",
+    "question_type": "Fact Retrieval",
+    "question": "According to the descriptions of St. Paul's historic hotels, who served as the proprietor of the Greenman house?",
+    "answer": "Mr. Greenman kept the Greenman house.",
+    "source": "Novel-10146",
+    "evidence": "Mr. Greenman kept the Greenman house."
+  },
+  {
+    "id": "Novel-667a422d",
+    "question_type": "Fact Retrieval",
+    "question": "Who constructed the Rice house, recognized as one of the first brick buildings and principal hotels in early St. Paul?",
+    "answer": "Henry M. Rice constructed the Rice house.",
+    "source": "Novel-10146",
+    "evidence": "Henry M. Rice constructed the Rice house."
+  },
+  {
+    "id": "Novel-8ecbbc64",
+    "question_type": "Fact Retrieval",
+    "question": "By what means did St. Paul merchants receive their goods during the era when steamboat transportation was unavailable in the winter months, as described in the historical account?",
+    "answer": "St. Paul received goods by Burbank's express.",
+    "source": "Novel-10146",
+    "evidence": "St. Paul received goods by Burbank's express."
+  },
+  {
+    "id": "Novel-a316de2b",
+    "question_type": "Fact Retrieval",
+    "question": "During the turbulent period described in the narrative, which European country was preparing for military action involving Mexico?",
+    "answer": "France was preparing to invade Mexico.",
+    "source": "Novel-10146",
+    "evidence": "France was preparing to invade Mexico."
+  },
+  {
+    "id": "Novel-8dc2b8ae",
+    "question_type": "Fact Retrieval",
+    "question": "What was the name of a notable hotel mentioned in the novel during St. Paul's early history?",
+    "answer": "St. Paul had the Sintominie hotel.",
+    "source": "Novel-10146",
+    "evidence": "St. Paul had the Sintominie hotel."
+  },
+  {
+    "id": "Novel-c32bf962",
+    "question_type": "Fact Retrieval",
+    "question": "Upon arriving with a hand press and type to start the territory's first newspaper, in which city did James M. Goodhue settle?",
+    "answer": "James M. Goodhue arrived in St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "James M. Goodhue arrived in St. Paul."
+  },
+  {
+    "id": "Novel-1e5c8043",
+    "question_type": "Fact Retrieval",
+    "question": "During the political events narrated, where did State Senator W.H. Seward deliver a significant speech to local residents?",
+    "answer": "State Senator W.H. Seward made a speech in St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "State Senator W.H. Seward made a speech in St. Paul."
+  },
+  {
+    "id": "Novel-785a85b8",
+    "question_type": "Fact Retrieval",
+    "question": "Which Senator is mentioned in the narrative as visiting as part of a group of Republican statesmen and politicians?",
+    "answer": "Senator Nye visited St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "Senator Nye visited St. Paul."
+  },
+  {
+    "id": "Novel-e21933a7",
+    "question_type": "Fact Retrieval",
+    "question": "Where was the Daily Minnesotian newspaper based during the historical events described in the novel?",
+    "answer": "The Daily Minnesotian was located in St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "The Daily Minnesotian was located in St. Paul."
+  },
+  {
+    "id": "Novel-cf92674c",
+    "question_type": "Fact Retrieval",
+    "question": "What is the name of an avenue mentioned among the city's notable streets in the historical narrative?",
+    "answer": "St. Paul had Marshall avenue.",
+    "source": "Novel-10146",
+    "evidence": "St. Paul had Marshall avenue."
+  },
+  {
+    "id": "Novel-6b1a0d52",
+    "question_type": "Fact Retrieval",
+    "question": "Who organized Brackett's battalion, a military unit referenced in the Civil War section of the narrative?",
+    "answer": "Capt. E.Y. Shelly organized Brackett's battalion.",
+    "source": "Novel-10146",
+    "evidence": "Capt. E.Y. Shelly organized Brackett's battalion."
+  },
+  {
+    "id": "Novel-57794d1f",
+    "question_type": "Fact Retrieval",
+    "question": "On which street was the Concert Hall building, a significant venue for public gatherings and performances, located?",
+    "answer": "The Concert Hall building was on Third street.",
+    "source": "Novel-10146",
+    "evidence": "The Concert Hall building was on Third street."
+  },
+  {
+    "id": "Novel-bfecbf96",
+    "question_type": "Fact Retrieval",
+    "question": "Where was the Minnehaha Engine Company, one of the key volunteer fire organizations, based according to the historical account?",
+    "answer": "Minnehaha Engine Company was in St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "Minnehaha Engine Company was in St. Paul."
+  },
+  {
+    "id": "Novel-a8a15d1c",
+    "question_type": "Fact Retrieval",
+    "question": "Who held the command of the Department of the Cumberland during the Civil War campaigns as detailed in the narrative?",
+    "answer": "Gen. W.T. Sherman commanded the Department of the Cumberland.",
+    "source": "Novel-10146",
+    "evidence": "Gen. W.T. Sherman commanded the Department of the Cumberland during the Civil War campaigns."
+  },
+  {
+    "id": "Novel-f0ffe14a",
+    "question_type": "Fact Retrieval",
+    "question": "According to the historical recounting of military leadership conflicts, who gave the order for the arrest of Gen. Grant during the Civil War?",
+    "answer": "Gen. McClellan ordered the arrest of Gen. Grant.",
+    "source": "Novel-10146",
+    "evidence": "Gen. McClellan ordered the arrest of Gen. Grant during the Civil War."
+  },
+  {
+    "id": "Novel-d7f0ce35",
+    "question_type": "Fact Retrieval",
+    "question": "What sentiments did the Hutchinson family express in their songs to the Army of the Potomac, leading to their expulsion as described in the narrative?",
+    "answer": "The Hutchinson family expressed abolition sentiments in songs to the Army of the Potomac.",
+    "source": "Novel-10146",
+    "evidence": "The Hutchinson family expressed abolition sentiments in their songs.; The Hutchinson family sang to the Army of the Potomac."
+  },
+  {
+    "id": "Novel-cb5dbe64",
+    "question_type": "Fact Retrieval",
+    "question": "During the Civil War battles described, which general joined forces with Gen. Grant to strengthen the Union army?",
+    "answer": "Gen. Buell joined with Gen. Grant.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Buell joined forces with Gen. Grant.; Gen. Buell strengthened the Union army."
+  },
+  {
+    "id": "Novel-bd3231a3",
+    "question_type": "Fact Retrieval",
+    "question": "Who assumed command of the First Minnesota battery after Capt. Munch was wounded at the Battle of Pittsburg Landing?",
+    "answer": "Lieut. Pfaender took command of the First Minnesota battery.",
+    "source": "Novel-10146",
+    "evidence": "Lieut. Pfaender took command of the First Minnesota battery after Capt. Munch was wounded."
+  },
+  {
+    "id": "Novel-70de414c",
+    "question_type": "Fact Retrieval",
+    "question": "From which location was Gen. Grant preparing to depart before being convinced to remain by Gen. Sherman, according to the account of post-battle events?",
+    "answer": "Gen. Grant was about to depart from Pittsburg Landing.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Grant was about to depart from Pittsburg Landing.; Gen. Sherman convinced Gen. Grant to remain at Pittsburg Landing."
+  },
+  {
+    "id": "Novel-6510c47b",
+    "question_type": "Fact Retrieval",
+    "question": "During the second day of the Battle of Pittsburg Landing, which group began to show signs of wanting to withdraw from the confrontation with Union forces?",
+    "answer": "The enemy began to evince a desire to withdraw from the Union.",
+    "source": "Novel-10146",
+    "evidence": "The enemy began to show signs of wanting to withdraw from the confrontation with Union forces on the second day of the Battle of Pittsburg Landing."
+  },
+  {
+    "id": "Novel-a8be7477",
+    "question_type": "Fact Retrieval",
+    "question": "From what source did Gen. Grant learn the full extent of the accusations made against him during his military service, as later revealed in historical research?",
+    "answer": "Gen. Grant learned the full extent of the accusations against him from Gen. Badeau's research in the war department archives.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Grant learned the full extent of the accusations against him from Gen. Badeau's research.; Gen. Badeau's research was conducted in the war department archives."
+  },
+  {
+    "id": "Novel-a920039e",
+    "question_type": "Fact Retrieval",
+    "question": "From which strategic location did Gen. Albert Sidney Johnston withdraw Confederate troops during the Civil War campaigns recounted in the narrative?",
+    "answer": "Gen. Albert Sidney Johnston withdrew troops from Bowling Green.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Albert Sidney Johnston withdrew Confederate troops from Bowling Green."
+  },
+  {
+    "id": "Novel-3bcf09db",
+    "question_type": "Fact Retrieval",
+    "question": "What type of contributions did John W. Sickels make to the Times newspaper during the coverage of the Sioux and Chippewa conflict described in the novel?",
+    "answer": "John W. Sickels furnished reports to the Times.",
+    "source": "Novel-10146",
+    "evidence": "John W. Sickels furnished reports to the Times during the coverage of the Sioux and Chippewa conflict."
+  },
+  {
+    "id": "Novel-10ab7b6f",
+    "question_type": "Fact Retrieval",
+    "question": "Which editor took a notable stance on the Five Million Loan Election, a major political issue in Minnesota's history as presented in the narrative?",
+    "answer": "Dr. Thomas Foster opposed the Five Million Loan Election.",
+    "source": "Novel-10146",
+    "evidence": "Dr. Thomas Foster opposed the Five Million Loan Election."
+  },
+  {
+    "id": "Novel-c579da71",
+    "question_type": "Fact Retrieval",
+    "question": "According to the account of St. Paul's early newspapers, who served as editor of the Pioneer during its influential years?",
+    "answer": "Louis E. Fisher was the editor of the Pioneer.",
+    "source": "Novel-10146",
+    "evidence": "Louis E. Fisher was the editor of the Pioneer."
+  },
+  {
+    "id": "Novel-077d32f8",
+    "question_type": "Fact Retrieval",
+    "question": "Of which newspaper was E.S. Lightbourn the foreman, as described in the narrative's discussion of prominent printers?",
+    "answer": "E.S. Lightbourn was foreman of the Pioneer.",
+    "source": "Novel-10146",
+    "evidence": "E.S. Lightbourn was foreman of the Pioneer."
+  },
+  {
+    "id": "Novel-fd699d82",
+    "question_type": "Fact Retrieval",
+    "question": "Who was recognized as a star performer at the People's theater in St. Paul, according to the city's early theatrical history?",
+    "answer": "Col. R.E.J. Miles was a star at the People's theater.",
+    "source": "Novel-10146",
+    "evidence": "Col. R.E.J. Miles was a star at the People's theater."
+  },
+  {
+    "id": "Novel-362dbef2",
+    "question_type": "Fact Retrieval",
+    "question": "Which actress was a member of the stock company at the People's theater, as outlined in the narrative detailing St. Paul's theatrical scene?",
+    "answer": "Emily Dow was a member of the stock company at the People's theater.",
+    "source": "Novel-10146",
+    "evidence": "Emily Dow was a member of the stock company at the People's theater."
+  },
+  {
+    "id": "Novel-10ec133f",
+    "question_type": "Fact Retrieval",
+    "question": "Where, within the context of St. Paul's newspaper industry, was William Jebb known as one of the readiest debaters?",
+    "answer": "William Jebb was one of the readiest debaters in the Pioneer composing room.",
+    "source": "Novel-10146",
+    "evidence": "William Jebb was one of the readiest debaters in the Pioneer composing room."
+  },
+  {
+    "id": "Novel-11a4f086",
+    "question_type": "Fact Retrieval",
+    "question": "At which location in St. Paul was the St. Paul Press newspaper situated during its publication as described in the narrative?",
+    "answer": "The St. Paul Press was located at Bridge Square.",
+    "source": "Novel-10146",
+    "evidence": "The St. Paul Press was located at Bridge Square."
+  },
+  {
+    "id": "Novel-d65bea45",
+    "question_type": "Fact Retrieval",
+    "question": "Who is identified as the first editor of the Minnesotian, one of St. Paul's earliest newspapers, in the historical account provided?",
+    "answer": "John P. Owens was the first editor of the Minnesotian.",
+    "source": "Novel-10146",
+    "evidence": "John P. Owens was the first editor of the Minnesotian."
+  },
+  {
+    "id": "Novel-15cb0c88",
+    "question_type": "Fact Retrieval",
+    "question": "During the American Civil War, in which regiment did Capt. Coates serve as an officer according to the military histories recounted in the novel?",
+    "answer": "Capt. Coates served as an officer in the First regiment of Minnesota volunteers during the Civil War.",
+    "source": "Novel-10146",
+    "evidence": "Capt. Coates served as an officer in the First regiment of Minnesota volunteers during the Civil War."
+  },
+  {
+    "id": "Novel-9491e7f0",
+    "question_type": "Fact Retrieval",
+    "question": "Who held the position of secretary for the Ladies Aid Society, as mentioned in the narrative's account of volunteer organizations during the Civil War?",
+    "answer": "Miss M.O. Holyoke served as the secretary of the Ladies Aid Society.",
+    "source": "Novel-10146",
+    "evidence": "Miss M.O. Holyoke served as the secretary of the Ladies Aid Society."
+  },
+  {
+    "id": "Novel-8089ca4d",
+    "question_type": "Fact Retrieval",
+    "question": "To which Native American tribe did Other Day belong?",
+    "answer": "Other Day belonged to the Dakota tribe.",
+    "source": "Novel-10146",
+    "evidence": "Other Day belonged to the Dakota tribe."
+  },
+  {
+    "id": "Novel-c2a1261d",
+    "question_type": "Fact Retrieval",
+    "question": "Who guided a group to safety in Kandiyohi during the Sioux outbreak?",
+    "answer": "Other Day piloted a group to Kandiyohi during the Sioux outbreak.",
+    "source": "Novel-10146",
+    "evidence": "Other Day guided a group to Kandiyohi.; The group included men, women, and children.; This event occurred during the Sioux outbreak."
+  },
+  {
+    "id": "Novel-a55b2f6f",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the president of the Ladies Aid Society during the Civil War?",
+    "answer": "Mrs. Stella Selby was the president of the Ladies Aid Society.",
+    "source": "Novel-10146",
+    "evidence": "Mrs. Stella Selby was the president of the Ladies Aid Society."
+  },
+  {
+    "id": "Novel-40920b4a",
+    "question_type": "Fact Retrieval",
+    "question": "In which county was Jackson lynched in the early history of Minnesota?",
+    "answer": "Jackson was lynched in Wright county.",
+    "source": "Novel-10146",
+    "evidence": "Jackson was lynched in Wright county."
+  },
+  {
+    "id": "Novel-dc742cf1",
+    "question_type": "Fact Retrieval",
+    "question": "By whom was Other Day instructed during his formative years?",
+    "answer": "Other Day was instructed by Americans.",
+    "source": "Novel-10146",
+    "evidence": "Other Day was instructed by Americans during his formative years."
+  },
+  {
+    "id": "Novel-bc484b0f",
+    "question_type": "Fact Retrieval",
+    "question": "At what city did the Second Minnesota regiment arrive before being redirected during the Civil War?",
+    "answer": "The Second Minnesota regiment arrived at Louisville.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota regiment arrived at Louisville."
+  },
+  {
+    "id": "Novel-722180f4",
+    "question_type": "Fact Retrieval",
+    "question": "From which group did the United States acquire land during the historical treaties with Native Americans?",
+    "answer": "The United States acquired land from the Sioux.",
+    "source": "Novel-10146",
+    "evidence": "The United States acquired land from the Sioux."
+  },
+  {
+    "id": "Novel-2724a04e",
+    "question_type": "Fact Retrieval",
+    "question": "Against which group were the Sioux rebellious during the 1862 outbreak?",
+    "answer": "The Sioux were rebellious against whites.",
+    "source": "Novel-10146",
+    "evidence": "The Sioux were rebellious against whites."
+  },
+  {
+    "id": "Novel-878b6eb6",
+    "question_type": "Fact Retrieval",
+    "question": "Who led a charge against the Sioux during the defense of New Ulm?",
+    "answer": "Judge Charles E. Flandrau led a charge against the Sioux.",
+    "source": "Novel-10146",
+    "evidence": "Judge Charles E. Flandrau led a charge against the Sioux."
+  },
+  {
+    "id": "Novel-43f2a7a9",
+    "question_type": "Fact Retrieval",
+    "question": "What was Maj. Joseph R. Brown's role with the St. Paul military organizations during the campaign to relieve settlers after the Sioux uprising?",
+    "answer": "Maj. Joseph R. Brown commanded the St. Paul organizations.",
+    "source": "Novel-10146",
+    "evidence": "Maj. Joseph R. Brown commanded the St. Paul organizations."
+  },
+  {
+    "id": "Novel-8765f7a6",
+    "question_type": "Fact Retrieval",
+    "question": "Who was in command of the First division during the Union military operations described in the narrative's account of the Civil War?",
+    "answer": "Gen. George H. Thomas was the commander of the First division.",
+    "source": "Novel-10146",
+    "evidence": "Gen. George H. Thomas was the commander of the First division."
+  },
+  {
+    "id": "Novel-075e66bd",
+    "question_type": "Fact Retrieval",
+    "question": "Who influenced the sale of a strip of land involving the Sioux, leading to internal division among the tribe as described in the novel?",
+    "answer": "Little Crow influenced the sale of a strip of land involving the Sioux.",
+    "source": "Novel-10146",
+    "evidence": "Little Crow influenced the sale of a strip of land involving the Sioux."
+  },
+  {
+    "id": "Novel-a39f95c7",
+    "question_type": "Fact Retrieval",
+    "question": "Which company was included as part of the St. Paul organizations sent to bury the dead and rescue wounded after the Sioux attacks, according to the narrative?",
+    "answer": "The St. Paul organizations included Company A as part of their group.",
+    "source": "Novel-10146",
+    "evidence": "Company A was included as part of the St. Paul organizations."
+  },
+  {
+    "id": "Novel-c227f2f2",
+    "question_type": "Fact Retrieval",
+    "question": "Who are identified as members of the Minnehaha Engine Company, a key volunteer fire organization in St. Paul's early history?",
+    "answer": "The members of the Minnehaha Engine Company include Alfred Bayace, William T. Donaldson, John B. Oliver, C.D. Hadway, John McCauley, H.A. Schlick, Nicholas Hendy, F.A. Cariveau, L.R. Storing, N. W. Kittson, Daniel Rohrer, N. Nicuhaus, and Harry M. Shaw.",
+    "source": "Novel-10146",
+    "evidence": "The members of the Minnehaha Engine Company include Alfred Bayace.; The members of the Minnehaha Engine Company include William T. Donaldson.; The members of the Minnehaha Engine Company include John B. Oliver.; The members of the Minnehaha Engine Company include C.D. Hadway.; The members of the Minnehaha Engine Company include John McCauley.; The members of the Minnehaha Engine Company include H.A. Schlick.; The members of the Minnehaha Engine Company include Nicholas Hendy.; The members of the Minnehaha Engine Company include F.A. Cariveau.; The members of the Minnehaha Engine Company include L.R. Storing.; The members of the Minnehaha Engine Company include N. W. Kittson.; The members of the Minnehaha Engine Company include Daniel Rohrer.; The members of the Minnehaha Engine Company include N. Nicuhaus.; The members of the Minnehaha Engine Company include Harry M. Shaw."
+  },
+  {
+    "id": "Novel-b6fa3a02",
+    "question_type": "Fact Retrieval",
+    "question": "What is William T. Donaldson's association with the Minnehaha Engine Company according to the historical roster provided in the narrative?",
+    "answer": "Yes, William T. Donaldson is a member of the Minnehaha Engine Company.",
+    "source": "Novel-10146",
+    "evidence": "William T. Donaldson is a member of the Minnehaha Engine Company."
+  },
+  {
+    "id": "Novel-5db82bf8",
+    "question_type": "Fact Retrieval",
+    "question": "What is Harry M. Shaw's connection to the Minnehaha Engine Company as detailed in the early history of St. Paul's fire department?",
+    "answer": "Yes, Harry M. Shaw is a member of the Minnehaha Engine Company.",
+    "source": "Novel-10146",
+    "evidence": "Harry M. Shaw is a member of the Minnehaha Engine Company."
+  },
+  {
+    "id": "Novel-0103d518",
+    "question_type": "Complex Reasoning",
+    "question": "Within the narrative of the early St. Paul fire department, which individuals from the Minnehaha Engine Company served specifically as assistants to Terwilliger during his tenure as foreman?",
+    "answer": "The following members of the Minnehaha Engine Company were assistants to Terwilliger: Harry M. Shaw, William T. Donaldson, Alfred Bayace, John B. Oliver, C.D. Hadway, John McCauley, Nicholas Hendy, H.A. Schlick, F.A. Cariveau, L.R. Storing, N. W. Kittson, Daniel Rohrer, and N. Nicuhaus.",
+    "source": "Novel-10146",
+    "evidence": "Harry M. Shaw was an assistant to Terwilliger.; William T. Donaldson was an assistant to Terwilliger.; Alfred Bayace was an assistant to Terwilliger.; John B. Oliver was an assistant to Terwilliger.; C.D. Hadway was an assistant to Terwilliger.; John McCauley was an assistant to Terwilliger.; Nicholas Hendy was an assistant to Terwilliger.; H.A. Schlick was an assistant to Terwilliger.; F.A. Cariveau was an assistant to Terwilliger.; L.R. Storing was an assistant to Terwilliger.; N. W. Kittson was an assistant to Terwilliger.; Daniel Rohrer was an assistant to Terwilliger.; N. Nicuhaus was an assistant to Terwilliger."
+  },
+  {
+    "id": "Novel-ad078f77",
+    "question_type": "Complex Reasoning",
+    "question": "According to the historical account of the Minnehaha Engine Company, what was the relationship between its members and Terwilliger, the foreman?",
+    "answer": "All members of the Minnehaha Engine Company are assistants to Terwilliger.",
+    "source": "Novel-10146",
+    "evidence": "All members of the Minnehaha Engine Company are assistants to Terwilliger."
+  },
+  {
+    "id": "Novel-b3fece20",
+    "question_type": "Complex Reasoning",
+    "question": "During the Civil War, what circumstances led the Second Minnesota Regiment, as part of the Union forces, to engage in battle against the Sixteenth Alabama Regiment?",
+    "answer": "The Second Minnesota fought against the Sixteenth Alabama because the Second Minnesota was part of the Union forces.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota fought against the Sixteenth Alabama.; The Second Minnesota was part of the Union forces."
+  },
+  {
+    "id": "Novel-0093e2ec",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of the military operations during the Sioux Uprising, what was Maj. Joseph R. Brown's leadership role in relation to Company A, and how was this company associated with the St. Paul organizations?",
+    "answer": "Maj. Joseph R. Brown commanded Company A, which was part of the St. Paul organizations.",
+    "source": "Novel-10146",
+    "evidence": "Maj. Joseph R. Brown commanded Company A.; Company A was part of the St. Paul organizations."
+  },
+  {
+    "id": "Novel-65f00413",
+    "question_type": "Complex Reasoning",
+    "question": "What was the relationship between the Second Minnesota Regiment and Gen. George H. Thomas during the Civil War?",
+    "answer": "The Second Minnesota Regiment was led by Gen. George H. Thomas, who also commanded the First Division, which included the Second Minnesota.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota Regiment was led by Gen. George H. Thomas.; Gen. George H. Thomas commanded the First Division.; The First Division included the Second Minnesota Regiment."
+  },
+  {
+    "id": "Novel-cfdb85ba",
+    "question_type": "Complex Reasoning",
+    "question": "What was the nature of the relationship between the Chippewas and the Sioux during the Sioux Uprising, and what role did Hole-in-the-Day play?",
+    "answer": "The Chippewas would come to the assistance of the Sioux and were in communication with them through their chief, Hole-in-the-Day.",
+    "source": "Novel-10146",
+    "evidence": "The Chippewas assisted the Sioux.; The Chippewas were in communication with the Sioux.; Hole-in-the-Day was the chief of the Chippewas."
+  },
+  {
+    "id": "Novel-727f425f",
+    "question_type": "Complex Reasoning",
+    "question": "How did President Lincoln acknowledge the Second Minnesota Regiment after their actions in the Civil War, and what was the significance of their being sent to Washington?",
+    "answer": "The Second Minnesota was sent to Washington after being congratulated by President Lincoln for their actions.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota Regiment was sent to Washington.; President Lincoln congratulated the Second Minnesota Regiment for their actions."
+  },
+  {
+    "id": "Novel-9b9b7f4a",
+    "question_type": "Complex Reasoning",
+    "question": "What was the outcome of the military expedition that encountered the Sioux in the Dakotas, particularly in relation to the Sioux's rebellious stance toward Gen. Sibley?",
+    "answer": "The expedition encountered the Sioux in the Dakotas, where the Sioux were rebellious against Gen. Sibley.",
+    "source": "Novel-10146",
+    "evidence": "The military expedition encountered the Sioux in the Dakotas.; The Sioux were rebellious against Gen. Sibley."
+  },
+  {
+    "id": "Novel-72cfd9c6",
+    "question_type": "Complex Reasoning",
+    "question": "What role did Little Crow play in the United States' acquisition of land from the Sioux tribe?",
+    "answer": "The United States gained land from the Sioux after the government, influenced by Little Crow, arranged for the sale of a strip of land from the Sioux.",
+    "source": "Novel-10146",
+    "evidence": "The United States gained land from the Sioux.; Little Crow influenced the government to arrange for the sale of land from the Sioux."
+  },
+  {
+    "id": "Novel-d3dfaf75",
+    "question_type": "Complex Reasoning",
+    "question": "How are the Greenman house, Mr. Greenman, and St. Peter street related in the narrative?",
+    "answer": "The Greenman house was kept by Mr. Greenman and was on St. Peter street.",
+    "source": "Novel-10146",
+    "evidence": "The Greenman house was kept by Mr. Greenman.; The Greenman house was located on St. Peter street."
+  },
+  {
+    "id": "Novel-e3da3cd7",
+    "question_type": "Complex Reasoning",
+    "question": "What was Samuel Mayall's involvement with the Fuller house?",
+    "answer": "Samuel Mayall changed the name of the Fuller house and came into possession of the Fuller house.",
+    "source": "Novel-10146",
+    "evidence": "Samuel Mayall changed the name of the Fuller house.; Samuel Mayall came into possession of the Fuller house."
+  },
+  {
+    "id": "Novel-9db4f113",
+    "question_type": "Complex Reasoning",
+    "question": "How did Dr. Thomas Foster's views on the Five Million Loan Election compare to the editorial stance of the Minnesotian?",
+    "answer": "Dr. Thomas Foster opposed the Five Million Loan Election, and the Minnesotian also opposed the passage of the amendment related to it.",
+    "source": "Novel-10146",
+    "evidence": "Dr. Thomas Foster opposed the Five Million Loan Election.; The Minnesotian opposed the passage of the amendment related to the Five Million Loan Election."
+  },
+  {
+    "id": "Novel-395b9708",
+    "question_type": "Complex Reasoning",
+    "question": "How did Earle S. Goodrich interact with the Pioneer and the Minnesotian?",
+    "answer": "Earle S. Goodrich was the editor of the Pioneer and made preparations to perpetrate a joke on the Minnesotian.",
+    "source": "Novel-10146",
+    "evidence": "Earle S. Goodrich was the editor of the Pioneer.; Earle S. Goodrich made preparations to perpetrate a joke on the Minnesotian."
+  },
+  {
+    "id": "Novel-7718481e",
+    "question_type": "Fact Retrieval",
+    "question": "Can you name some members of the stock company at the People's theater?",
+    "answer": "Emily Dow, Harry Gossan, and Azelene Allen were members of the stock company at the People's theater.",
+    "source": "Novel-10146",
+    "evidence": "Emily Dow was a member of the stock company at the People's theater.; Harry Gossan was a member of the stock company at the People's theater.; Azelene Allen was a member of the stock company at the People's theater."
+  },
+  {
+    "id": "Novel-c6a7964c",
+    "question_type": "Complex Reasoning",
+    "question": "What was the professional relationship between George W. Moore and Dr. Foster in relation to the Minnesotian newspaper?",
+    "answer": "George W. Moore was associated with Dr. Foster and sold his interest in the Minnesotian.",
+    "source": "Novel-10146",
+    "evidence": "George W. Moore was associated with Dr. Foster.; George W. Moore sold his interest in the Minnesotian."
+  },
+  {
+    "id": "Novel-803f66d8",
+    "question_type": "Complex Reasoning",
+    "question": "What was Dan Emmet's involvement with Bryant's Minstrels, and what notable song did he write?",
+    "answer": "Dan Emmet was connected with Bryant's Minstrels and wrote 'Dixie.'",
+    "source": "Novel-10146",
+    "evidence": "Dan Emmet was connected with Bryant's Minstrels.; Dan Emmet wrote the song 'Dixie.'"
+  },
+  {
+    "id": "Novel-819d9c6c",
+    "question_type": "Complex Reasoning",
+    "question": "What was Gen. Stewart L. Woodford's involvement with the city of St. Paul?",
+    "answer": "Gen. Stewart L. Woodford visited St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Stewart L. Woodford visited St. Paul."
+  },
+  {
+    "id": "Novel-ac781c3a",
+    "question_type": "Complex Reasoning",
+    "question": "How did the Sioux interact with Gen. Sibley's command during the expedition in the Dakotas?",
+    "answer": "The Sioux were rebellious against Gen. Sibley and were encountered by the expedition in the Dakotas.",
+    "source": "Novel-10146",
+    "evidence": "The Sioux were rebellious against Gen. Sibley.; The Sioux were encountered by Gen. Sibley's expedition in the Dakotas."
+  },
+  {
+    "id": "Novel-0955a900",
+    "question_type": "Complex Reasoning",
+    "question": "What role did the Second Minnesota play in the Civil War?",
+    "answer": "The Second Minnesota was part of the First Division and fought at Mill Springs.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota was part of the First Division.; The Second Minnesota fought at Mill Springs."
+  },
+  {
+    "id": "Novel-3f8a738d",
+    "question_type": "Complex Reasoning",
+    "question": "What official position did George W. Moore hold in St. Paul?",
+    "answer": "George W. Moore was collector of the port of St. Paul and was appointed by President Lincoln.",
+    "source": "Novel-10146",
+    "evidence": "George W. Moore was the collector of the port of St. Paul.; George W. Moore was appointed by President Lincoln."
+  },
+  {
+    "id": "Novel-f4972c91",
+    "question_type": "Complex Reasoning",
+    "question": "How did Gen. Buell support Gen. Grant during the Civil War?",
+    "answer": "Gen. Grant was reinforced by Gen. Buell and could have been assisted by him.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Grant was reinforced by Gen. Buell.; Gen. Grant could have been assisted by Gen. Buell."
+  },
+  {
+    "id": "Novel-a0cd1d28",
+    "question_type": "Complex Reasoning",
+    "question": "What was the historical relationship between the Sioux and the Chippewas, and where did they fight?",
+    "answer": "The Sioux were hereditary enemies of the Chippewas and fought a battle near Shakopee.",
+    "source": "Novel-10146",
+    "evidence": "The Sioux were hereditary enemies of the Chippewas.; The Sioux fought a battle near Shakopee."
+  },
+  {
+    "id": "Novel-2f70ddcb",
+    "question_type": "Complex Reasoning",
+    "question": "What was Capt. William Henry Acker's involvement with the First Minnesota regiment?",
+    "answer": "Capt. William Henry Acker organized a company for the First Minnesota regiment and was made captain of it.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker organized a company for the First Minnesota regiment.; Capt. William Henry Acker was made captain of the company."
+  },
+  {
+    "id": "Novel-6e99ce81",
+    "question_type": "Complex Reasoning",
+    "question": "How was the Minnesota Packet company connected to transportation on the Minnesota river and to La Crosse?",
+    "answer": "The Minnesota Packet company had lines for points on the Minnesota river and had lines to La Crosse.",
+    "source": "Novel-10146",
+    "evidence": "The Minnesota Packet company had lines for points on the Minnesota river.; The Minnesota Packet company had lines to La Crosse."
+  },
+  {
+    "id": "Novel-32fce5f0",
+    "question_type": "Complex Reasoning",
+    "question": "How was Hope Engine Company No. 1 involved with firefighting efforts in St. Paul?",
+    "answer": "Hope Engine Company No. 1 participated in the St. Paul fire department.",
+    "source": "Novel-10146",
+    "evidence": "Hope Engine Company No. 1 participated in the St. Paul fire department."
+  },
+  {
+    "id": "Novel-a23b73f0",
+    "question_type": "Complex Reasoning",
+    "question": "What is the chain of associations from the Concert Hall building in St. Paul to Frank Moore's service in the Civil War?",
+    "answer": "The Concert Hall building in St. Paul was on Third street, which was the location of the Pioneer, where Frank Moore was employed by the Minnesotian; Frank Moore later served in the Civil War.",
+    "source": "Novel-10146",
+    "evidence": "The Concert Hall building in St. Paul was on Third street.; The Pioneer was located on Third street.; Frank Moore was employed by the Minnesotian.; Frank Moore later served in the Civil War."
+  },
+  {
+    "id": "Novel-1aff3c5a",
+    "question_type": "Complex Reasoning",
+    "question": "How is Abraham Lincoln indirectly linked to the activities of the Wide-Awakes?",
+    "answer": "The Wide-Awakes, commanded by Capt. William Henry Acker, were devoted to the promotion of Abraham Lincoln's candidacy.",
+    "source": "Novel-10146",
+    "evidence": "The Wide-Awakes were commanded by Capt. William Henry Acker.; The Wide-Awakes were devoted to the promotion of Abraham Lincoln's candidacy."
+  },
+  {
+    "id": "Novel-9eb74247",
+    "question_type": "Complex Reasoning",
+    "question": "How does the Pioneer newspaper connect to the competition between the Times and the Minnesotian?",
+    "answer": "The Pioneer was located on Third street and competed with the Times, which in turn competed with the Minnesotian.",
+    "source": "Novel-10146",
+    "evidence": "The Pioneer was located on Third street.; The Pioneer competed with the Times.; The Times competed with the Minnesotian."
+  },
+  {
+    "id": "Novel-549bea73",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between the Government neglecting its wards in Minnesota and the Indian protests?",
+    "answer": "The Government neglected its wards in Minnesota, leading to Indians protesting against traders sitting at the pay table.",
+    "source": "Novel-10146",
+    "evidence": "The Government neglected its wards in Minnesota.; Indians protested against traders sitting at the pay table."
+  },
+  {
+    "id": "Novel-948d0b3b",
+    "question_type": "Complex Reasoning",
+    "question": "How are Gen. Sibley’s actions toward the Sioux and Indians linked to government policies?",
+    "answer": "Gen. Sibley made inquiries about the Indians, who protested against the government, which had neglected its wards in Minnesota.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Sibley made inquiries about the Indians.; The Indians protested against the government.; The government had neglected its wards in Minnesota."
+  },
+  {
+    "id": "Novel-2b192a66",
+    "question_type": "Complex Reasoning",
+    "question": "How does the military service of Frank Moore relate to the broader national conflict of the Civil War?",
+    "answer": "Frank Moore worked for the Minnesotian and served in the Civil War, which occurred during the United States' existence.",
+    "source": "Novel-10146",
+    "evidence": "Frank Moore worked for the Minnesotian.; Frank Moore served in the Civil War.; The Civil War occurred during the United States' existence."
+  },
+  {
+    "id": "Novel-2c8f6957",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between the location of the Pioneer and Frank Moore’s involvement with the Civil War?",
+    "answer": "The Pioneer was located on Third street, and Frank Moore, who worked for the Minnesotian (a competing newspaper), served in the Civil War.",
+    "source": "Novel-10146",
+    "evidence": "The Pioneer was located on Third street.; Frank Moore worked for the Minnesotian.; Frank Moore served in the Civil War."
+  },
+  {
+    "id": "Novel-cce375db",
+    "question_type": "Complex Reasoning",
+    "question": "How does the Concert Hall building serve as a nexus for journalistic and military narratives in St. Paul?",
+    "answer": "The Concert Hall building in St. Paul was on Third street, the location of the Pioneer, which was involved in journalistic competition and indirectly linked to individuals like Frank Moore, who later served in the Civil War.",
+    "source": "Novel-10146",
+    "evidence": "The Concert Hall building in St. Paul was on Third street.; The Pioneer was involved in journalistic competition.; The Pioneer was indirectly linked to individuals like Frank Moore.; Frank Moore later served in the Civil War."
+  },
+  {
+    "id": "Novel-97ebb009",
+    "question_type": "Complex Reasoning",
+    "question": "How did Capt. William Henry Acker become associated with the First Minnesota regiment?",
+    "answer": "Capt. William Henry Acker formed the Pioneer Guards and was later made captain of the First Minnesota regiment.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker formed the Pioneer Guards.; Capt. William Henry Acker was later made captain of the First Minnesota regiment."
+  },
+  {
+    "id": "Novel-c1dfbaf9",
+    "question_type": "Complex Reasoning",
+    "question": "How does the Government’s handling of Indian affairs relate to Gen. Sibley’s inquiries?",
+    "answer": "Gen. Sibley made inquiries about the Indians, who protested against government actions, specifically neglect in Minnesota.",
+    "source": "Novel-10146",
+    "evidence": "Gen. Sibley made inquiries about the Indians.; The Indians protested against government actions.; The Indians specifically protested neglect in Minnesota."
+  },
+  {
+    "id": "Novel-60735dd1",
+    "question_type": "Complex Reasoning",
+    "question": "How is the Civil War contextually tied to the activities of the Minnesotian newspaper?",
+    "answer": "Frank Moore worked for the Minnesotian and later served in the Civil War, which took place in the United States.",
+    "source": "Novel-10146",
+    "evidence": "Frank Moore worked for the Minnesotian.; Frank Moore later served in the Civil War.; The Civil War took place in the United States."
+  },
+  {
+    "id": "Novel-0f29cc97",
+    "question_type": "Complex Reasoning",
+    "question": "What is the link between Capt. William Henry Acker’s funeral and his community roles?",
+    "answer": "Capt. William Henry Acker, who formed the Pioneer Guards, had his funeral at St. Paul’s church.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker formed the Pioneer Guards.; Capt. William Henry Acker had his funeral at St. Paul’s church."
+  },
+  {
+    "id": "Novel-6d7ef8d8",
+    "question_type": "Complex Reasoning",
+    "question": "How did the events involving the Sioux influence Minnesota’s military mobilization?",
+    "answer": "The Sioux were rebellious against Gen. Sibley, and after the United States gained land from them, Minnesota was called upon to furnish the Sixth regiment.",
+    "source": "Novel-10146",
+    "evidence": "The Sioux were rebellious against Gen. Sibley.; The United States gained land from the Sioux.; Minnesota was called upon to furnish the Sixth regiment."
+  },
+  {
+    "id": "Novel-538e3c44",
+    "question_type": "Complex Reasoning",
+    "question": "How is ex-Gov. Marshall connected to the career of Capt. William Henry Acker?",
+    "answer": "Capt. William Henry Acker changed to a position in the Bank of Minnesota, which was established by ex-Gov. Marshall.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker changed to a position in the Bank of Minnesota.; The Bank of Minnesota was established by ex-Gov. Marshall."
+  },
+  {
+    "id": "Novel-32bdc42b",
+    "question_type": "Complex Reasoning",
+    "question": "How do the Pioneer Guards and Wide-Awakes reflect the civic engagement in St. Paul?",
+    "answer": "Capt. William Henry Acker formed the Pioneer Guards and was chosen commander of the Wide-Awakes, both of which were active civic organizations in St. Paul.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker formed the Pioneer Guards.; Capt. William Henry Acker was chosen commander of the Wide-Awakes.; The Pioneer Guards and Wide-Awakes were active civic organizations in St. Paul."
+  },
+  {
+    "id": "Novel-1054b473",
+    "question_type": "Complex Reasoning",
+    "question": "What is the link between the civil-military organizations and the promotion of Abraham Lincoln’s candidacy?",
+    "answer": "The Wide-Awakes, a civil-military organization commanded by Capt. William Henry Acker, were devoted to promoting Abraham Lincoln's candidacy.",
+    "source": "Novel-10146",
+    "evidence": "The Wide-Awakes were a civil-military organization.; Capt. William Henry Acker commanded the Wide-Awakes.; The Wide-Awakes were devoted to promoting Abraham Lincoln's candidacy."
+  },
+  {
+    "id": "Novel-8d0e37f9",
+    "question_type": "Complex Reasoning",
+    "question": "Describe the series of competitions among newspapers along Third street in St. Paul.",
+    "answer": "The Pioneer, located on Third street, competed with the Times, which in turn competed with the Minnesotian.",
+    "source": "Novel-10146",
+    "evidence": "The Pioneer was located on Third street.; The Pioneer competed with the Times.; The Times competed with the Minnesotian."
+  },
+  {
+    "id": "Novel-09c3281f",
+    "question_type": "Contextual Summarize",
+    "question": "What were the key military experiences and connections of Capt. E.Y. Shelly in relation to St. Paul?",
+    "answer": "Capt. E.Y. Shelly’s military journey began with his service in the Mexican War as a member of the Third United States Dragoons, where he gained valuable experience on the battlefield. After the war, he took passage by steamer to St. Paul, arriving in July 1849 as the first printer to settle permanently in Minnesota. His early employment with Mr. Goodhue and involvement in the city’s burgeoning press scene anchored him in the community. When the call came to defend the Union, Shelly’s sense of duty was rekindled, leading him to organize, alongside Major Brackett, the company that would become Brackett’s battalion. Through these military and civic endeavors, Shelly forged enduring ties to St. Paul, intertwining his personal legacy with the city’s history.",
+    "source": "Novel-10146",
+    "evidence": "Capt. E.Y. Shelly organized Brackett's battalion.; Capt. E.Y. Shelly fought in the Mexican war.; Capt. E.Y. Shelly was a member of the Third United States dragoons.; Capt. E.Y. Shelly took passage to St. Paul.; Capt. E.Y. Shelly was employed by Mr. Goodhue.; Capt. E.Y. Shelly established significant military and personal connections to St. Paul."
+  },
+  {
+    "id": "Novel-506824e8",
+    "question_type": "Complex Reasoning",
+    "question": "What role did the Second Minnesota play in the Union's efforts during the conflicts with the Sioux?",
+    "answer": "The Second Minnesota played a pivotal role in the Union's efforts, most notably distinguishing itself as the heroes of the decisive Battle of Mill Springs—the first major Union victory of the Civil War. Their valor on the battlefield not only earned them the admiration of their fellow Minnesotans, whose pride swelled at the regiment's achievements, but also drew the attention and congratulations of President Lincoln himself. Beyond Mill Springs, the Second Minnesota was integral to the Union forces, answering the call to arms with such enthusiasm that their numbers exceeded the initial requirements, and their presence became a symbol of Minnesota's deep commitment to the Union cause.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota fought at Mill Springs.; The Second Minnesota was included in the Union forces.; The Second Minnesota received congratulations from President Lincoln for its contributions."
+  },
+  {
+    "id": "Novel-aacc2e77",
+    "question_type": "Contextual Summarize",
+    "question": "How was the International hotel in St. Paul connected to notable historical figures and events?",
+    "answer": "The International hotel, standing prominently on Jackson Street, was more than just a place of lodging—it was a nexus of historical significance. During William H. Seward's celebrated journey to the West in 1860, the hotel served as his headquarters, hosting not only Seward but also a distinguished party of guests. Under the capable management of Col. E.C. Belote, formerly of the Merchants, the hotel became a hub for military and political activity; both Gen. Pope and Gen. Sibley directed operations against the Sioux from within its walls. In 1861, Samuel Mayall acquired the property and bestowed upon it the name 'International hotel,' replacing its former identity as the Fuller house. The building's storied past and its role as a gathering place for notable figures and events made it a landmark in St. Paul's history.",
+    "source": "Novel-10146",
+    "evidence": "The International hotel was the headquarters of William H. Seward.; The International hotel was managed by Col. E.C. Belote.; The International hotel was renamed by Samuel Mayall.; The International hotel was located on Jackson street."
+  },
+  {
+    "id": "Novel-79c0adea",
+    "question_type": "Contextual Summarize",
+    "question": "During key events in Minnesota's history, what roles did the Pioneer Guards play in relation to Gov. Sibley and the Union army?",
+    "answer": "The Pioneer Guards, known as the state's elite military company and more accustomed to the elegance of ballrooms and the pageantry of parades, found themselves thrust into unexpected service when Governor Sibley called them out to respond to the lynching in Wright County. The summons caused great consternation among their ranks—some members, unprepared for real conflict, even made their wills before departing, fearing open rebellion awaited them. Despite their anxieties, they dutifully proceeded to Wright County to arrest those involved in the tragedy. After a week away, they returned to the city, proud but untested, having neither fired a shot nor encountered an enemy. Additionally, some members of the Pioneer Guards would go on to serve in the Union army, further connecting the company to the broader events of the era.",
+    "source": "Novel-10146",
+    "evidence": "The Pioneer Guards had members in the Union army.; The Pioneer Guards were called out by Gov. Sibley.; The Pioneer Guards proceeded to Wright county."
+  },
+  {
+    "id": "Novel-420f5e71",
+    "question_type": "Contextual Summarize",
+    "question": "What roles and connections did George W. Moore have in St. Paul?",
+    "answer": "George W. Moore arrived in St. Paul in 1850, quickly establishing himself in the city's burgeoning publishing world. He worked for a time as foreman for Mr. Goodhue before partnering with John P. Owens to publish the Minnesotian. Moore later sold his interest in the paper to Dr. Foster, marking a significant professional association. In 1861, his reputation and service were recognized when President Lincoln appointed him collector of the port of St. Paul, a position he held with distinction for over twenty years. Moore's influence extended beyond his own career, as he also brought Frank Moore to the city, further shaping St. Paul's civic and journalistic landscape.",
+    "source": "Novel-10146",
+    "evidence": "George W. Moore was associated with Dr. Foster.; George W. Moore came to St. Paul.; George W. Moore was the collector of the port of St. Paul.; George W. Moore brought Frank Moore to St. Paul."
+  },
+  {
+    "id": "Novel-2def53f0",
+    "question_type": "Contextual Summarize",
+    "question": "In what ways did the Second Minnesota regiment participate in the Civil War?",
+    "answer": "The Second Minnesota, serving as part of the First division, distinguished itself in the fierce fighting at the battle of Mill Springs, where their heroism was widely celebrated. Their valor did not go unnoticed: in a moving ceremony in Louisville, the regiment was honored by the city’s mayor, J.M. Dolph, who presented them with a silk flag as a token of gratitude and admiration for their gallant conduct in coming from a distant state to help subdue the rebel invaders. The presentation of the flag was a moment of pride and recognition, reflecting the deep appreciation felt by both the local citizens and the nation for the regiment’s sacrifices and achievements.",
+    "source": "Novel-10146",
+    "evidence": "The Second Minnesota was part of the First division.; The Second Minnesota fought at Mill Springs.; The Second Minnesota was presented a silk flag by J.M. Dolph."
+  },
+  {
+    "id": "Novel-bc903265",
+    "question_type": "Contextual Summarize",
+    "question": "What made the International hotel significant in the history of St. Paul?",
+    "answer": "The International hotel was situated on Seventh street and had the greatest hotel fire in the history of St. Paul. C.W. Borup constructed the Sintominie hotel.",
+    "source": "Novel-10146",
+    "evidence": "The International hotel was situated on Seventh street.; The International hotel had the greatest hotel fire in the history of St. Paul.; C.W. Borup constructed the Sintominie hotel."
+  },
+  {
+    "id": "Novel-831734ba",
+    "question_type": "Contextual Summarize",
+    "question": "What contributions did Frank Moore make to the newspaper industry in St. Paul?",
+    "answer": "Frank Moore began his career in St. Paul as a young printer's 'devil' for the Minnesotian, a newspaper managed by his brother, George W. Moore. From those humble beginnings—fetching water from a spring, meeting steamboats to collect bundles of news, and delivering papers—Frank's dedication and skill saw him through the merging of the Minnesotian into the Pioneer Press. Over the decades, he became a fixture of the Pioneer Press, serving as the head of the composing room for about forty years. His lifelong commitment and steady presence helped shape the newspaper industry in St. Paul, while his close relationship with his brother George, a prominent owner and manager, anchored his early years in the trade.",
+    "source": "Novel-10146",
+    "evidence": "Frank Moore worked for the Minnesotian.; Frank Moore stayed with the Pioneer Press.; Frank Moore was the brother of George W. Moore."
+  },
+  {
+    "id": "Novel-5c82be50",
+    "question_type": "Contextual Summarize",
+    "question": "How did the Minnesota Packet company facilitate connections between St. Paul and other cities?",
+    "answer": "The Minnesota Packet company played a vital role in connecting St. Paul to other cities by operating daily steamboat lines to La Crosse, Prairie du Chien, and St. Louis. Notable steamers like the Key City, with its distinctive combination whistle, became familiar sights and sounds along the river. The bustling levee would often be lined with six or eight steamers at once, drawing crowds of merchants, messengers, and townsfolk eager for news, goods, and visitors. These packet lines were the lifeblood of commerce and communication, making St. Paul a vibrant hub linked to the wider world by the steady rhythm of arriving and departing boats.",
+    "source": "Novel-10146",
+    "evidence": "The Minnesota Packet company had steamboat lines to La Crosse.; The Minnesota Packet company had steamboat lines to Prairie du Chien.; The Minnesota Packet company had steamboat lines to St. Louis.; The Key City was one of the steamers operated by the Minnesota Packet company."
+  },
+  {
+    "id": "Novel-64dcab77",
+    "question_type": "Contextual Summarize",
+    "question": "During the period of conflict in Minnesota, how did the strained relationships between the Sioux people, Gen. Sibley, and the U.S. Government manifest?",
+    "answer": "The strained relationships between the Sioux, Gen. Sibley, and the U.S. Government manifested in a complex web of conflict and mistrust. The Sioux openly rebelled against Gen. Sibley, whose cautious approach and subsequent inquiries into Indian participation in recent atrocities underscored the deep suspicion on both sides. Meanwhile, the Sioux protested the government's handling of trader payments at the pay tables, voicing their frustration with a system they felt prioritized traders over their own needs. These grievances culminated in pointed accusations that the government had neglected its wards in Minnesota, revealing not just a single point of contention, but a landscape marked by layered dissatisfaction, broken promises, and a profound sense of injustice.",
+    "source": "Novel-10146",
+    "evidence": "The Sioux rebelled against Gen. Sibley.; Gen. Sibley conducted inquiries about Indians.; Indians protested the government's handling of trader payments.; Indians accused the government of neglecting Minnesota's wards."
+  },
+  {
+    "id": "Novel-49b59468",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of civic and military leadership in St. Paul before and during the Civil War, how did Capt. William Henry Acker demonstrate his influence across both military and civic spheres?",
+    "answer": "Capt. William Henry Acker's influence in St. Paul before and during the Civil War was both profound and far-reaching. As the founder of the Pioneer Guards, he established what was regarded as the finest military organization in the West, demonstrating his commitment to discipline and preparedness. His leadership extended beyond the military when, in 1860, he was chosen as commander of the Wide-Awakes, a spirited political organization dedicated to promoting Abraham Lincoln's candidacy. Through his patient drilling and guidance, many of the men he led would go on to serve as officers in the volunteer forces during the war. Acker's dual roles as a military organizer and a civic leader exemplified his ability to inspire and mobilize the community, bridging the worlds of civic engagement and military readiness in a time of great national upheaval.",
+    "source": "Novel-10146",
+    "evidence": "Capt. William Henry Acker formed the Pioneer Guards.; Capt. William Henry Acker was chosen commander of the Wide-Awakes.; The Wide-Awakes supported Abraham Lincoln's candidacy.; Capt. William Henry Acker held leadership in both military and civic spheres in St. Paul."
+  },
+  {
+    "id": "Novel-915aa032",
+    "question_type": "Contextual Summarize",
+    "question": "During the Civil War era in St. Paul, how did the rivalry between major newspapers and the departure of employees to serve in the Civil War reflect the intersection of local media competition and broader societal changes?",
+    "answer": "The bustling rivalry among the Pioneer, Times, and Minnesotian on Third Street was more than a contest for readership—it was a reflection of a city in flux, where the pulse of local news echoed the tremors of national conflict. As employees like Frank Moore left their posts to serve in the Civil War, the newsrooms themselves became microcosms of the broader societal upheaval, their shifting staffs and merging papers mirroring the uncertainty and transformation wrought by war. The departure of familiar faces for the front lines underscored how deeply the national crisis penetrated even the daily rhythms of St. Paul's media, intertwining the fate of local journalism with the tides of history.",
+    "source": "Novel-10146",
+    "evidence": "The Pioneer, Times, and Minnesotian engaged in competition on Third Street.; Employees like Frank Moore left to serve in the Civil War.; The rivalry between newspapers reflected the intersection of media and national upheaval."
+  },
+  {
+    "id": "Novel-1f3a3ec3",
+    "question_type": "Contextual Summarize",
+    "question": "In the political climate leading up to Abraham Lincoln’s election, how did organizations like the Wide-Awakes and the Pioneer Guards exemplify the interplay between political activism and military organization in St. Paul?",
+    "answer": "The Wide-Awakes, commanded by Capt. William Henry Acker, were devoted to promoting Lincoln’s candidacy, while the Pioneer Guards, also formed by Acker, celebrated Union victories, illustrating the interplay between political activism and military organization.",
+    "source": "Novel-10146",
+    "evidence": "The Wide-Awakes were commanded by Capt. William Henry Acker.; The Wide-Awakes were devoted to promoting Lincoln's candidacy.; The Pioneer Guards were also formed by Capt. William Henry Acker.; The Pioneer Guards celebrated Union victories.; The Wide-Awakes and Pioneer Guards exemplified the interplay between political activism and military organization."
+  },
+  {
+    "id": "Novel-91b2532f",
+    "question_type": "Contextual Summarize",
+    "question": "During the period of unrest in Minnesota, what patterns of protest and government response emerged, and how did these contribute to the state's call to furnish military regiments?",
+    "answer": "As tensions simmered in Minnesota, the Indians voiced their frustration by protesting the practice of allowing traders to sit at the government pay table, where these traders would deduct debts from the already meager annuities owed to the tribes. This grievance was compounded by the government's apparent neglect—weeks passed without the arrival of paymasters, leaving many Indian families destitute and desperate. The mounting sense of injustice and abandonment fueled unrest, and as the government struggled to meet its obligations amidst the chaos of the Civil War, calls for military intervention grew louder. Ultimately, the state's response was to muster regiments such as the Sixth, a stark sign of the escalating conflict and the deepening divide between the government and the Indian communities.",
+    "source": "Novel-10146",
+    "evidence": "Indians protested against traders sitting at the government's pay table.; The government neglected its wards in Minnesota.; The neglect of the government led to ongoing unrest.; The unrest led to calls for military intervention."
+  },
+  {
+    "id": "Novel-e36d4ce4",
+    "question_type": "Contextual Summarize",
+    "question": "After the United States acquired land from the Sioux in Minnesota, how did ongoing conflicts and official inquiries shape regional tensions and military involvement in the state?",
+    "answer": "Following the United States' acquisition of Sioux lands, the region remained fraught with tension as the Sioux continued their rebellion against Gen. Sibley. The aftermath of these hostilities saw Gen. Sibley proceeding with caution, aware that any rash action could endanger the lives of captives held by the Sioux. Once the camp surrendered and the captives were released, Sibley undertook careful inquiries to determine which individuals had participated in the recent atrocities. This process not only heightened the sense of mistrust and animosity but also necessitated ongoing military involvement in Minnesota, as the state grappled with the lingering wounds of conflict and the challenge of restoring order.",
+    "source": "Novel-10146",
+    "evidence": "The United States acquired land from the Sioux in Minnesota.; The Sioux continued to rebel against Gen. Sibley.; Gen. Sibley made inquiries into the participation of Indians.; The inquiries by Gen. Sibley prompted further military involvement in Minnesota."
+  },
+  {
+    "id": "Novel-974ed0c9",
+    "question_type": "Contextual Summarize",
+    "question": "What role did Frank Moore play in bridging the worlds of journalism and military service in St. Paul, considering his work for the Minnesotian newspaper before serving in the Civil War?",
+    "answer": "Frank Moore’s journey from the bustling offices of the Minnesotian newspaper to the ranks of Civil War volunteers vividly illustrates the fluid boundaries between journalism and military service in St. Paul. As a young man, Moore was not only a carrier and messenger—fetching water, gathering news from arriving steamers, and delivering papers across the city—but also a witness to the city’s growth and the newspaper’s evolution. When the Civil War erupted, Moore set aside his press duties to answer the call to arms, embodying the spirit of civic duty that drew many from their civilian professions into military service. His life stands as a testament to the interconnectedness of public service, whether through the written word or on the battlefield.",
+    "source": "Novel-10146",
+    "evidence": "Frank Moore worked for the Minnesotian newspaper.; Frank Moore later served in the Civil War.; Frank Moore exemplified the movement between media and military spheres in St. Paul."
+  },
+  {
+    "id": "Novel-64b347a6",
+    "question_type": "Contextual Summarize",
+    "question": "How did the outbreak of the Civil War affect both the press and notable individuals in St. Paul?",
+    "answer": "The outbreak of the Civil War sent ripples through every corner of St. Paul, transforming not only the city’s press but also the lives of its most dedicated citizens. Frank Moore, whose loyalty and tireless work for the Minnesotian newspaper had already made him a fixture in the newsroom, was among those who felt compelled to set aside his familiar routines and join the ranks of volunteers. His departure from the newspaper was emblematic of a larger movement, as men from all walks of life—reporters, printers, and editors alike—answered the nation’s call. The press itself was left to adapt, its staff thinned but its mission undiminished, as the city’s sense of purpose shifted from chronicling daily events to supporting the war effort and honoring those, like Moore, who bridged the worlds of news and national service.",
+    "source": "Novel-10146",
+    "evidence": "The Civil War prompted individuals to leave newspaper work for military service.; Frank Moore left his position at the Minnesotian newspaper to join military service.; The actions of individuals like Frank Moore reflect the broader mobilization of St. Paul's citizenry."
+  },
+  {
+    "id": "Novel-cf2f3466",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events concerning the Sioux, Gen. Sibley, and the government’s response as a historical news article.",
+    "answer": "Minnesota — In the wake of dispossession and mounting grievances, the Sioux have risen in open rebellion against the authority of Gen. Sibley and the United States government. Following a series of violent confrontations, Gen. Sibley advanced with caution, mindful that any rash action could endanger the lives of hundreds of captives held by the Sioux. After tense negotiations, the entire camp surrendered, and the captives—many of them women and children—were released. Gen. Sibley immediately convened a military tribunal to investigate the atrocities committed during the uprising. Over several weeks, the tribunal found hundreds of Sioux guilty, sentencing many to death and others to imprisonment. The government’s handling of the crisis, particularly its earlier neglect and controversial practice of allowing traders to sit at the pay table, has drawn sharp criticism and remains a source of deep contention among the people of Minnesota.",
+    "source": "Novel-10146",
+    "evidence": "Tensions have mounted as the Sioux rebelled against Gen. Sibley's authority.; The Sioux were recently dispossessed of land by the United States.; Gen. Sibley has launched inquiries into the grievances of the Indians.; The Indians protested the government's practice of allowing traders to sit at the pay table.; The government's neglect of its wards in Minnesota remains a point of contention."
+  },
+  {
+    "id": "Novel-980656b1",
+    "question_type": "Creative Generation",
+    "question": "Write a diary entry from the perspective of an Indian protesting the government’s treatment in Minnesota.",
+    "answer": "Diary Entry — Today, we stood before the government, our hearts heavy with the weight of injustice. The traders sat at the pay table, their pockets growing fat while our voices faded into silence. Gen. Sibley has asked about our suffering, and he knows—he must know—that the United States took our land, leaving us with little but hunger and broken promises. Still, the government turns its back, neglecting those it calls its wards here in Minnesota. We do not rise in rebellion without reason; our cause is born of desperation and the memory of what was taken from us.",
+    "source": "Novel-10146",
+    "evidence": "The Indian protesters stood before the government.; The protesters protested the injustice of traders sitting at the pay table.; The voices of the protesters go unheard.; Gen. Sibley has made inquiries about the plight of the Indians.; The United States took land from the Indians.; The government continues to neglect its wards in Minnesota.; The rebellion of the Indians is not without cause."
+  },
+  {
+    "id": "Novel-3a2cfb6d",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events involving Capt. William Henry Acker’s funeral as a news report.",
+    "answer": "St. Paul — The city was shrouded in mourning as the remains of Capt. William Henry Acker, founder of the Pioneer Guards and commander of the Wide-Awakes, returned home. Upon arrival, his body was met at the steamboat landing by a large gathering of citizens and solemnly escorted to Masonic Hall, where it lay in state. On Sunday, May 4, 1862, St. Paul’s church overflowed with mourners—friends, family, and fellow citizens from St. Paul, Minneapolis, St. Anthony, and Stillwater—paying their final respects. Many recalled his unwavering leadership during the regiment’s formation and his lasting civic contributions. The profound sense of loss was felt throughout the city, a testament to the deep shadow his passing cast over all who knew him.",
+    "source": "Novel-10146",
+    "evidence": "The city of St. Paul mourned the loss of Capt. William Henry Acker.; Capt. William Henry Acker was the founder of the Pioneer Guards.; Capt. William Henry Acker was the commander of the Wide-Awakes.; His funeral was held at St. Paul’s church.; Many attended the funeral.; Attendees recalled Capt. Acker's leadership during the regiment’s formation.; Capt. Acker made civic contributions."
+  }
+]

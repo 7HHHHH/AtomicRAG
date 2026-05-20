@@ -1,0 +1,570 @@
+[
+  {
+    "id": "Novel-338ef222",
+    "question_type": "Fact Retrieval",
+    "question": "In the novel 'Dragon's Blood', which character in the Chinese district is known by a notable nickname reflecting his influence and reputation?",
+    "answer": "Fang was known as the Sword-Pen.",
+    "source": "Novel-10321",
+    "evidence": "Fang is referred to by the nickname 'the Sword-Pen'.; Fang is known for his dangerous influence and reputation."
+  },
+  {
+    "id": "Novel-d909a766",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of the siege at the nunnery in 'Dragon's Blood', what is the 'Black Dog' used by the attackers, and what is its origin?",
+    "answer": "Black Dog was a bronze cannon cast at Rotterdam.",
+    "source": "Novel-10321",
+    "evidence": "Black Dog was a bronze cannon.; Black Dog was cast at Rotterdam."
+  },
+  {
+    "id": "Novel-6fa265bc",
+    "question_type": "Fact Retrieval",
+    "question": "After the events at the nunnery in 'Dragon's Blood', where did Rudolph go to rest and recover?",
+    "answer": "Rudolph lay wearily in the upper chamber of Heywood's house.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph lay wearily in the upper chamber of Heywood's house.; Rudolph chose to rest and recover in Heywood's house."
+  },
+  {
+    "id": "Novel-6f086f1b",
+    "question_type": "Fact Retrieval",
+    "question": "During his first visit to the club after arriving in China, with which Englishman did Rudolph shake hands, marking a moment of social introduction in the expatriate community?",
+    "answer": "Rudolph shook hands with an Englishman at the club.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph shook hands with an Englishman at the club.; This handshake marked a moment of social introduction in the expatriate community."
+  },
+  {
+    "id": "Novel-85ed509e",
+    "question_type": "Fact Retrieval",
+    "question": "While traveling through the Chinese countryside in 'Dragon's Blood', what did Rudolph observe that gave him an early impression of daily life in China?",
+    "answer": "Rudolph saw coolies.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph saw coolies while traveling through the Chinese countryside.; The coolies provided Rudolph with an early impression of daily life in China."
+  },
+  {
+    "id": "Novel-ff5afce7",
+    "question_type": "Fact Retrieval",
+    "question": "During their journey on the river in 'Dragon's Blood', with whom did Heywood share a seat aboard the Kut Sing steamer?",
+    "answer": "Heywood sat with Captain Kneebone.",
+    "source": "Novel-10321",
+    "evidence": "Heywood sat with Captain Kneebone during their journey on the river.; This seating highlighted the camaraderie aboard the Kut Sing steamer."
+  },
+  {
+    "id": "Novel-869c8d57",
+    "question_type": "Fact Retrieval",
+    "question": "While moving near the nunnery during the siege in 'Dragon's Blood', what significant geographical feature did Rudolph recognize?",
+    "answer": "Rudolph recognized the clay-pit.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph recognized the clay-pit while moving near the nunnery during the siege.; The clay-pit played a role in the defenders' awareness of the attackers' tunneling."
+  },
+  {
+    "id": "Novel-883feb97",
+    "question_type": "Fact Retrieval",
+    "question": "In the club scene of 'Dragon's Blood', at whom did Teppich gape foolishly during a notable moment among the expatriates?",
+    "answer": "Teppich gaped foolishly at Chantel.",
+    "source": "Novel-10321",
+    "evidence": "Teppich gaped foolishly at Chantel in the club scene of 'Dragon's Blood'.; Teppich's reaction revealed his surprise or admiration during a moment among the expatriates."
+  },
+  {
+    "id": "Novel-6598f21c",
+    "question_type": "Fact Retrieval",
+    "question": "During his arrival and initial journey into the Chinese interior, what mode of river transport did Rudolph use as he traveled upriver?",
+    "answer": "Rudolph sat in a sampan.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph sat in a sampan."
+  },
+  {
+    "id": "Novel-16abd953",
+    "question_type": "Fact Retrieval",
+    "question": "After Rudolph is rescued from the mud by a coolie during the nighttime escape in 'Dragon's Blood', what did the coolie offer him to help him recover?",
+    "answer": "The coolie gave Rudolph the rice-brandy.",
+    "source": "Novel-10321",
+    "evidence": "The coolie gave Rudolph rice-brandy."
+  },
+  {
+    "id": "Novel-b4dd9034",
+    "question_type": "Fact Retrieval",
+    "question": "In the geographical setting of 'Dragon's Blood', what natural feature shapes the boundaries of the landscape where the story unfolds?",
+    "answer": "The sea was near the coast.",
+    "source": "Novel-10321",
+    "evidence": "The sea was near the coast."
+  },
+  {
+    "id": "Novel-f3c17ac0",
+    "question_type": "Fact Retrieval",
+    "question": "During his daring attempt to rescue Wutzler, what structure did Heywood use to approach the site of the martyrdom in the siege's aftermath?",
+    "answer": "Heywood ran swiftly along the wall.",
+    "source": "Novel-10321",
+    "evidence": "Heywood ran swiftly along the wall."
+  },
+  {
+    "id": "Novel-ecf0b2cb",
+    "question_type": "Fact Retrieval",
+    "question": "Amidst a tense and heated exchange at the club, which character shifted the mood of the expatriate gathering by breaking the silence?",
+    "answer": "Chantel broke the silence.",
+    "source": "Novel-10321",
+    "evidence": "Chantel broke the silence."
+  },
+  {
+    "id": "Novel-9d7044a3",
+    "question_type": "Fact Retrieval",
+    "question": "During the group's excursion from the nunnery, who arranged for Rudolph to be transported with several bottles of the finest wine provided by Fliegelman and Sons?",
+    "answer": "Teppich packed Rudolph into a palanquin with many bottles of the best wine known to Fliegelman and Sons.",
+    "source": "Novel-10321",
+    "evidence": "Teppich packed Rudolph into a palanquin.; Teppich packed several bottles of the best wine known to Fliegelman and Sons."
+  },
+  {
+    "id": "Novel-e179a027",
+    "question_type": "Fact Retrieval",
+    "question": "During the siege of the nunnery in 'Dragon's Blood', where did Rudolph go to gain a higher vantage point for the defense?",
+    "answer": "Rudolph went up the wall.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph went up the wall."
+  },
+  {
+    "id": "Novel-2a0a481c",
+    "question_type": "Fact Retrieval",
+    "question": "What is the country of origin of Rudolph Hackh, the young protagonist who travels to China?",
+    "answer": "Rudolph Hackh came from Germany.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph Hackh came from Germany."
+  },
+  {
+    "id": "Novel-af1b400b",
+    "question_type": "Fact Retrieval",
+    "question": "During his voyage from Europe to China, which major body of water did Rudolph Hackh cross?",
+    "answer": "Rudolph Hackh crossed the Mediterranean.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph Hackh crossed the Mediterranean."
+  },
+  {
+    "id": "Novel-5dd482a4",
+    "question_type": "Fact Retrieval",
+    "question": "After leaving the Western hemisphere on his journey to China, what was the first notable place Rudolph Hackh visited in the East?",
+    "answer": "Rudolph Hackh left the Western hemisphere and went to the Quai Francois Joseph.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph Hackh left the Western hemisphere.; Rudolph Hackh went to the Quai Francois Joseph."
+  },
+  {
+    "id": "Novel-9e9f49ea",
+    "question_type": "Fact Retrieval",
+    "question": "During the secret society initiation ceremony in 'Dragon's Blood', which figure was invoked by the Master of Incense as part of the ritual?",
+    "answer": "The Master of Incense invoked the Bearer of the Axe.",
+    "source": "Novel-10321",
+    "evidence": "The Master of Incense invoked the Bearer of the Axe during the initiation ceremony."
+  },
+  {
+    "id": "Novel-ce9a2620",
+    "question_type": "Fact Retrieval",
+    "question": "During the violent events in the go-down, with what symbolic item was the Christian captive crowned as a form of execution by the attackers?",
+    "answer": "Christian was crowned with the Lamp of Heaven.",
+    "source": "Novel-10321",
+    "evidence": "Christian was crowned with the Lamp of Heaven by the attackers."
+  },
+  {
+    "id": "Novel-944d2bc5",
+    "question_type": "Fact Retrieval",
+    "question": "During the siege at the nunnery, which character fired shots from the defensive position on the pony-shed, contributing to the defense against the attackers?",
+    "answer": "Nesbit fired from the pony-shed.",
+    "source": "Novel-10321",
+    "evidence": "Nesbit fired shots from the pony-shed during the siege."
+  },
+  {
+    "id": "Novel-252d49cb",
+    "question_type": "Fact Retrieval",
+    "question": "In a moment of camaraderie and reassurance during the siege, which character rested his hand on Rudolph to comfort him as they looked out over the compound?",
+    "answer": "Heywood rested his hand on Rudolph.",
+    "source": "Novel-10321",
+    "evidence": "Heywood rested his hand on Rudolph to comfort him."
+  },
+  {
+    "id": "Novel-bbe14ef1",
+    "question_type": "Fact Retrieval",
+    "question": "During the brutal interrogation in the go-down, what did the men-at-arms do to the Christian prisoner while demanding that he renounce his faith?",
+    "answer": "The men-at-arms prodded Christian.",
+    "source": "Novel-10321",
+    "evidence": "The men-at-arms prodded Christian during the interrogation."
+  },
+  {
+    "id": "Novel-6df0af6c",
+    "question_type": "Fact Retrieval",
+    "question": "As the Hakka boat made its escape down the river after the siege, what did Captain Kneebone vigilantly watch, reflecting his anxiety for their safety?",
+    "answer": "Captain Kneebone watched the river.",
+    "source": "Novel-10321",
+    "evidence": "Captain Kneebone watched the river as the Hakka boat made its escape."
+  },
+  {
+    "id": "Novel-5b005bba",
+    "question_type": "Fact Retrieval",
+    "question": "In the concluding journey aboard the Hakka boat, what geographical feature did the narrative describe as lying beyond, symbolizing the vast and mysterious empire?",
+    "answer": "The empire lay beyond the hills.",
+    "source": "Novel-10321",
+    "evidence": "The empire lay beyond the hills."
+  },
+  {
+    "id": "Novel-22696bad",
+    "question_type": "Fact Retrieval",
+    "question": "Within the setting of 'Dragon's Blood', in which country are the villages located where much of the story's action takes place?",
+    "answer": "The villages were in China.",
+    "source": "Novel-10321",
+    "evidence": "The villages where much of the story's action takes place were in China."
+  },
+  {
+    "id": "Novel-ab708b74",
+    "question_type": "Fact Retrieval",
+    "question": "While investigating the area near the nunnery during the siege, what important feature did Rudolph recognize that tipped him off to the enemy's tunneling activities?",
+    "answer": "Rudolph recognized the clay-pit.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph recognized the clay-pit while investigating near the nunnery."
+  },
+  {
+    "id": "Novel-90cd19b2",
+    "question_type": "Fact Retrieval",
+    "question": "Where within the fortified nunnery compound were the orange trees located, providing a rare sense of peace amid the chaos of the siege?",
+    "answer": "The orange trees were in the compound.",
+    "source": "Novel-10321",
+    "evidence": "The orange trees were located in the fortified nunnery compound."
+  },
+  {
+    "id": "Novel-1321c4f1",
+    "question_type": "Fact Retrieval",
+    "question": "During a disagreement about their situation in China, to which companion did Rudolph voice his concerns?",
+    "answer": "Rudolph protested to Heywood.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph protested to Heywood."
+  },
+  {
+    "id": "Novel-b40d3568",
+    "question_type": "Fact Retrieval",
+    "question": "During the initiation rituals of the secret society in 'Dragon's Blood', what did the novices hold aloft as part of their oath-taking ceremony?",
+    "answer": "The Novices held Incense-sticks.",
+    "source": "Novel-10321",
+    "evidence": "The Novices held Incense-sticks during the oath-taking ceremony."
+  },
+  {
+    "id": "Novel-a43ea44f",
+    "question_type": "Fact Retrieval",
+    "question": "In the aftermath of a dramatic rescue by the river, with whom did Rudolph stand, sharing in the tension and uncertainty of their escape?",
+    "answer": "Rudolph stood with Mrs. Forrester.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph stood with Mrs. Forrester after the rescue by the river."
+  },
+  {
+    "id": "Novel-4efdd49f",
+    "question_type": "Fact Retrieval",
+    "question": "As the group waited to escape on the Hakka boat, at what natural force did Captain Kneebone direct his curses, frustrated by the delay in their departure?",
+    "answer": "Captain Kneebone cursed at the westerly breeze.",
+    "source": "Novel-10321",
+    "evidence": "Captain Kneebone cursed at the westerly breeze."
+  },
+  {
+    "id": "Novel-3077d6bc",
+    "question_type": "Fact Retrieval",
+    "question": "During the sea voyage to China, with which character did Miss Forrester engage in conversation, sparking a connection that would develop throughout the novel?",
+    "answer": "Miss Forrester chatted with Rudolph.",
+    "source": "Novel-10321",
+    "evidence": "Miss Forrester chatted with Rudolph during the sea voyage to China."
+  },
+  {
+    "id": "Novel-640aa386",
+    "question_type": "Fact Retrieval",
+    "question": "During the torture of the Christian prisoner in the go-down, who were the ones that struck at him with their torches in an attempt to force a confession?",
+    "answer": "The torch-bearers struck at Christian.",
+    "source": "Novel-10321",
+    "evidence": "The torch-bearers struck at Christian during the torture."
+  },
+  {
+    "id": "Novel-372f1564",
+    "question_type": "Fact Retrieval",
+    "question": "During a late-night discussion at the club among the expatriates, about which historical city did Wutzler share his thoughts, displaying his fondness for history?",
+    "answer": "Wutzler spoke about Rome.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler spoke about Rome during the discussion at the club."
+  },
+  {
+    "id": "Novel-a116a662",
+    "question_type": "Fact Retrieval",
+    "question": "When discussing her personal history aboard the ship to China, what did Mrs. Forrester claim about her national background during her conversation with Rudolph?",
+    "answer": "Mrs. Forrester claimed to be more French than English.",
+    "source": "Novel-10321",
+    "evidence": "Mrs. Forrester claimed to be more French than English."
+  },
+  {
+    "id": "Novel-0e35afe5",
+    "question_type": "Fact Retrieval",
+    "question": "Amidst the pressures and uncertainties of their situation in China, to whom did Rudolph turn to share his thoughts and feelings?",
+    "answer": "Rudolph confessed to Heywood.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph confessed to Heywood about his thoughts and feelings."
+  },
+  {
+    "id": "Novel-babf4510",
+    "question_type": "Fact Retrieval",
+    "question": "During his movements in the Chinese settlement, through which area did Heywood pass, highlighting his familiarity with the local town environment?",
+    "answer": "Heywood passed through the town.",
+    "source": "Novel-10321",
+    "evidence": "Heywood passed through the town in the Chinese settlement."
+  },
+  {
+    "id": "Novel-c6229ad7",
+    "question_type": "Fact Retrieval",
+    "question": "In the novel 'Dragon's Blood', what nickname was given to Fang by the townspeople?",
+    "answer": "Fang was known as the Sword-Pen.",
+    "source": "Novel-10321",
+    "evidence": "Fang was known as the Sword-Pen.; The nickname Sword-Pen denotes Fang's role as a dangerous figure.; The nickname Sword-Pen denotes Fang's role as an influential figure among the townspeople."
+  },
+  {
+    "id": "Novel-ba19add3",
+    "question_type": "Fact Retrieval",
+    "question": "During a moment at the nunnery, which servant boy did Rudolph call out to?",
+    "answer": "Rudolph called to Peng.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph called to a servant boy named Peng.; The interaction illustrates daily interactions between foreigners and their Chinese staff."
+  },
+  {
+    "id": "Novel-4f7fc60b",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of the siege at the Portuguese nunnery, what was Rudolph's connection to the clay-pit where the coolies were digging, and how did this site become significant in the unfolding events with the besiegers?",
+    "answer": "Rudolph noticed the clay-pit where the coolies were digging.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph noticed the clay-pit.; The coolies were digging at the clay-pit.; The clay-pit became significant in the events with the besiegers."
+  },
+  {
+    "id": "Novel-f2800f11",
+    "question_type": "Complex Reasoning",
+    "question": "During Rudolph's journey in China, how did he interact with the Englishman he met along the river?",
+    "answer": "Rudolph shook hands with the Englishman and spoke English.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph shook hands with the Englishman.; Rudolph spoke English during his meeting with the Englishman."
+  },
+  {
+    "id": "Novel-25c17c3d",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative of Dragon's Blood, why might Heywood be involved in helping Wutzler, and how does this involvement connect to Miss Drake's inquiry about Heywood's actions?",
+    "answer": "Heywood helped Wutzler, and Miss Drake asked about Heywood.",
+    "source": "Novel-10321",
+    "evidence": "Heywood helped Wutzler.; Miss Drake asked about Heywood's actions."
+  },
+  {
+    "id": "Novel-c218fffa",
+    "question_type": "Complex Reasoning",
+    "question": "After the siege, who gave Rudolph rice-brandy as he sat by the riverbank, and what happened next?",
+    "answer": "Wutzler gave Rudolph rice-brandy, and Rudolph found his mouth full of sweet fiery liquid.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler gave Rudolph rice-brandy.; Rudolph found his mouth full of sweet fiery liquid after drinking the rice-brandy."
+  },
+  {
+    "id": "Novel-aba4e30c",
+    "question_type": "Complex Reasoning",
+    "question": "During the tense events at the nunnery, how did Heywood treat Rudolph, and what name was he referred to as in the narrative?",
+    "answer": "Heywood scoffed at Rudolph, and Heywood was called Maurice.",
+    "source": "Novel-10321",
+    "evidence": "Heywood scoffed at Rudolph.; Heywood was called Maurice in the narrative."
+  },
+  {
+    "id": "Novel-31580ac0",
+    "question_type": "Complex Reasoning",
+    "question": "Throughout the novel Dragon's Blood, in what ways did Heywood interact with Rudolph during their time in China?",
+    "answer": "Heywood interacted with Rudolph by warning and accompanying him.",
+    "source": "Novel-10321",
+    "evidence": "Heywood interacted with Rudolph by warning him about dangers.; Heywood accompanied Rudolph during key events in China."
+  },
+  {
+    "id": "Novel-443e3d36",
+    "question_type": "Complex Reasoning",
+    "question": "During Rudolph's journey in China, how did Wutzler assist him?",
+    "answer": "Wutzler assisted Rudolph by guiding him and telling him information during his journey.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler assisted Rudolph by guiding him.; Wutzler provided Rudolph with information during his journey."
+  },
+  {
+    "id": "Novel-c2af5dd7",
+    "question_type": "Complex Reasoning",
+    "question": "How did the relationship between Rudolph and Mrs. Forrester develop during their time at the Flowery Pagoda?",
+    "answer": "At the Flowery Pagoda, Mrs. Forrester expressed regret to Rudolph, and he saw her flushed and radiant as she ended a narrative with a droll pantomime.",
+    "source": "Novel-10321",
+    "evidence": "Mrs. Forrester expressed regret to Rudolph at the Flowery Pagoda.; Rudolph saw Mrs. Forrester flushed and radiant.; Mrs. Forrester ended a narrative with a droll pantomime."
+  },
+  {
+    "id": "Novel-f93e96da",
+    "question_type": "Complex Reasoning",
+    "question": "What characterized the interactions between Heywood and Chantel in the novel Dragon's Blood, particularly during tense moments?",
+    "answer": "The interactions between Heywood and Chantel were characterized by Heywood retorting to Chantel.",
+    "source": "Novel-10321",
+    "evidence": "Heywood retorted to Chantel during their interactions.; The interactions between Heywood and Chantel were characterized by retorts."
+  },
+  {
+    "id": "Novel-10d68c1c",
+    "question_type": "Complex Reasoning",
+    "question": "How did Rudolph demonstrate his engagement with different cultures during his travels in Dragon's Blood?",
+    "answer": "Rudolph demonstrated engagement with different cultures by speaking English and traveling to China.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph spoke English during his travels.; Rudolph traveled to China.; Rudolph demonstrated engagement with different cultures."
+  },
+  {
+    "id": "Novel-1a4b1d34",
+    "question_type": "Complex Reasoning",
+    "question": "During the defense of the nunnery in Dragon's Blood, how did Heywood show leadership during preparations for the siege?",
+    "answer": "Heywood showed leadership by commanding Sturgeon and giving orders to the coolies.",
+    "source": "Novel-10321",
+    "evidence": "Heywood commanded Sturgeon during the defense of the nunnery.; Heywood gave orders to the coolies during preparations for the siege.; Heywood showed leadership during the defense of the nunnery."
+  },
+  {
+    "id": "Novel-133a2ac2",
+    "question_type": "Complex Reasoning",
+    "question": "What was significant about the moment when Rudolph confessed to Heywood in the novel Dragon's Blood, and how did Heywood respond?",
+    "answer": "Rudolph's confession to Heywood was significant because he confessed to Heywood and Heywood listened to him.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph confessed to Heywood.; Rudolph's confession to Heywood was significant.; Heywood listened to Rudolph's confession."
+  },
+  {
+    "id": "Novel-9a0a699a",
+    "question_type": "Complex Reasoning",
+    "question": "How does Wutzler's connection to the Triad link to the White Lotus secret band?",
+    "answer": "Wutzler was a member of the Triad, which was imitated by White Lotus.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler was a member of the Triad.; The White Lotus imitated the Triad."
+  },
+  {
+    "id": "Novel-e5b31f05",
+    "question_type": "Complex Reasoning",
+    "question": "How does the mention of Rome connect to Bengal through Wutzler's reading?",
+    "answer": "Wutzler read about Rome, which was mentioned with Bengal.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler read about Rome.; Rome was mentioned with Bengal."
+  },
+  {
+    "id": "Novel-df07265d",
+    "question_type": "Complex Reasoning",
+    "question": "How does Wutzler's membership in the Triad connect to the river?",
+    "answer": "Wutzler was a member of the Triad and went to the river.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler was a member of the Triad.; Wutzler went to the river."
+  },
+  {
+    "id": "Novel-a9462ec5",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between Rome and Wutzler's actions?",
+    "answer": "Wutzler read about Rome, which was mentioned with Egypt.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler read about Rome.; Rome was mentioned with Egypt."
+  },
+  {
+    "id": "Novel-18c0b2dd",
+    "question_type": "Contextual Summarize",
+    "question": "Throughout the novel 'Dragon's Blood,' what is Rudolph's professional connection to Fliegelman and Sons, and how do other characters interact with this trading company?",
+    "answer": "Rudolph served as an agent for Fliegelman and Sons, a trading company whose reputation and wares were well known among his acquaintances—Wutzler, in particular, was familiar with the firm and its standing. Sturgeon, ever the exuberant companion, orchestrated a memorable scene by packing Rudolph into a palanquin, surrounding him with an ample supply of the finest wine Fliegelman and Sons could offer. This gesture, both boisterous and generous, underscored the company's presence in their social circle and highlighted the camaraderie—and occasional excess—that marked their interactions.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph was an agent for Fliegelman and Sons.; Wutzler knew about Fliegelman and Sons.; Sturgeon packed Rudolph into a palanquin with wine from Fliegelman and Sons."
+  },
+  {
+    "id": "Novel-ef0f9988",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of the novel 'Dragon's Blood,' how does Heywood interact with Rudolph at various points in the story?",
+    "answer": "Heywood interacts with Rudolph by resting his hand on him, explaining things to him, warning him, leading him, and arguing with him.",
+    "source": "Novel-10321",
+    "evidence": "Heywood rested his hand on Rudolph.; Heywood explained things to Rudolph.; Heywood warned Rudolph of dangers.; Heywood led Rudolph through unfamiliar situations.; Heywood argued with Rudolph."
+  },
+  {
+    "id": "Novel-a3a6eab2",
+    "question_type": "Contextual Summarize",
+    "question": "In 'Dragon's Blood,' what is the nature of the interactions between Rudolph and Mrs. Forrester throughout the narrative?",
+    "answer": "Mrs. Forrester’s interactions with Rudolph are marked by a lively complexity: she stands with him in moments of solidarity, her presence both supportive and challenging; she chats with him, her conversation sparkling with wit and a mischievous, almost conspiratorial warmth; and at times, she scolds him, her words sharp yet not without a certain affection, as if testing the boundaries of his courage and character. Through these exchanges, her demeanor shifts from stern to playful, drawing Rudolph into a dynamic that is by turns admonishing and inviting.",
+    "source": "Novel-10321",
+    "evidence": "Mrs. Forrester stood with Rudolph.; Mrs. Forrester chatted with Rudolph.; Mrs. Forrester scolded Rudolph."
+  },
+  {
+    "id": "Novel-5d754d6e",
+    "question_type": "Contextual Summarize",
+    "question": "Within the events of 'Dragon's Blood,' what actions does Rudolph take in connection with the nunnery, and how do these actions relate to later events involving the nunnery?",
+    "answer": "Rudolph, driven by a mix of desperation and resolve, makes his way toward the nunnery under cover of darkness and chaos. He moves stealthily, threading through shadows and smoke, the heat of the burning building on his cheeks and the sound of gunfire echoing around him. As the attack on the nunnery intensifies, he finds himself forced to hide among scattered oil-jars, lying low while danger rages nearby. His presence at the nunnery is fraught with tension and uncertainty, as he becomes both witness to and participant in the turmoil that unfolds during the assault.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph stalked into the nunnery.; Rudolph spent time at the nunnery."
+  },
+  {
+    "id": "Novel-e93b586e",
+    "question_type": "Contextual Summarize",
+    "question": "What are the key events involving the river in 'Dragon's Blood' and how do they contribute to the atmosphere or plot?",
+    "answer": "Captain Kneebone, his face drawn and aged, kept a tense vigil over the river, his eyes darting between the shifting banks and the water itself, as if searching for some ominous sign. Along the muddy shore, a naked fisherman, his skin glistening in the fading light, worked his dip-net through the thick, liquid mud, a solitary figure against the vast, quaggy banks. As dusk deepened and the river turned from copper to iron-gray, a funeral barge drifted silently downstream, its passage lending a somber, almost spectral air to the already heavy atmosphere.",
+    "source": "Novel-10321",
+    "evidence": "Captain Kneebone watched the river.; A naked fisherman was in the river.; A funeral barge floated down the river."
+  },
+  {
+    "id": "Novel-01692d91",
+    "question_type": "Contextual Summarize",
+    "question": "How do Wutzler and Heywood interact throughout 'Dragon's Blood' and what is the significance of their relationship?",
+    "answer": "Wutzler, timid and shuffling in his ill-fitting native jacket, would approach Heywood with news or warnings, his nervous cackle betraying both anxiety and a desire to be helpful. Heywood, often amused by Wutzler's eccentricities, greeted him with laughter and teasing, their exchanges marked by a blend of camaraderie and gentle mockery. In these moments, the tension of their surroundings eased, if only briefly, as Heywood and Wutzler shared a rare, genuine laugh together.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler came to Heywood.; Wutzler told Heywood things.; Heywood laughed with Wutzler."
+  },
+  {
+    "id": "Novel-f67e9cbf",
+    "question_type": "Contextual Summarize",
+    "question": "In 'Dragon's Blood,' how does the compradore interact with Heywood and Rudolph during key moments in the story?",
+    "answer": "The compradore moves through the tense scenes with a quiet, deliberate presence. With a downward sweep of his hand, he beckons Heywood, his gesture both commanding and urgent, cutting through the uncertainty of the moment. For Rudolph, the compradore becomes a silent ally, providing him with a gun—a gesture heavy with trust and necessity as danger closes in. Amidst the chaos, the compradore peers through the swirling smoke, his bony, sweat-streaked face emerging from the shadows, ever watchful and alert during the crisis.",
+    "source": "Novel-10321",
+    "evidence": "The compradore beckoned to Heywood with a downward sweep.; The compradore had a gun for Rudolph.; The compradore peered through smoke."
+  },
+  {
+    "id": "Novel-a4897c00",
+    "question_type": "Contextual Summarize",
+    "question": "How does the relationship between Rudolph and Miss Forrester develop and manifest in 'Dragon's Blood'?",
+    "answer": "Miss Forrester taught the names of fruits to Rudolph, talked with him, and Rudolph thought about Miss Forrester.",
+    "source": "Novel-10321",
+    "evidence": "Miss Forrester taught the names of fruits to Rudolph.; Miss Forrester talked with Rudolph.; Rudolph thought about Miss Forrester."
+  },
+  {
+    "id": "Novel-f6c2b4fe",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative of Dragon's Blood, what role does the repeated pattern of Heywood scolding Nesbit, followed by Nesbit calling Captain Kneebone, play in structuring the interactions between these characters and advancing the development of authority and response throughout multiple plot sequences?",
+    "answer": "The repeated sequence of Heywood scolding Nesbit, followed by Nesbit summoning Captain Kneebone, weaves a recognizable rhythm into the narrative, underscoring the dynamics of authority and obedience among the characters. This pattern not only highlights Heywood’s assertive leadership and Nesbit’s reactive nature, but also serves as a structural device that propels the plot forward. Each iteration of this exchange reinforces the established hierarchy, while simultaneously setting off a chain of responses from other characters and shaping the atmosphere aboard the ship. Through these interactions, the story deepens its exploration of power, discipline, and the ripple effects of command within the group.",
+    "source": "Novel-10321",
+    "evidence": "Heywood scolded Nesbit.; Nesbit called Captain Kneebone.; The sequence establishes a pattern of authority and response."
+  },
+  {
+    "id": "Novel-a4a18279",
+    "question_type": "Contextual Summarize",
+    "question": "Within the context of Dragon's Blood, how does revealing that Wutzler is a member of the Triad and introducing the White Lotus as a secret band led by Fang the Sword-Pen serve to deepen Wutzler's character and connect him to the larger web of clandestine organizations operating in the story?",
+    "answer": "The revelation that Wutzler is a member of the Triad, coupled with the introduction of the White Lotus as a secret band led by Fang the Sword-Pen, intricately deepens Wutzler’s character by entwining his personal history with the shadowy world of clandestine societies. This connection not only exposes the hidden layers of his identity—marked by fear, loyalty, and a sense of belonging to something larger—but also situates him within a vast network of secret organizations that operate beneath the surface of the narrative. The presence of the White Lotus, mirroring and rivaling the Triad, expands the story’s scope, drawing Wutzler into a web of intrigue and danger that resonates throughout the plot and enriches the tapestry of alliances and enmities that define the world of Dragon’s Blood.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler is revealed to be a member of the Triad.; White Lotus is described as a secret band led by Fang the Sword-Pen.; This adds complexity to Wutzler's character."
+  },
+  {
+    "id": "Novel-700b7ec1",
+    "question_type": "Contextual Summarize",
+    "question": "During a scene in Dragon's Blood where Wutzler is described as reading about Rome, which is specifically mentioned in connection with geese, what is the narrative significance of this momentary shift to historical or cultural reference, and how does it influence the story's tone or the characters' reflections?",
+    "answer": "Wutzler's act of reading about Rome—specifically its legendary association with geese—serves as a subtle but meaningful pause in the narrative, momentarily drawing the reader and characters away from the immediacy of their surroundings. This historical allusion not only invites a reflective mood, but also enriches the story’s tone by layering the present with echoes of the past. In this brief interlude, the characters are prompted to consider the weight of history and the lessons it might offer, lending a contemplative air that contrasts with the ongoing action and deepens their inner lives.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler is described as reading about Rome.; The reading is mentioned in connection with geese.; This moment shifts the narrative to historical or cultural references."
+  },
+  {
+    "id": "Novel-38e11ac3",
+    "question_type": "Contextual Summarize",
+    "question": "In the broader sequence of actions depicted in Dragon's Blood, how do the moments when Wutzler reads about Rome—particularly Rome's association with geese—integrate with the main plot, and what thematic or atmospheric effect does this historical allusion have amidst the ongoing character-driven events?",
+    "answer": "While most chains focus on character interactions and movement through the setting, one chain introduces a historical or cultural dimension by having Wutzler read about Rome, which is mentioned with geese, providing a brief thematic expansion.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler reading about Rome introduces a historical dimension.; Rome is associated with geese in the narrative.; This provides a thematic expansion amidst character-driven events."
+  },
+  {
+    "id": "Novel-c3a9642b",
+    "question_type": "Contextual Summarize",
+    "question": "How does the depiction of Wutzler as a member of the Triad, along with the existence of the secret band White Lotus led by Fang, broaden the network of relationships among characters in Dragon's Blood by embedding them within secretive organizations and expanding the narrative beyond individual connections?",
+    "answer": "Wutzler's membership in the Triad, revealed through his anxious gestures and whispered confessions, and the shadowy presence of the White Lotus band led by Fang, weave the characters into a clandestine world of secret societies. These affiliations extend the web of relationships far beyond mere personal ties, embedding the characters within a larger, more perilous network of hidden allegiances and rivalries. The narrative thus expands from individual connections to a broader tapestry of intrigue, where every interaction is colored by the unseen influence of these secretive organizations.",
+    "source": "Novel-10321",
+    "evidence": "Wutzler is a member of the Triad.; The White Lotus is a secret band led by Fang.; Character relationships in Dragon's Blood include connections to secretive organizations.; The depiction of Wutzler and the White Lotus broadens the narrative scope beyond personal interactions."
+  },
+  {
+    "id": "Novel-94a9faa9",
+    "question_type": "Contextual Summarize",
+    "question": "Throughout Dragon's Blood, what does the recurring portrayal of Rudolph trembling in the presence of Heywood suggest about the nature of their interpersonal dynamic, and how does this reaction inform the reader about power relations or emotional tension between these two characters in various narrative situations?",
+    "answer": "Rudolph’s recurring trembling whenever he faces Heywood reveals a deep-seated sense of vulnerability and unease, hinting at a persistent imbalance of power between them. This physical reaction is more than mere nervousness; it underscores the emotional tension that simmers beneath their interactions, whether in moments of camaraderie or conflict. The trembling becomes a silent testament to Rudolph’s internal struggle—caught between admiration, resentment, and the weight of Heywood’s influence—casting a subtle but constant shadow over their relationship throughout the narrative.",
+    "source": "Novel-10321",
+    "evidence": "Rudolph consistently trembles in Heywood's presence.; Rudolph's trembling suggests a power imbalance between him and Heywood.; Rudolph's reaction indicates a sense of intimidation.; The dynamic between Rudolph and Heywood informs the reader about power relations and emotional tension."
+  },
+  {
+    "id": "Novel-35062f84",
+    "question_type": "Contextual Summarize",
+    "question": "In Dragon's Blood, how does the depiction of the garden containing a variety of elements—such as olives, whampee leaves, and banyan trees—across different narrative episodes contribute to the richness and diversity of the setting, and what does this suggest about the environment in which the characters find themselves?",
+    "answer": "The depiction of the garden, with its ever-changing array of olives, whampee leaves, and banyan trees, paints a vivid portrait of a setting teeming with life and variety. Each narrative episode reveals new layers of natural abundance—crocuses and hyacinths in early spring, vines climbing the fences, and hummingbirds darting among crowded flower beds—immersing the characters in an environment that is both lush and dynamic. This diversity not only enriches the sensory experience of the setting but also suggests that the world the characters inhabit is one of continual growth and renewal, where beauty and vitality are woven into the very fabric of their daily lives.",
+    "source": "Novel-10321",
+    "evidence": "The garden in Dragon's Blood contains olives, whampee leaves, and banyan trees.; The varying contents of the garden suggest a lush environment.; The garden contributes to the richness and diversity of the setting.; Different narrative episodes highlight various aspects of natural abundance."
+  }
+]

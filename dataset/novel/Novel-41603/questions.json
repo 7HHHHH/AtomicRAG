@@ -1,0 +1,826 @@
+[
+  {
+    "id": "Novel-45b7e7da",
+    "question_type": "Fact Retrieval",
+    "question": "During the events of 'Toto's Merry Winter', when Toto is listening to a story in the cottage, what was he staring at in the room?",
+    "answer": "Bear",
+    "source": "Novel-41603",
+    "evidence": "Toto was listening to a story in the cottage.; Toto was staring at the bear."
+  },
+  {
+    "id": "Novel-4a90fe75",
+    "question_type": "Fact Retrieval",
+    "question": "In the novel, what is the primary home of Toto and his grandmother?",
+    "answer": "Cottage",
+    "source": "Novel-41603",
+    "evidence": "The primary home for Toto and his grandmother is a cottage."
+  },
+  {
+    "id": "Novel-a07284fb",
+    "question_type": "Fact Retrieval",
+    "question": "In the scene where a man approaches Toto's cottage, where was the man standing before entering?",
+    "answer": "Outside the cottage",
+    "source": "Novel-41603",
+    "evidence": "A man approached Toto's cottage.; The man was standing outside the cottage before entering."
+  },
+  {
+    "id": "Novel-9418792b",
+    "question_type": "Fact Retrieval",
+    "question": "During a moment of conflict in the cottage, at whom did the squirrel direct its fierce gaze?",
+    "answer": "Raccoon",
+    "source": "Novel-41603",
+    "evidence": "The squirrel looked fiercely at the raccoon.; The squirrel expressed anger or defiance towards the raccoon."
+  },
+  {
+    "id": "Novel-6b20ca96",
+    "question_type": "Fact Retrieval",
+    "question": "In the winter gathering at Toto's cottage, where was the woodchuck located while the other animals and Toto spent time together?",
+    "answer": "Cupboard",
+    "source": "Novel-41603",
+    "evidence": "The woodchuck was located in the cupboard during the winter gathering.; The other animals and Toto spent time together outside the cupboard."
+  },
+  {
+    "id": "Novel-7a495600",
+    "question_type": "Fact Retrieval",
+    "question": "What architectural feature, essential for warmth and gathering, was part of Toto and his grandmother's cottage throughout the story?",
+    "answer": "Fireplace",
+    "source": "Novel-41603",
+    "evidence": "The cottage had a fireplace.; The fireplace was essential for warmth and gathering.; The fireplace was part of Toto and his grandmother's cottage throughout the story."
+  },
+  {
+    "id": "Novel-a9564c89",
+    "question_type": "Fact Retrieval",
+    "question": "In the story, whom did Toto's grandmother specifically thank for his help and companionship in the cottage?",
+    "answer": "Bruin",
+    "source": "Novel-41603",
+    "evidence": "Toto's grandmother thanked Bruin.; Bruin helped Toto's grandmother in the cottage.; Bruin provided companionship to Toto's grandmother in the cottage."
+  },
+  {
+    "id": "Novel-dee2271e",
+    "question_type": "Fact Retrieval",
+    "question": "During the honey-hunting episode described by the bear and raccoon, what creatures were buzzing around the raccoon as he tried to collect honey from the tree?",
+    "answer": "Bees",
+    "source": "Novel-41603",
+    "evidence": "Bees were buzzing around the raccoon.; The raccoon was trying to collect honey from the tree."
+  },
+  {
+    "id": "Novel-bb448a1f",
+    "question_type": "Fact Retrieval",
+    "question": "In the scene where an ill-looking man enters Toto's cottage and searches the kitchen, what objects did the man open while looking for valuables?",
+    "answer": "Boxes",
+    "source": "Novel-41603",
+    "evidence": "An ill-looking man entered Toto's cottage.; The man searched the kitchen for valuables.; The man opened boxes while looking for valuables."
+  },
+  {
+    "id": "Novel-92eb2c34",
+    "question_type": "Fact Retrieval",
+    "question": "Who, during moments of confusion or thoughtfulness in the cottage, was described as rubbing his nose with his paw?",
+    "answer": "Bruin",
+    "source": "Novel-41603",
+    "evidence": "Bruin was described as rubbing his nose with his paw.; Bruin did this during moments of confusion or thoughtfulness in the cottage."
+  },
+  {
+    "id": "Novel-9a2bd385",
+    "question_type": "Fact Retrieval",
+    "question": "Throughout the novel, whom does Toto consistently help with daily chores and caring for the household?",
+    "answer": "Grandmother",
+    "source": "Novel-41603",
+    "evidence": "Toto consistently helps his grandmother.; Toto helps with daily chores.; Toto cares for the household."
+  },
+  {
+    "id": "Novel-5492a510",
+    "question_type": "Fact Retrieval",
+    "question": "In the incident where a man intrudes into Toto's cottage to steal, what specific food item did the man draw out of the cupboard as part of his meal?",
+    "answer": "Cranberry tart",
+    "source": "Novel-41603",
+    "evidence": "A man intruded into Toto's cottage to steal.; The man drew out a cranberry tart from the cupboard as part of his meal."
+  },
+  {
+    "id": "Novel-dbfb3406",
+    "question_type": "Fact Retrieval",
+    "question": "During the time when the hermit is recovering in his cave, where does Pigeon Pretty sit in relation to the hermit while providing him company?",
+    "answer": "On the knee of the hermit",
+    "source": "Novel-41603",
+    "evidence": "Pigeon Pretty sat on the knee of the hermit.; Pigeon Pretty provided company to the hermit while he was recovering in his cave."
+  },
+  {
+    "id": "Novel-97502e67",
+    "question_type": "Fact Retrieval",
+    "question": "In the kitchen scene where the fire and the kettles communicate, which object spoke to the kettle, offering encouragement about its usefulness?",
+    "answer": "Black soup-kettle",
+    "source": "Novel-41603",
+    "evidence": "The black soup-kettle spoke to the kettle.; The black soup-kettle offered encouragement about its usefulness."
+  },
+  {
+    "id": "Novel-acda3403",
+    "question_type": "Fact Retrieval",
+    "question": "During an exchange in the cottage, whom did the squirrel demand to see or interact with, expressing impatience or insistence?",
+    "answer": "Raccoon",
+    "source": "Novel-41603",
+    "evidence": "The squirrel demanded to see the raccoon.; The squirrel expressed impatience or insistence."
+  },
+  {
+    "id": "Novel-264200b9",
+    "question_type": "Fact Retrieval",
+    "question": "In the hermit's cave, to whom did Toto direct a question, seeking information or a story?",
+    "answer": "Hermit",
+    "source": "Novel-41603",
+    "evidence": "Toto directed a question to the hermit.; Toto sought information or a story from the hermit."
+  },
+  {
+    "id": "Novel-6f5dcba9",
+    "question_type": "Fact Retrieval",
+    "question": "In a conversation inside the cottage, which character addressed Bruin, possibly offering kind words or guidance?",
+    "answer": "Wood-pigeon",
+    "source": "Novel-41603",
+    "evidence": "The wood-pigeon addressed Bruin.; The wood-pigeon possibly offered kind words or guidance to Bruin."
+  },
+  {
+    "id": "Novel-dde9c1e8",
+    "question_type": "Fact Retrieval",
+    "question": "During the woodmouse wedding festivities, what location did the squirrel enter along with Toto and the raccoon to join the celebration?",
+    "answer": "Cave",
+    "source": "Novel-41603",
+    "evidence": "The squirrel entered the cave with Toto and the raccoon.; The squirrel joined the woodmouse wedding festivities in the cave."
+  },
+  {
+    "id": "Novel-bb899a92",
+    "question_type": "Fact Retrieval",
+    "question": "During the attempted robbery at the cottage, on whom did the kettle pour boiling water as part of driving the intruder away?",
+    "answer": "Robber",
+    "source": "Novel-41603",
+    "evidence": "The kettle poured boiling water on the robber.; The kettle was part of driving the intruder away."
+  },
+  {
+    "id": "Novel-9e29cae8",
+    "question_type": "Fact Retrieval",
+    "question": "In the chaotic scene during the robbery at Toto's cottage, what did the man do involving the kettle as he tried to escape?",
+    "answer": "The man staggered backward toward the kettle.",
+    "source": "Novel-41603",
+    "evidence": "The man staggered backward toward the kettle.; The man was trying to escape during the robbery."
+  },
+  {
+    "id": "Novel-015910ee",
+    "question_type": "Fact Retrieval",
+    "question": "During a conversation in the cottage, to whom did the squirrel direct a comment or request?",
+    "answer": "The squirrel addressed Bruin.",
+    "source": "Novel-41603",
+    "evidence": "The squirrel addressed Bruin.; The squirrel made a comment or request to Bruin."
+  },
+  {
+    "id": "Novel-69907f97",
+    "question_type": "Fact Retrieval",
+    "question": "During their journey home from the woodmouse wedding, with whom did Toto walk through the snowy woods?",
+    "answer": "Toto walked with companions.",
+    "source": "Novel-41603",
+    "evidence": "Toto walked through the snowy woods.; Toto walked with companions."
+  },
+  {
+    "id": "Novel-f41a6eed",
+    "question_type": "Fact Retrieval",
+    "question": "After Ly-Chee is condemned by the Emperor for soaking the royal garments, where did His Celestial Majesty withdraw into, ending the audience?",
+    "answer": "His Celestial Majesty withdrew into the palace.",
+    "source": "Novel-41603",
+    "evidence": "His Celestial Majesty withdrew into the palace.; His Celestial Majesty ended the audience after condemning Ly-Chee."
+  },
+  {
+    "id": "Novel-7f529715",
+    "question_type": "Fact Retrieval",
+    "question": "In the story Chop-Chin tells, who brought a greeting and wine to the guards at the temple gates as a plea for prayers?",
+    "answer": "The guards received greeting and wine from Tong-Ki-Tcheng.",
+    "source": "Novel-41603",
+    "evidence": "The guards at the temple gates received a greeting from Tong-Ki-Tcheng.; The guards at the temple gates received wine from Tong-Ki-Tcheng.; The wine was meant as a plea for prayers."
+  },
+  {
+    "id": "Novel-25024e4e",
+    "question_type": "Fact Retrieval",
+    "question": "During Chop-Chin's quest to save his father in Pekin, who specifically guarded the second gate of the Golden Dragon's temple?",
+    "answer": "The second gate was guarded by steel guards.",
+    "source": "Novel-41603",
+    "evidence": "The second gate of the Golden Dragon's temple was guarded by steel guards."
+  },
+  {
+    "id": "Novel-f2c54ca8",
+    "question_type": "Fact Retrieval",
+    "question": "When Chop-Chin reached the temple of the Golden Dragon, what object did he hold out to the guards or priests as part of his ruse?",
+    "answer": "Chop-Chin held out a bronze bowl.",
+    "source": "Novel-41603",
+    "evidence": "Chop-Chin held out a bronze bowl to the guards or priests."
+  },
+  {
+    "id": "Novel-9dfd9d7f",
+    "question_type": "Fact Retrieval",
+    "question": "In the climactic scene where Chop-Chin removes the idol, what did he use his sash to cover before escaping the temple?",
+    "answer": "Chop-Chin covered the Golden Dragon.",
+    "source": "Novel-41603",
+    "evidence": "Chop-Chin used his sash to cover the Golden Dragon before escaping the temple."
+  },
+  {
+    "id": "Novel-79a34cfc",
+    "question_type": "Fact Retrieval",
+    "question": "After the Golden Dragon intervened to pardon Ly-Chee, what position did Emperor Wah-Song appoint Chop-Chin to as a reward?",
+    "answer": "Wah-Song appointed Chop-Chin as Second Sweeper.",
+    "source": "Novel-41603",
+    "evidence": "Emperor Wah-Song appointed Chop-Chin as Second Sweeper."
+  },
+  {
+    "id": "Novel-b0ebc350",
+    "question_type": "Fact Retrieval",
+    "question": "In the story set in Pekin, who is the person that showed kindness to Chop-Chin after his father was arrested for soaking the Emperor?",
+    "answer": "The old man showed kindness to Chop-Chin.",
+    "source": "Novel-41603",
+    "evidence": "An old man showed kindness to Chop-Chin after his father was arrested."
+  },
+  {
+    "id": "Novel-50852ffa",
+    "question_type": "Fact Retrieval",
+    "question": "What did the city of Pekin know about Tong-Ki-Tcheng that allowed Chop-Chin to claim he brought wine as a plea for prayers at the temple?",
+    "answer": "The city knew of the sickness of Tong-Ki-Tcheng.",
+    "source": "Novel-41603",
+    "evidence": "The city of Pekin knew of the sickness of Tong-Ki-Tcheng.; Chop-Chin claimed he brought wine as a plea for prayers at the temple."
+  },
+  {
+    "id": "Novel-0591c484",
+    "question_type": "Fact Retrieval",
+    "question": "During the scene where the Golden Dragon appears in Wah-Song's dream, who spoke directly to the Golden Dragon regarding Ly-Chee's fate?",
+    "answer": "Wah-Song spoke to the Golden Dragon.",
+    "source": "Novel-41603",
+    "evidence": "Wah-Song spoke directly to the Golden Dragon regarding Ly-Chee's fate."
+  },
+  {
+    "id": "Novel-2cd3be1d",
+    "question_type": "Fact Retrieval",
+    "question": "In the aftermath of the court-yard mishap, to whom did His Celestial Majesty, the Emperor, express his agony about his damp and ruined attire?",
+    "answer": "His Celestial Majesty expressed agony to the Unique Umbrella-Opener.",
+    "source": "Novel-41603",
+    "evidence": "His Celestial Majesty, the Emperor, expressed agony about his damp and ruined attire.; His Celestial Majesty expressed agony to the Unique Umbrella-Opener."
+  },
+  {
+    "id": "Novel-5bf4dcc9",
+    "question_type": "Fact Retrieval",
+    "question": "In the tale of Pekin's royal court, who was revealed to be Ly-Chee's son?",
+    "answer": "Chop-Chin was the son of Ly-Chee.",
+    "source": "Novel-41603",
+    "evidence": "Chop-Chin was identified as the son of Ly-Chee.; Ly-Chee was the sweeper who accidentally drenched the Emperor."
+  },
+  {
+    "id": "Novel-5dedb4ec",
+    "question_type": "Fact Retrieval",
+    "question": "During the festive supper at Toto's cottage, what beverage was served as part of the meal?",
+    "answer": "Jugs of buttermilk were part of the supper.",
+    "source": "Novel-41603",
+    "evidence": "Buttermilk was served in jugs.; Buttermilk was part of the festive supper at Toto's cottage."
+  },
+  {
+    "id": "Novel-60b88999",
+    "question_type": "Fact Retrieval",
+    "question": "In the story of the princess limited to three remarks, from whom did the princess accept a bag of rubies?",
+    "answer": "The princess accepted rubies from the butterman.",
+    "source": "Novel-41603",
+    "evidence": "The princess accepted a bag of rubies.; The rubies were a reward for her silence.; The rubies were accepted from the butterman."
+  },
+  {
+    "id": "Novel-d8dd3085",
+    "question_type": "Fact Retrieval",
+    "question": "In the episode set in the city where a new king is crowned, who was revealed to be in disguise?",
+    "answer": "The king was revealed to be a butterman.",
+    "source": "Novel-41603",
+    "evidence": "The king was revealed to be a butterman.; The king was in disguise."
+  },
+  {
+    "id": "Novel-e77a80c7",
+    "question_type": "Fact Retrieval",
+    "question": "In which location was the new king crowned during the events involving the princess and the butterman?",
+    "answer": "The new king was crowned in the city.",
+    "source": "Novel-41603",
+    "evidence": "The new king was crowned in the city."
+  },
+  {
+    "id": "Novel-5778d49d",
+    "question_type": "Fact Retrieval",
+    "question": "After encountering the princess in the forest, what information or circumstance did the band of robbers convey to their chieftain?",
+    "answer": "The robbers conveyed circumstance to the chieftain.",
+    "source": "Novel-41603",
+    "evidence": "The robbers conveyed circumstance to their chieftain.; The robbers encountered the princess in the forest."
+  },
+  {
+    "id": "Novel-b182ee0f",
+    "question_type": "Fact Retrieval",
+    "question": "During the succession events in the city, whom did the people lead to the market-place, resulting in an encounter with the new king?",
+    "answer": "The people led the princess to the market-place.",
+    "source": "Novel-41603",
+    "evidence": "The people led the princess to the market-place.; The encounter with the new king occurred in the market-place."
+  },
+  {
+    "id": "Novel-33e91398",
+    "question_type": "Fact Retrieval",
+    "question": "During her journey, to whom did the Red Chief of the Rustywhanger present a bag of sapphires as a gift?",
+    "answer": "The Red Chief of the Rustywhanger gave sapphires to the princess.",
+    "source": "Novel-41603",
+    "evidence": "The Red Chief of the Rustywhanger presented a bag of sapphires.; The sapphires were a gift in exchange for the princess's cooperation."
+  },
+  {
+    "id": "Novel-b59fdb33",
+    "question_type": "Fact Retrieval",
+    "question": "At the woodmouse wedding supper described in the story, what types of nuts were served to the guests?",
+    "answer": "Nuts that were part of the supper include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+    "source": "Novel-41603",
+    "evidence": "The types of nuts served at the woodmouse wedding supper included hazels.; The types of nuts served at the woodmouse wedding supper included butternuts.; The types of nuts served at the woodmouse wedding supper included chestnuts.; The types of nuts served at the woodmouse wedding supper included acorns.; The types of nuts served at the woodmouse wedding supper included beech-nuts."
+  },
+  {
+    "id": "Novel-4a56a9a5",
+    "question_type": "Fact Retrieval",
+    "question": "During the crowning of the new king in the city, who was sitting in the market-place as the people brought the princess to meet him?",
+    "answer": "The new king was sitting in the market-place.",
+    "source": "Novel-41603",
+    "evidence": "The new king was sitting in the market-place.; The people brought the princess to meet the new king."
+  },
+  {
+    "id": "Novel-ed553dca",
+    "question_type": "Fact Retrieval",
+    "question": "While held captive in Dr. O'Shaughnessy's house, to whom did Eileen Macarthy direct her questions regarding her condition and her wish?",
+    "answer": "Eileen Macarthy asked questions to the doctor.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy directed her questions to the doctor.; Eileen Macarthy asked about her condition.; Eileen Macarthy expressed her wish."
+  },
+  {
+    "id": "Novel-fc8c1f25",
+    "question_type": "Fact Retrieval",
+    "question": "During her captivity, what did Eily repeatedly talk about as a result of the fairy's gift?",
+    "answer": "Eily talked about pearls and diamonds.",
+    "source": "Novel-41603",
+    "evidence": "Eily talked about pearls.; Eily talked about diamonds."
+  },
+  {
+    "id": "Novel-5470aded",
+    "question_type": "Fact Retrieval",
+    "question": "Before entering the forest and meeting the Green Man, what did Eileen sing about as she gathered sticks for her mother?",
+    "answer": "Eileen sang about Green Men.",
+    "source": "Novel-41603",
+    "evidence": "Eileen sang about Green Men while gathering sticks."
+  },
+  {
+    "id": "Novel-4c68753b",
+    "question_type": "Fact Retrieval",
+    "question": "In the scenes describing Granny's appearance at the cottage party, what distinctive piece of jewelry did she wear, and what was depicted on it?",
+    "answer": "Granny wore a breastpin with a weeping-willow on it.",
+    "source": "Novel-41603",
+    "evidence": "Granny wore a breastpin.; The breastpin had a weeping-willow depicted on it."
+  },
+  {
+    "id": "Novel-e18d2c7f",
+    "question_type": "Fact Retrieval",
+    "question": "During the confrontation about Eily's mysterious jewels, to whom did Dr. O'Shaughnessy speak in order to explain or demand information?",
+    "answer": "Dr. O'Shaughnessy spoke to Dennis Macarthy.",
+    "source": "Novel-41603",
+    "evidence": "Dr. O'Shaughnessy spoke to Dennis Macarthy."
+  },
+  {
+    "id": "Novel-cdf0477d",
+    "question_type": "Fact Retrieval",
+    "question": "When Eily encountered the Green Man in the forest or was distressed by her predicament, whom did she invoke for help or protection?",
+    "answer": "Eily invoked Saint Bridget.",
+    "source": "Novel-41603",
+    "evidence": "Eily invoked Saint Bridget for help."
+  },
+  {
+    "id": "Novel-56aa3e9e",
+    "question_type": "Fact Retrieval",
+    "question": "Upon visiting the Macarthy family, whom did Dr. O'Shaughnessy greet as part of his arrival at their home?",
+    "answer": "Dr. O'Shaughnessy greeted Misthress Macarthy.",
+    "source": "Novel-41603",
+    "evidence": "Dr. O'Shaughnessy greeted Misthress Macarthy upon visiting the Macarthy family."
+  },
+  {
+    "id": "Novel-da451391",
+    "question_type": "Fact Retrieval",
+    "question": "When making her wish to the Green Man, whom did Eily declare she wanted to be richer than, expressing her ambitions?",
+    "answer": "Eily wanted to be richer than the Countess o' Kilmoggen.",
+    "source": "Novel-41603",
+    "evidence": "Eily wanted to be richer than the Countess o' Kilmoggen."
+  },
+  {
+    "id": "Novel-5724612b",
+    "question_type": "Fact Retrieval",
+    "question": "At the end of her magical adventure after being freed from her predicament, who is said to accompany Eileen Macarthy as she returns home?",
+    "answer": "The Green Men go with Eileen Macarthy.",
+    "source": "Novel-41603",
+    "evidence": "The Green Men accompanied Eileen Macarthy as she returned home."
+  },
+  {
+    "id": "Novel-0e57f27f",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence from the story shows that Eily aspired to be wealthy?",
+    "answer": "Eily wanted to be richer than the Countess o' Kilmoggen, wished for diamonds and pearls, and talked about diamonds and pearls.",
+    "source": "Novel-41603",
+    "evidence": "Eily wanted to be richer than the Countess o' Kilmoggen.; Eily wished for diamonds to drop from her mouth.; Eily wished for pearls to drop from her mouth.; Eily talked about diamonds.; Eily talked about pearls."
+  },
+  {
+    "id": "Novel-fe7f2575",
+    "question_type": "Complex Reasoning",
+    "question": "During Chop-Chin's quest to save his father in Pekin, he repeatedly interacts with guards and priests by presenting and offering a bronze bowl. What is the significance of the bronze bowl in Chop-Chin's interactions with others during his journey to the Golden Dragon's shrine?",
+    "answer": "The bronze bowl was held out, offered, and carried by Chop-Chin, highlighting its importance in his interactions.",
+    "source": "Novel-41603",
+    "evidence": "Chop-Chin held out the bronze bowl.; Chop-Chin offered the bronze bowl.; Chop-Chin carried the bronze bowl.; The bronze bowl was important in Chop-Chin's interactions."
+  },
+  {
+    "id": "Novel-7fba506d",
+    "question_type": "Complex Reasoning",
+    "question": "In 'Toto's Merry Winter,' how is Bruin connected to the cottage and the grandmother?",
+    "answer": "Bruin is connected to the cottage because both the grandmother and Bruin lived in the cottage.",
+    "source": "Novel-41603",
+    "evidence": "Bruin is connected to the cottage.; Both the grandmother and Bruin lived in the cottage."
+  },
+  {
+    "id": "Novel-d42f24b5",
+    "question_type": "Complex Reasoning",
+    "question": "In the scene where a man arrives at the cottage while the main characters are absent, what actions did he take that might be considered suspicious?",
+    "answer": "The man stood outside the cottage, opened boxes, and peered into lockers.",
+    "source": "Novel-41603",
+    "evidence": "The man stood outside the cottage.; The man opened boxes.; The man peered into lockers."
+  },
+  {
+    "id": "Novel-c4772f49",
+    "question_type": "Complex Reasoning",
+    "question": "During the attempted robbery at Toto's cottage, what did the kettle do to help stop the robber?",
+    "answer": "The kettle contributed to stopping the robber by pouring water on him and stopping its singing.",
+    "source": "Novel-41603",
+    "evidence": "The kettle poured water on the robber.; The kettle stopped its singing."
+  },
+  {
+    "id": "Novel-cb781b83",
+    "question_type": "Complex Reasoning",
+    "question": "What interactions in the story show the nature of the relationship between Toto and the hermit?",
+    "answer": "Toto showed a connection to the hermit by asking him questions.",
+    "source": "Novel-41603",
+    "evidence": "Toto asked the hermit questions.; Toto showed a connection to the hermit."
+  },
+  {
+    "id": "Novel-569780c4",
+    "question_type": "Complex Reasoning",
+    "question": "Why is the bear called Bruin in the story?",
+    "answer": "The bear is called Bruin because the bear was Bruin.",
+    "source": "Novel-41603",
+    "evidence": "The bear is called Bruin.; The bear was Bruin."
+  },
+  {
+    "id": "Novel-68c30458",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative, the raccoon is shown to be playful—for example, by teasing the cow and playing leap-frog with Toto. What evidence from the story illustrates the raccoon's playful nature through its actions and interactions with others?",
+    "answer": "The raccoon was playful because it teased the cow.",
+    "source": "Novel-41603",
+    "evidence": "The raccoon teased the cow.; The raccoon was playful."
+  },
+  {
+    "id": "Novel-3a5fb7b0",
+    "question_type": "Complex Reasoning",
+    "question": "How is the woodchuck connected to the cupboard in the wall of the cottage?",
+    "answer": "The woodchuck is associated with the cupboard because it was in the cupboard.",
+    "source": "Novel-41603",
+    "evidence": "The woodchuck is associated with the cupboard.; The woodchuck was in the cupboard."
+  },
+  {
+    "id": "Novel-884a8392",
+    "question_type": "Complex Reasoning",
+    "question": "In the story of King Sligo and the High Cellarer, why did King Sligo have the High Cellarer arrested?",
+    "answer": "King Sligo had the High Cellarer arrested because the High Cellarer found the key and opened the treasure-chamber that belonged to the King.",
+    "source": "Novel-41603",
+    "evidence": "King Sligo had the High Cellarer arrested.; The High Cellarer found the key.; The High Cellarer opened the treasure-chamber.; The treasure-chamber belonged to the King."
+  },
+  {
+    "id": "Novel-0be2176d",
+    "question_type": "Complex Reasoning",
+    "question": "During the supper scene that the princess might have enjoyed, what foods are mentioned as being included?",
+    "answer": "The supper included jugs of buttermilk, gingerbread, mutton-pie, pitchers of cream, ham, chicken, and nuts.",
+    "source": "Novel-41603",
+    "evidence": "The supper included jugs of buttermilk.; The supper included gingerbread.; The supper included mutton-pie.; The supper included pitchers of cream.; The supper included ham.; The supper included chicken.; The supper included nuts."
+  },
+  {
+    "id": "Novel-4e5d3831",
+    "question_type": "Complex Reasoning",
+    "question": "In the city featured in the story, what major events involving the king are described?",
+    "answer": "In the city, the old king died and a new king was crowned.",
+    "source": "Novel-41603",
+    "evidence": "The old king died.; A new king was crowned."
+  },
+  {
+    "id": "Novel-d7765001",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative, what is revealed about the butterman's true identity and his intentions in the city?",
+    "answer": "The butterman was revealed to be the king, and he thought of setting up a public house in the city.",
+    "source": "Novel-41603",
+    "evidence": "The butterman was revealed to be the king.; The king thought of setting up a public house in the city."
+  },
+  {
+    "id": "Novel-e2bcebf4",
+    "question_type": "Complex Reasoning",
+    "question": "Which creatures in the story are associated with eating nuts, and what kinds of nuts are included in their diet?",
+    "answer": "Star-nosed moles are associated with eating nuts, which include hazels, butternuts, chestnuts, acorns, and beech-nuts.",
+    "source": "Novel-41603",
+    "evidence": "Star-nosed moles are associated with eating nuts.; The nuts mentioned include hazels.; The nuts mentioned include butternuts.; The nuts mentioned include chestnuts.; The nuts mentioned include acorns.; The nuts mentioned include beech-nuts."
+  },
+  {
+    "id": "Novel-24801996",
+    "question_type": "Complex Reasoning",
+    "question": "By following a chain of relationships starting from Eileen Macarthy, how is Doctor O'Shaughnessy ultimately connected to Eileen?",
+    "answer": "Eileen Macarthy told a story to Mrs. O'Shaughnessy, who was watching Doctor O'Shaughnessy, who was given charge of Eileen.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy told a story to Mrs. O'Shaughnessy.; Mrs. O'Shaughnessy was watching Doctor O'Shaughnessy.; Doctor O'Shaughnessy was given charge of Eileen."
+  },
+  {
+    "id": "Novel-01436a2b",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative depict a circular connection involving Eily through a sequence of interactions?",
+    "answer": "Eily answered Green Man, who asked Eily.",
+    "source": "Novel-41603",
+    "evidence": "Eily answered Green Man.; Green Man asked Eily."
+  },
+  {
+    "id": "Novel-1f56356d",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between the grandmother and Toto, as established by a sequence of relations involving the bear?",
+    "answer": "The grandmother said good-night to the bear, who held Toto, connecting the grandmother to Toto.",
+    "source": "Novel-41603",
+    "evidence": "The grandmother said good-night to the bear.; The bear held Toto.; This connects the grandmother to Toto."
+  },
+  {
+    "id": "Novel-007bd442",
+    "question_type": "Complex Reasoning",
+    "question": "Through what sequence is Bruin connected to the grandmother?",
+    "answer": "Bruin settled in the cottage, which was home to the grandmother.",
+    "source": "Novel-41603",
+    "evidence": "Bruin settled in the cottage.; The cottage was home to the grandmother."
+  },
+  {
+    "id": "Novel-17081ed0",
+    "question_type": "Complex Reasoning",
+    "question": "What sequence of events links Eily and the Green Man in the story?",
+    "answer": "Eily answered the Green Man, who then asked Eily.",
+    "source": "Novel-41603",
+    "evidence": "Eily answered the Green Man.; The Green Man asked Eily."
+  },
+  {
+    "id": "Novel-275785ba",
+    "question_type": "Complex Reasoning",
+    "question": "Which entities form the link between Doctor O'Shaughnessy and Eileen Macarthy?",
+    "answer": "Mrs. O'Shaughnessy watched Doctor O'Shaughnessy depart, and Eileen Macarthy told a story to Mrs. O'Shaughnessy.",
+    "source": "Novel-41603",
+    "evidence": "Mrs. O'Shaughnessy watched Doctor O'Shaughnessy depart.; Eileen Macarthy told a story to Mrs. O'Shaughnessy."
+  },
+  {
+    "id": "Novel-9c4feaaf",
+    "question_type": "Complex Reasoning",
+    "question": "How is Green Man connected to Eily and Eileen Macarthy through the narrative?",
+    "answer": "Eileen Macarthy met Green Man, who gave a wish to Eily.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy met Green Man.; Green Man gave a wish to Eily."
+  },
+  {
+    "id": "Novel-31eef806",
+    "question_type": "Complex Reasoning",
+    "question": "What links Eily to a wish and to Eileen Macarthy?",
+    "answer": "Green Man gave a wish to Eily, and Eileen Macarthy met Green Man.",
+    "source": "Novel-41603",
+    "evidence": "Green Man gave a wish to Eily.; Eileen Macarthy met Green Man."
+  },
+  {
+    "id": "Novel-1df9062c",
+    "question_type": "Complex Reasoning",
+    "question": "How does Eileen’s singing about Green Men connect to her interactions with the Green Man?",
+    "answer": "Eileen sang about Green Men; Green Man asked Eileen, and Eileen answered Green Man.",
+    "source": "Novel-41603",
+    "evidence": "Eileen sang about Green Men.; The Green Man asked Eileen.; Eileen answered the Green Man."
+  },
+  {
+    "id": "Novel-a00f1707",
+    "question_type": "Complex Reasoning",
+    "question": "Explain how Eileen Macarthy is involved in both storytelling and direct interaction with Doctor O'Shaughnessy.",
+    "answer": "Eileen Macarthy told a story to Mrs. O'Shaughnessy, and Eileen stared at Doctor O'Shaughnessy.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy told a story to Mrs. O'Shaughnessy.; Eileen stared at Doctor O'Shaughnessy."
+  },
+  {
+    "id": "Novel-13d2b740",
+    "question_type": "Contextual Summarize",
+    "question": "During the festive supper described in the cottage, what specific food and drink items were served to Toto, his grandmother, Bruin, and their guests?",
+    "answer": "The festive supper was a true celebration of warmth and abundance, with jugs of cool buttermilk, fragrant gingerbread, and soft white bread laid out alongside hearty mutton-pie. Pitchers of rich cream, slices of savory ham and tender chicken, and bowls brimming with nuts completed the spread. The table, set with care by Toto and his friends, became the heart of the cottage, drawing everyone together in cheerful companionship.",
+    "source": "Novel-41603",
+    "evidence": "The supper included jugs of buttermilk.; The supper included gingerbread.; The supper included white bread.; The supper included mutton-pie.; The supper included pitchers of cream.; The supper included ham.; The supper included chicken.; The supper included nuts."
+  },
+  {
+    "id": "Novel-789c38be",
+    "question_type": "Contextual Summarize",
+    "question": "What is the relationship between Eily (Eileen Macarthy) and the Green Man, and what happens when they meet?",
+    "answer": "Eily, whose full name is Eileen Macarthy but is affectionately called Eily at home, encountered the Green Man—also known as the Grane Man—under extraordinary circumstances. In a moment that felt plucked from the old fairy tales her mother used to tell, Eily found herself face to face with a real fairy, alive and brimming with the power to grant blessings or curses. With a mixture of awe and delight, she blessed the Green Man, and in return, he offered her a wish—anything her heart desired—inviting her to seize this rare and magical opportunity.",
+    "source": "Novel-41603",
+    "evidence": "Eily is also known as Eileen Macarthy.; Eily met the Green Man.; The Green Man is the same as the Grane Man.; Eily blessed the Green Man.; Eily received a wish from the Green Man."
+  },
+  {
+    "id": "Novel-40f8613b",
+    "question_type": "Contextual Summarize",
+    "question": "After Short-tailed Comet No. 73 disobeys the Comet Master's orders in the story, what actions does the Comet Master take regarding No. 73, and how does he address No. 1 Express and the meteor as part of his response?",
+    "answer": "The Comet Master, with his usual sharp yet not unkind authority, summoned No. 1 Express—the swiftest and most resplendent of the comets—before the assembled court. He announced, to the great sensation of all present, that Short-tailed Comet No. 73 had disobeyed orders and, as a consequence, had been devoured by the Sun. With a solemn gesture, he took a piece of chalk and crossed No. 73’s name from the slate that hung on the door, erasing the comet from their ranks. Turning to No. 1 Express, he issued precise instructions: to seek out the runaway meteor with a red face and blue hair, to make inquiries of respectable celestial bodies, and, upon finding the meteor, to escort him to planet Bungo for two aeons in the Reform School. The Comet Master concluded by addressing all the comets, hoping this incident would serve as a lasting lesson.",
+    "source": "Novel-41603",
+    "evidence": "The Comet Master spoke sharply to No. 1 Express.; The Comet Master knew Short-tailed Comet No. 73.; The Comet Master cried at the meteor.; The Comet Master crossed out No. 73 from the list of short-tailed comets."
+  },
+  {
+    "id": "Novel-c7b86a45",
+    "question_type": "Contextual Summarize",
+    "question": "In the tale of Short-tailed Comet No. 73, how do interactions between the comet and other celestial bodies—including planet Bungo, Earth, the Sun, and a meteor—affect the comet's journey, especially in relation to the places the comet approaches or is instructed to avoid?",
+    "answer": "The comet went near planet Bungo and Earth. The meteor wanted to go near the Sun. The Sun, planet Bungo, and Earth would avoid Short-tailed Comet No. 73.",
+    "source": "Novel-41603",
+    "evidence": "The comet went near planet Bungo.; The comet went near Earth.; The meteor wanted to go near the Sun.; The Sun would avoid Short-tailed Comet No. 73.; Planet Bungo would avoid Short-tailed Comet No. 73.; Earth would avoid Short-tailed Comet No. 73."
+  },
+  {
+    "id": "Novel-c2dcacec",
+    "question_type": "Contextual Summarize",
+    "question": "What are some of the main activities that Bruin, the bear living in the cottage with Toto and his grandmother, participates in throughout the story—including his actions in the kitchen, his interactions with Toto and the raccoon, and his participation in games?",
+    "answer": "Throughout the story, Bruin, the bear, is a lively and indispensable presence in the cottage. He throws himself wholeheartedly into household tasks—washing, cooking, churning, and scrubbing with tireless energy and cheerful good-will. In the kitchen, he polishes the kettle until it gleams and helps keep everything in order. Bruin also delights in moments of companionship, often lying contentedly on the hearth-rug and inviting Toto and the raccoon to join him, creating a scene of warmth and comfort. When the day's work is done, he eagerly participates in games and evening amusements, sometimes suggesting story-telling or dancing-school, and always contributing to the laughter and joy that fill the cottage.",
+    "source": "Novel-41603",
+    "evidence": "Bruin lies down on the hearth-rug.; Bruin invites Toto and the raccoon.; Bruin polishes the kettle.; Bruin plays games."
+  },
+  {
+    "id": "Novel-f657d12f",
+    "question_type": "Contextual Summarize",
+    "question": "In the story's segment about the comets, what actions does the Comet Master take regarding the comets, such as giving them orders, sending them on missions like that of Short-Tail No. 73, and threatening consequences for disobedience?",
+    "answer": "The Comet Master rules with a firm but not unkind hand, issuing sharp and decisive orders to the comets under his command. He dispatches them on important missions—such as instructing No. 1 Express to seek out a runaway meteor with a red face and blue hair, and to deliver him to the planet Bungo for reform. The Master does not hesitate to enforce discipline: when Short-Tail No. 73 disobeys orders, he announces to the assembled comets that No. 73 has been devoured by the Sun, serving as a stern warning. His words carry the weight of real consequences, ensuring that all comets understand the seriousness of their duties and the fate that awaits those who stray.",
+    "source": "Novel-41603",
+    "evidence": "The Comet Master gives orders to comets.; The Comet Master sends comets on missions.; The Comet Master sent Short-Tail No. 73 on a mission.; The Comet Master threatens to cut up comets if they disobey."
+  },
+  {
+    "id": "Novel-2cb951c9",
+    "question_type": "Contextual Summarize",
+    "question": "In the episode where Eily (Eileen Macarthy) encounters the Green Man, what is the nature of their interaction?",
+    "answer": "The Green Man’s interaction with Eily is both enchanting and intimate. He addresses her warmly by name, listens to her wishes, and regards her with a mixture of amusement and gravity. When Eily expresses her desire, he laughs heartily at her candidness, then invites her to stoop down so he can touch her lips three times with the scarlet tassel of his cap, performing the charm. He speaks to her with a blend of affection and warning, granting her wish but also cautioning her about its consequences, and watches her with a knowing, almost fatherly gaze as he sends her home with the good wishes of the Green Men.",
+    "source": "Novel-41603",
+    "evidence": "The Green Man gives Eily a wish.; The Green Man looks at Eily.; The Green Man speaks to Eily."
+  },
+  {
+    "id": "Novel-84f32cc1",
+    "question_type": "Contextual Summarize",
+    "question": "Within the story, how does the hermit character interact with the animals, including inviting the hawk to stay with him, playing backgammon with Bruin the bear, and teaching the crow?",
+    "answer": "The hermit’s interactions with the animals are marked by warmth, humor, and a gentle camaraderie. He welcomes the hawk to stay with him, offering companionship in his secluded life. With Bruin the bear, he shares lively games of backgammon, their banter filled with friendly teasing and laughter. The hermit even attempts to teach his clever crow the game, patiently guiding the bird despite its comical struggles with the dice-box. Through these moments, the hermit reveals a deep affection for his animal friends, treating them as equals and companions in both play and conversation.",
+    "source": "Novel-41603",
+    "evidence": "The hermit invites the hawk to stay with him.; The hermit plays backgammon with Bruin the bear.; The hermit teaches the crow."
+  },
+  {
+    "id": "Novel-1edecc97",
+    "question_type": "Contextual Summarize",
+    "question": "During the supper scene described in the cottage, which foods are specifically mentioned as being served to the characters?",
+    "answer": "The supper is a lavish and heartwarming spread, featuring not only ham, gingerbread, white bread like snow, and jugs of buttermilk, but also a magnificent mutton-pie with a towering crust, golden eggballs, tender onions, brown bread as sweet as clover-blossoms, jam, apples, nuts, pitchers of cream, and even more delights. The abundance and variety of the meal fill the cottage with cheer, making it a feast to remember.",
+    "source": "Novel-41603",
+    "evidence": "The supper includes ham.; The supper includes gingerbread.; The supper includes white bread.; The supper includes jugs of buttermilk."
+  },
+  {
+    "id": "Novel-f23b49f6",
+    "question_type": "Contextual Summarize",
+    "question": "What events and associations in the story are connected to the Celestial Bed, particularly concerning the Celestial Emperor Wah-Song's dreams and the appearance of the Golden Dragon?",
+    "answer": "The Celestial Bed is not merely a place for Wah-Song to rest; it is the very stage upon which his most haunting visions unfold. As the Celestial Emperor lies amid his luxurious pillows, it is here that he drifts into troubled sleep and is visited by the Golden Dragon. The bed becomes the threshold between reality and dream, where the dragon's fearsome voice calls out to Wah-Song, and its crowned, ruby-eyed form materializes at the foot of the bed, filling the Emperor with terror. Thus, the Celestial Bed is intimately bound to Wah-Song's identity and his most profound fears and revelations.",
+    "source": "Novel-41603",
+    "evidence": "The Celestial Bed is where Wah-Song sleeps.; Wah-Song dreams while on the Celestial Bed.; The Golden Dragon appears at the foot of the Celestial Bed.; The Celestial Bed is associated with Wah-Song as the Celestial Emperor."
+  },
+  {
+    "id": "Novel-29e992c3",
+    "question_type": "Contextual Summarize",
+    "question": "During the princess's journey in the story, how does she interact with the robbers she encounters?",
+    "answer": "As the princess ventures fearlessly into the deep forest, she is suddenly confronted by a band of fierce, black-bearded robbers, bristling with weapons. Undaunted by their menacing appearance, she meets their questions about her presence and the contents of her bag with calm composure and even a touch of haughty wit. Her poised and regal demeanor unsettles the robbers, who, after their initial bluster, lower their weapons and humbly escort her to their chief, eager to learn more about this remarkable traveler.",
+    "source": "Novel-41603",
+    "evidence": "The princess is stopped by the robbers.; The princess is led by the robbers.; The princess is questioned by the robbers about what she is carrying in her bag."
+  },
+  {
+    "id": "Novel-209dcb5d",
+    "question_type": "Contextual Summarize",
+    "question": "What is the role and significance of the Golden Dragon in relation to Wah-Song and the Celestial Bed, as depicted in the story, especially with respect to the Golden Dragon's commands and its appearance at the foot of the bed?",
+    "answer": "The Golden Dragon appears in a blaze of awe and terror at the foot of the Celestial Bed, its crowned head raised in anger and its ruby eyes blazing. Its presence alone is enough to send Emperor Wah-Song cowering in fear, trembling beneath his own bed. With a voice both dreadful and commanding, the Golden Dragon issues orders to Wah-Song, asserting its authority and underscoring its powerful, almost divine role within the celestial order.",
+    "source": "Novel-41603",
+    "evidence": "The Golden Dragon gives orders to Wah-Song.; The Golden Dragon commands Wah-Song.; The Golden Dragon stands at the foot of the Celestial Bed.; The Golden Dragon has an important role in the celestial hierarchy."
+  },
+  {
+    "id": "Novel-9836b734",
+    "question_type": "Contextual Summarize",
+    "question": "In the scenes where Eily interacts with both the Green Man and Dr. O'Shaughnessy, how are these three characters interconnected through their dialogue and actions?",
+    "answer": "The connection among Eily, the Green Man, and Dr. O'Shaughnessy unfolds through a delicate chain of dialogue and observation: Eily bravely responds to the Green Man's gentle questions, her answers revealing both her innocence and her growing courage. The Green Man, in turn, engages her with warmth and curiosity, drawing her out of her initial shyness. Later, Eily's gaze lingers on Dr. O'Shaughnessy, her thoughts colored by the relentless questioning she has endured from him and his wife. Through these linked exchanges—Eily answering, the Green Man questioning, and Eily's silent scrutiny of the doctor—the narrative weaves the three characters together, each interaction echoing into the next and highlighting the subtle interplay of trust, suspicion, and hope among them.",
+    "source": "Novel-41603",
+    "evidence": "Eily answers the Green Man.; The Green Man asks questions of Eily.; Eily stares at Dr. O'Shaughnessy.; The interactions among Eily, the Green Man, and Dr. O'Shaughnessy are linked."
+  },
+  {
+    "id": "Novel-63d17f57",
+    "question_type": "Contextual Summarize",
+    "question": "Within the cottage setting at night, how do both animal and human characters, such as the grandmother saying good-night to the bear, Miss Mary being fond of Pigeon Pretty, and the raccoon exchanging good-nights with Miss Mary, demonstrate affection and familiarity during their evening routines?",
+    "answer": "Affection is seen as the grandmother says good-night to the bear, Miss Mary is fond of Pigeon Pretty, and the raccoon exchanges good-nights with Miss Mary, demonstrating warmth among both animals and people.",
+    "source": "Novel-41603",
+    "evidence": "The grandmother says good-night to the bear.; Miss Mary is fond of Pigeon Pretty.; The raccoon exchanges good-nights with Miss Mary.; Affection is demonstrated among both animals and people during evening routines."
+  },
+  {
+    "id": "Novel-803def42",
+    "question_type": "Contextual Summarize",
+    "question": "Across the narrative chains involving Eily, the Green Man, and Eileen, what patterns of interaction emerge among these characters through dialogue and nonverbal exchanges?",
+    "answer": "The narrative reveals a tapestry of interactions: Eily and the Green Man engage in a lively exchange, with the Green Man posing gentle, probing questions and Eily responding with a mix of courtesy, awe, and candid honesty. Their dialogue is marked by Eily's respectful curtsies and the Green Man's kind encouragement, creating a rhythm of question and answer that feels both magical and intimate. Meanwhile, Eileen expresses herself through a variety of means—sometimes through direct speech, as when she addresses Mrs. O'Shaughnessy, sometimes through silent gestures, like her intent stare at Dr. O'Shaughnessy, and at other times through song, weaving tales of Green Men into her melodies. These patterns—spoken dialogue, nonverbal communication, and song—illustrate the rich, multifaceted ways these characters connect and respond to one another throughout the story.",
+    "source": "Novel-41603",
+    "evidence": "Eily answers the Green Man.; The Green Man poses questions to Eily.; Eileen stares at Dr. O'Shaughnessy.; Eileen says something to Mrs. O'Shaughnessy.; Eileen sings about Green Men.; The characters interact through dialogue and nonverbal exchanges."
+  },
+  {
+    "id": "Novel-040ac0aa",
+    "question_type": "Contextual Summarize",
+    "question": "How do the Green Man's interactions with Eily and Eileen Macarthy overlap or differ within the story?",
+    "answer": "The Green Man's interactions with Eily and Eileen Macarthy are woven together through moments of wonder and exchange. He first appears to Eileen Macarthy, offering her the rare and magical opportunity to make a wish, a gesture that fills her with astonishment and delight. Throughout their encounter, the Green Man engages Eily with gentle questions, inviting her to share her name and her thoughts, and Eily responds with a blend of shyness and bravery, her answers colored by the awe she feels in the presence of a real fairy. These exchanges—his questions and her heartfelt replies—create a sense of intimacy and trust. The Green Man's actions, from granting wishes to encouraging conversation, highlight both the overlap and subtle differences in his relationships with Eily and Eileen, as he draws out their hopes and dreams through both magical gifts and meaningful dialogue.",
+    "source": "Novel-41603",
+    "evidence": "The Green Man meets Eileen Macarthy.; The Green Man grants Eily a wish.; The Green Man asks Eily questions.; The Green Man receives answers from Eily.; The Green Man interacts with both Eily and Eileen Macarthy."
+  },
+  {
+    "id": "Novel-79a2f110",
+    "question_type": "Contextual Summarize",
+    "question": "What role does the kitchen play in the nightly routines and social interactions among the inhabitants of the cottage, as illustrated by the bear holding the raccoon, the raccoon being present in the kitchen with the parrot, and the parrot asking the raccoon questions?",
+    "answer": "The kitchen serves as the lively heart of the cottage, where nightly routines and social interactions naturally converge. Here, the raccoon, ever industrious and mischievous, sweeps and dusts with his bushy tail, tastes Bruin's cooking, and playfully teases the parrot. The parrot, perched regally, engages the raccoon in conversation, her questions adding a layer of wit and camaraderie to the scene. This bustling space becomes a social hub, drawing together the cottage's inhabitants—each with their quirks and duties—into a warm, communal rhythm that defines their evenings.",
+    "source": "Novel-41603",
+    "evidence": "The kitchen is a setting for social interactions.; The raccoon is present in the kitchen with the parrot.; The parrot asks the raccoon questions.; The kitchen serves as a social hub for the inhabitants of the cottage."
+  },
+  {
+    "id": "Novel-5c61e9fb",
+    "question_type": "Contextual Summarize",
+    "question": "When Pigeon Pretty is pursued by the hawk, and the hawk later perches on the hermit, how does this sequence of events influence the relationships among Pigeon Pretty, the hawk, and the hermit within the narrative?",
+    "answer": "The dramatic chase, with Pigeon Pretty fleeing the hungry hawk, sets the stage for an unexpected transformation in their relationships. When the hawk, once a fearsome pursuer, is brought before the hermit and allowed to perch peacefully on his knee, a new dynamic emerges. The hermit's gentle intervention not only spares the hawk but also fosters a moment of uneasy truce: Pigeon Pretty, still trembling from her ordeal, finds herself sharing space with her former predator, both under the watchful, calming presence of the hermit. This sequence weaves together the fates of prey, predator, and human, deepening their connections and hinting at the possibility of understanding and coexistence.",
+    "source": "Novel-41603",
+    "evidence": "Pigeon Pretty is pursued by the hawk.; The hawk perches on the hermit.; The sequence of events links Pigeon Pretty, the hawk, and the hermit.; The interactions expand the cycle of interaction among the characters."
+  },
+  {
+    "id": "Novel-2fdf6a91",
+    "question_type": "Contextual Summarize",
+    "question": "What is the sequence of events leading up to the nightly closure in the cottage, involving interactions among Toto, the squirrel, Bruin, the grandmother, and Miss Mary?",
+    "answer": "The evening unfolds with Toto speaking to the squirrel, setting off a gentle cascade of interactions among the cottage's inhabitants. The squirrel, in turn, addresses Bruin the bear, and soon the warmth of shared stories and laughter fills the hearth. As night deepens, the grandmother rises, her knitting folded, and bids everyone good-night, entrusting Bruin with the care of the fire and the safety of the house. She gently gathers the squirrel, Cracker, and retires to her room, while the rest of the household exchanges soft farewells. The birds settle onto their perches, transforming into curious shapes as they tuck themselves in, and the raccoon and Miss Mary share their own good-nights, each creature finding comfort in the nightly rituals that bind them together.",
+    "source": "Novel-41603",
+    "evidence": "Toto speaks to the squirrel.; The squirrel addresses Bruin.; The sequence ends with farewells among the residents and animals in the cottage.; The nightly routines occur among the residents and animals in the cottage."
+  },
+  {
+    "id": "Novel-258869a2",
+    "question_type": "Contextual Summarize",
+    "question": "How do multiple characters interact with Doctor O'Shaughnessy in the narrative—for example, when Mrs. O'Shaughnessy stands by the window to watch him, he is given charge of Eileen, and Eileen stares at him—and what does this suggest about his central role among the story's characters?",
+    "answer": "Doctor O'Shaughnessy moves at the center of the household's concerns, his presence watched intently by Mrs. O'Shaughnessy as she stands by the window, anxious for his return. Entrusted with the care of young Eileen, he becomes the axis around which the family's hopes and fears revolve. Eileen herself cannot help but stare at him, her feelings a mixture of unease and reluctant dependence. Through these layered interactions—his wife's vigilance, Eileen's wary gaze, and the responsibility placed upon him—Doctor O'Shaughnessy's role emerges as pivotal, his influence felt keenly across the intersecting lives within the story.",
+    "source": "Novel-41603",
+    "evidence": "Doctor O'Shaughnessy is watched by Mrs. O'Shaughnessy.; Doctor O'Shaughnessy is given charge of Eileen.; Eileen stares at Doctor O'Shaughnessy.; These interactions indicate Doctor O'Shaughnessy's central importance across different social circles."
+  },
+  {
+    "id": "Novel-b53ccf67",
+    "question_type": "Contextual Summarize",
+    "question": "What does the Green Man’s repeated interactions with Eileen reveal about his ongoing engagement with her in the story?",
+    "answer": "The Green Man’s repeated questioning of Eileen, and her thoughtful, sometimes hesitant answers, reveal a dynamic and ongoing engagement between them. His curiosity and gentle persistence draw Eileen out of her initial shyness, fostering a connection that is both magical and deeply personal. Through their exchanges, the Green Man not only demonstrates his interest in Eileen’s character and circumstances, but also establishes a rapport that bridges the gap between the fairy world and the mortal one, making their interactions central to the unfolding of the story.",
+    "source": "Novel-41603",
+    "evidence": "The Green Man repeatedly asks Eileen questions.; Eileen answers the Green Man's questions.; This shows the Green Man's ongoing engagement with Eileen."
+  },
+  {
+    "id": "Novel-461dd4fd",
+    "question_type": "Contextual Summarize",
+    "question": "How does the motif of storytelling function within the Irish setting of the narrative, particularly as shown by the hermit living in Ireland, Ireland being the location of Eileen Macarthy, and Eileen Macarthy telling a story to Mrs. O'Shaughnessy?",
+    "answer": "Within the Irish setting, storytelling emerges as a vital thread connecting individuals and generations. Eileen Macarthy’s act of telling a story to Mrs. O'Shaughnessy is not merely a means of passing time, but a reflection of the deep-rooted tradition that weaves together family, memory, and community. Surrounded by the echoes of her mother’s nightly tales and the presence of figures like the hermit, Eileen’s storytelling becomes a living expression of Irish culture—a way to share comfort, wisdom, and identity in a world that is often uncertain and harsh.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy tells a story to Mrs. O'Shaughnessy.; This act is embedded within a larger network of relationships.; Storytelling serves as a cultural and social link within the Irish setting."
+  },
+  {
+    "id": "Novel-899bf297",
+    "question_type": "Contextual Summarize",
+    "question": "How do the different narrative chains in the story reveal variations in Eileen’s interactions with other characters and themes?",
+    "answer": "Eileen’s actions shift subtly across the different narrative chains, each revealing a distinct facet of her character and her relationships with those around her. In one chain, she sits silently beside Doctor O'Shaughnessy, her gaze lingering on him as she weeps—her silent staring a mixture of fear, uncertainty, and the desperate hope for some sign of comfort from the stern, green-spectacled doctor who seems unmoved by her tears. In another, she finds her voice with Mrs. O'Shaughnessy, pouring out her troubles in a flood of words, grateful at last to be heard and understood, even if only imperfectly. And in yet another, her sorrow and longing find expression in song, as she sings about Green Men—her voice carrying the weight of her memories and the magical, bittersweet world she has lost. Through these varied actions, the narrative chains illuminate the complexity of Eileen’s inner life and her shifting connections to the people and themes that surround her.",
+    "source": "Novel-41603",
+    "evidence": "Eileen stares at Doctor O'Shaughnessy.; Eileen speaks to Mrs. O'Shaughnessy.; Eileen sings about Green Men.; These actions reveal variations in Eileen’s interactions with other characters and themes."
+  },
+  {
+    "id": "Novel-edba707f",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the sequence where Eileen Macarthy tells a story to Mrs. O'Shaughnessy, who is standing by the window to watch Doctor O'Shaughnessy, as a news report.",
+    "answer": "Local Happenings — This evening, Eileen Macarthy captivated Mrs. O'Shaughnessy with a story. Observers reported that Mrs. O'Shaughnessy stood by the window, keeping a watchful eye on Doctor O'Shaughnessy, who was recently given charge of Eileen. The family gathered at their cottage in Ireland, where the hermit is a well-known figure, and the Green Man also made an appearance, posing questions to Eileen.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy captivated Mrs. O'Shaughnessy with a story.; Mrs. O'Shaughnessy stood by the window.; Mrs. O'Shaughnessy kept a watchful eye on Doctor O'Shaughnessy.; Doctor O'Shaughnessy was recently given charge of Eileen.; The family gathered at their cottage in Ireland.; The hermit is a well-known figure in the area.; The Green Man posed questions to Eileen."
+  },
+  {
+    "id": "Novel-17d8f880",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the following sequence as a diary entry from Eileen Macarthy’s perspective: being asked questions by the Green Man, telling a story to Mrs. O'Shaughnessy, and watching Dr. O'Shaughnessy.",
+    "answer": "Diary Entry — Today was a day of questions and quiet mysteries. The Green Man found me once more, his eyes bright with that unending curiosity, and pressed me with questions I could scarcely answer. There is something about his presence that unsettles and fascinates me in equal measure. Later, I sat with Mrs. O'Shaughnessy, telling her a story as she stood by the window, her hands still damp from her work, her gaze drifting often to Dr. O'Shaughnessy. I watched him too, his tall, thin figure moving about the cottage, his face unreadable behind those green spectacles. What secrets does he keep, I wonder? The cottage seemed to hum with whispers today, every corner alive with secrets, while outside, the wildness of the hermit's Ireland pressed close, as mysterious and unknowable as ever.",
+    "source": "Novel-41603",
+    "evidence": "The Green Man questioned Eileen again today.; Eileen found comfort in telling a story to Mrs. O'Shaughnessy.; Mrs. O'Shaughnessy stood by the window while telling the story.; Eileen watched Doctor O'Shaughnessy.; Eileen wondered about Doctor O'Shaughnessy's thoughts.; The cottage was alive with whispers.; The hermit’s Ireland seemed mysterious."
+  },
+  {
+    "id": "Novel-7d757d5b",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are the Green Man. Narrate your interactions with Eily and Eileen and your thoughts about the cottage and its residents.",
+    "answer": "I asked Eily the questions that have long intrigued me, and she answered with patience. Eileen Macarthy, who once met me, is often present in the cottage, home to the grandmother and a host of animals—Miss Mary’s care for Pigeon Pretty, Bruin’s presence, and the odd stories told by Eileen. Even the hermit, who once lived in Ireland, seems part of this peculiar tapestry.",
+    "source": "Novel-41603",
+    "evidence": "I asked Eily questions that have long intrigued me.; Eily answered my questions with patience.; Eileen Macarthy is often present in the cottage.; The cottage is home to the grandmother and a host of animals.; Miss Mary cares for Pigeon Pretty.; Bruin is present in the cottage.; Eileen tells odd stories.; The hermit once lived in Ireland."
+  },
+  {
+    "id": "Novel-b64c9596",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Eily. Write a diary entry about meeting the Green Man, receiving jewels, and your connection with the Green Man.",
+    "answer": "Diary Entry — Today was a day of wonders and strange enchantment. I met the Green Man himself, his eyes twinkling with secrets as old as the hills. As I spoke, diamonds and pearls tumbled from my lips, so many that I had to gather them in my apron—each gem a marvel, yet a burden too. The Green Man listened to my troubles with a gentle smile, and when he touched my lips with his cap, I felt a great weight lift from me. He told me I was the first mortal child he had spoken to in two hundred years, and perhaps the last. There was a sadness in his words, as if the world was changing and leaving his kind behind. Still, he gave me a lesson: that true jewels are not always those that glitter. I left feeling both relieved and strangely honored, as if I had glimpsed a world just out of reach. Back at the cottage, with Doctor O'Shaughnessy's kindness and the warmth of the animals, I felt safe again, but I will never forget the magic of this day or the connection I felt to something far greater than myself.",
+    "source": "Novel-41603",
+    "evidence": "Eily met the Green Man.; The Green Man kindly gave Eily jewels.; The jewels were an unexpected gift.; The Green Man's questions always make Eily think.; Eily felt connected to something larger than herself.; Doctor O'Shaughnessy’s care made Eily feel safer.; The cottage felt like home with its lively animals and stories."
+  },
+  {
+    "id": "Novel-73429b27",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the story of Eileen Macarthy singing about Green Men and her interactions with the Green Man as a news report.",
+    "answer": "Evening Dispatch — In a remarkable turn of events today, local girl Eileen Macarthy was seen singing about the legendary Green Men, following a mysterious encounter with the Green Man himself. Witnesses report that Eileen, after a spirited conversation with the enigmatic figure, returned to her grandmother’s cottage, where she recounted her experience to those present. The Green Man, known in folklore for his magical gifts, was said to have bestowed a peculiar charm upon Eileen, granting her wish in a manner both wondrous and troublesome. The cottage, bustling with the presence of Doctor O'Shaughnessy and the ever-watchful grandmother, became the stage for Eileen’s tale, as she described the strange magic and the lessons learned from her encounter. Local hermit and folklore enthusiast remarked that such happenings, though rare, are woven into the fabric of the region’s history, reminding all that the world of the Green Men may be closer than it seems.",
+    "source": "Novel-41603",
+    "evidence": "Eileen Macarthy was observed singing about Green Men.; This occurred following a conversation between the Green Man and Eily.; The events took place in the local cottage.; The grandmother presides over the cottage.; Eily is under Doctor O'Shaughnessy’s care.; Eily responded to the Green Man’s inquiries.; The hermit noted that such gatherings are common in the area."
+  }
+]

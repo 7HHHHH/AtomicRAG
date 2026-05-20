@@ -1,0 +1,650 @@
+[
+  {
+    "id": "Novel-6b0f8bc4",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative, by what means is the Poet encouraged to gain celebrity?",
+    "answer": "Roman Tragedy",
+    "source": "Novel-47676",
+    "evidence": "The Poet is encouraged to gain celebrity.; Roman Tragedy is described as an urging force."
+  },
+  {
+    "id": "Novel-75c9949b",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of Ovid's references to imperial lineage, from which deity was Augustus believed to descend?",
+    "answer": "Venus",
+    "source": "Novel-47676",
+    "evidence": "Augustus was said to be descended from Venus."
+  },
+  {
+    "id": "Novel-ec091b24",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative, to which deity was the Circus Maximus considered sacred?",
+    "answer": "Consus",
+    "source": "Novel-47676",
+    "evidence": "The Circus Maximus was considered sacred to Consus."
+  },
+  {
+    "id": "Novel-fc6d1c33",
+    "question_type": "Fact Retrieval",
+    "question": "In the story, where was Venus especially worshipped?",
+    "answer": "Amathus",
+    "source": "Novel-47676",
+    "evidence": "Venus was especially worshipped in Amathus."
+  },
+  {
+    "id": "Novel-df1408f4",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative episodes involving messages between lovers, who is asked to deliver a letter to Corinna?",
+    "answer": "Nape",
+    "source": "Novel-47676",
+    "evidence": "Nape was the servant asked to deliver a letter to Corinna."
+  },
+  {
+    "id": "Novel-965ad8a8",
+    "question_type": "Fact Retrieval",
+    "question": "Within the novel's discussions about the identity of Ovid's beloved, who was suspected to be Corinna?",
+    "answer": "Julia",
+    "source": "Novel-47676",
+    "evidence": "Corinna was suspected to be Julia."
+  },
+  {
+    "id": "Novel-e3923e5f",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative describing Corinna's reaction to her appearance, who lays down the mirror?",
+    "answer": "Corinna",
+    "source": "Novel-47676",
+    "evidence": "Corinna laid down the mirror."
+  },
+  {
+    "id": "Novel-b0b58bf2",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of Roman mythological ancestry as described in the text, who was the mother of Romulus and Remus?",
+    "answer": "Ilia",
+    "source": "Novel-47676",
+    "evidence": "Ilia was the mother of Romulus.; Ilia was the mother of Remus."
+  },
+  {
+    "id": "Novel-4061f8c4",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological genealogies presented in the narrative, who was identified as the father of Hypseus?",
+    "answer": "Peneus",
+    "source": "Novel-47676",
+    "evidence": "Peneus was identified as the father of Hypseus."
+  },
+  {
+    "id": "Novel-89de49a4",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of early Roman history depicted in the novel, what was the relationship between Tatius and Romulus?",
+    "answer": "Tatius reigned jointly with Romulus.",
+    "source": "Novel-47676",
+    "evidence": "Tatius reigned jointly with Romulus."
+  },
+  {
+    "id": "Novel-624c452d",
+    "question_type": "Fact Retrieval",
+    "question": "According to the genealogical accounts within the narrative, who was the mother of Ascanius?",
+    "answer": "Creüsa",
+    "source": "Novel-47676",
+    "evidence": "Creüsa was the mother of Ascanius."
+  },
+  {
+    "id": "Novel-bc412bb6",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological events described in the text, who became the wife of the river-god Tiber?",
+    "answer": "Tiber",
+    "source": "Novel-47676",
+    "evidence": "Tiber became the wife of the river-god Tiber."
+  },
+  {
+    "id": "Novel-e306413c",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of mythological parentage recounted in the text, who are described as the parents of Orpheus?",
+    "answer": "Apollo and the Muse Calliope",
+    "source": "Novel-47676",
+    "evidence": "Apollo is described as a parent of Orpheus.; The Muse Calliope is described as a parent of Orpheus."
+  },
+  {
+    "id": "Novel-64ef6350",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological family trees presented in the narrative, who is named as the father of Linus?",
+    "answer": "Apollo",
+    "source": "Novel-47676",
+    "evidence": "Apollo is named as the father of Linus."
+  },
+  {
+    "id": "Novel-26033837",
+    "question_type": "Fact Retrieval",
+    "question": "In the correspondence featured within the narrative, which individuals wrote letters to Sabinus, as indicated by the exchange of letters among mythological figures?",
+    "answer": "Ulysses, Phaon, Hippolytus, Jason, and Demophoôn wrote letters to Sabinus.",
+    "source": "Novel-47676",
+    "evidence": "Ulysses wrote a letter to Sabinus.; Phaon wrote a letter to Sabinus.; Hippolytus wrote a letter to Sabinus.; Jason wrote a letter to Sabinus.; Demophoôn wrote a letter to Sabinus."
+  },
+  {
+    "id": "Novel-9f3a0a90",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the mythological epistolary exchanges described in the narrative, what did Hypsipyle receive from Jason during their correspondence?",
+    "answer": "Hypsipyle received a sad letter from Jason.",
+    "source": "Novel-47676",
+    "evidence": "Hypsipyle received a sad letter from Jason."
+  },
+  {
+    "id": "Novel-f619b6ea",
+    "question_type": "Fact Retrieval",
+    "question": "According to the geographical references within the narrative, where was the region of Cilicia located?",
+    "answer": "Cilicia was located in Asia Minor.",
+    "source": "Novel-47676",
+    "evidence": "Cilicia was located in Asia Minor."
+  },
+  {
+    "id": "Novel-9474c5bb",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of Sappho's actions in the mythological letters described in the narrative, to whom did Sappho make a vow?",
+    "answer": "Sappho vowed to Phobus.",
+    "source": "Novel-47676",
+    "evidence": "Sappho vowed to Phobus."
+  },
+  {
+    "id": "Novel-5825991f",
+    "question_type": "Fact Retrieval",
+    "question": "During Ulysses's journey as recounted in the narrative, what assistance did Æolus provide him?",
+    "answer": "Ulysses received favourable wind from Æolus during his journey.",
+    "source": "Novel-47676",
+    "evidence": "Ulysses received favourable wind from Æolus.; The favourable wind aided Ulysses during his journey."
+  },
+  {
+    "id": "Novel-a4dcffa3",
+    "question_type": "Fact Retrieval",
+    "question": "According to the customs described in the narrative, what did the Romans commonly mix with their wine during meals or celebrations?",
+    "answer": "Water was commonly mixed with wine by the Romans.",
+    "source": "Novel-47676",
+    "evidence": "Water was commonly mixed with wine by the Romans."
+  },
+  {
+    "id": "Novel-3919018c",
+    "question_type": "Fact Retrieval",
+    "question": "During the banquet scenes depicted in the narrative, who partook in drinking the wine?",
+    "answer": "The husband and the guests drank the wine at the event.",
+    "source": "Novel-47676",
+    "evidence": "The husband drank the wine at the event.; The guests drank the wine at the event."
+  },
+  {
+    "id": "Novel-d7180179",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of Roman household customs described in the story, what was the title of the servant responsible for serving wine?",
+    "answer": "The Romans called their servant who served wine 'pincerna'.",
+    "source": "Novel-47676",
+    "evidence": "The Romans called their servant who served wine 'pincerna'."
+  },
+  {
+    "id": "Novel-c8c9c0ee",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological genealogies discussed in the text, who were the offspring of Terra and Coelus?",
+    "answer": "Cæus, Briareus, and Gyges are the sons of Terra and Coelus.",
+    "source": "Novel-47676",
+    "evidence": "Cæus is a son of Terra and Coelus.; Briareus is a son of Terra and Coelus.; Gyges is a son of Terra and Coelus."
+  },
+  {
+    "id": "Novel-b1ab4938",
+    "question_type": "Fact Retrieval",
+    "question": "Within the mythological accounts provided in the narrative, who were Briareus's brothers?",
+    "answer": "Cæus and Gyges are the brothers of Briareus.",
+    "source": "Novel-47676",
+    "evidence": "Cæus is a brother of Briareus.; Gyges is a brother of Briareus."
+  },
+  {
+    "id": "Novel-e2957691",
+    "question_type": "Fact Retrieval",
+    "question": "In the story's recounting of the legendary footrace, who won the race against Atalanta?",
+    "answer": "Hippomenes outstripped Atalanta in the race.",
+    "source": "Novel-47676",
+    "evidence": "Hippomenes outstripped Atalanta in the race."
+  },
+  {
+    "id": "Novel-e2dec8f9",
+    "question_type": "Fact Retrieval",
+    "question": "According to the genealogical details in the narrative, who was Minos's daughter?",
+    "answer": "Ariadne was the daughter of Minos.",
+    "source": "Novel-47676",
+    "evidence": "Ariadne was the daughter of Minos."
+  },
+  {
+    "id": "Novel-473eae59",
+    "question_type": "Fact Retrieval",
+    "question": "Within the context of Ovid's life and Roman society as described in the narrative, what position did Ovid hold?",
+    "answer": "Ovid held the office of judex selectus in Roman society.",
+    "source": "Novel-47676",
+    "evidence": "Ovid held the office of judex selectus in Roman society."
+  },
+  {
+    "id": "Novel-1b824083",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's depiction of ancestry, from whom was Ilia descended?",
+    "answer": "Ilia was descended from Laomedon.",
+    "source": "Novel-47676",
+    "evidence": "Ilia was descended from Laomedon."
+  },
+  {
+    "id": "Novel-06023c79",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of classical mythology as referenced in the story, what is another name for Milanion?",
+    "answer": "Another name for Milanion in classical mythology is Hippomenes.",
+    "source": "Novel-47676",
+    "evidence": "Another name for Milanion in classical mythology is Hippomenes."
+  },
+  {
+    "id": "Novel-43965a1c",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological healing episodes described in the narrative, who is the character that cures Telephus?",
+    "answer": "Achilles cures Telephus.",
+    "source": "Novel-47676",
+    "evidence": "Achilles cures Telephus."
+  },
+  {
+    "id": "Novel-1c1492e7",
+    "question_type": "Fact Retrieval",
+    "question": "Within the framework of Roman religious roles detailed in the narrative, what was the status or role of Ilia?",
+    "answer": "Ilia was a Vestal.",
+    "source": "Novel-47676",
+    "evidence": "Ilia was a Vestal."
+  },
+  {
+    "id": "Novel-f5fc9016",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative's depiction of poetic inspiration, what figure or concept is described as coming to the Poet?",
+    "answer": "Tragedy came to the Poet.",
+    "source": "Novel-47676",
+    "evidence": "Tragedy came to the Poet."
+  },
+  {
+    "id": "Novel-b80bf4c5",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological relationships described in the narrative, who was the individual received by the river-god Asopus?",
+    "answer": "Thebe was received by Asopus.",
+    "source": "Novel-47676",
+    "evidence": "Thebe was received by Asopus."
+  },
+  {
+    "id": "Novel-3978515f",
+    "question_type": "Fact Retrieval",
+    "question": "Within the narrative's recounting of historical figures and courtesans, for whose favours did Demosthenes apply to Lais?",
+    "answer": "Demosthenes applied for a share of the favours of Lais.",
+    "source": "Novel-47676",
+    "evidence": "Demosthenes applied for a share of the favours of Lais."
+  },
+  {
+    "id": "Novel-afabde7f",
+    "question_type": "Fact Retrieval",
+    "question": "According to the mythological accounts presented in the text, who is Romulus's mother?",
+    "answer": "Ilia is the mother of Romulus.",
+    "source": "Novel-47676",
+    "evidence": "Ilia is the mother of Romulus."
+  },
+  {
+    "id": "Novel-79a788b8",
+    "question_type": "Fact Retrieval",
+    "question": "Within the narrative's depiction of famous courtesans, throughout which region did Lais become renowned for her beauty?",
+    "answer": "Lais became famous throughout Greece.",
+    "source": "Novel-47676",
+    "evidence": "Lais became famous throughout Greece."
+  },
+  {
+    "id": "Novel-96633aa2",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the descriptions of natural objects in the narrative, what plant is noted for having a particular colour in the region of Ida?",
+    "answer": "Cedar has colour in Ida.",
+    "source": "Novel-47676",
+    "evidence": "Cedar has colour in Ida."
+  },
+  {
+    "id": "Novel-12882aa8",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative, what is said about Augustus's imperial ancestry?",
+    "answer": "Augustus was descended from Venus.",
+    "source": "Novel-47676",
+    "evidence": "Augustus was descended from Venus."
+  },
+  {
+    "id": "Novel-bf776c5c",
+    "question_type": "Fact Retrieval",
+    "question": "Within the narrative's descriptions of Corinna's beauty, what aspect is suggested to attract divine attention?",
+    "answer": "Apollo might have longed for Corinna's hair.",
+    "source": "Novel-47676",
+    "evidence": "Apollo might have longed for Corinna's hair."
+  },
+  {
+    "id": "Novel-d47858dd",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative, which character is involved in correspondence with Hypsipyle?",
+    "answer": "Jason wrote to Hypsipyle.",
+    "source": "Novel-47676",
+    "evidence": "Jason wrote to Hypsipyle."
+  },
+  {
+    "id": "Novel-ed26b623",
+    "question_type": "Complex Reasoning",
+    "question": "Within the narrative of Ovid's 'Amores', how does the figure of Elegy function in relation to both the work 'Amores' itself and to the character of Tragedy, particularly considering that Elegy is described as a part of 'Amores' and is depicted as speaking directly to Tragedy?",
+    "answer": "Elegy is significant because it is part of Amores and interacts with Tragedy, thereby connecting different elements of the narrative.",
+    "source": "Novel-47676",
+    "evidence": "Elegy is part of Amores.; Elegy interacts with Tragedy.; Elegy connects different elements of the narrative."
+  },
+  {
+    "id": "Novel-9a34e14c",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative, how is the relationship between Neptune, Melie, and Inachus established, considering that Melie is identified as a Bithynian Nymph who was loved by Neptune, and that Inachus is described as flowing pale with love for Melie?",
+    "answer": "Melie, a Bithynian Nymph, was loved by Neptune, and Inachus flowed pale with love for Melie, illustrating their interconnected affections.",
+    "source": "Novel-47676",
+    "evidence": "Melie is a Bithynian Nymph.; Neptune loved Melie.; Inachus flowed pale with love for Melie.; Melie, Neptune, and Inachus have interconnected affections."
+  },
+  {
+    "id": "Novel-bfe2b31f",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of the novel, why is the Circus Maximus associated with Neptune, given that the Circus is described as being sacred to Consus, and Consus is supposed to have been the same deity as Neptune?",
+    "answer": "The Circus is associated with Neptune because it was sacred to Consus, who is believed to have been the same deity as Neptune.",
+    "source": "Novel-47676",
+    "evidence": "The Circus Maximus is associated with Neptune.; The Circus Maximus is sacred to Consus.; Consus is believed to be the same deity as Neptune."
+  },
+  {
+    "id": "Novel-b6fbf092",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative connect the rivers Nile, Acheloüs, and Inachus, considering that the Nile is mentioned together with Acheloüs, and Inachus is referenced alongside both the Nile and Acheloüs?",
+    "answer": "The Nile is mentioned alongside Acheloüs, and Inachus is mentioned with both the Nile and Acheloüs, indicating a thematic or mythological connection among them.",
+    "source": "Novel-47676",
+    "evidence": "The Nile is mentioned alongside Acheloüs.; Inachus is mentioned with both the Nile and Acheloüs.; There is a thematic or mythological connection among the Nile, Acheloüs, and Inachus."
+  },
+  {
+    "id": "Novel-24373ebe",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative describe the relationship between Cybele and her priests?",
+    "answer": "Cybele had priests called Galli, and her original priests were called Corybantes.",
+    "source": "Novel-47676",
+    "evidence": "Cybele had priests called Galli.; Cybele's original priests were called Corybantes."
+  },
+  {
+    "id": "Novel-9528082d",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of the narrative, what connections are described between the goddess Juno, the Elysian hill, and religious rites, given that Juno is said to have a bird that unfolds its feathers in the Elysian hill and is also associated with rites?",
+    "answer": "Juno has a bird that unfolds its feathers in the Elysian hill and has rites.",
+    "source": "Novel-47676",
+    "evidence": "Juno has a bird that unfolds its feathers in the Elysian hill.; Juno is associated with rites."
+  },
+  {
+    "id": "Novel-aa1b8dbb",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative use the imagery of a cow and a bull to symbolize the mistress?",
+    "answer": "The mistress is symbolically represented by a cow, and the bull was companion of the cow.",
+    "source": "Novel-47676",
+    "evidence": "The mistress is symbolically represented by a cow.; The bull is described as the companion of the cow."
+  },
+  {
+    "id": "Novel-d256aef2",
+    "question_type": "Fact Retrieval",
+    "question": "How is the relationship between Ovid and the force of Love portrayed in the story?",
+    "answer": "Ovid is dictated to by Cupid, and Love burns in Ovid.",
+    "source": "Novel-47676",
+    "evidence": "Ovid is dictated to by Cupid.; Love burns in Ovid."
+  },
+  {
+    "id": "Novel-c09d2bcb",
+    "question_type": "Complex Reasoning",
+    "question": "Why is the character Nape significant in relation to the mistress in the narrative?",
+    "answer": "Nape is important because she is asked to deliver a letter to the mistress and has been entreated by Ovid.",
+    "source": "Novel-47676",
+    "evidence": "Nape is asked by Ovid to deliver a letter to the mistress.; Nape has been entreated by Ovid for assistance in secret correspondence."
+  },
+  {
+    "id": "Novel-00ef7b5d",
+    "question_type": "Complex Reasoning",
+    "question": "What is Ilia's connection to Troy and Laomedon as described in the narrative?",
+    "answer": "Ilia was from Troy and was a descendant of Laomedon.",
+    "source": "Novel-47676",
+    "evidence": "Ilia was from Troy.; Ilia was a descendant of Laomedon."
+  },
+  {
+    "id": "Novel-ebfc4679",
+    "question_type": "Complex Reasoning",
+    "question": "According to the narrative, what was the nature of the rule shared between Romulus and Tatius?",
+    "answer": "Romulus and Tatius ruled jointly.",
+    "source": "Novel-47676",
+    "evidence": "Romulus and Tatius ruled jointly."
+  },
+  {
+    "id": "Novel-f27c64c0",
+    "question_type": "Complex Reasoning",
+    "question": "Within the story, what is the familial relationship between Ilia and Romulus?",
+    "answer": "Ilia was the mother of Romulus.",
+    "source": "Novel-47676",
+    "evidence": "Ilia was the mother of Romulus."
+  },
+  {
+    "id": "Novel-8c58c107",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between Corinna and the parrot, considering the roles of Isis?",
+    "answer": "Isis is invoked to turn her features to Corinna, to whom the parrot said farewell, and from whom the parrot was snatched away.",
+    "source": "Novel-47676",
+    "evidence": "Isis is invoked to turn her features to Corinna.; The parrot said farewell to Corinna.; The parrot was snatched away from Corinna."
+  },
+  {
+    "id": "Novel-55a6cb07",
+    "question_type": "Complex Reasoning",
+    "question": "Through which entities is Cupid ultimately connected to the Poet?",
+    "answer": "Cupid is the care of Elegy, who spoke to Tragedy, who spoke to the Poet.",
+    "source": "Novel-47676",
+    "evidence": "Cupid is the care of Elegy.; Elegy spoke to Tragedy.; Tragedy spoke to the Poet."
+  },
+  {
+    "id": "Novel-9c66370e",
+    "question_type": "Complex Reasoning",
+    "question": "How is Love connected to Ceres and Iasius, culminating in a relationship with Jupiter?",
+    "answer": "Love inflamed Ceres, who beheld Iasius, who was the son of Jupiter.",
+    "source": "Novel-47676",
+    "evidence": "Love inflamed Ceres.; Ceres beheld Iasius.; Iasius was the son of Jupiter."
+  },
+  {
+    "id": "Novel-efdf1a8c",
+    "question_type": "Complex Reasoning",
+    "question": "In what way does the narrative describe a link between Naso and Love, involving Venus?",
+    "answer": "Venus is goddess of Love, and Naso writes of Love.",
+    "source": "Novel-47676",
+    "evidence": "Venus is the goddess of Love.; Naso writes of Love."
+  },
+  {
+    "id": "Novel-bc4eb302",
+    "question_type": "Complex Reasoning",
+    "question": "How are the goddess Ceres and Jupiter connected in the narrative?",
+    "answer": "Love inflamed Ceres, who beheld Iasius, who was the son of Jupiter.",
+    "source": "Novel-47676",
+    "evidence": "Love inflamed Ceres.; Ceres beheld Iasius.; Iasius was the son of Jupiter."
+  },
+  {
+    "id": "Novel-81f572ba",
+    "question_type": "Complex Reasoning",
+    "question": "What is the link between the goddess Isis and the mistress, involving Corinna and the parrot?",
+    "answer": "Isis is asked to turn her features to Corinna, who was said farewell to by the parrot, which was snatched away from the mistress.",
+    "source": "Novel-47676",
+    "evidence": "Isis is asked to turn her features to Corinna.; The parrot said farewell to Corinna.; The parrot was snatched away from the mistress."
+  },
+  {
+    "id": "Novel-18106370",
+    "question_type": "Complex Reasoning",
+    "question": "In what way does the chain of relationships connect the poet Naso to Ceres?",
+    "answer": "Venus is goddess of Love, which Naso writes of, and Love inflamed Ceres.",
+    "source": "Novel-47676",
+    "evidence": "Venus is the goddess of Love.; Naso writes about Venus.; Love inflamed Ceres."
+  },
+  {
+    "id": "Novel-bdf80a7c",
+    "question_type": "Complex Reasoning",
+    "question": "How do the roles of Elegy and Tragedy connect Cupid to the Poet?",
+    "answer": "Cupid is the care of Elegy, who spoke to Poet. Tragedy also spoke to Poet.",
+    "source": "Novel-47676",
+    "evidence": "Cupid is the care of Elegy.; Elegy spoke to the Poet.; Tragedy also spoke to the Poet."
+  },
+  {
+    "id": "Novel-d156534b",
+    "question_type": "Complex Reasoning",
+    "question": "How is the goddess Ceres linked to Jupiter through a chain involving Love and Iasius?",
+    "answer": "Love inflamed Ceres, who beheld Iasius, who was the son of Jupiter.",
+    "source": "Novel-47676",
+    "evidence": "Love inflamed Ceres.; Ceres beheld Iasius.; Iasius was the son of Jupiter."
+  },
+  {
+    "id": "Novel-995b126e",
+    "question_type": "Complex Reasoning",
+    "question": "Explain how the chain links Ovid's writing to the theme of Love through the narrative sequence.",
+    "answer": "Naso writes of Love, which is inflamed in Ceres.",
+    "source": "Novel-47676",
+    "evidence": "Naso writes of Love.; Love is inflamed in Ceres."
+  },
+  {
+    "id": "Novel-ead123bc",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative, what connections are described between the region of Cilicia—located in Asia Minor and formerly a center of piracy until Pompey suppressed it—the poet Aratus, who was a native of Cilicia, and the critical view held by Quintilian, who condemned Aratus' work?",
+    "answer": "Cilicia was located in Asia Minor, was a center of piracy until suppressed by Pompey, Aratus was a native of Cilicia, and Aratus was condemned by Quintilian.",
+    "source": "Novel-47676",
+    "evidence": "Cilicia was located in Asia Minor.; Cilicia was a center of piracy until suppressed by Pompey.; Aratus was a native of Cilicia.; Quintilian condemned Aratus' work."
+  },
+  {
+    "id": "Novel-aae429f4",
+    "question_type": "Contextual Summarize",
+    "question": "Within the narrative, how is the mistress symbolically represented through the imagery of a cow, and what is the significance of the crow pecking at the cow and the presence of the bull as the cow's companion in conveying her relationships?",
+    "answer": "Within the narrative, the mistress is symbolically embodied by a snow-white cow, whose beauty and vulnerability are underscored by the vivid imagery of a crow pecking at her breast and a bull as her companion. The crow, with its sharp beak, represents the meddling and envious interference of an old procuress, threatening the mistress’s affections and peace. Meanwhile, the bull stands as the fitting mate, highlighting the mistress’s romantic entanglements. The cow’s own envy and her wandering among other bulls further reflect the complexities and inconstancy in her relationships, painting a nuanced portrait of desire, temptation, and emotional unrest.",
+    "source": "Novel-47676",
+    "evidence": "The mistress is symbolically represented by a cow.; A crow pecked at the cow.; The cow is accompanied by a bull.; The cow, crow, and bull indicate the mistress's complex relationships."
+  },
+  {
+    "id": "Novel-2952a7a6",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative connect Ilia to the founding of Rome?",
+    "answer": "Ilia, a Vestal descended from Laomedon and Ida, is intimately connected to the founding of Rome through her role as the mother of Romulus. Her tragic fate—being buried alive on the banks of the Anio by order of Amulius—adds a somber depth to her story. Some accounts suggest her ashes were carried by the river to the Tiber, intertwining her legacy with the very landscape of Rome. Through her suffering and her lineage, Ilia becomes a pivotal figure whose life and death set the stage for the birth of Rome’s legendary founder.",
+    "source": "Novel-47676",
+    "evidence": "Ilia is connected to the founding of Rome.; Ilia was the mother of Romulus."
+  },
+  {
+    "id": "Novel-df2fbbd7",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between Ovid and Corinna as described in the narrative?",
+    "answer": "Corinna, as depicted in the narrative, is the celebrated mistress of Ovid—though her very existence is shrouded in ambiguity. The text suggests that 'Corinna' is likely a fictitious name, perhaps even an idealized figure conjured by Ovid's poetic imagination. She serves as both muse and subject, inspiring his verses and igniting his creative genius, even as the poet admits to the roving nature of his passions. Through Corinna, Ovid channels his romantic yearnings, blending reality and invention in a relationship that is as much literary as it is personal.",
+    "source": "Novel-47676",
+    "evidence": "Corinna was the mistress of Ovid.; Ovid celebrates Corinna in his writings."
+  },
+  {
+    "id": "Novel-2fcaf5ff",
+    "question_type": "Contextual Summarize",
+    "question": "According to the narrative, what claim did Augustus make about his ancestry and its significance?",
+    "answer": "Augustus asserted his descent from the goddess Venus, a claim rooted in his adoption by Julius Caesar, who traced his lineage through the Trojan hero Aeneas—himself the son of Venus. By emphasizing this divine ancestry, Augustus sought to legitimize his rule and elevate his status, presenting himself not merely as a mortal leader but as one favored by the gods, with Venus herself as the illustrious founder of his family line.",
+    "source": "Novel-47676",
+    "evidence": "Augustus claimed descent from Venus.; Venus supported Augustus's claim to divine lineage."
+  },
+  {
+    "id": "Novel-bbb1e0c6",
+    "question_type": "Contextual Summarize",
+    "question": "In the story, how does Achilles contribute to the healing of Telephus?",
+    "answer": "Achilles plays a pivotal role in the healing of Telephus by using the very spear that had once wounded him. In a striking reversal, the weapon that brought Telephus pain becomes the instrument of his cure, as Achilles applies his spear to the wound, demonstrating both the paradox of fate and the hero’s unique power to both harm and heal.",
+    "source": "Novel-47676",
+    "evidence": "Achilles cures Telephus.; Achilles uses his spear to accomplish the healing of Telephus."
+  },
+  {
+    "id": "Novel-0c1ef334",
+    "question_type": "Contextual Summarize",
+    "question": "What is the nature of the relationship between Neptune and Amymone as described in the narrative?",
+    "answer": "Neptune rescued Amymone, indicating a protective relationship between them.",
+    "source": "Novel-47676",
+    "evidence": "Neptune rescued Amymone.; The relationship between Neptune and Amymone is protective."
+  },
+  {
+    "id": "Novel-611836a0",
+    "question_type": "Complex Reasoning",
+    "question": "What is Ovid's personal connection to the city of Sulmo as described in the narrative?",
+    "answer": "Ovid’s personal connection to Sulmo is deeply rooted, as it is not only the city of his birth but also an integral part of the Pelignian land. The narrative evokes a sense of belonging and nostalgia, highlighting Sulmo’s significance in Ovid’s identity and poetic memory. The town, known for its many streams and its place among the Peligni tribes, is more than a mere birthplace—it is a landscape woven into the fabric of Ovid’s life and verse.",
+    "source": "Novel-47676",
+    "evidence": "Ovid was born in Sulmo.; Sulmo is part of the Pelignian land.; Ovid has a personal connection to the city of Sulmo."
+  },
+  {
+    "id": "Novel-e168b4d3",
+    "question_type": "Contextual Summarize",
+    "question": "How is Cupid's influence over Ovid depicted in the narrative?",
+    "answer": "Cupid is depicted as compelling Ovid and dictating verse to him, showing that Cupid has a controlling influence over Ovid's actions.",
+    "source": "Novel-47676",
+    "evidence": "Cupid compels Ovid.; Cupid dictates verse to Ovid.; Cupid has a controlling influence over Ovid's actions."
+  },
+  {
+    "id": "Novel-9f34bb0a",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative, what is the relationship between Mars and Romulus?",
+    "answer": "Mars is the father of Romulus, establishing Romulus not only as the legendary founder of Rome but also as a figure of divine descent. This connection to Mars, the god of war, imbues Romulus with a sense of celestial authority and heroic destiny, underscoring the belief that Rome itself was born from the union of mortal and divine forces.",
+    "source": "Novel-47676",
+    "evidence": "Mars is the father of Romulus.; Romulus has a divine lineage.; Romulus is the founder of Rome."
+  },
+  {
+    "id": "Novel-ac28d3ae",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative of Ovid's Amores, how do the personified genres of Elegy and Tragedy contribute to the depiction of poetic creation and the interplay between different poetic forms?",
+    "answer": "Elegy and Tragedy are personified as both speaking to the Poet, reflecting on the interplay between genres in the shaping of poetry.",
+    "source": "Novel-47676",
+    "evidence": "Elegy and Tragedy are personified.; Elegy and Tragedy speak to the Poet.; The personification of Elegy and Tragedy reflects the interplay between genres in poetry."
+  },
+  {
+    "id": "Novel-f0205478",
+    "question_type": "Contextual Summarize",
+    "question": "How does the motif of departure and loss manifest in Ovid's Amores through the experiences of Corinna?",
+    "answer": "The motif of departure and loss in Ovid's Amores is poignantly embodied in Corinna's experience with her beloved parrot. As the parrot, her cherished companion, utters a final, faltering 'farewell' to Corinna before being taken from her, the narrative lingers on the pain of separation. This moment transforms a simple loss into a deeply personal emblem of grief, as Corinna's affectionate prayers and the parrot's last words echo the sorrow of parting. The parrot's absence leaves a void, underscoring the fragility of attachments and the inevitability of loss woven throughout the poem.",
+    "source": "Novel-47676",
+    "evidence": "Corinna is said farewell to by her parrot.; The parrot is forcibly taken away from Corinna.; The narrative illustrates themes of separation and loss."
+  },
+  {
+    "id": "Novel-4b893fc4",
+    "question_type": "Contextual Summarize",
+    "question": "How does the text use mythological genealogy to connect themes of divine lineage, love, and character motivation in the narrative sequence involving Iasius and Ceres?",
+    "answer": "By identifying Iasius as the son of Jupiter, the text firmly situates him within the exalted ranks of divine genealogy, imbuing his character with the weight of mythic heritage. Ceres, herself a goddess, is depicted as being inflamed by Love upon beholding Iasius, and this intertwining of their lineages and desires weaves together the themes of divine ancestry and passionate motivation. The narrative thus uses their mythological connections not only to highlight the power of lineage but also to show how even the gods are moved and driven by love, blending the personal with the cosmic in the motivations of its characters.",
+    "source": "Novel-47676",
+    "evidence": "Iasius is identified as the son of Jupiter.; Iasius is placed within the divine genealogy.; Ceres is inflamed by Love.; Ceres' reaction to Love is linked to Iasius.; The text connects family lineage to themes of love and myth."
+  },
+  {
+    "id": "Novel-1685f9b9",
+    "question_type": "Contextual Summarize",
+    "question": "How does Ovid's Amores illustrate the influence of poetic and mythic forces on personal relationships?",
+    "answer": "The mistress emerges as a source of both longing and turmoil for the Poet, her presence entwined with the emotional upheavals that define his verse. The poignant episode in which Corinna is bid farewell by her parrot—its final words echoing with the weight of parting—serves as a vivid illustration of how poetic imagination and mythic motifs infuse even the most intimate relationships. Through these moments, Ovid reveals how love, loss, and the fantastical are inseparable, with the boundaries between reality and poetic invention constantly shifting within the fabric of personal connection.",
+    "source": "Novel-47676",
+    "evidence": "The mistress is characterized as a cause of trouble to the Poet.; Corinna is said farewell to by her parrot.; Poetic and mythic forces pervade personal connections."
+  },
+  {
+    "id": "Novel-a8113b73",
+    "question_type": "Contextual Summarize",
+    "question": "Within the emotional landscape of Ovid's Amores, what significance do farewells and loss hold?",
+    "answer": "The parrot’s heartfelt farewell to Corinna, followed by its untimely departure, weaves a thread of loss and separation through the emotional tapestry of the narrative. This episode does more than mark a simple parting; it transforms the act of saying goodbye into a moment charged with tenderness and sorrow, underscoring the fragility of attachments. The echo of the parrot’s final words lingers, casting a shadow of absence that deepens the sense of longing and impermanence at the heart of Ovid’s Amores.",
+    "source": "Novel-47676",
+    "evidence": "The parrot says farewell to Corinna.; The parrot is subsequently snatched away from Corinna.; The narrative introduces elements of loss and parting."
+  },
+  {
+    "id": "Novel-a940228b",
+    "question_type": "Creative Generation",
+    "question": "Retell the story of Corinna’s farewell to her parrot as if you are Corinna, writing in her personal diary. Include the role of Isis as invoked in the triplets.",
+    "answer": "Diary Entry — Today sorrow has made its home in my heart. My beloved parrot, my faithful companion and confidant, was cruelly snatched away by envious fate, leaving my side forever. I whispered my farewells through tears, my heart heavy with loss. In my grief, I called upon Isis, the gentle mother, praying she might turn her radiant features toward me and grant solace in this hour of mourning. Yet the gods feel distant, their comfort just out of reach, and I am left with the aching sense that I am fated always to bring trouble to those I love.",
+    "source": "Novel-47676",
+    "evidence": "Corinna wrote a diary entry about her sorrow.; Corinna's beloved parrot was taken away by fate.; Corinna said her farewells with a heavy heart.; Corinna called upon Isis for comfort.; Corinna feels that the gods are distant.; Corinna believes her pain causes trouble for her lover."
+  },
+  {
+    "id": "Novel-2e0ffce2",
+    "question_type": "Creative Generation",
+    "question": "Write a diary entry as the Parrot, describing your life with your mistress, the farewell, and being snatched away, while referencing the trouble caused to her lover.",
+    "answer": "Diary Entry — My days with my mistress were filled with warmth and endless chatter, the gentle cadence of her voice a comfort as I perched by her side. Today, however, I bade a sorrowful farewell to Corinna; her eyes shimmered with unshed tears as she stroked my feathers one last time. In a cruel twist, I was snatched away by the green talons of envy, torn from her gentle hands and the familiar comforts of our home. I have often heard whispers that my mistress is destined to bring trouble to her lover, and now, as I find myself separated from her, I cannot help but wonder if even my absence will weave itself into the tangled web of their hearts’ misfortunes.",
+    "source": "Novel-47676",
+    "evidence": "The parrot wrote a diary entry about life with its mistress.; The parrot's days with its mistress were filled with warmth and chatter.; The parrot said farewell to Corinna, who was sorrowful.; The parrot was snatched away by envy.; The parrot was separated from Corinna's gentle hands.; The parrot heard that its mistress causes trouble for her lover.; The parrot believes its loss affects the affairs of the heart."
+  },
+  {
+    "id": "Novel-4334e7fc",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events surrounding Hippolytus as a news report, including his mention in Metamorphoses and the idea that even Hippolytus would become a Priapus.",
+    "answer": "Olympian Herald — The enigmatic Hippolytus, known for his tragic fate, is once again in the spotlight as Metamorphoses recounts his story. Reports suggest that even Hippolytus would become a Priapus, a transformation that has captured the imagination of poets. The tale, preserved in the annals of myth, is discussed alongside Jupiter’s utter hatred towards the Telchines and the poetic pursuits of Naso.",
+    "source": "Novel-47676",
+    "evidence": "Hippolytus is known for his tragic fate.; Metamorphoses recounts the story of Hippolytus.; Reports suggest that Hippolytus would become a Priapus.; The transformation of Hippolytus has captured the imagination of poets.; The tale of Hippolytus is preserved in myth.; Jupiter has utter hatred towards the Telchines.; The poetic pursuits of Naso are discussed alongside Hippolytus's tale."
+  },
+  {
+    "id": "Novel-db4551ac",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Dipsas. Write a diary entry about your knowledge of magic arts and the charms of Ææa.",
+    "answer": "Diary Entry — My reputation as a mistress of the magic arts and the charms of Ææa precedes me. These stories, told in Metamorphoses, travel far and wide, even as Jupiter’s utter hatred of the Telchines echoes through Olympus. Ovid’s words ensure my legend endures.",
+    "source": "Novel-47676",
+    "evidence": "Dipsas wrote a diary entry about her knowledge of magic arts.; Dipsas is known as a mistress of the magic arts.; Dipsas's reputation precedes her.; The charms of Ææa are associated with Dipsas.; Stories about Dipsas are told in Metamorphoses.; Jupiter has utter hatred of the Telchines.; Ovid's words ensure Dipsas's legend endures."
+  }
+]

@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+**/llm.env
+*.env
+
+# Workspaces - all generated data (embeddings, caches, graphs)
+workspaces/
+
+# Results - all experimental outputs
+results/
+
+# Backup files
+*.backup
+*.bak
+*.log
+*备份*
+*beifen*
+*(new)*
+
+# Temporary files
+debug_*.py
+temp_*.py
+test_*.sh
+.cache/
+test_workspace/

@@ -1,0 +1,818 @@
+[
+  {
+    "id": "Novel-8ee2e2c7",
+    "question_type": "Fact Retrieval",
+    "question": "During the events at the Deanery, what does THE DEAN do to prepare for his visit to the stable?",
+    "answer": "THE DEAN puts on the coat.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN puts on the coat."
+  },
+  {
+    "id": "Novel-459e0a03",
+    "question_type": "Fact Retrieval",
+    "question": "Throughout the play 'Dandy Dick', by what other names is THE DEAN, who is also referred to as Augustin and Gus, known by the characters?",
+    "answer": "THE DEAN is also known as Augustin and Gus.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN is also known as Augustin.; THE DEAN is also known as Gus."
+  },
+  {
+    "id": "Novel-393eabb5",
+    "question_type": "Fact Retrieval",
+    "question": "In the Deanery, who inquires about THE DEAN's well-being, demonstrating concern for his health during their visit?",
+    "answer": "Major Tarver asks after THE DEAN.",
+    "source": "Novel-40700",
+    "evidence": "Major Tarver asks after THE DEAN."
+  },
+  {
+    "id": "Novel-70d75840",
+    "question_type": "Fact Retrieval",
+    "question": "Where does THE DEAN place the medicine chest when he is preparing a remedy for Dandy Dick in the Deanery?",
+    "answer": "THE DEAN places the medicine chest on the table.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN places the medicine chest on the table."
+  },
+  {
+    "id": "Novel-99a81ca9",
+    "question_type": "Fact Retrieval",
+    "question": "Who is responsible for locking up the Deanery after the events of the evening, ensuring the security of the household?",
+    "answer": "BLORE locks up THE DEANERY.",
+    "source": "Novel-40700",
+    "evidence": "BLORE locks up THE DEANERY."
+  },
+  {
+    "id": "Novel-4811934e",
+    "question_type": "Fact Retrieval",
+    "question": "What does THE DEAN recall about his earlier life at Oxford, reflecting on the 'old half-forgotten time' during the play?",
+    "answer": "THE DEAN remembers the old half-forgotten time at Oxford.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN remembers the old half-forgotten time at Oxford."
+  },
+  {
+    "id": "Novel-81e86b6a",
+    "question_type": "Fact Retrieval",
+    "question": "During the course of the play, who joins SHEBA, particularly in scenes involving youthful excitement and social events?",
+    "answer": "DARBEY joins SHEBA.",
+    "source": "Novel-40700",
+    "evidence": "DARBEY joins SHEBA."
+  },
+  {
+    "id": "Novel-ed54bccb",
+    "question_type": "Fact Retrieval",
+    "question": "Which character owns the horse Dandy Dick, whose fate is central to the events surrounding the St. Marvells races?",
+    "answer": "Dandy Dick is owned by GEORGIANA.",
+    "source": "Novel-40700",
+    "evidence": "Dandy Dick is owned by GEORGIANA."
+  },
+  {
+    "id": "Novel-2432d7b4",
+    "question_type": "Fact Retrieval",
+    "question": "Who enters the scene together with GEORGIANA, highlighting their close association during their arrival at the Deanery?",
+    "answer": "SALOME enters with GEORGIANA.",
+    "source": "Novel-40700",
+    "evidence": "SALOME enters with GEORGIANA."
+  },
+  {
+    "id": "Novel-67b8e0a9",
+    "question_type": "Fact Retrieval",
+    "question": "Who takes THE DEAN into custody or possession, particularly during the misunderstanding at the police station?",
+    "answer": "NOAH takes THE DEAN.",
+    "source": "Novel-40700",
+    "evidence": "NOAH takes THE DEAN."
+  },
+  {
+    "id": "Novel-17badae3",
+    "question_type": "Fact Retrieval",
+    "question": "During an encounter in the Deanery, which character reacts to the unexpected presence of SALOME?",
+    "answer": "Major Tarver is startled by SALOME.",
+    "source": "Novel-40700",
+    "evidence": "Major Tarver is startled by SALOME."
+  },
+  {
+    "id": "Novel-1a736b11",
+    "question_type": "Fact Retrieval",
+    "question": "Who contributed to the Restoration Fund for the Minster Spire in the play?",
+    "answer": "Dr. Jedd subscribed to the Restoration Fund.",
+    "source": "Novel-40700",
+    "evidence": "Dr. Jedd subscribed to the Restoration Fund."
+  },
+  {
+    "id": "Novel-d8149b81",
+    "question_type": "Fact Retrieval",
+    "question": "Which character expresses extreme devotion to SHEBA during the unfolding events?",
+    "answer": "Nugent Darbey would die for SHEBA.",
+    "source": "Novel-40700",
+    "evidence": "Nugent Darbey would die for SHEBA."
+  },
+  {
+    "id": "Novel-1043deff",
+    "question_type": "Fact Retrieval",
+    "question": "Which character wins money at The Races?",
+    "answer": "SHEBA won money at The Races.",
+    "source": "Novel-40700",
+    "evidence": "SHEBA won money at The Races."
+  },
+  {
+    "id": "Novel-cf87aed7",
+    "question_type": "Fact Retrieval",
+    "question": "Whom does SALOME reflect upon in relation to family dynamics and guidance in the play?",
+    "answer": "SALOME considers Aunt Georgiana.",
+    "source": "Novel-40700",
+    "evidence": "SALOME considers Aunt Georgiana."
+  },
+  {
+    "id": "Novel-ae9a09e0",
+    "question_type": "Fact Retrieval",
+    "question": "Where does BLORE go during the events at the Deanery after participating in household activities?",
+    "answer": "BLORE goes into the Library.",
+    "source": "Novel-40700",
+    "evidence": "BLORE goes into the Library."
+  },
+  {
+    "id": "Novel-ba9612df",
+    "question_type": "Fact Retrieval",
+    "question": "Who does THE DEAN interact with during social calls at the Deanery?",
+    "answer": "THE DEAN sees Mr. Darbey.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN sees Mr. Darbey."
+  },
+  {
+    "id": "Novel-3e80d395",
+    "question_type": "Fact Retrieval",
+    "question": "Which character is indebted to Lewis Isaacs, the costumier, in the subplot involving the ball?",
+    "answer": "The Dean is debtor to Lewis Isaacs.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is debtor to Lewis Isaacs."
+  },
+  {
+    "id": "Novel-4160eed8",
+    "question_type": "Fact Retrieval",
+    "question": "Which character performs his duties as a constable at St. Marvells during the confusion involving THE DEAN?",
+    "answer": "Noah took up a man at St. Marvells.",
+    "source": "Novel-40700",
+    "evidence": "Noah took up a man at St. Marvells."
+  },
+  {
+    "id": "Novel-0ce3e959",
+    "question_type": "Fact Retrieval",
+    "question": "In which play did John Clayton perform as an actor in a leading role?",
+    "answer": "John Clayton acted in Dandy Dick.",
+    "source": "Novel-40700",
+    "evidence": "John Clayton acted in Dandy Dick."
+  },
+  {
+    "id": "Novel-7caf80a1",
+    "question_type": "Fact Retrieval",
+    "question": "Who wrote the play 'Dandy Dick', which features the comedic and farcical events at the Deanery?",
+    "answer": "Arthur W. Pinero wrote Dandy Dick.",
+    "source": "Novel-40700",
+    "evidence": "Arthur W. Pinero wrote the play 'Dandy Dick'."
+  },
+  {
+    "id": "Novel-41491cb3",
+    "question_type": "Fact Retrieval",
+    "question": "What is the title of the play authored by Ernest Warren that is performed as a comedietta before 'Dandy Dick'?",
+    "answer": "Ernest Warren wrote The Nettle.",
+    "source": "Novel-40700",
+    "evidence": "Ernest Warren wrote the play 'The Nettle'."
+  },
+  {
+    "id": "Novel-fcbaf737",
+    "question_type": "Fact Retrieval",
+    "question": "Who was John Clayton's partner in the joint management of the theatre during the production of 'Dandy Dick'?",
+    "answer": "John Clayton's partner is Arthur Cecil.",
+    "source": "Novel-40700",
+    "evidence": "John Clayton's partner in the joint management of the theatre is Arthur Cecil."
+  },
+  {
+    "id": "Novel-6b4b11a7",
+    "question_type": "Fact Retrieval",
+    "question": "In which play did Ada Rehan perform, taking on a notable role in an American production?",
+    "answer": "Ada Rehan acted in Dandy Dick.",
+    "source": "Novel-40700",
+    "evidence": "Ada Rehan acted in the play 'Dandy Dick'."
+  },
+  {
+    "id": "Novel-476ca8b6",
+    "question_type": "Fact Retrieval",
+    "question": "After his misadventures and the risk to his dignity, where does The Dean feel apprehensive about facing his children?",
+    "answer": "The Dean is afraid to face his children at the Deanery.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is afraid to face his children at the Deanery."
+  },
+  {
+    "id": "Novel-451efc66",
+    "question_type": "Fact Retrieval",
+    "question": "Who mentions John Cox, the author of 'The Horse and its Ailments', in relation to veterinary remedies in the play?",
+    "answer": "The Dean mentions John Cox.",
+    "source": "Novel-40700",
+    "evidence": "The Dean mentions John Cox.; John Cox is the author of 'The Horse and its Ailments'."
+  },
+  {
+    "id": "Novel-fbef0cd8",
+    "question_type": "Fact Retrieval",
+    "question": "At which theatre was the original production of 'Dandy Dick' staged, marking its debut performance?",
+    "answer": "Dandy Dick was produced at Court Theatre.",
+    "source": "Novel-40700",
+    "evidence": "'Dandy Dick' was produced at Court Theatre."
+  },
+  {
+    "id": "Novel-adf818a2",
+    "question_type": "Fact Retrieval",
+    "question": "In which play did W. H. Denny perform as an actor, contributing to its comic success?",
+    "answer": "Dandy Dick",
+    "source": "Novel-40700",
+    "evidence": "W. H. Denny performed as an actor in the play 'Dandy Dick'."
+  },
+  {
+    "id": "Novel-218c665a",
+    "question_type": "Fact Retrieval",
+    "question": "Where is Hannah, the former Deanery cook and now constable's wife, located during the events of the play?",
+    "answer": "St. Marvells",
+    "source": "Novel-40700",
+    "evidence": "Hannah, the former Deanery cook, is located in St. Marvells."
+  },
+  {
+    "id": "Novel-0047c320",
+    "question_type": "Fact Retrieval",
+    "question": "Who is the character that recognizes The Dean during his imprisonment in the police station, identifying him despite his disguise?",
+    "answer": "Hannah is the character who recognizes The Dean.",
+    "source": "Novel-40700",
+    "evidence": "Hannah is the character who recognizes The Dean during his imprisonment in the police station.; Hannah identifies The Dean despite his disguise."
+  },
+  {
+    "id": "Novel-84c13f69",
+    "question_type": "Fact Retrieval",
+    "question": "Who provides meals for The Dean during his time in custody?",
+    "answer": "Hannah provides meals for The Dean.",
+    "source": "Novel-40700",
+    "evidence": "Hannah provides meals for The Dean."
+  },
+  {
+    "id": "Novel-dc9df053",
+    "question_type": "Fact Retrieval",
+    "question": "To whom does THE DEAN extend his hand during their interaction, specifically in a social gesture of welcome at the Deanery?",
+    "answer": "THE DEAN extends his hand to DARBEY during their interaction.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN extends his hand to DARBEY during their interaction."
+  },
+  {
+    "id": "Novel-4f1779a5",
+    "question_type": "Fact Retrieval",
+    "question": "In which play did W. H. Denny perform as an actor, taking on the role of Noah Topping?",
+    "answer": "W. H. Denny performed in the play DANDY DICK.",
+    "source": "Novel-40700",
+    "evidence": "W. H. Denny performed in the play DANDY DICK.; W. H. Denny took on the role of Noah Topping."
+  },
+  {
+    "id": "Novel-f0c44705",
+    "question_type": "Fact Retrieval",
+    "question": "At what event did SHEBA win money in the story, highlighting her involvement in the excitement of the St. Marvells races?",
+    "answer": "SHEBA won money at The Races.",
+    "source": "Novel-40700",
+    "evidence": "SHEBA won money at The Races."
+  },
+  {
+    "id": "Novel-cef34fff",
+    "question_type": "Fact Retrieval",
+    "question": "Who is present with DARBEY during the narrative, especially in scenes involving the younger generation at the Deanery?",
+    "answer": "SHEBA is present with DARBEY during the narrative.",
+    "source": "Novel-40700",
+    "evidence": "SHEBA is present with DARBEY during the narrative."
+  },
+  {
+    "id": "Novel-27280ca7",
+    "question_type": "Fact Retrieval",
+    "question": "Who proposes to GEORGIANA in the play, initiating a romantic subplot amid the comedic events?",
+    "answer": "SIR TRISTRAM proposes to GEORGIANA.",
+    "source": "Novel-40700",
+    "evidence": "SIR TRISTRAM proposes to GEORGIANA."
+  },
+  {
+    "id": "Novel-f907720b",
+    "question_type": "Fact Retrieval",
+    "question": "Who is seen accompanying SIR TRISTRAM during the story's key scenes, particularly regarding the management of Dandy Dick?",
+    "answer": "GEORGIANA is seen accompanying SIR TRISTRAM.",
+    "source": "Novel-40700",
+    "evidence": "GEORGIANA is seen accompanying SIR TRISTRAM."
+  },
+  {
+    "id": "Novel-bb057eb6",
+    "question_type": "Fact Retrieval",
+    "question": "Which character is accepted by Salome in the narrative, marking a significant development in the romantic plot?",
+    "answer": "Major Tarver is the character accepted by Salome.",
+    "source": "Novel-40700",
+    "evidence": "Major Tarver is the character accepted by Salome."
+  },
+  {
+    "id": "Novel-ceb6a99b",
+    "question_type": "Fact Retrieval",
+    "question": "What is the residence of The Dean in the play, serving as the main setting for much of the action?",
+    "answer": "The Dean's residence is The Deanery.",
+    "source": "Novel-40700",
+    "evidence": "The Dean's residence is The Deanery."
+  },
+  {
+    "id": "Novel-bc34a6a1",
+    "question_type": "Fact Retrieval",
+    "question": "Who is the character that falls against SIR TRISTRAM, reflecting a moment of vulnerability and connection during the play?",
+    "answer": "GEORGIANA is the character who falls against SIR TRISTRAM.",
+    "source": "Novel-40700",
+    "evidence": "GEORGIANA is the character who falls against SIR TRISTRAM."
+  },
+  {
+    "id": "Novel-cdce534a",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of the Royal Court Theatre during the production history of 'Dandy Dick', what was the professional relationship between Arthur Cecil and John Clayton?",
+    "answer": "Arthur Cecil is the partner of John Clayton.",
+    "source": "Novel-40700",
+    "evidence": "Arthur Cecil is the partner of John Clayton."
+  },
+  {
+    "id": "Novel-1f7241a3",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the author of the play 'Dandy Dick'?",
+    "answer": "'Dandy Dick' was written by Arthur W. Pinero.",
+    "source": "Novel-40700",
+    "evidence": "'Dandy Dick' was written by Arthur W. Pinero."
+  },
+  {
+    "id": "Novel-d186c439",
+    "question_type": "Fact Retrieval",
+    "question": "At which venue was the play 'Dandy Dick' performed?",
+    "answer": "DANDY DICK was performed at the ROYAL COURT THEATRE.",
+    "source": "Novel-40700",
+    "evidence": "'Dandy Dick' was performed at the Royal Court Theatre."
+  },
+  {
+    "id": "Novel-c650bba8",
+    "question_type": "Complex Reasoning",
+    "question": "Within the events of the play 'Dandy Dick', what is the familial relationship between The Dean and Sheba?",
+    "answer": "The Dean is the father of Sheba.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is the father of Sheba."
+  },
+  {
+    "id": "Novel-50fe4cfa",
+    "question_type": "Complex Reasoning",
+    "question": "During the original production of 'Dandy Dick', who were the individuals responsible for managing the Court Theatre?",
+    "answer": "Arthur Cecil and John Clayton managed the Court Theatre.",
+    "source": "Novel-40700",
+    "evidence": "Arthur Cecil managed the Court Theatre.; John Clayton managed the Court Theatre."
+  },
+  {
+    "id": "Novel-ac73c113",
+    "question_type": "Fact Retrieval",
+    "question": "Where is the ROYAL COURT THEATRE located?",
+    "answer": "The ROYAL COURT THEATRE is located in SLOANE SQUARE.",
+    "source": "Novel-40700",
+    "evidence": "The Royal Court Theatre is located in Sloane Square."
+  },
+  {
+    "id": "Novel-0bd26353",
+    "question_type": "Complex Reasoning",
+    "question": "According to the family dynamics presented in 'Dandy Dick', what is Georgiana Tidman's familial relationship to SHEBA and SALOME?",
+    "answer": "Georgiana Tidman is the aunt of both SHEBA and SALOME.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman is the aunt of Sheba.; Georgiana Tidman is the aunt of Salome."
+  },
+  {
+    "id": "Novel-025c325c",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative of 'Dandy Dick', by what other name is THE DEAN known?",
+    "answer": "THE DEAN is also known as Augustin Jedd.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is also known as Augustin Jedd."
+  },
+  {
+    "id": "Novel-79d13dd8",
+    "question_type": "Complex Reasoning",
+    "question": "What instructions or influences guided BLORE's actions with regard to showing in Major Tarver and being relied upon by THE DEAN at the Deanery, especially during the events leading up to Major Tarver's visit?",
+    "answer": "BLORE was told to show in Major Tarver and is relied upon by THE DEAN, indicating his actions were guided by instructions and the trust placed in him by THE DEAN.",
+    "source": "Novel-40700",
+    "evidence": "Blore was told to show in Major Tarver.; Blore is relied upon by The Dean.; Blore's actions were guided by instructions from The Dean.; Blore's actions were influenced by the trust placed in him by The Dean."
+  },
+  {
+    "id": "Novel-a7a91e43",
+    "question_type": "Complex Reasoning",
+    "question": "In 'Dandy Dick', how does THE DEAN demonstrate his concern for the welfare of animals, particularly in regard to his trust that the Bolus he prepares will not confer an unfair advantage to the racehorse Dandy Dick?",
+    "answer": "THE DEAN expresses trust that the Bolus will not give the animal an unfair advantage over Dandy Dick, showing his concern for fairness and animal welfare.",
+    "source": "Novel-40700",
+    "evidence": "The Dean expresses trust that the Bolus will not give the animal an unfair advantage over Dandy Dick.; The Dean shows concern for fairness.; The Dean shows concern for animal welfare."
+  },
+  {
+    "id": "Novel-2a5688d0",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between NOAH TOPPING and HANNAH?",
+    "answer": "NOAH is the husband of HANNAH.",
+    "source": "Novel-40700",
+    "evidence": "NOAH is the husband of HANNAH."
+  },
+  {
+    "id": "Novel-648df362",
+    "question_type": "Complex Reasoning",
+    "question": "What is SIR TRISTRAM's ownership status regarding Dandy Dick?",
+    "answer": "SIR TRISTRAM owns half of Dandy Dick.",
+    "source": "Novel-40700",
+    "evidence": "SIR TRISTRAM owns half of Dandy Dick."
+  },
+  {
+    "id": "Novel-a56d528c",
+    "question_type": "Complex Reasoning",
+    "question": "How is THE DEAN involved with the Restoration Fund?",
+    "answer": "THE DEAN subscribed to the Restoration Fund.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN subscribed to the Restoration Fund."
+  },
+  {
+    "id": "Novel-fc13ecfe",
+    "question_type": "Complex Reasoning",
+    "question": "How does the novel 'Dandy Dick' reveal the relationship between Hannah and The Dean through their interactions?",
+    "answer": "Hannah recognizes The Dean, cooked for him, and was his servant, indicating a long-standing relationship between them.",
+    "source": "Novel-40700",
+    "evidence": "Hannah recognizes The Dean.; Hannah cooked for The Dean.; Hannah was a servant of The Dean.; Hannah and The Dean have a long-standing relationship."
+  },
+  {
+    "id": "Novel-3447851a",
+    "question_type": "Complex Reasoning",
+    "question": "Within the story of 'Dandy Dick', how is SHEBA related to GEORGIANA and THE DEAN?",
+    "answer": "SHEBA is the niece of GEORGIANA and the daughter of THE DEAN.",
+    "source": "Novel-40700",
+    "evidence": "SHEBA is the niece of GEORGIANA.; SHEBA is the daughter of THE DEAN."
+  },
+  {
+    "id": "Novel-e1ede6d6",
+    "question_type": "Complex Reasoning",
+    "question": "How are NOAH TOPPING and HANNAH connected in the story?",
+    "answer": "NOAH TOPPING is the husband of HANNAH, and HANNAH is married to Noah Topping.",
+    "source": "Novel-40700",
+    "evidence": "NOAH TOPPING is the husband of HANNAH.; HANNAH is married to NOAH TOPPING."
+  },
+  {
+    "id": "Novel-e8957bed",
+    "question_type": "Complex Reasoning",
+    "question": "In the plot of 'Dandy Dick', what is the connection between SALOME, MAJOR TARVER, and SHEBA?",
+    "answer": "SALOME is with MAJOR TARVER and is the sister of SHEBA.",
+    "source": "Novel-40700",
+    "evidence": "SALOME is with MAJOR TARVER.; SALOME is the sister of SHEBA."
+  },
+  {
+    "id": "Novel-ea5b1753",
+    "question_type": "Complex Reasoning",
+    "question": "What is ARTHUR W. PINERO's connection to the play 'DANDY DICK'?",
+    "answer": "ARTHUR W. PINERO is the author of 'DANDY DICK'.",
+    "source": "Novel-40700",
+    "evidence": "ARTHUR W. PINERO is the author of 'DANDY DICK'."
+  },
+  {
+    "id": "Novel-deed7841",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between THE DEAN and Dr. Jedd in 'Dandy Dick'?",
+    "answer": "THE DEAN is also known as Dr. Jedd.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN is also known as Dr. Jedd."
+  },
+  {
+    "id": "Novel-99dd217e",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between THE DEAN and the character Gus in 'Dandy Dick'?",
+    "answer": "THE DEAN is also known as Gus.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN is also known as Gus."
+  },
+  {
+    "id": "Novel-9ae6bb32",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between GEORGIANA and the nickname George Tidd in 'Dandy Dick'?",
+    "answer": "GEORGIANA is also known as George Tidd.",
+    "source": "Novel-40700",
+    "evidence": "GEORGIANA is also known as George Tidd."
+  },
+  {
+    "id": "Novel-48cb097c",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between THE DEAN and the name Augustin in 'Dandy Dick'?",
+    "answer": "THE DEAN is also known as Augustin.",
+    "source": "Novel-40700",
+    "evidence": "THE DEAN is also known as Augustin."
+  },
+  {
+    "id": "Novel-aee32351",
+    "question_type": "Complex Reasoning",
+    "question": "What is the sequence of interactions that link The Dean to Major Tarver through the involvement of Blore and Sheba?",
+    "answer": "The Dean is father of Sheba, Sheba hushes The Dean, Blore shows in Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is the father of Sheba.; Sheba hushes The Dean.; Blore shows in Major Tarver."
+  },
+  {
+    "id": "Novel-c8a565dd",
+    "question_type": "Complex Reasoning",
+    "question": "What nicknames does Georgiana Tidman use in her interactions with Sir Tristram?",
+    "answer": "Georgiana Tidman uses the nickname George Tidd, George Tidd is Georgiana Tidman, Georgiana Tidman speaks to Sir Tristram.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman uses the nickname George Tidd.; George Tidd is Georgiana Tidman.; Georgiana Tidman speaks to Sir Tristram."
+  },
+  {
+    "id": "Novel-cc3953aa",
+    "question_type": "Complex Reasoning",
+    "question": "How does Mr. Darbey's status as an officer of the Hussars relate to his being seen by The Dean and spoken to by Sheba?",
+    "answer": "The Dean sees Darbey, Mr. Darbey is an officer of the Hussars, Sheba speaks to Mr. Darbey.",
+    "source": "Novel-40700",
+    "evidence": "The Dean sees Mr. Darbey.; Mr. Darbey is an officer of the Hussars.; Sheba speaks to Mr. Darbey."
+  },
+  {
+    "id": "Novel-b1844c62",
+    "question_type": "Complex Reasoning",
+    "question": "What events connect Sir Tristram, The Dean, and Augustin in the story?",
+    "answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean.",
+    "source": "Novel-40700",
+    "evidence": "Sir Tristram pulled the horse's nose-bag over The Dean.; Augustin is also known as The Dean."
+  },
+  {
+    "id": "Novel-951ee1b5",
+    "question_type": "Complex Reasoning",
+    "question": "Through which sequence does Major Tarver become accepted by Salome, starting from The Dean?",
+    "answer": "The Dean sees Darbey, Darbey glances at Tarver, Salome accepts Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "The Dean sees Mr. Darbey.; Mr. Darbey glances at Major Tarver.; Salome accepts Major Tarver."
+  },
+  {
+    "id": "Novel-f62470b5",
+    "question_type": "Complex Reasoning",
+    "question": "What links Sheba's interaction with The Dean to Salome’s acceptance of Major Tarver?",
+    "answer": "Sheba hushes The Dean, Blore shows in Major Tarver, Salome accepts Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "Sheba hushes The Dean.; Blore shows in Major Tarver.; Salome accepts Major Tarver."
+  },
+  {
+    "id": "Novel-100048f7",
+    "question_type": "Complex Reasoning",
+    "question": "What role does Augustin play in the events involving Sir Tristram and The Dean’s family?",
+    "answer": "Sir Tristram pulled the horse's nose-bag over The Dean, Augustin is also known as The Dean, The Dean is father of Sheba.",
+    "source": "Novel-40700",
+    "evidence": "Sir Tristram pulled the horse's nose-bag over The Dean.; Augustin is also known as The Dean.; The Dean is the father of Sheba."
+  },
+  {
+    "id": "Novel-8544d6cc",
+    "question_type": "Complex Reasoning",
+    "question": "What is the sequence that links Blore’s employment to The Dean and Sheba’s actions?",
+    "answer": "Blore works for The Dean, The Dean is father of Sheba, Sheba hushes Blore.",
+    "source": "Novel-40700",
+    "evidence": "Blore works for The Dean.; The Dean is the father of Sheba.; Sheba hushes Blore."
+  },
+  {
+    "id": "Novel-480fe22e",
+    "question_type": "Complex Reasoning",
+    "question": "Through which interactions does Georgiana Tidman’s nickname become associated with Sir Tristram?",
+    "answer": "Georgiana Tidman uses the nickname George Tidd, George Tidd is Georgiana Tidman, Georgiana Tidman spoke to Sir Tristram.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman uses the nickname George Tidd.; George Tidd is another name for Georgiana Tidman.; Georgiana Tidman spoke to Sir Tristram."
+  },
+  {
+    "id": "Novel-cb0049d1",
+    "question_type": "Complex Reasoning",
+    "question": "How do the interactions involving Georgiana Tidman, Salome, and Sheba lead to Blore's instructions regarding Major Tarver?",
+    "answer": "Georgiana Tidman enters with Salome, Salome pointed to Sheba, Sheba hushes Blore, Blore is told to show in Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman enters with Salome.; Salome pointed to Sheba.; Sheba hushes Blore.; Blore is told to show in Major Tarver."
+  },
+  {
+    "id": "Novel-fcce94b3",
+    "question_type": "Complex Reasoning",
+    "question": "How is the nickname 'George Tidd' associated with Georgiana Tidman and her interactions in the context of Salome?",
+    "answer": "Georgiana Tidman uses nickname George Tidd, George Tidd was Georgiana, Salome is niece of Georgiana Tidman.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman uses the nickname George Tidd.; George Tidd is another name for Georgiana Tidman.; Salome is the niece of Georgiana Tidman."
+  },
+  {
+    "id": "Novel-97f17817",
+    "question_type": "Complex Reasoning",
+    "question": "How do the roles of John Clayton and Arthur Cecil relate to the production of 'Dandy Dick' via Arthur W. Pinero?",
+    "answer": "Arthur W. Pinero was under contract to John Clayton, John Clayton was partner of Arthur Cecil, Dandy Dick was written by Arthur W. Pinero.",
+    "source": "Novel-40700",
+    "evidence": "Arthur W. Pinero was under contract to John Clayton.; John Clayton was a partner of Arthur Cecil.; Dandy Dick was written by Arthur W. Pinero."
+  },
+  {
+    "id": "Novel-324913d8",
+    "question_type": "Complex Reasoning",
+    "question": "In what way does Blore’s relationship to The Dean and Sheba influence his role with Major Tarver?",
+    "answer": "Blore works for The Dean, The Dean is father of Sheba, Blore is told to show Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "Blore works for The Dean.; The Dean is the father of Sheba.; Blore is told to show Major Tarver."
+  },
+  {
+    "id": "Novel-50522d07",
+    "question_type": "Complex Reasoning",
+    "question": "How does the sequence of events involving Sir Tristram, Augustin Jedd, and The Dean connect to Sheba?",
+    "answer": "Sir Tristram pulled the horse's nose-bag over Augustin Jedd, Augustin Jedd is also known as The Dean, The Dean is father of Sheba.",
+    "source": "Novel-40700",
+    "evidence": "Sir Tristram pulled the horse's nose-bag over Augustin Jedd.; Augustin Jedd is also known as The Dean.; The Dean is the father of Sheba."
+  },
+  {
+    "id": "Novel-860ef6ea",
+    "question_type": "Complex Reasoning",
+    "question": "Describe the multi-hop path from The Dean to Tarver via Darbey and Salome.",
+    "answer": "The Dean sees Darbey, Darbey glances at Tarver, Tarver speaks to Salome.",
+    "source": "Novel-40700",
+    "evidence": "The Dean sees Darbey.; Darbey glances at Tarver.; Tarver speaks to Salome."
+  },
+  {
+    "id": "Novel-3c27ebed",
+    "question_type": "Complex Reasoning",
+    "question": "How is Blore’s professional connection to The Dean relevant to the actions involving Sheba and Major Tarver?",
+    "answer": "Blore works for The Dean, The Dean is father of Sheba, Blore is told to show Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "Blore works for The Dean.; The Dean is the father of Sheba.; Blore is told to show Major Tarver."
+  },
+  {
+    "id": "Novel-61c0e9bc",
+    "question_type": "Contextual Summarize",
+    "question": "What was the professional relationship between John Clayton and Arthur Cecil during the production of 'DANDY DICK' at the Court Theatre?",
+    "answer": "John Clayton and Arthur Cecil shared a close professional partnership at the Court Theatre, serving not only as joint managers but also as leading actors in the production of 'DANDY DICK.' Their collaboration was the cornerstone of the theatre’s success, with both men deeply involved in the creative and managerial aspects of the company. On stage, they brought the characters of the farce to life, while offstage, their joint stewardship guided the theatre through a period of prosperity and innovation. The production of 'DANDY DICK' became especially poignant, as it marked the final chapter of their partnership—Clayton’s last performance before his untimely death, casting a bittersweet shadow over their shared achievements.",
+    "source": "Novel-40700",
+    "evidence": "John Clayton and Arthur Cecil were partners.; John Clayton and Arthur Cecil both acted in 'DANDY DICK'.; John Clayton and Arthur Cecil both managed the Court Theatre."
+  },
+  {
+    "id": "Novel-bc92c071",
+    "question_type": "Contextual Summarize",
+    "question": "How are 'DANDY DICK', Arthur W. Pinero, and the Court Theatre connected in the narrative?",
+    "answer": "'DANDY DICK' was written by ARTHUR W. PINERO, was performed at the ROYAL COURT THEATRE, and the Court Theatre was managed by John Clayton and Arthur Cecil, both of whom acted in the play.",
+    "source": "Novel-40700",
+    "evidence": "'DANDY DICK' was written by Arthur W. Pinero.; 'DANDY DICK' was performed at the Royal Court Theatre.; The Court Theatre was managed by John Clayton and Arthur Cecil.; John Clayton and Arthur Cecil both acted in 'DANDY DICK'."
+  },
+  {
+    "id": "Novel-cd32265c",
+    "question_type": "Contextual Summarize",
+    "question": "In the early scenes of 'DANDY DICK', how is Sheba's connection to Mr. Darbey depicted, and what is the emotional dynamic between Sheba and her sister Salome as they share their anxieties and discuss their involvement with Darbey?",
+    "answer": "Sheba’s connection to Mr. Darbey is depicted through their direct interaction and her candid mention of him in conversation. The emotional dynamic between Sheba and her sister Salome is one of shared anxiety and guilty anticipation; arm in arm, they confide in each other their nervousness about the evening’s plans and their involvement with Darbey. Their dialogue is laced with both playful defiance and genuine remorse, as they oscillate between excitement for the upcoming ball and a sense of impending regret, revealing a tender, conspiratorial bond between the sisters.",
+    "source": "Novel-40700",
+    "evidence": "Sheba is with Mr. Darbey.; Sheba mentions Mr. Darbey.; Sheba shares despondency with her sister Salome."
+  },
+  {
+    "id": "Novel-363f6824",
+    "question_type": "Contextual Summarize",
+    "question": "Within the events of 'DANDY DICK', what is the nature of the relationship between Sir Tristram and Georgiana, particularly when Sir Tristram accompanies and offers assistance to Georgiana in her various undertakings?",
+    "answer": "Sir Tristram’s relationship with Georgiana is marked by a warm camaraderie and genuine support. He not only accompanies her in her various undertakings but also offers his assistance with a blend of humor and affection. Their interactions reveal a deep mutual respect and understanding—Sir Tristram is quick to encourage Georgiana, sharing in her hopes and anxieties, and even seizing her hand in moments of emotional candor. His presence is both reassuring and companionable, suggesting a bond that goes beyond mere obligation to one of true friendship and shared history.",
+    "source": "Novel-40700",
+    "evidence": "Sir Tristram accompanies Georgiana.; Sir Tristram offers to help Georgiana.; Sir Tristram is with Georgiana."
+  },
+  {
+    "id": "Novel-da6253bc",
+    "question_type": "Contextual Summarize",
+    "question": "How is the relationship between the Dean and his daughter Salome portrayed in the play 'DANDY DICK', especially regarding his paternal care, conversations, and expressions of solicitude toward her?",
+    "answer": "THE DEAN is the parent of SALOME, has solicitude for her, and speaks to her.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is the parent of Salome.; The Dean has solicitude for Salome.; The Dean speaks to Salome."
+  },
+  {
+    "id": "Novel-8897e674",
+    "question_type": "Contextual Summarize",
+    "question": "In 'DANDY DICK', what is the nature of the relationship between Major Tarver and Salome, particularly focusing on Major Tarver's proposal to Salome, her acceptance, and the ways in which Salome assists him during the narrative?",
+    "answer": "Major Tarver, with a blend of comic desperation and genuine affection, proposes to Salome, declaring his love with dramatic flair and even producing a doctor's certificate to emphasize the urgency of his feelings. Salome, amused and touched by his earnestness, accepts his proposal, and throughout the narrative, she supports him with a mixture of playful teasing and sincere care, demonstrating a partnership marked by both affection and spirited banter.",
+    "source": "Novel-40700",
+    "evidence": "Major Tarver proposed to Salome.; Salome accepted Major Tarver's proposal.; Salome helps Major Tarver."
+  },
+  {
+    "id": "Novel-6e7c77a8",
+    "question_type": "Contextual Summarize",
+    "question": "How is Georgiana Tidman related to the Dean and Salome in the play 'DANDY DICK'?",
+    "answer": "Georgiana Tidman is the sister of THE DEAN and the aunt of SALOME.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman is the sister of the Dean.; Georgiana Tidman is the aunt of Salome."
+  },
+  {
+    "id": "Novel-404fd7d0",
+    "question_type": "Contextual Summarize",
+    "question": "What is the marital relationship between Noah Topping and Hannah in 'DANDY DICK'?",
+    "answer": "Noah Topping and Hannah are husband and wife, their marriage still fresh—only eight weeks old—within the narrative. Hannah, formerly Evans, often refers to Noah with a mix of affection and exasperation, calling him 'my darling Noah.' Despite the newness of their union, Hannah’s loyalty to the Dean and his household, where she served for seven years, is evident, and she openly weighs her long-standing devotion to them against her recent marital vows. Their relationship is marked by Hannah’s spirited independence and Noah’s somewhat blustering presence as a rural constable, creating a dynamic that is both humorous and revealing of their characters’ roles in the story.",
+    "source": "Novel-40700",
+    "evidence": "Noah Topping is Hannah's husband.; Noah Topping is married to Hannah."
+  },
+  {
+    "id": "Novel-7946ea50",
+    "question_type": "Contextual Summarize",
+    "question": "How are Salome's and Sheba's familial connections to Georgiana Tidman and the Dean portrayed, and what significance do these relationships hold in their interactions?",
+    "answer": "Salome is the niece of Georgiana Tidman, who uses the nickname George Tidd. Sheba is the daughter of the Dean. These facts establish familial and social relationships among the characters.",
+    "source": "Novel-40700",
+    "evidence": "Salome is the niece of Georgiana Tidman.; Georgiana Tidman uses the nickname George Tidd.; Sheba is the daughter of the Dean."
+  },
+  {
+    "id": "Novel-0ac97da6",
+    "question_type": "Contextual Summarize",
+    "question": "Within the sequence of household events, how do Sheba's act of hushing Blore, Blore's instruction to show in Major Tarver, and Major Tarver ultimately being accepted by Salome illustrate the group's social dynamics and the roles each character plays in introductions and hospitality?",
+    "answer": "The sequence—Sheba hushing Blore, Blore dutifully showing in Major Tarver, and Salome ultimately accepting Major Tarver—vividly illustrates the intricate social choreography of the household. Sheba’s attempt to hush Blore reveals her desire to control the flow of introductions and maintain a certain decorum, while Blore’s compliance underscores his role as the obedient servant, facilitating the formalities of hospitality. Major Tarver’s acceptance by Salome, despite the initial confusion and surprise, highlights Salome’s position as a gracious hostess, capable of quickly adapting to unexpected guests. Together, these actions reveal the subtle negotiations of status, propriety, and responsibility that define each character’s place within the group’s social dynamics.",
+    "source": "Novel-40700",
+    "evidence": "Sheba hushes Blore.; Blore is told to show Major Tarver.; Major Tarver is accepted by Salome."
+  },
+  {
+    "id": "Novel-c3541cf2",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative reveal the use of nicknames and alternate identities among the central characters, and what impact does this have on their personal and social identities?",
+    "answer": "The narrative reveals a playful and layered use of nicknames and alternate identities among the central characters: Georgiana Tidman adopts the racing moniker 'George Tidd,' a name that speaks to her vibrant past and unconventional spirit, while Augustin is referred to both by his given name and his formal title, 'the Dean.' These dual identities not only reflect the characters’ personal histories and social roles but also shape how they are perceived within the group. Georgiana’s embrace of 'George Tidd' allows her to assert a bold, independent persona, contrasting with the expectations of her family, while Augustin’s dual identity as both a relative and a figure of authority complicates his interactions. This interplay of names and roles enriches the unfolding of their personal and social identities, highlighting the tension between public image and private self.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman uses the nickname George Tidd.; Augustin is also known as the Dean."
+  },
+  {
+    "id": "Novel-fd4710e5",
+    "question_type": "Contextual Summarize",
+    "question": "How are the professional and personal relationships among the principal theater figures involved in the production of 'Dandy Dick' depicted?",
+    "answer": "The professional and personal relationships among the principal theater figures in the production of 'Dandy Dick' are depicted as deeply intertwined and collaborative. Arthur W. Pinero, the playwright, was under contract to John Clayton, who, together with Arthur Cecil, managed the old Court Theatre. Their partnership was not only a business arrangement but also a creative alliance that brought prosperity and innovation to the English stage. The production of 'Dandy Dick' stands as a testament to this close-knit network: Pinero's creative process was directly influenced by the urgent needs of Clayton and Cecil's management, and the play itself became a poignant symbol of their partnership, especially as it was the last piece in which Clayton performed before his untimely death. The narrative thus highlights a web of mutual dependence, artistic collaboration, and personal connection among these key figures.",
+    "source": "Novel-40700",
+    "evidence": "Dandy Dick was written by Arthur W. Pinero.; Arthur W. Pinero is under contract to John Clayton.; John Clayton is a partner of Arthur Cecil."
+  },
+  {
+    "id": "Novel-9cb17abc",
+    "question_type": "Contextual Summarize",
+    "question": "How does Blore's role within the Deanery household manifest, and how do his interactions with other characters reflect his place in the running of household events?",
+    "answer": "Blore works for the Dean, is hushed by Sheba, and is told to show in Major Tarver, indicating his subordinate role and connections to other characters.",
+    "source": "Novel-40700",
+    "evidence": "Blore works for the Dean.; Blore is hushed by Sheba.; Blore is told to show in Major Tarver.; Blore's actions indicate his subordinate role.; Blore's interactions connect him to other characters."
+  },
+  {
+    "id": "Novel-bc47fd7d",
+    "question_type": "Contextual Summarize",
+    "question": "What is the narrative chain of events involving Salome, Mr. Darbey, and Major Tarver, and how do these developments reflect the emotional and interpersonal responses within the scene?",
+    "answer": "The narrative unfolds as Salome, caught off guard by the unexpected arrival of Mr. Darbey and Major Tarver, reacts with visible surprise and a hand pressed to her heart. The sudden intrusion disrupts the sisters' lighthearted mood, replacing it with a flurry of confusion and heightened emotion. Major Tarver, sensitive to Salome's discomfort, expresses immediate contrition, while Mr. Darbey maintains his pompous air. Through this tense yet revealing exchange, Salome gradually overcomes her initial shock, ultimately accepting Major Tarver's presence. The scene delicately captures the shifting emotional currents and the subtle interplay of manners, vulnerability, and acceptance among the characters.",
+    "source": "Novel-40700",
+    "evidence": "Salome is startled by Mr. Darbey.; Mr. Darbey is accompanied by Major Tarver.; Major Tarver is accepted by Salome.; Darby’s presence connects to Salome's response."
+  },
+  {
+    "id": "Novel-a805ca77",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of household management and social introductions at the Deanery, how are character roles and status communicated through the interactions between Sheba, Blore, and Major Tarver?",
+    "answer": "Sheba's gentle act of hushing Blore underscores her authority within the household, quietly asserting her role in orchestrating the social atmosphere of the Deanery. Blore, ever the dutiful servant, responds to her cue by preparing to introduce Major Tarver, demonstrating the careful choreography of status and propriety that governs such interactions. Through these subtle gestures, the scene reveals the unspoken hierarchies and the grace with which Sheba manages both her household and the expectations of her guests.",
+    "source": "Novel-40700",
+    "evidence": "Sheba hushes Blore.; Blore is told to show in Major Tarver.; Sheba's action communicates household status.; Blore's instruction shows how introductions are managed."
+  },
+  {
+    "id": "Novel-9a3c2c64",
+    "question_type": "Contextual Summarize",
+    "question": "How is the identity of the Dean established within the narrative, and what elements contribute to his central role in the story?",
+    "answer": "The Dean’s identity is woven into the narrative through a series of revealing interactions and relationships: he is established as Sheba’s father and is also referred to by his alternate name, Augustin. His presence is marked by his dignified entrance, accompanied by his daughters and associates, and his direct engagement with Darbey. Furthermore, the information he receives from Sir Tristram underscores his pivotal role at the heart of the unfolding events, solidifying his position as a central figure within the Deanery.",
+    "source": "Novel-40700",
+    "evidence": "The Dean is the father of Sheba.; The Dean is also known as Augustin.; The Dean sees Darbey.; The Dean receives information from Sir Tristram.; These details establish the Dean's identity."
+  },
+  {
+    "id": "Novel-141594cf",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative depict the integration of new members into the established group at the Deanery, and what roles do Blore and Salome play in this process?",
+    "answer": "Major Tarver is shown being introduced by Blore and ultimately accepted by Salome, illustrating the process by which new individuals are incorporated into the group.",
+    "source": "Novel-40700",
+    "evidence": "Major Tarver is introduced by Blore.; Salome ultimately accepts Major Tarver.; This process illustrates how new members are incorporated into the group."
+  },
+  {
+    "id": "Novel-8097d8e7",
+    "question_type": "Contextual Summarize",
+    "question": "How are subordinate roles and the management of household affairs among the supporting characters illustrated in the narrative?",
+    "answer": "Blore is portrayed as the quintessential subordinate, quietly fulfilling his duties under the Dean’s employment. His willingness to be hushed by Sheba and his promptness in showing in Major Tarver underscore his unobtrusive presence and the deference expected of him. Through these interactions, the narrative vividly illustrates the intricate hierarchy and the often-invisible labor that sustains the household, with Blore’s actions reflecting both his diligence and the subtle power dynamics at play among the supporting characters.",
+    "source": "Novel-40700",
+    "evidence": "Blore works for the Dean.; Blore is hushed by Sheba.; Blore carries out instructions to show in Major Tarver.; These actions highlight Blore's role in household management."
+  },
+  {
+    "id": "Novel-d7cd1af2",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative's use of alternate names and nicknames affect the understanding of character identities and influence their social interactions within the story?",
+    "answer": "The use of George Tidd as an alternate for Georgiana Tidman and Augustin Jedd for the Dean reveals multiple layers to character identities, impacting social interactions.",
+    "source": "Novel-40700",
+    "evidence": "George Tidd is an alternate name for Georgiana Tidman.; Augustin Jedd is an alternate name for the Dean.; The use of alternate names reveals multiple layers to character identities.; These layers impact social interactions."
+  },
+  {
+    "id": "Novel-d53e3f9c",
+    "question_type": "Contextual Summarize",
+    "question": "How is the concept of dual or hidden identities utilized among the characters in the narrative, and what narrative functions do these layered identities serve?",
+    "answer": "The use of dual or hidden identities, such as Georgiana Tidman adopting the male nickname George Tidd for her racing persona and the Dean being known as Augustin Jedd, weaves a rich tapestry of layered selves within the narrative. Georgiana’s transformation into George Tidd allows her to navigate spaces and activities—like horse racing at Newmarket—that would otherwise be closed to her as a woman, challenging societal expectations and asserting her individuality. Similarly, the Dean’s identity as Augustin Jedd hints at personal histories and connections that complicate his public role. These layered identities serve not only to deepen the characters’ complexity but also to highlight themes of social constraint, personal reinvention, and the tension between public appearance and private truth.",
+    "source": "Novel-40700",
+    "evidence": "Georgiana Tidman uses the male nickname George Tidd.; The Dean is known as Augustin Jedd.; These characters suggest the presence of dual identities.; Dual identities add complexity to their social roles."
+  },
+  {
+    "id": "Novel-6ccdfc50",
+    "question_type": "Creative Generation",
+    "question": "From Tarver’s point of view, narrate your experience of being introduced to the group, addressed by Georgiana, and accepted by Salome.",
+    "answer": "I arrived with a flutter of nerves, uncertain how I would be received by this close-knit circle. The room was alive with the gentle chaos of introductions and laughter, but it was Georgiana who drew me in—her approach was brisk, her wit sharp, yet her eyes sparkled with genuine warmth. She addressed me directly, her words both teasing and welcoming, and in that moment, much of my apprehension melted away. Salome, tall and striking, regarded me with a quiet grace, and when she accepted me into their company, it felt as though a door had opened. Darbey’s frequent glances suggested a mixture of curiosity and camaraderie, while Sheba, ever attentive, seemed to orchestrate the gathering with a subtle hand. Presiding over it all was The Dean, his presence dignified and watchful, lending the occasion a sense of gravity that only heightened my awareness of being truly welcomed.",
+    "source": "Novel-40700",
+    "evidence": "Tarver arrived somewhat apprehensive.; Georgiana addressed Tarver directly.; Georgiana's manner was lively and welcoming.; Tarver was introduced to Salome.; Salome accepted Tarver into the company with grace.; Darbey kept glancing at Tarver.; Sheba coordinated the flow of the gathering.; The Dean observed everything."
+  },
+  {
+    "id": "Novel-739e0700",
+    "question_type": "Creative Generation",
+    "question": "Compose a news report on the various aliases and relationships, focusing on The Dean, Augustin, and Georgiana’s nickname.",
+    "answer": "In recent social events, it has come to light that Augustin, also known as The Dean, is the father of Sheba. Meanwhile, Georgiana Tidman is widely recognized by her nickname 'George Tidd.' Salome is identified as Georgiana’s niece. The day’s gathering included interactions among these individuals, highlighting the close-knit yet lively nature of the household.",
+    "source": "Novel-40700",
+    "evidence": "Augustin is also known as The Dean.; Augustin is the father of Sheba.; Georgiana Tidman is recognized by her nickname 'George Tidd.'; Salome is identified as Georgiana’s niece.; The gathering included interactions among these individuals."
+  },
+  {
+    "id": "Novel-75d99a87",
+    "question_type": "Creative Generation",
+    "question": "Write a newspaper article reporting on the group’s involvement in the play ‘Dandy Dick’, including Darbey’s role and information about the play’s authorship.",
+    "answer": "The household’s engagement with the performing arts was underscored by Mr. Darbey’s participation in ‘Dandy Dick,’ a play written by Arthur W. Pinero. Pinero, under contract to John Clayton, collaborated with his partner Arthur Cecil. The event, observed by The Dean and attended by his daughter Sheba, brought together members of the household, including Georgiana (known as George Tidd), her niece Salome (the daughter of Georgiana Tidman's brother), and Major Tarver.",
+    "source": "Novel-40700",
+    "evidence": "Mr. Darbey participated in the play 'Dandy Dick.'; The play 'Dandy Dick' was written by Arthur W. Pinero.; Arthur W. Pinero was under contract to John Clayton.; Arthur W. Pinero collaborated with his partner Arthur Cecil.; The event was observed by The Dean.; The Dean's daughter, Sheba, attended the event.; Members of the household included Georgiana, Salome, and Major Tarver.; Georgiana is known as George Tidd.; Salome is the daughter of Georgiana Tidman's brother."
+  },
+  {
+    "id": "Novel-8fc436d6",
+    "question_type": "Creative Generation",
+    "question": "Write a diary entry as Mr. Darbey about your role as an officer of the Hussars, your performance in ‘Dandy Dick’, and your experiences during the gathering.",
+    "answer": "Diary Entry — As an officer of the Hussars, I have attended my share of formal gatherings, yet today’s assembly at the Deanery felt singular in its warmth and camaraderie. The memory of my recent performance in 'Dandy Dick' lingered in the air, as several guests recalled it with a fondness that filled me with quiet pride. Sharing the piano bench with Sheba was a particular delight—her playing was as graceful as her conversation, and together we brought a touch of music to the evening. Major Tarver, ever the gentleman, found himself in pleasant company with Salome, whose acceptance of him was as gracious as her smile. The Dean presided over the household with his characteristic dignity, while Georgiana—George Tidd to some—infused the gathering with her irrepressible spirit. It was an evening marked by laughter, gentle teasing, and the subtle satisfaction of shared accomplishment.",
+    "source": "Novel-40700",
+    "evidence": "Mr. Darbey is an officer of the Hussars.; Mr. Darbey attended a unique formal event.; Mr. Darbey sat at the piano with Sheba.; Sheba's piano playing was delightful.; Mr. Darbey's performance in 'Dandy Dick' was mentioned by some.; Mr. Darbey felt proud of his performance in 'Dandy Dick.'; Major Tarver accompanied Mr. Darbey.; Salome graciously accepted Major Tarver.; The Dean commanded the household with his usual presence.; Georgiana brought her own special energy."
+  }
+]

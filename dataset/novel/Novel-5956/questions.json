@@ -1,0 +1,690 @@
+[
+  {
+    "id": "Novel-e506aa4e",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative surrounding Ellen, how are her father and the bishop connected, and what is the nature of their relationship?",
+    "answer": "Ellen's father is also the bishop.",
+    "source": "Novel-5956",
+    "evidence": "Ellen's father is also the bishop."
+  },
+  {
+    "id": "Novel-14cee623",
+    "question_type": "Fact Retrieval",
+    "question": "Within the story, which character is shown to have influence over the bishop, and how is this dynamic reflected in their interactions?",
+    "answer": "Ellen",
+    "source": "Novel-5956",
+    "evidence": "Ellen has influence over the bishop.; The dynamic between Ellen and the bishop is reflected in their interactions."
+  },
+  {
+    "id": "Novel-ae28e711",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the Monte Carlo episode, to whom is Louis apprenticed, and what is the significance of this apprenticeship to the plot?",
+    "answer": "Carbut",
+    "source": "Novel-5956",
+    "evidence": "Louis is apprenticed to Carbut.; The apprenticeship to Carbut is significant to the plot."
+  },
+  {
+    "id": "Novel-2bef6940",
+    "question_type": "Fact Retrieval",
+    "question": "In the story, which character is associated with the nickname 'Goodwood Plunger,' and what is the significance of this alias?",
+    "answer": "Goodwood Plunger",
+    "source": "Novel-5956",
+    "evidence": "The character referred to as the Goodwood Plunger is known by that name.; The Goodwood Plunger is also known by another name."
+  },
+  {
+    "id": "Novel-0b2a33fc",
+    "question_type": "Fact Retrieval",
+    "question": "In the storyline involving Ellen, who is the object of her affection, and how does this influence her character development?",
+    "answer": "Latimer",
+    "source": "Novel-5956",
+    "evidence": "Ellen loved Latimer.; Ellen's love for Latimer affects her character development."
+  },
+  {
+    "id": "Novel-d675eecd",
+    "question_type": "Fact Retrieval",
+    "question": "During his time in Monte Carlo, from whom did the Goodwood Plunger turn away, and what significance does this have for his personal journey in the novel?",
+    "answer": "the woman or his father",
+    "source": "Novel-5956",
+    "evidence": "During his time in Monte Carlo, the Goodwood Plunger turned away from a woman.; The Goodwood Plunger also turned away from his father.; Turning away from the woman or his father is significant for the Goodwood Plunger's personal journey."
+  },
+  {
+    "id": "Novel-34ad11ec",
+    "question_type": "Fact Retrieval",
+    "question": "In the scene where the young man visits the bishop's study to discuss his relationship with Ellen, whom does the bishop direct his smile toward?",
+    "answer": "the young man",
+    "source": "Novel-5956",
+    "evidence": "The bishop smiled at the young man."
+  },
+  {
+    "id": "Novel-72a77731",
+    "question_type": "Fact Retrieval",
+    "question": "While investigating the whereabouts of Hade, who did Gallegher follow on his way to Torresdale?",
+    "answer": "Gallegher followed the stranger to Torresdale.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher followed a stranger.; Gallegher followed the stranger to Torresdale."
+  },
+  {
+    "id": "Novel-69537d43",
+    "question_type": "Fact Retrieval",
+    "question": "Upon arrival at the Eagle Inn, who did Mr. Dwyer greet as part of the preparations for the fight?",
+    "answer": "Keppler was welcomed by Dwyer.",
+    "source": "Novel-5956",
+    "evidence": "Keppler was welcomed by Mr. Dwyer.; Mr. Dwyer greeted Keppler."
+  },
+  {
+    "id": "Novel-6d738949",
+    "question_type": "Fact Retrieval",
+    "question": "During the plan to capture the Burrbank murderer, what did Gallegher instruct Detective Hefflefinger to do?",
+    "answer": "Gallegher wanted Hefflefinger to arrest Hade.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher wanted Detective Hefflefinger to arrest Hade."
+  },
+  {
+    "id": "Novel-7da67d67",
+    "question_type": "Fact Retrieval",
+    "question": "In which city did the newspaper office-boy Gallegher live, and from where did he often embark on his adventures?",
+    "answer": "Gallegher lived in Philadelphia.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher lived in Philadelphia."
+  },
+  {
+    "id": "Novel-dc60c354",
+    "question_type": "Fact Retrieval",
+    "question": "What other names or aliases did Carleton use in the story?",
+    "answer": "Carleton was also known as Hade and Arlie Lane.",
+    "source": "Novel-5956",
+    "evidence": "Carleton was also known as Hade.; Carleton was also known as Arlie Lane."
+  },
+  {
+    "id": "Novel-62a9b979",
+    "question_type": "Fact Retrieval",
+    "question": "After arresting Hade, where did Gallegher instruct Detective Hefflefinger to take him?",
+    "answer": "Hefflefinger was to take Hade to New York.",
+    "source": "Novel-5956",
+    "evidence": "Hefflefinger was to take Hade to New York."
+  },
+  {
+    "id": "Novel-7044a5ef",
+    "question_type": "Fact Retrieval",
+    "question": "As Gallegher raced back to the city in a stolen cab to deliver news to the Press office, what did he encounter along his route?",
+    "answer": "Gallegher drove beside railroad tracks, freight cars, and coal cars.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher drove beside railroad tracks.; Gallegher drove beside freight cars.; Gallegher drove beside coal cars."
+  },
+  {
+    "id": "Novel-c2ab6e9a",
+    "question_type": "Fact Retrieval",
+    "question": "Which newspaper was Mr. Dwyer, the sporting editor, associated with?",
+    "answer": "Mr. Dwyer was from the Press.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Dwyer was from the Press."
+  },
+  {
+    "id": "Novel-f18cea43",
+    "question_type": "Fact Retrieval",
+    "question": "During the commotion following the police raid at the Eagle Inn, whom did Gallegher whisper to as he tried to secure the story?",
+    "answer": "Gallegher whispered to Mr. Dwyer.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher whispered to Mr. Dwyer.; Gallegher attempted to secure the story."
+  },
+  {
+    "id": "Novel-28f101b7",
+    "question_type": "Fact Retrieval",
+    "question": "At the French restaurant with the terrace and the awning, who was dining with the young man?",
+    "answer": "The young lady was with the young man.",
+    "source": "Novel-5956",
+    "evidence": "The young lady was with the young man during his meal."
+  },
+  {
+    "id": "Novel-8f64cf43",
+    "question_type": "Fact Retrieval",
+    "question": "While at the French restaurant near Washington Square, which familiar face did Van Bibber notice dining there?",
+    "answer": "Van Bibber saw Standish.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber recognized Standish.; Van Bibber saw Standish dining at the French restaurant."
+  },
+  {
+    "id": "Novel-49ff508e",
+    "question_type": "Fact Retrieval",
+    "question": "Near the swan-boats in Central Park, whom did Van Bibber unexpectedly encounter?",
+    "answer": "Van Bibber came face to face with her brother.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber came face to face with her brother.; The encounter with her brother was unexpected."
+  },
+  {
+    "id": "Novel-debec9f1",
+    "question_type": "Fact Retrieval",
+    "question": "While riding the swan-boats in Central Park, which two characters enjoyed Van Bibber's company?",
+    "answer": "The two little girls felt comfortable with Van Bibber.",
+    "source": "Novel-5956",
+    "evidence": "The two little girls felt comfortable with Van Bibber.; The two little girls were at the swan-boats in Central Park."
+  },
+  {
+    "id": "Novel-fea8a757",
+    "question_type": "Fact Retrieval",
+    "question": "During the early morning hours after the boxing match and meal at the Owl's Nest, who was seen walking alone on the cross-street?",
+    "answer": "Van Bibber walked on the cross-street.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber walked alone on the cross-street.; Van Bibber walked after attending a boxing match and eating at the Owl's Nest."
+  },
+  {
+    "id": "Novel-41723902",
+    "question_type": "Fact Retrieval",
+    "question": "After the late-night boxing match, who suggested going to the Owl's Nest restaurant with Van Bibber?",
+    "answer": "Spielman invited Van Bibber to the Owl's Nest.",
+    "source": "Novel-5956",
+    "evidence": "Spielman invited Van Bibber to the Owl's Nest restaurant.; Spielman invited Van Bibber for steak and onions."
+  },
+  {
+    "id": "Novel-558d306b",
+    "question_type": "Fact Retrieval",
+    "question": "After the fight between 'Dutchy' Mack and the Black Diamond, who visited the Owl's Nest restaurant?",
+    "answer": "Van Bibber went to the Owl's Nest.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber went to the Owl's Nest restaurant.; Van Bibber went after attending the fight between 'Dutchy' Mack and the Black Diamond."
+  },
+  {
+    "id": "Novel-806207e1",
+    "question_type": "Fact Retrieval",
+    "question": "Who found the French restaurant with the terrace and awning to be a pleasant escape from the heat of the city?",
+    "answer": "Van Bibber was glad he had come to the French restaurant.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber was glad he had come to the French restaurant.; Van Bibber found the French restaurant a pleasant escape from the heat of the city."
+  },
+  {
+    "id": "Novel-adb77b8f",
+    "question_type": "Fact Retrieval",
+    "question": "During the boxing match in Jersey City that Van Bibber attended, who was responsible for keeping time for the fight?",
+    "answer": "Andy Spielman held the watch.",
+    "source": "Novel-5956",
+    "evidence": "Andy Spielman held the watch during the boxing match.; The boxing match took place in Jersey City."
+  },
+  {
+    "id": "Novel-7409b4bb",
+    "question_type": "Fact Retrieval",
+    "question": "While building her collection of medals and decorations, what notable item did Miss Catherwaight discover on Bowery?",
+    "answer": "Miss Catherwaight found a silver medal on Bowery.",
+    "source": "Novel-5956",
+    "evidence": "Miss Catherwaight found a silver medal on Bowery.; The silver medal was noteworthy."
+  },
+  {
+    "id": "Novel-6b0b36c7",
+    "question_type": "Fact Retrieval",
+    "question": "What honor did Miss Catherwaight try to add to her collection of medals and decorations?",
+    "answer": "Miss Catherwaight tried to get the Victoria Cross.",
+    "source": "Novel-5956",
+    "evidence": "Miss Catherwaight attempted to acquire the Victoria Cross.; Miss Catherwaight's collection consisted of secondhand medals and decorations."
+  },
+  {
+    "id": "Novel-07e567d4",
+    "question_type": "Fact Retrieval",
+    "question": "During his attempt to evade the police after a violent encounter, where did Raegen wish to hide in order to avoid being caught?",
+    "answer": "Raegen wanted to lie hidden in the cellar and the garret.",
+    "source": "Novel-5956",
+    "evidence": "Raegen wanted to hide in the cellar.; Raegen wanted to hide in the garret."
+  },
+  {
+    "id": "Novel-06ecaea9",
+    "question_type": "Fact Retrieval",
+    "question": "During the green-goods operation described in Case's tenement, in which room was Alf Wolfe located as he orchestrated the scheme?",
+    "answer": "Alf Wolfe was in room No. 8.",
+    "source": "Novel-5956",
+    "evidence": "Alf Wolfe was located in room No. 8.; Alf Wolfe orchestrated the green-goods scheme."
+  },
+  {
+    "id": "Novel-138aaa42",
+    "question_type": "Fact Retrieval",
+    "question": "At the station-house, during the confrontation after bringing in the sick child, over whom did Raegen run his eyes as he faced the authorities?",
+    "answer": "Raegen ran his eyes over the semicircle of men.",
+    "source": "Novel-5956",
+    "evidence": "Raegen ran his eyes over a semicircle of men.; The semicircle of men were the authorities."
+  },
+  {
+    "id": "Novel-77578361",
+    "question_type": "Fact Retrieval",
+    "question": "During his encounter on the street while working as a trailer in the green-goods scheme, to whom did Snipes say something that advanced the plot?",
+    "answer": "Snipes said something to the old man.",
+    "source": "Novel-5956",
+    "evidence": "Snipes said something to the old man.; The old man was involved in the street encounter."
+  },
+  {
+    "id": "Novel-04a90969",
+    "question_type": "Fact Retrieval",
+    "question": "Which group did Raegen leave after deciding to change his life?",
+    "answer": "Raegen shook the gang.",
+    "source": "Novel-5956",
+    "evidence": "Raegen separated himself from the gang.; Raegen made a significant change in his life."
+  },
+  {
+    "id": "Novel-d3fcc0fe",
+    "question_type": "Fact Retrieval",
+    "question": "Who is Perceval revealed to be in the green-goods scheme?",
+    "answer": "Perceval is Alf Wolfe.",
+    "source": "Novel-5956",
+    "evidence": "Perceval is revealed to be Alf Wolfe."
+  },
+  {
+    "id": "Novel-640ee9ee",
+    "question_type": "Fact Retrieval",
+    "question": "On which street was Case's tenement, the central location for the green-goods operation, located?",
+    "answer": "Case's tenement is located on Cherry Street.",
+    "source": "Novel-5956",
+    "evidence": "Case's tenement is located on Cherry Street.; Cherry Street is the location of the green-goods operation."
+  },
+  {
+    "id": "Novel-d0839ef2",
+    "question_type": "Fact Retrieval",
+    "question": "During his time hiding in the tenement after the altercation, whom did Raegen see that impacted his actions and emotions?",
+    "answer": "Raegen saw Heffner and the baby.",
+    "source": "Novel-5956",
+    "evidence": "Raegen saw Heffner.; Raegen saw the baby.; Seeing Heffner and the baby impacted Raegen's actions and emotions."
+  },
+  {
+    "id": "Novel-2360f9dd",
+    "question_type": "Fact Retrieval",
+    "question": "In the green-goods operation based in Case's tenement, for whom did the boy Snipes act as a trailer, following potential victims?",
+    "answer": "Snipes worked for Alf Wolfe.",
+    "source": "Novel-5956",
+    "evidence": "Snipes worked for Alf Wolfe.; Snipes acted as a trailer in the green-goods operation."
+  },
+  {
+    "id": "Novel-f05a2e9b",
+    "question_type": "Fact Retrieval",
+    "question": "After his experiences in Monte Carlo, where did Louis intend to go with his wife?",
+    "answer": "Louis would go back to Paris.",
+    "source": "Novel-5956",
+    "evidence": "Louis intended to return to Paris.; Louis planned to return to Paris with his wife."
+  },
+  {
+    "id": "Novel-5b1265c0",
+    "question_type": "Fact Retrieval",
+    "question": "While tracking a suspect in the Burrbank murder case, whom did Gallegher follow to the station?",
+    "answer": "Gallegher followed the stranger to Torresdale.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher followed a stranger.; Gallegher followed the stranger to the station at Torresdale."
+  },
+  {
+    "id": "Novel-d1e50927",
+    "question_type": "Fact Retrieval",
+    "question": "What emotions did the three little girls experience while riding the swan-boat with Van Bibber in Central Park?",
+    "answer": "The three little girls were hushed in silent ecstasy while riding the swan-boat with Van Bibber.",
+    "source": "Novel-5956",
+    "evidence": "The three little girls experienced silent ecstasy.; The three little girls were riding the swan-boat with Van Bibber."
+  },
+  {
+    "id": "Novel-9536f8e7",
+    "question_type": "Fact Retrieval",
+    "question": "During the impromptu wedding he helped arrange, whom did Van Bibber press into service as witnesses to give the ceremony an air of legitimacy?",
+    "answer": "Van Bibber pressed club men into service as wedding witnesses.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber pressed club men into service.; Van Bibber pressed club men to serve as wedding witnesses."
+  },
+  {
+    "id": "Novel-a2555661",
+    "question_type": "Fact Retrieval",
+    "question": "During his surveillance of the illegal boxing match, where did Gallegher position himself to observe the proceedings unnoticed?",
+    "answer": "Gallegher climbed to the haymow.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher climbed to the haymow.; Gallegher climbed to the haymow to observe the illegal boxing match."
+  },
+  {
+    "id": "Novel-8866282b",
+    "question_type": "Fact Retrieval",
+    "question": "In his efforts to help the poor, in which part of the city was Latimer conducting a mission?",
+    "answer": "Latimer was on a mission on the East Side.",
+    "source": "Novel-5956",
+    "evidence": "Latimer was conducting a mission.; Latimer was on a mission on the East Side."
+  },
+  {
+    "id": "Novel-77287c53",
+    "question_type": "Fact Retrieval",
+    "question": "During their conversation, what did Walters say to Cecil, and how does this reflect their relationship in the narrative?",
+    "answer": "Walters said to Cecil.",
+    "source": "Novel-5956",
+    "evidence": "Walters said something to Cecil.; Walters' statement to Cecil reflects their relationship."
+  },
+  {
+    "id": "Novel-d9522675",
+    "question_type": "Fact Retrieval",
+    "question": "In the Monte Carlo storyline, to whom did the Plunger (Young Harringford) speak or give advice regarding gambling at the tables?",
+    "answer": "The Plunger told the Frenchman.",
+    "source": "Novel-5956",
+    "evidence": "The Plunger spoke to the Frenchman.; The Plunger gave advice regarding gambling at the tables."
+  },
+  {
+    "id": "Novel-8fe8663f",
+    "question_type": "Fact Retrieval",
+    "question": "After the police raid disrupted the illegal boxing match, to whom did Captain Scott address his remarks regarding the arrest of the newspaper men?",
+    "answer": "Captain Scott said to Mr. Dwyer.",
+    "source": "Novel-5956",
+    "evidence": "Captain Scott addressed his remarks to Mr. Dwyer.; Captain Scott spoke about the arrest of the newspaper men."
+  },
+  {
+    "id": "Novel-dc52ffce",
+    "question_type": "Fact Retrieval",
+    "question": "With whom did Mr. Lockwood attend school?",
+    "answer": "Mr. Lockwood went to school with Judge Burgoyne.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Lockwood attended school with Judge Burgoyne.; Mr. Lockwood's school attendance is revealed in the story of the silver medal."
+  },
+  {
+    "id": "Novel-904e0a11",
+    "question_type": "Complex Reasoning",
+    "question": "Why does Gallegher decide to follow the well-dressed stranger to Torresdale and send a telegram regarding a meeting at the station?",
+    "answer": "Gallegher followed the stranger to Torresdale and sent a telegram to meet at Torresdale station.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher followed the stranger to Torresdale.; Gallegher sent a telegram to meet at Torresdale station."
+  },
+  {
+    "id": "Novel-aacc98ed",
+    "question_type": "Complex Reasoning",
+    "question": "Why was Detective Hefflefinger, a member of Inspector Byrnes's staff, specifically involved in the plan to apprehend Hade and transport him to New York?",
+    "answer": "Hefflefinger was involved because he was to take Hade to New York and was one of Byrnes's men.",
+    "source": "Novel-5956",
+    "evidence": "Hefflefinger was involved in the plan to apprehend Hade.; Hefflefinger was to take Hade to New York.; Hefflefinger was one of Byrnes's men."
+  },
+  {
+    "id": "Novel-7bf81d77",
+    "question_type": "Complex Reasoning",
+    "question": "What is Gallegher's connection to the newspaper known as the Press, particularly through his interactions with Mr. Dwyer, and how does this relationship influence his actions in the story?",
+    "answer": "Gallegher is connected to the Press through Mr. Dwyer, who was from the Press.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher is connected to the Press through Mr. Dwyer.; Mr. Dwyer was from the Press."
+  },
+  {
+    "id": "Novel-f078c897",
+    "question_type": "Complex Reasoning",
+    "question": "After leaving the gate open at the Eagle Inn near Torresdale, where does Gallegher go next?",
+    "answer": "After leaving the gate open, Gallegher headed towards the Press office.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher left the gate open at the Eagle Inn near Torresdale.; Gallegher headed towards the Press office after leaving the gate open."
+  },
+  {
+    "id": "Novel-0030eab4",
+    "question_type": "Complex Reasoning",
+    "question": "What is Van Bibber's connection to the Owl's Nest on Third Avenue, and who owns this establishment?",
+    "answer": "Van Bibber went to the Owl's Nest, which was owned by Gus McGowan and located on Third Avenue.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber went to the Owl's Nest.; The Owl's Nest was owned by Gus McGowan.; The Owl's Nest is located on Third Avenue."
+  },
+  {
+    "id": "Novel-5581adb2",
+    "question_type": "Complex Reasoning",
+    "question": "Who is Perceval in the context of the green-goods scam, and what is his connection to Alf Wolfe?",
+    "answer": "Perceval was the business name of Alf Wolfe.",
+    "source": "Novel-5956",
+    "evidence": "Perceval was the business name of Alf Wolfe."
+  },
+  {
+    "id": "Novel-cfc21569",
+    "question_type": "Complex Reasoning",
+    "question": "Where does Raegen hope to hide while fleeing the police, and why does he consider these places safe?",
+    "answer": "Raegen wanted to lie hidden in his own cellar and his own garret.",
+    "source": "Novel-5956",
+    "evidence": "Raegen wanted to lie hidden in his own cellar.; Raegen wanted to lie hidden in his own garret."
+  },
+  {
+    "id": "Novel-db5aa2e3",
+    "question_type": "Complex Reasoning",
+    "question": "How is the friendship between Mr. Lockwood and Judge Burgoyne portrayed in the novel, especially in their early years, and what is it compared to?",
+    "answer": "Mr. Lockwood went to school with Judge Burgoyne and they were friends like Damon and Pythias.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Lockwood went to school with Judge Burgoyne.; Mr. Lockwood and Judge Burgoyne were friends.; Mr. Lockwood and Judge Burgoyne's friendship is compared to Damon and Pythias."
+  },
+  {
+    "id": "Novel-e9ac42f1",
+    "question_type": "Complex Reasoning",
+    "question": "What role does the Goodwood Cup play in the story, particularly regarding the horse Siren and Harringford's fortunes?",
+    "answer": "Siren won the Goodwood Cup and was backed by Harringford.",
+    "source": "Novel-5956",
+    "evidence": "Siren won the Goodwood Cup.; Siren was backed by Harringford."
+  },
+  {
+    "id": "Novel-78897235",
+    "question_type": "Complex Reasoning",
+    "question": "How does Latimer's relationship with Ellen, the bishop's daughter, progress in the story, and what actions does he take concerning his feelings?",
+    "answer": "Latimer loves Ellen and asked for permission to marry the bishop's daughter.",
+    "source": "Novel-5956",
+    "evidence": "Latimer loves Ellen.; Latimer asked for permission to marry the bishop's daughter."
+  },
+  {
+    "id": "Novel-33494794",
+    "question_type": "Complex Reasoning",
+    "question": "In the story, how does Rags demonstrate responsibility and care for the baby Margaret?",
+    "answer": "Rags felt responsibility and self-respect for Margaret and bathed the baby's face, hands, and feet.",
+    "source": "Novel-5956",
+    "evidence": "Rags felt responsibility for Margaret.; Rags felt self-respect for Margaret.; Rags bathed the baby's face.; Rags bathed the baby's hands.; Rags bathed the baby's feet."
+  },
+  {
+    "id": "Novel-a7826934",
+    "question_type": "Complex Reasoning",
+    "question": "What involvement did Van Bibber have in the wedding at the Little Church Around the Corner?",
+    "answer": "Van Bibber arranged the Little Church Around the Corner wedding and appeared in it.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber arranged the wedding at the Little Church Around the Corner.; Van Bibber appeared in the wedding at the Little Church Around the Corner."
+  },
+  {
+    "id": "Novel-50bafb57",
+    "question_type": "Complex Reasoning",
+    "question": "How does the East River play a significant role in Rags Raegen's actions and reputation?",
+    "answer": "Rags Raegen had plunged in to rescue the supposedly drowned man in the East River and preferred the East River.",
+    "source": "Novel-5956",
+    "evidence": "Rags Raegen plunged into the East River to rescue a supposedly drowned man.; Rags Raegen preferred the East River."
+  },
+  {
+    "id": "Novel-598fdcd8",
+    "question_type": "Complex Reasoning",
+    "question": "What kind of relationship is portrayed between Gallegher and Keppler in the narrative, and how does Keppler's interaction with Gallegher influence the events at the Eagle Inn?",
+    "answer": "Gallegher was welcomed by Keppler and Keppler told Gallegher something.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher was welcomed by Keppler.; Keppler told Gallegher something."
+  },
+  {
+    "id": "Novel-08feb3d3",
+    "question_type": "Complex Reasoning",
+    "question": "How is the dynamic between Snipes, the trailer for the green-goods men, and the old man depicted in the story, particularly regarding trust and assistance?",
+    "answer": "Snipes helped the old man, but the old man did not trust Snipes.",
+    "source": "Novel-5956",
+    "evidence": "Snipes helped the old man.; The old man did not trust Snipes."
+  },
+  {
+    "id": "Novel-8b16a7bd",
+    "question_type": "Complex Reasoning",
+    "question": "Why is the Victoria Cross significant in relation to Miss Catherwaight's collection of medals, and what does this reveal about her interests and the context of England's highest military honor?",
+    "answer": "Miss Catherwaight bought the Victoria Cross, and England had the Victoria Cross.",
+    "source": "Novel-5956",
+    "evidence": "Miss Catherwaight bought the Victoria Cross.; England had the Victoria Cross."
+  },
+  {
+    "id": "Novel-4987de7f",
+    "question_type": "Complex Reasoning",
+    "question": "What was Gallegher's involvement with the Home for Destitute Orphans?",
+    "answer": "Gallegher was sent to the Home for Destitute Orphans.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher was sent to the Home for Destitute Orphans."
+  },
+  {
+    "id": "Novel-c2ead218",
+    "question_type": "Complex Reasoning",
+    "question": "How is the relationship between Raegen and the baby depicted in the story?",
+    "answer": "Raegen held the baby and the baby trusted Raegen.",
+    "source": "Novel-5956",
+    "evidence": "Raegen held the baby.; The baby trusted Raegen."
+  },
+  {
+    "id": "Novel-4d01de98",
+    "question_type": "Complex Reasoning",
+    "question": "What role does the French restaurant play in Van Bibber's activities in the novel?",
+    "answer": "Van Bibber decided to lunch at the French restaurant and was glad he had come to the French restaurant.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber decided to lunch at the French restaurant.; Van Bibber was glad he had come to the French restaurant."
+  },
+  {
+    "id": "Novel-96bb3762",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrative describe the interaction between Mr. Lockwood and Miss Catherwaight when Mr. Lockwood visits her?",
+    "answer": "Mr. Lockwood was calling upon Miss Catherwaight and explained that he had called to thank her.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Lockwood was calling upon Miss Catherwaight.; Mr. Lockwood called to thank Miss Catherwaight."
+  },
+  {
+    "id": "Novel-7ea7ec68",
+    "question_type": "Complex Reasoning",
+    "question": "What was Gallegher's involvement with the group known as the Black Diamonds in the narrative?",
+    "answer": "Gallegher led the Black Diamonds.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher led the Black Diamonds."
+  },
+  {
+    "id": "Novel-e7d1cd1c",
+    "question_type": "Complex Reasoning",
+    "question": "What was Mr. Alf Wolfe's status among the green-goods men in the story?",
+    "answer": "Mr. Alf Wolfe was the chief of the green-goods men.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Alf Wolfe was the chief of the green-goods men."
+  },
+  {
+    "id": "Novel-d1892d49",
+    "question_type": "Complex Reasoning",
+    "question": "What connection exists between Latimer and Ellen and the narrative's sequence of emotional appeals?",
+    "answer": "Latimer made no answer to the bishop, who cried for Ellen, who was the daughter of the bishop.",
+    "source": "Novel-5956",
+    "evidence": "Latimer made no answer to the bishop.; The bishop cried for Ellen.; Ellen was the daughter of the bishop."
+  },
+  {
+    "id": "Novel-5e988af6",
+    "question_type": "Complex Reasoning",
+    "question": "How do the actions of the woman ultimately influence the Goodwood Plunger's behavior?",
+    "answer": "The woman pointed to her husband Louis, who shoved the hand off the Goodwood Plunger, who then turned away from the woman.",
+    "source": "Novel-5956",
+    "evidence": "The woman pointed to her husband Louis.; Louis shoved the hand off the Goodwood Plunger.; The Goodwood Plunger turned away from the woman."
+  },
+  {
+    "id": "Novel-7cbde4b1",
+    "question_type": "Complex Reasoning",
+    "question": "What is the reasoning chain that connects Ellen to the bishop and then to the young man?",
+    "answer": "Ellen was the daughter of the bishop, who smiled at the young man.",
+    "source": "Novel-5956",
+    "evidence": "Ellen was the daughter of the bishop.; The bishop smiled at the young man."
+  },
+  {
+    "id": "Novel-25f8ca5e",
+    "question_type": "Contextual Summarize",
+    "question": "In the story 'Gallegher,' how does Gallegher become involved with the area of Torresdale during his investigation into the Burrbank murder?",
+    "answer": "Gallegher, driven by a mix of excitement and anxiety, shadowed the suspected murderer all the way to Torresdale. As he trailed the man, he purchased a ticket for the same destination, his nerves taut with the fear of failure and the weight of the case. Upon arrival, Gallegher quickly sent a telegram to Detective Hefflefinger, instructing him to take a cab and meet at the Torresdale station, carefully coordinating their efforts to ensure the suspect would not slip away. Every moment was charged with tension as Gallegher balanced the risks of discovery against the hope of a breakthrough in the Burrbank murder investigation.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher followed the stranger to Torresdale during the investigation."
+  },
+  {
+    "id": "Novel-0a87d395",
+    "question_type": "Contextual Summarize",
+    "question": "During the events following the altercation with McGonegal, what specific locations does Raegen use or consider for hiding—including the cellar, garret, and house—and where exactly is Case's tenement, which serves as a significant setting for his evasion, situated within the city?",
+    "answer": "Desperate to evade the police after the altercation with McGonegal, Raegen darted through a series of hiding places—the shadowy cellar, the cramped garret, and the echoing emptiness of a deserted house. His flight led him to Case's tenement, a bleak and mostly vacant building on Thirty-third Street. Though unfamiliar and unfriendly territory, with few rooms occupied and little chance to slip from one hiding spot to another, Raegen had no choice but to plunge into its dark hallways, hoping the sparse tenants and labyrinthine stairways would shield him from pursuit.",
+    "source": "Novel-5956",
+    "evidence": "Raegen hides in the cellar.; Raegen hides in the garret.; Raegen hides in a house.; Case's tenement is located on Thirty-third Street."
+  },
+  {
+    "id": "Novel-76e69cd5",
+    "question_type": "Contextual Summarize",
+    "question": "Within the story involving Van Bibber, what is the Owl's Nest, who is its owner, where is it located, and what is its narrative connection to the late-night visit by Van Bibber and Spielman after the boxing match?",
+    "answer": "The Owl's Nest is a dingy, all-night restaurant owned by Gus McGowan and located on Third Avenue. After the exhausting and eventful boxing match, with the city quiet in the early hours, Spielman invites Van Bibber and their companions to the Owl's Nest for a late meal. Though the place is grimy and unremarkable in appearance, its warmth and the promise of a perfectly cooked porterhouse steak and onions offer a welcome refuge. The visit becomes a memorable, atmospheric episode, with Van Bibber and the others gathering around the table in their evening finery, the smoky glow of oil lamps and the red light from the grill casting a peculiar charm over their late-night camaraderie.",
+    "source": "Novel-5956",
+    "evidence": "The Owl's Nest is a restaurant.; The Owl's Nest is owned by Gus McGowan.; The Owl's Nest is located on Third Avenue.; Spielman invited Van Bibber to the Owl's Nest.; Van Bibber visited the Owl's Nest."
+  },
+  {
+    "id": "Novel-69c5e22f",
+    "question_type": "Contextual Summarize",
+    "question": "What events in the story connect Gallegher to the area of Torresdale and its train station?",
+    "answer": "Gallegher followed a stranger to Torresdale.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher followed a stranger to Torresdale."
+  },
+  {
+    "id": "Novel-088c7ad0",
+    "question_type": "Contextual Summarize",
+    "question": "How do Rags's actions in carrying the baby into the outer room and his feelings of contentment with her illustrate the nature of his relationship with the child during his time hiding in the deserted tenement?",
+    "answer": "Rags’s actions—carrying the baby into the cooler, dimmer outer room and tending to her with gentle care—reveal a deep, almost instinctive protectiveness and affection. Despite his own exhaustion and fear, his concern for the baby's well-being overrides everything else. The moments of contentment he feels in her presence, as she nestles against him and smiles faintly, illustrate a bond that is both tender and transformative, offering him solace and a sense of purpose even as he hides in fear and uncertainty.",
+    "source": "Novel-5956",
+    "evidence": "Rags carried the baby into the outer room.; Rags felt exquisite content with the baby."
+  },
+  {
+    "id": "Novel-b17a5c65",
+    "question_type": "Contextual Summarize",
+    "question": "In the scenes where Latimer meets with the bishop to ask for Ellen's hand in marriage, how does the bishop's demeanor reflect his attitude toward Latimer and his assessment of Latimer's character?",
+    "answer": "The bishop’s demeanor is a careful balance of warmth and scrutiny. He expresses genuine confidence in Latimer’s love for Ellen and his ability to make her happy, speaking openly of his trust. Yet, as their conversation deepens, the bishop’s manner shifts—he becomes less a friendly confidant and more a discerning judge, probing Latimer’s past for any shadows that might threaten his daughter’s future. This duality reveals both his faith in Latimer’s character and his solemn responsibility as a father to ensure Ellen’s happiness and security.",
+    "source": "Novel-5956",
+    "evidence": "The bishop had confidence in Latimer.; The bishop spoke with Latimer.; The bishop was judging Latimer."
+  },
+  {
+    "id": "Novel-eb6686a0",
+    "question_type": "Contextual Summarize",
+    "question": "What is the nature of Hefflefinger's involvement with Hade in the story, and how do their interactions unfold?",
+    "answer": "Hefflefinger's involvement with Hade is marked by a tense and calculated pursuit. Initially, Hefflefinger is tasked with arresting Hade using a warrant for a burglar, but he hesitates, wary of making a false arrest and the potential interference from local police. Despite his reservations, he is persuaded by the promise of reward and recognition, ultimately agreeing to the plan. The arrest itself is orchestrated to occur discreetly after a crowded event, with Hade anxious and attempting to blend into the crowd, his fear palpable. Hefflefinger, upon spotting Hade, is momentarily seized by the urge to act immediately, but waits for the right moment to carry out the arrest as planned.",
+    "source": "Novel-5956",
+    "evidence": "Hefflefinger wanted to arrest Hade.; Hefflefinger arrested Hade."
+  },
+  {
+    "id": "Novel-4641d74e",
+    "question_type": "Contextual Summarize",
+    "question": "What shared life experiences from their past connect Mr. Lockwood and Judge Burgoyne, as described in the story?",
+    "answer": "Mr. Lockwood and Judge Burgoyne share a deep and enduring bond rooted in their shared past. As boys, they were inseparable friends, attending school together in Westchester County and later rooming together at the State college. Their partnership extended into their early professional lives, as they started a law practice in Tuckahoe, though it met with little success. Both orphans, they relied on each other for companionship and support, forging a connection that was more like brothers than friends. Their early years were marked by ambition and hardship, but also by a camaraderie that saw them through poverty and the challenges of starting anew in New York, where they continued to study law and spend their spare time together.",
+    "source": "Novel-5956",
+    "evidence": "Mr. Lockwood went to school with Judge Burgoyne.; Mr. Lockwood practiced law with Judge Burgoyne."
+  },
+  {
+    "id": "Novel-6f917f07",
+    "question_type": "Contextual Summarize",
+    "question": "Describe the relationship between Latimer and Ellen in the context of the novel.",
+    "answer": "Latimer’s love for Ellen is deep and fraught with emotional complexity, shaped not only by his own ardent feelings but also by the weight of her identity as the bishop’s daughter. Their relationship is marked by moments of tension and vulnerability—Latimer’s longing and uncertainty, Ellen’s exhaustion and conflicted emotions, and the bishop’s protective concern. Latimer’s devotion is evident in his every word and gesture, even as he struggles with the obstacles that stand between them, while Ellen, weary and overwhelmed, seeks solace in her father’s arms, caught between familial duty and the stirrings of her own heart.",
+    "source": "Novel-5956",
+    "evidence": "Latimer loves Ellen.; Ellen is the daughter of the bishop."
+  },
+  {
+    "id": "Novel-6b047fee",
+    "question_type": "Contextual Summarize",
+    "question": "What were Gallegher's interactions and experiences with the police as he raced to deliver news to the newspaper office?",
+    "answer": "Gallegher was chilled by sleet, listened for the police, and was challenged by a policeman.",
+    "source": "Novel-5956",
+    "evidence": "Gallegher was chilled by sleet.; Gallegher listened for the police.; Gallegher was challenged by a policeman."
+  },
+  {
+    "id": "Novel-77d91ba8",
+    "question_type": "Contextual Summarize",
+    "question": "How does the Goodwood Plunger interact with the young Frenchman, Louis, in Monte Carlo, especially regarding his gambling at the casino?",
+    "answer": "The Goodwood Plunger, though initially preoccupied and somewhat annoyed by the interruptions of those around him, ultimately turns his attention to the young Frenchman, Louis. He listens to the pleas of Louis's wife, who is anxious about her husband's impulsive desire to gamble in Monte Carlo. With a mixture of world-weariness and reluctant empathy, the Plunger addresses Louis directly, offering him advice shaped by his own experience and understanding of the casino's temptations. His words are meant to caution Louis, to steer him away from reckless play, and to impart a sense of restraint, even as he recognizes the excitement and naiveté that drive the young man.",
+    "source": "Novel-5956",
+    "evidence": "The Goodwood Plunger turned to the Frenchman.; The Goodwood Plunger spoke to the Frenchman.; The Goodwood Plunger advised Louis."
+  },
+  {
+    "id": "Novel-1fd18453",
+    "question_type": "Contextual Summarize",
+    "question": "How is the relationship among Ellen, her father the bishop, and the young man depicted in the story, and what role does each play within this familial and relational context?",
+    "answer": "Ellen is portrayed as the cherished daughter of the bishop, whose deep concern and affection for her are evident in his every word and gesture. The bishop, watching the young man—Latimer—with a mixture of hope and anxiety, seeks reassurance that his daughter's future will be secure and unmarred by any shadows from the past. Latimer, in turn, responds with sincerity and calm resolve, expressing his unwavering commitment to Ellen's happiness and well-being. The dynamic among the three is one of tenderness, trust, and earnest intention: the bishop's protective love, Ellen's vulnerability and longing for understanding, and the young man's heartfelt promise to do everything in his power to make her life better. Together, they form a triad bound by mutual respect, concern, and the hope for a joyful future.",
+    "source": "Novel-5956",
+    "evidence": "Ellen is the daughter of the bishop.; The bishop smiled at the young man.; The young man expressed a willingness to make Ellen's life better."
+  },
+  {
+    "id": "Novel-65adad4d",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative involving the Goodwood Plunger, describe the sequence of interactions among the woman, Louis, and the Goodwood Plunger, and how these actions illustrate the dynamics between the three characters.",
+    "answer": "The sequence unfolds with the woman, anxious and out of place in the glittering world of Monte Carlo, pointing to Louis—her husband and source of both hope and distress. When the Goodwood Plunger, already irritated and wishing to be left alone, attempts to intervene, Louis brusquely shoves his hand away, a gesture charged with defensiveness and pride. Stung by this rejection, the Plunger turns away from the woman, his withdrawal underscoring the growing distance and tension among the trio. These linked actions vividly illustrate a dynamic of desperation, pride, and alienation: the woman's plea is met with her husband's hostility, which in turn drives the would-be helper to retreat, leaving each character more isolated than before.",
+    "source": "Novel-5956",
+    "evidence": "The woman pointed to Louis.; Louis shoved the hand off the Goodwood Plunger.; The Goodwood Plunger turned away from the woman."
+  },
+  {
+    "id": "Novel-9fdb8f3a",
+    "question_type": "Contextual Summarize",
+    "question": "Within the narrative in which Van Bibber observes his surroundings, how does the house function as a central setting that connects the perspectives and potential interactions of multiple characters?",
+    "answer": "The house, imposing and tightly shuttered, stands as a silent sentinel at the corner of the avenue, drawing Van Bibber’s attention and curiosity. Its prominent position and mysterious aura transform it into a central stage where the paths of various characters might intersect. As Van Bibber observes the cautious opening of a door and the fleeting glimpse of a man's face, the house becomes more than mere architecture—it is a nexus of intrigue, connecting the perspectives and potential actions of those who pass by or dwell within. In this way, the house anchors the narrative, offering both a physical and psychological space where the story’s tensions and encounters can unfold.",
+    "source": "Novel-5956",
+    "evidence": "The house is a focal point observed by Van Bibber.; The house is positioned facing the avenue.; The house provides a common ground for character interactions."
+  },
+  {
+    "id": "Novel-e9a4fc96",
+    "question_type": "Contextual Summarize",
+    "question": "How do the repeated actions of observation and orientation involving Van Bibber and the house establish a structural motif in the narrative, and what significance do they have for the unfolding of events or the development of atmosphere?",
+    "answer": "The repeated moments when Van Bibber pauses to observe the house—its imposing facade facing the avenue, its tightly closed doors, and the mysterious activity glimpsed through the stone wall—create a structural motif of watchfulness and suspense. These acts of observation not only anchor the narrative in a rhythm of anticipation but also heighten the atmosphere of secrecy and unease that pervades the empty, silent streets. Each time Van Bibber looks at the house, the sense of something hidden or unresolved grows, drawing both character and reader deeper into the unfolding mystery.",
+    "source": "Novel-5956",
+    "evidence": "Van Bibber looks at the house.; The house is described as facing the avenue.; The acts of observation and orientation are recurrent."
+  }
+]

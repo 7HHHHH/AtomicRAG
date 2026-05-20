@@ -1,0 +1,818 @@
+[
+  {
+    "id": "Novel-5eb342b1",
+    "question_type": "Fact Retrieval",
+    "question": "During the debates in the Lower Canada Assembly regarding the grievances against the colonial government, which prominent figure took a stance contrary to the Ninety-Two Resolutions presented by the Patriote party?",
+    "answer": "Quesnel opposed the Ninety-Two Resolutions.",
+    "source": "Novel-29973",
+    "evidence": "Quesnel opposed the Ninety-Two Resolutions.; The Ninety-Two Resolutions were presented as the Patriote party's demands."
+  },
+  {
+    "id": "Novel-f18b6733",
+    "question_type": "Fact Retrieval",
+    "question": "When F. A. Quesnel introduced a bill aimed at securing the independence of judges during the period of mounting political tensions in Lower Canada, how did Louis Joseph Papineau respond to this proposal?",
+    "answer": "Papineau opposed the bill introduced by F. A. Quesnel.",
+    "source": "Novel-29973",
+    "evidence": "Papineau opposed the bill introduced by F. A. Quesnel.; The bill aimed at securing the independence of judges."
+  },
+  {
+    "id": "Novel-5dc8f4f0",
+    "question_type": "Fact Retrieval",
+    "question": "Amidst the political conflict in Lower Canada, which individual did Lord Dalhousie, then governor, decline to acknowledge as the duly elected speaker of the Assembly?",
+    "answer": "Lord Dalhousie refused to recognize Papineau.",
+    "source": "Novel-29973",
+    "evidence": "Lord Dalhousie refused to recognize Papineau.; Papineau was the duly elected speaker of the Assembly."
+  },
+  {
+    "id": "Novel-d6b88dbd",
+    "question_type": "Fact Retrieval",
+    "question": "During the vote on the Ninety-Two Resolutions in the Assembly of Lower Canada, which member with a reputation for moderation cast a vote in opposition?",
+    "answer": "Augustin Cuvillier voted against the Ninety-Two Resolutions.",
+    "source": "Novel-29973",
+    "evidence": "Augustin Cuvillier voted against the Ninety-Two Resolutions.; Cuvillier is known for his moderate stance."
+  },
+  {
+    "id": "Novel-35876710",
+    "question_type": "Fact Retrieval",
+    "question": "To which city was Louis Joseph Papineau sent as an agent to represent the Patriote party during their quest for political reform in Lower Canada?",
+    "answer": "Papineau was appointed as an agent to London.",
+    "source": "Novel-29973",
+    "evidence": "Papineau was appointed as an agent to London.; Papineau represented the interests of the Patriote party."
+  },
+  {
+    "id": "Novel-8468ce49",
+    "question_type": "Fact Retrieval",
+    "question": "In the course of the political struggle preceding the Lower Canada Rebellion, which important associate became estranged from Louis Joseph Papineau due to differences in political views and strategy?",
+    "answer": "Papineau alienated John Neilson.",
+    "source": "Novel-29973",
+    "evidence": "Papineau alienated John Neilson.; The alienation was due to differences in political views and strategy."
+  },
+  {
+    "id": "Novel-278ed735",
+    "question_type": "Fact Retrieval",
+    "question": "During the Assembly's consideration of the Ninety-Two Resolutions in Lower Canada, which prominent reformer voiced opposition to these measures?",
+    "answer": "John Neilson opposed the Ninety-Two Resolutions.",
+    "source": "Novel-29973",
+    "evidence": "John Neilson opposed the Ninety-Two Resolutions.; John Neilson is a prominent reformer."
+  },
+  {
+    "id": "Novel-95744071",
+    "question_type": "Fact Retrieval",
+    "question": "During the period of exile and revolutionary agitation following the initial rebellion, which fellow leader did Papineau have significant disagreements with regarding the future of the Patriote movement?",
+    "answer": "Papineau broke off negotiations with Robert Nelson.",
+    "source": "Novel-29973",
+    "evidence": "Papineau broke off negotiations with Robert Nelson."
+  },
+  {
+    "id": "Novel-948e27af",
+    "question_type": "Fact Retrieval",
+    "question": "What statement did Louis Joseph Papineau make about Reform ministries during his speeches criticizing British government responses to the grievances of Lower Canada?",
+    "answer": "Papineau made a statement about Reform ministries.",
+    "source": "Novel-29973",
+    "evidence": "Papineau made a statement about Reform ministries."
+  },
+  {
+    "id": "Novel-5787c02c",
+    "question_type": "Fact Retrieval",
+    "question": "In the political context of the Lower Canada Rebellion, which figure is identified as a follower of Louis Joseph Papineau and supported his leadership within the Patriote movement?",
+    "answer": "Viger was a follower of Papineau.",
+    "source": "Novel-29973",
+    "evidence": "Viger was a follower of Papineau."
+  },
+  {
+    "id": "Novel-7ae0429b",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative of the Patriote movement in Lower Canada, which political leader counted Louis Joseph Papineau among his followers or supporters?",
+    "answer": "Papineau was counted among the followers of Etienne P. Tache.",
+    "source": "Novel-29973",
+    "evidence": "Papineau was counted among the followers of Etienne P. Tache."
+  },
+  {
+    "id": "Novel-287e2097",
+    "question_type": "Fact Retrieval",
+    "question": "During the height of political agitation in Lower Canada, whom did Papineau publicly attack in his speeches and resolutions as being responsible for government abuses?",
+    "answer": "Papineau attacked Lord Aylmer.",
+    "source": "Novel-29973",
+    "evidence": "Papineau attacked Lord Aylmer."
+  },
+  {
+    "id": "Novel-113e974c",
+    "question_type": "Fact Retrieval",
+    "question": "In response to mounting grievances against the British colonial administration, to which country did the Patriotes of Lower Canada decide to send a deputation in hopes of obtaining redress?",
+    "answer": "The Patriotes decided to send a deputation to England.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes decided to send a deputation to England."
+  },
+  {
+    "id": "Novel-76711b2f",
+    "question_type": "Fact Retrieval",
+    "question": "Who authored the influential Report on the Affairs of British North America, which analyzed the causes of unrest following the Lower Canada Rebellion?",
+    "answer": "The Report on the Affairs of British North America was written by Lord Durham.",
+    "source": "Novel-29973",
+    "evidence": "The Report on the Affairs of British North America was written by Lord Durham."
+  },
+  {
+    "id": "Novel-c5154650",
+    "question_type": "Fact Retrieval",
+    "question": "During Lord Durham's administration in Canada following the suspension of the constitution, who was called to serve on his special council to help govern the province?",
+    "answer": "Dominick Daly was called to the council by Lord Durham during his administration in Canada.",
+    "source": "Novel-29973",
+    "evidence": "Dominick Daly was called to the council by Lord Durham during his administration in Canada."
+  },
+  {
+    "id": "Novel-e4213af3",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the commander of the British military forces tasked with suppressing the rebellion during the Lower Canada Rebellion of 1837-1838?",
+    "answer": "Sir John Colborne was in command of the British forces during the Lower Canada Rebellion.",
+    "source": "Novel-29973",
+    "evidence": "Sir John Colborne was in command of the British forces during the Lower Canada Rebellion."
+  },
+  {
+    "id": "Novel-3270647f",
+    "question_type": "Fact Retrieval",
+    "question": "In which region of British North America was Samuel Lount hanged as a consequence of his involvement in the Upper Canada Rebellion?",
+    "answer": "Samuel Lount was hanged in Upper Canada.",
+    "source": "Novel-29973",
+    "evidence": "Samuel Lount was hanged in Upper Canada."
+  },
+  {
+    "id": "Novel-5e0ccd4f",
+    "question_type": "Fact Retrieval",
+    "question": "Where was Robert Bouchette held as a prisoner after the Lower Canada Rebellion?",
+    "answer": "Robert Bouchette was a prisoner in Montreal.",
+    "source": "Novel-29973",
+    "evidence": "Robert Bouchette was a prisoner in Montreal."
+  },
+  {
+    "id": "Novel-57a0f3ca",
+    "question_type": "Fact Retrieval",
+    "question": "In which location is Wolfred Nelson depicted in a notable illustration?",
+    "answer": "Wolfred Nelson is pictured in Chateau de Ramezay.",
+    "source": "Novel-29973",
+    "evidence": "Wolfred Nelson is depicted in a notable illustration.; The illustration of Wolfred Nelson is located in Chateau de Ramezay."
+  },
+  {
+    "id": "Novel-8f604aeb",
+    "question_type": "Fact Retrieval",
+    "question": "During the engagement at St Denis in the Lower Canada Rebellion, which side lacked ambulance or transport?",
+    "answer": "The British were without ambulance or transport at St Denis.",
+    "source": "Novel-29973",
+    "evidence": "The British were without ambulance or transport at St Denis.; The lack of ambulance or transport impacted the British's ability to care for the wounded."
+  },
+  {
+    "id": "Novel-158e6e3b",
+    "question_type": "Fact Retrieval",
+    "question": "Who wrote the Report on the Affairs of British North America?",
+    "answer": "The Earl of Durham wrote the Report on the Affairs of British North America.",
+    "source": "Novel-29973",
+    "evidence": "The Earl of Durham wrote the Report on the Affairs of British North America.; The Report on the Affairs of British North America was commissioned to investigate and recommend solutions after the Canadian rebellions."
+  },
+  {
+    "id": "Novel-9dc9d9b2",
+    "question_type": "Fact Retrieval",
+    "question": "Where was Dr. Wolfred Nelson held as a prisoner after the Lower Canada Rebellion?",
+    "answer": "Wolfred Nelson was a prisoner in Montreal.",
+    "source": "Novel-29973",
+    "evidence": "Wolfred Nelson was a prisoner in Montreal."
+  },
+  {
+    "id": "Novel-ab2ac3d8",
+    "question_type": "Fact Retrieval",
+    "question": "In the colonial administration of Lower Canada, whom did the governor officially represent?",
+    "answer": "The governor was the representative of the king in the colonial administration.",
+    "source": "Novel-29973",
+    "evidence": "The governor was the representative of the king in the colonial administration of Lower Canada."
+  },
+  {
+    "id": "Novel-37fe3b3c",
+    "question_type": "Fact Retrieval",
+    "question": "During the early sessions of the Lower Canada Assembly, which language was given equal status with English in official records and publications?",
+    "answer": "The French language was placed on the same level as the English language in official records and publications.",
+    "source": "Novel-29973",
+    "evidence": "The French language was placed on the same level as the English language in official records and publications of the Lower Canada Assembly."
+  },
+  {
+    "id": "Novel-4bcb9ed4",
+    "question_type": "Fact Retrieval",
+    "question": "Where in Quebec was a Te Deum sung to celebrate British military victories?",
+    "answer": "A Te Deum was sung in the Catholic cathedral in Quebec.",
+    "source": "Novel-29973",
+    "evidence": "A Te Deum was sung in the Catholic cathedral in Quebec.; The Te Deum was sung to celebrate British military victories."
+  },
+  {
+    "id": "Novel-fc11118e",
+    "question_type": "Fact Retrieval",
+    "question": "During his administration in Lower Canada, whom did Sir James Craig arrest for publishing Le Canadien but not bring to trial?",
+    "answer": "Sir James Craig did not dare to bring Pierre Bedard to trial.",
+    "source": "Novel-29973",
+    "evidence": "Sir James Craig did not dare to bring Pierre Bedard to trial.; Sir James Craig arrested Pierre Bedard for his role in publishing Le Canadien."
+  },
+  {
+    "id": "Novel-4da402f7",
+    "question_type": "Fact Retrieval",
+    "question": "Who led the siege of Quebec during the American invasion of Canada in 1775?",
+    "answer": "Arnold led the siege of Quebec during the American invasion.",
+    "source": "Novel-29973",
+    "evidence": "Arnold led the siege of Quebec during the American invasion of Canada in 1775."
+  },
+  {
+    "id": "Novel-793b51bf",
+    "question_type": "Fact Retrieval",
+    "question": "Which influential social group in Lower Canada maintained allegiance to the British crown during the early colonial period?",
+    "answer": "The seigneurs were loyal to the British crown.",
+    "source": "Novel-29973",
+    "evidence": "The seigneurs were loyal to the British crown.; The seigneurs remained loyal during the years following the conquest.; The seigneurs remained loyal throughout the early colonial period."
+  },
+  {
+    "id": "Novel-9848f864",
+    "question_type": "Fact Retrieval",
+    "question": "Which British governor in Lower Canada was responsible for the suppression of the French-language newspaper Le Canadien?",
+    "answer": "Sir James Craig took umbrage at Le Canadien.",
+    "source": "Novel-29973",
+    "evidence": "Sir James Craig took offense at the tone of Le Canadien.; Sir James Craig took offense at the content of Le Canadien.; Sir James Craig led to the suppression of Le Canadien."
+  },
+  {
+    "id": "Novel-d0c0a859",
+    "question_type": "Fact Retrieval",
+    "question": "At which location during the 1838 phase of the Lower Canada Rebellion was Dr. Cyrile Cote defeated by loyalist forces?",
+    "answer": "Dr Cyrile Cote was defeated at Lacolle.",
+    "source": "Novel-29973",
+    "evidence": "Dr. Cyrile Cote was defeated by loyalist forces.; Dr. Cyrile Cote was defeated at Lacolle.; Lacolle was the location of Dr. Cyrile Cote's defeat."
+  },
+  {
+    "id": "Novel-6a8fc5c4",
+    "question_type": "Fact Retrieval",
+    "question": "Who commanded the Missisquoi Volunteers during the attempted Patriote invasion near Missisquoi Bay?",
+    "answer": "Captain Kemp commanded the Missisquoi Volunteers.",
+    "source": "Novel-29973",
+    "evidence": "Captain Kemp commanded the Missisquoi Volunteers.; Captain Kemp defended the region near Missisquoi Bay."
+  },
+  {
+    "id": "Novel-d81ad4db",
+    "question_type": "Fact Retrieval",
+    "question": "Who was recognized as a leader of the rebellion in Lower Canada, particularly noted for his role in the events at St Denis?",
+    "answer": "Wolfred Nelson was a leader of the rebellion in Lower Canada.",
+    "source": "Novel-29973",
+    "evidence": "Wolfred Nelson was a leader of the rebellion in Lower Canada.; Wolfred Nelson was noted for his role in the events at St Denis."
+  },
+  {
+    "id": "Novel-5a39af9e",
+    "question_type": "Fact Retrieval",
+    "question": "To which country did the Patriotes of Lower Canada send a deputation to petition the imperial government during their campaign for redress?",
+    "answer": "The Patriotes decided to send a deputation to England.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes decided to send a deputation to England.; The purpose of the deputation was to petition the imperial government.; The Patriotes sought redress for colonial grievances."
+  },
+  {
+    "id": "Novel-44249ede",
+    "question_type": "Fact Retrieval",
+    "question": "Who was governor of Lower Canada during Lord Durham's mission after the suspension of the constitution?",
+    "answer": "Sir John Colborne was the governor of Lower Canada during Lord Durham's administration.",
+    "source": "Novel-29973",
+    "evidence": "Sir John Colborne was the governor of Lower Canada.; Sir John Colborne took over the administration during Lord Durham's mission.; Lord Durham's mission followed the suspension of the constitution."
+  },
+  {
+    "id": "Novel-45b14e2d",
+    "question_type": "Fact Retrieval",
+    "question": "Which location was the site of a pivotal battle during the War of 1812 involving Major de Salaberry and his French-Canadian soldiers?",
+    "answer": "Chateauguay was the location of a battle won by Major de Salaberry.",
+    "source": "Novel-29973",
+    "evidence": "Chateauguay was the location of a pivotal battle during the War of 1812.; Major de Salaberry won the battle at Chateauguay.; French-Canadian soldiers contributed to the defense of Canada at Chateauguay."
+  },
+  {
+    "id": "Novel-d3a58aef",
+    "question_type": "Fact Retrieval",
+    "question": "Who was elected speaker of the House of Assembly in Lower Canada and became a prominent figure in the Patriote movement?",
+    "answer": "Louis Joseph Papineau was the speaker of the House of Assembly.",
+    "source": "Novel-29973",
+    "evidence": "Louis Joseph Papineau was elected as the speaker of the House of Assembly.; Louis Joseph Papineau became a leading figure in the Patriote movement."
+  },
+  {
+    "id": "Novel-49e5ee6e",
+    "question_type": "Fact Retrieval",
+    "question": "Which leader of the Patriote forces conducted reconnaissance of St Denis during the British advance in the Lower Canada Rebellion?",
+    "answer": "Dr. Wolfred Nelson reconnoitred St Denis.",
+    "source": "Novel-29973",
+    "evidence": "Dr. Wolfred Nelson reconnoitred St Denis.; Dr. Wolfred Nelson conducted reconnaissance of the village's defenses."
+  },
+  {
+    "id": "Novel-3b688fe1",
+    "question_type": "Fact Retrieval",
+    "question": "Which city in Lower Canada remained quiet and did not take part in the armed rebellion during the uprisings of 1837?",
+    "answer": "Quebec remained quiet during the rebellion.",
+    "source": "Novel-29973",
+    "evidence": "Quebec remained quiet during the rebellion."
+  },
+  {
+    "id": "Novel-140a1830",
+    "question_type": "Fact Retrieval",
+    "question": "Who was a follower of Papineau, counted among Papineau's supporters during the political agitation leading to the Lower Canada Rebellion?",
+    "answer": "Etienne P. Tache was a follower of Papineau.",
+    "source": "Novel-29973",
+    "evidence": "Etienne P. Tache was a follower of Papineau."
+  },
+  {
+    "id": "Novel-827ac72a",
+    "question_type": "Fact Retrieval",
+    "question": "Who was the main leader of the Patriotes during the period of political agitation and rebellion in Lower Canada?",
+    "answer": "Louis Joseph Papineau was the leader of the Patriotes.",
+    "source": "Novel-29973",
+    "evidence": "Louis Joseph Papineau was the leader of the Patriotes."
+  },
+  {
+    "id": "Novel-8f34d47a",
+    "question_type": "Fact Retrieval",
+    "question": "Who served as governor of Canada during the period known as the 'Reign of Terror,' which was marked by the suppression of Le Canadien and political tensions with French Canadians?",
+    "answer": "Sir James Craig was the governor of Canada.",
+    "source": "Novel-29973",
+    "evidence": "Sir James Craig was the governor of Canada."
+  },
+  {
+    "id": "Novel-54f18ca7",
+    "question_type": "Fact Retrieval",
+    "question": "During the Lower Canada Rebellion, in which village did the Patriotes gather to prepare for military resistance against British forces in the county of Two Mountains?",
+    "answer": "The Patriotes gathered in St Eustache.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes gathered in St Eustache."
+  },
+  {
+    "id": "Novel-38c4da07",
+    "question_type": "Fact Retrieval",
+    "question": "Who was governor of Canada during the administration that followed Sir James Craig and was known for conciliatory policies toward the French Canadians?",
+    "answer": "Sir George Prevost was the governor of Canada.",
+    "source": "Novel-29973",
+    "evidence": "Sir George Prevost was the governor of Canada."
+  },
+  {
+    "id": "Novel-375baf71",
+    "question_type": "Fact Retrieval",
+    "question": "After the unsuccessful engagement at St Denis during the Lower Canada Rebellion, to which location did the British forces retreat?",
+    "answer": "The British retreated to St Ours.",
+    "source": "Novel-29973",
+    "evidence": "The British retreated to St Ours."
+  },
+  {
+    "id": "Novel-9358d04b",
+    "question_type": "Complex Reasoning",
+    "question": "During the early 19th century in Lower Canada, why did Sir James Craig, after taking umbrage at the critical newspaper Le Canadien and surrounding himself with advisers like Herman W. Ryland, refuse to forward the Assembly's resolution to the Houses of Parliament at Westminster?",
+    "answer": "Sir James Craig took umbrage at Le Canadien and surrounded himself with Herman W. Ryland.",
+    "source": "Novel-29973",
+    "evidence": "Sir James Craig took umbrage at Le Canadien.; Sir James Craig surrounded himself with Herman W. Ryland."
+  },
+  {
+    "id": "Novel-21fb6323",
+    "question_type": "Complex Reasoning",
+    "question": "In the years following the British conquest of Canada, how did the British government treat the French language in official matters, particularly regarding its use in law-courts and its status relative to English?",
+    "answer": "The French language was placed on a level with the English language, and the British government made no objection to the use of French in law-courts.",
+    "source": "Novel-29973",
+    "evidence": "The French language was placed on a level with the English language.; The British government made no objection to the use of French in law-courts."
+  },
+  {
+    "id": "Novel-dd6a66f7",
+    "question_type": "Complex Reasoning",
+    "question": "During the War of 1812 and other conflicts, in what ways did French-Canadian militiamen, under the leadership of French-Canadian officers, demonstrate their loyalty to the British crown?",
+    "answer": "French-Canadian militiamen showed loyalty to the British crown and were led by French-Canadian officers.",
+    "source": "Novel-29973",
+    "evidence": "French-Canadian militiamen showed loyalty to the British crown.; French-Canadian militiamen were led by French-Canadian officers."
+  },
+  {
+    "id": "Novel-e0f27323",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence from the Lower Canada Rebellion and earlier events indicates that Quebec was an important and stable location for both British and French interests?",
+    "answer": "Quebec was the location of a Te Deum in the Catholic cathedral and was quiet during the rebellion.",
+    "source": "Novel-29973",
+    "evidence": "Quebec was the location of a Te Deum in the Catholic cathedral.; Quebec remained quiet during the Lower Canada Rebellion."
+  },
+  {
+    "id": "Novel-914623c3",
+    "question_type": "Complex Reasoning",
+    "question": "During the Lower Canada Rebellion, what role did Dr J. O. Chenier play in the defense of St Eustache, and how did his actions reflect his resolve?",
+    "answer": "Dr J. O. Chenier defended St Eustache, seemed disposed to fight to the last ditch there, and was killed at St Eustache.",
+    "source": "Novel-29973",
+    "evidence": "Dr. J. O. Chenier defended St Eustache.; Dr. J. O. Chenier seemed disposed to fight to the last ditch at St Eustache.; Dr. J. O. Chenier was killed at St Eustache."
+  },
+  {
+    "id": "Novel-fea4ba54",
+    "question_type": "Complex Reasoning",
+    "question": "What significant events and roles did Wolfred Nelson have during the Lower Canada Rebellion?",
+    "answer": "Wolfred Nelson was a leader of the rebellion in Lower Canada, commanded the force at St Denis, was a prisoner in Montreal, and was pictured in the Chateau de Ramezay.",
+    "source": "Novel-29973",
+    "evidence": "Wolfred Nelson was a leader of the rebellion in Lower Canada.; Wolfred Nelson commanded the force at St Denis.; Wolfred Nelson was a prisoner in Montreal.; Wolfred Nelson was pictured in the Chateau de Ramezay."
+  },
+  {
+    "id": "Novel-28d05dc0",
+    "question_type": "Complex Reasoning",
+    "question": "What were the consequences for the leaders of the rebellions in Lower and Upper Canada?",
+    "answer": "Wolfred Nelson and Robert Bouchette were prisoners in Montreal; Samuel Lount and Peter Matthews were hanged in Upper Canada.",
+    "source": "Novel-29973",
+    "evidence": "Wolfred Nelson was a prisoner in Montreal.; Robert Bouchette was a prisoner in Montreal.; Samuel Lount was hanged in Upper Canada.; Peter Matthews was hanged in Upper Canada."
+  },
+  {
+    "id": "Novel-7a13cdd4",
+    "question_type": "Complex Reasoning",
+    "question": "Amid rising tensions and loss of faith in British justice, why did the Patriotes decide to send a deputation to England?",
+    "answer": "The Patriotes decided to send a deputation to England because Papineau had completely lost faith in British justice and was the target of a boycott by England.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes decided to send a deputation to England.; Papineau had completely lost faith in British justice.; Papineau was the target of a boycott by England."
+  },
+  {
+    "id": "Novel-b0d3e8c3",
+    "question_type": "Complex Reasoning",
+    "question": "What was Papineau's involvement with the passage of the Ninety-Two Resolutions by the Patriotes?",
+    "answer": "Papineau guided the Patriotes who passed the Ninety-Two Resolutions and secured the defeat of Quesnel, who was opposed by the resolutions.",
+    "source": "Novel-29973",
+    "evidence": "Papineau guided the Patriotes who passed the Ninety-Two Resolutions.; Papineau secured the defeat of Quesnel.; Quesnel opposed the Ninety-Two Resolutions."
+  },
+  {
+    "id": "Novel-ddf5255b",
+    "question_type": "Complex Reasoning",
+    "question": "How did Papineau's actions during the period surrounding the Ninety-Two Resolutions affect his relationship with John Neilson?",
+    "answer": "Papineau's actions alienated John Neilson, who opposed the Ninety-Two Resolutions and broke with Papineau, following the lead of Augustin Cuvillier.",
+    "source": "Novel-29973",
+    "evidence": "Papineau's actions alienated John Neilson.; John Neilson opposed the Ninety-Two Resolutions.; John Neilson broke with Papineau.; John Neilson aligned with Augustin Cuvillier."
+  },
+  {
+    "id": "Novel-52a3e816",
+    "question_type": "Complex Reasoning",
+    "question": "How did the Legislative Council of Lower Canada respond to budget proposals put forward by the elected Assembly, and what does this reveal about its relationship with the Executive Council during the political struggles preceding the rebellion?",
+    "answer": "The Legislative Council threw out the budget proposed by the Assembly, demonstrating that it was subservient to the Executive Council.",
+    "source": "Novel-29973",
+    "evidence": "The Legislative Council threw out the budget proposed by the Assembly.; The Legislative Council was subservient to the Executive Council."
+  },
+  {
+    "id": "Novel-f48b4105",
+    "question_type": "Complex Reasoning",
+    "question": "How did Papineau's opposition to the bill introduced by F. A. Quesnel and Quesnel's stance against the Ninety-Two Resolutions affect Quesnel's political standing?",
+    "answer": "Papineau's opposition to the bill introduced by F. A. Quesnel led to Quesnel opposing the Ninety-Two Resolutions and resulted in Papineau securing Quesnel's defeat.",
+    "source": "Novel-29973",
+    "evidence": "Papineau opposed the bill introduced by F. A. Quesnel.; Quesnel opposed the Ninety-Two Resolutions.; Papineau secured Quesnel's defeat."
+  },
+  {
+    "id": "Novel-6b7ffe36",
+    "question_type": "Complex Reasoning",
+    "question": "In what ways did Papineau's actions, such as his public attacks on Lord Aylmer and his refusal to compromise with the English, contribute to tensions between French Canadians and the English, including the alienation of figures like John Neilson?",
+    "answer": "Papineau's actions, such as attacking Lord Aylmer and refusing to compromise with the English, contributed to tensions by provoking the French Canadians and alienating figures like John Neilson.",
+    "source": "Novel-29973",
+    "evidence": "Papineau attacked Lord Aylmer.; Papineau refused to compromise with the English.; Papineau's actions provoked tensions between French Canadians and the English.; Papineau's actions alienated figures like John Neilson."
+  },
+  {
+    "id": "Novel-a35e9c7e",
+    "question_type": "Complex Reasoning",
+    "question": "How did Papineau's actions contribute to the opposition between the Patriotes and the Chateau Clique?",
+    "answer": "Papineau alienated John Neilson, and the French Canadians struggled with the Chateau Clique, which opposed the Patriotes.",
+    "source": "Novel-29973",
+    "evidence": "Papineau alienated John Neilson.; The French Canadians struggled with the Chateau Clique.; The Chateau Clique opposed the Patriotes."
+  },
+  {
+    "id": "Novel-9dc53bf4",
+    "question_type": "Complex Reasoning",
+    "question": "How did the Ninety-Two Resolutions influence subsequent actions by Lord Aylmer and the Assembly?",
+    "answer": "The Westminster received the Ninety-Two Resolutions, which demanded the impeachment of Lord Aylmer, who then made an offer to the Assembly.",
+    "source": "Novel-29973",
+    "evidence": "The Westminster received the Ninety-Two Resolutions.; The Ninety-Two Resolutions demanded the impeachment of Lord Aylmer.; Lord Aylmer made an offer to the Assembly."
+  },
+  {
+    "id": "Novel-7e8e9c99",
+    "question_type": "Complex Reasoning",
+    "question": "How were French Canadians connected to the British crown during the War of 1812-14?",
+    "answer": "French Canadians were loyal to the British crown, which had the loyalty of French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians were loyal to the British crown.; French-Canadian militiamen fought with English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-83174998",
+    "question_type": "Complex Reasoning",
+    "question": "How did the relationship between Papineau and John Neilson affect events in the House of Commons?",
+    "answer": "Papineau alienated John Neilson, who then succeeded in having the bill shelved in the House of Commons.",
+    "source": "Novel-29973",
+    "evidence": "Papineau alienated John Neilson.; John Neilson succeeded in having the bill shelved in the House of Commons."
+  },
+  {
+    "id": "Novel-ac02181a",
+    "question_type": "Complex Reasoning",
+    "question": "In what way did the opposition between the Chateau Clique and the Patriotes tie into broader struggles of French Canadians?",
+    "answer": "French Canadians struggled with the Chateau Clique, which opposed the Patriotes.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians struggled with the Chateau Clique.; The Chateau Clique opposed the Patriotes."
+  },
+  {
+    "id": "Novel-5fb5b656",
+    "question_type": "Complex Reasoning",
+    "question": "How does the Patriotes' victory at St Denis relate to their opposition with the Chateau Clique?",
+    "answer": "The Chateau Clique opposed the Patriotes, who were victorious at St Denis.",
+    "source": "Novel-29973",
+    "evidence": "The Chateau Clique opposed the Patriotes.; The Patriotes were victorious at St Denis."
+  },
+  {
+    "id": "Novel-c64dfdc2",
+    "question_type": "Complex Reasoning",
+    "question": "How did the British government's policies connect to French-Canadian military actions?",
+    "answer": "The British government kept loyal the clergy, the seigneurs, and the great body of French Canadians, who were loyal to the British crown, which had loyalty from French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+    "source": "Novel-29973",
+    "evidence": "The British government kept loyal the clergy.; The British government kept loyal the seigneurs.; The British government kept loyal the great body of French Canadians.; French Canadians were loyal to the British crown.; French-Canadian militiamen fought with English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-3b125656",
+    "question_type": "Complex Reasoning",
+    "question": "How did the exclusion of Roman Catholics from the House of Commons at Westminster connect to French Canadian political struggles?",
+    "answer": "Roman Catholics were debarred from sitting in the House of Commons at Westminster, while French Canadians struggled with the Chateau Clique.",
+    "source": "Novel-29973",
+    "evidence": "Roman Catholics were debarred from sitting in the House of Commons at Westminster.; French Canadians struggled with the Chateau Clique."
+  },
+  {
+    "id": "Novel-d40f1e41",
+    "question_type": "Complex Reasoning",
+    "question": "In what ways did the Ninety-Two Resolutions relate to Papineau and the goals of the Patriotes?",
+    "answer": "The Ninety-Two Resolutions, received by Westminster and demanding Lord Aylmer's impeachment, were linked to Papineau, who alienated John Neilson, and to the Patriotes' decision to send a deputation to England.",
+    "source": "Novel-29973",
+    "evidence": "The Ninety-Two Resolutions demanded Lord Aylmer's impeachment.; The Ninety-Two Resolutions were linked to Papineau.; Papineau alienated John Neilson.; The Ninety-Two Resolutions were linked to the Patriotes' decision to send a deputation to England."
+  },
+  {
+    "id": "Novel-c3d98148",
+    "question_type": "Complex Reasoning",
+    "question": "How do the interactions between the Ninety-Two Resolutions and the Assembly illustrate the political tensions of the period?",
+    "answer": "The Ninety-Two Resolutions demanded Lord Aylmer's impeachment, who responded by making an offer to the Assembly.",
+    "source": "Novel-29973",
+    "evidence": "The Ninety-Two Resolutions demanded Lord Aylmer's impeachment.; Lord Aylmer responded by making an offer to the Assembly."
+  },
+  {
+    "id": "Novel-e827c4a0",
+    "question_type": "Complex Reasoning",
+    "question": "How are the struggles of French Canadians related to the broader conflict with the Patriotes?",
+    "answer": "French Canadians struggled with the Chateau Clique, which conflicted with the Patriotes.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians struggled with the Chateau Clique.; The Chateau Clique conflicted with the Patriotes."
+  },
+  {
+    "id": "Novel-d1392e51",
+    "question_type": "Complex Reasoning",
+    "question": "How did the British government's relationship with French Canadians affect the loyalty of French-Canadian militiamen?",
+    "answer": "The British government kept loyal French Canadians, who were loyal to the British crown, which had loyalty from French-Canadian militiamen.",
+    "source": "Novel-29973",
+    "evidence": "The British government kept loyal French Canadians.; Loyal French Canadians were loyal to the British crown.; Loyalty from French-Canadian militiamen was influenced by the British crown."
+  },
+  {
+    "id": "Novel-a792f989",
+    "question_type": "Complex Reasoning",
+    "question": "How did the British government's relationship with French Canadians impact military support for the British crown?",
+    "answer": "Loyal French Canadians, kept by the British government, were loyal to the British crown, which had loyalty from French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+    "source": "Novel-29973",
+    "evidence": "Loyal French Canadians were kept by the British government.; Loyal French Canadians were loyal to the British crown.; French-Canadian militiamen fought with English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-ccd939e7",
+    "question_type": "Complex Reasoning",
+    "question": "How did the British government's policies influence the conflict involving the Patriotes and the Chateau Clique?",
+    "answer": "The British government kept loyal French Canadians, who struggled with the Chateau Clique, which conflicted with the Patriotes.",
+    "source": "Novel-29973",
+    "evidence": "The British government kept loyal French Canadians.; Loyal French Canadians struggled with the Chateau Clique.; The Chateau Clique conflicted with the Patriotes."
+  },
+  {
+    "id": "Novel-51291a37",
+    "question_type": "Complex Reasoning",
+    "question": "How did the Governor's failure in Montreal connect to British government policy towards loyal French Canadians?",
+    "answer": "The Governor failed to issue a writ for a Montreal representative, while the British government kept loyal French Canadians.",
+    "source": "Novel-29973",
+    "evidence": "The Governor failed to issue a writ for a Montreal representative.; The British government kept loyal French Canadians."
+  },
+  {
+    "id": "Novel-b8bfac6a",
+    "question_type": "Complex Reasoning",
+    "question": "In what ways did French Canadians demonstrate loyalty to the British crown during times of war?",
+    "answer": "French Canadians were loyal to the British crown, which had loyalty from French-Canadian militiamen who fought with English-speaking fellow-countrymen.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians were loyal to the British crown.; Loyalty from French-Canadian militiamen was influenced by the British crown.; French-Canadian militiamen fought with English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-1991db28",
+    "question_type": "Contextual Summarize",
+    "question": "In the historical context of the Assembly of Lower Canada, which key figures or groups specifically opposed the passage of the Ninety-Two Resolutions, as reflected by their votes or public statements, and what actions did the resolutions themselves call for regarding the impeachment of Lord Aylmer?",
+    "answer": "The Ninety-Two Resolutions were opposed by Quesnel and John Neilson; Augustin Cuvillier and F. A. Quesnel voted against them; and the resolutions demanded the impeachment of Lord Aylmer.",
+    "source": "Novel-29973",
+    "evidence": "The Ninety-Two Resolutions were opposed by Quesnel.; The Ninety-Two Resolutions were opposed by John Neilson.; Augustin Cuvillier voted against the Ninety-Two Resolutions.; F. A. Quesnel voted against the Ninety-Two Resolutions.; The Ninety-Two Resolutions demanded the impeachment of Lord Aylmer."
+  },
+  {
+    "id": "Novel-a3c885aa",
+    "question_type": "Contextual Summarize",
+    "question": "Following the rebellions in Upper and Lower Canada, what was the specific role of the Earl of Durham as governor and Lord High Commissioner of Lower Canada, how did influential figures such as Lord Brougham respond to his actions—including his authorship of the Report on the Affairs of British North America—and what steps did the Melbourne government and Queen Victoria take in relation to his commission and the suspension of the Lower Canada constitution?",
+    "answer": "The Earl of Durham, a prominent and reform-minded Whig nobleman, was appointed governor and Lord High Commissioner of Lower Canada at a moment of profound crisis following the rebellions in Upper and Lower Canada. Accepting the commission offered by the young Queen Victoria, Durham was entrusted with sweeping powers to investigate the grievances that had shaken the colony and to recommend a remedy. The Melbourne government, recognizing the failure of previous policies, had already suspended the constitution of Lower Canada for three years, underscoring the gravity of the situation. Durham’s subsequent authorship of the influential Report on the Affairs of British North America drew both acclaim and sharp criticism—most notably from Lord Brougham, who took issue with his methods and conclusions. Throughout, Durham’s actions and the government’s decisions reflected the urgent need for radical change in the governance of the Canadian provinces.",
+    "source": "Novel-29973",
+    "evidence": "The Earl of Durham was appointed governor of Lower Canada.; The Earl of Durham was appointed Lord High Commissioner of Lower Canada.; The Earl of Durham accepted the commission offered by Queen Victoria.; The Earl of Durham wrote the Report on the Affairs of British North America.; Lord Brougham criticized the Earl of Durham.; The Melbourne government sent the Earl of Durham to Canada.; The Melbourne government suspended the constitution of Lower Canada before the Earl of Durham's tenure."
+  },
+  {
+    "id": "Novel-0d661e08",
+    "question_type": "Contextual Summarize",
+    "question": "Who were Carleton's most trusted aides during his governance in Canada?",
+    "answer": "Carleton's most trusted aides included Captains Dambourges, Marcoux, Colonel Dupre, and Dumas.",
+    "source": "Novel-29973",
+    "evidence": "Carleton's most trusted aides included Captain Dambourges.; Carleton's most trusted aides included Captain Marcoux.; Carleton's most trusted aides included Colonel Dupre.; Carleton's most trusted aides included Dumas."
+  },
+  {
+    "id": "Novel-2c03807c",
+    "question_type": "Contextual Summarize",
+    "question": "Who was Sir James Macdonell and what was his role in relation to Colborne?",
+    "answer": "Sir James Macdonell served as Colborne's second-in-command, playing a significant role in the suppression of the rebellion. He was notably responsible for ordering the burning of houses belonging to 'notorious rebels,' actions that cast a shadow over the conduct of the British authorities during this turbulent period.",
+    "source": "Novel-29973",
+    "evidence": "Sir James Macdonell was Colborne's second-in-command."
+  },
+  {
+    "id": "Novel-d33066da",
+    "question_type": "Contextual Summarize",
+    "question": "Which groups provided support to the Glengarry volunteers during their efforts?",
+    "answer": "During their efforts to drive out the insurgents at Beauharnois, the Glengarry volunteers were bolstered by the steadfast support of two companies of the 71st and a detachment of Royal Engineers, whose combined presence helped ensure the swift defeat of the rebels.",
+    "source": "Novel-29973",
+    "evidence": "The Royal Engineers supported the Glengarry volunteers.; The 71st supported the Glengarry volunteers."
+  },
+  {
+    "id": "Novel-aa179e3f",
+    "question_type": "Fact Retrieval",
+    "question": "What was the outcome of the Patriotes' actions at St Denis during the rebellion?",
+    "answer": "The Patriotes achieved a hard-fought victory at St Denis, standing their ground with remarkable courage and determination despite being largely untrained and poorly armed compared to the British regulars. Their triumph forced the British to retreat, abandoning their artillery in the mud, and brought honor to the peasants in homespun who had defended their position with a steadfastness that would have done credit to seasoned soldiers.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes were victorious at St Denis."
+  },
+  {
+    "id": "Novel-d94fa48e",
+    "question_type": "Fact Retrieval",
+    "question": "Who defeated the rebels at St Charles, and what was the result of this confrontation?",
+    "answer": "Wetherall led the British forces to a swift and decisive victory over the rebels at St Charles. The engagement, though brief, was intense, resulting in heavy losses for the Patriotes, many of whom were killed, wounded, or taken prisoner. This defeat effectively ended the rebellion in the Richelieu region, as news of the loss spread and the remaining Patriote forces quickly disbanded, with their leaders fleeing or being captured.",
+    "source": "Novel-29973",
+    "evidence": "Wetherall defeated the rebels at St Charles."
+  },
+  {
+    "id": "Novel-18e51427",
+    "question_type": "Contextual Summarize",
+    "question": "How did the Legislative Council affect the Assembly's efforts in Lower Canada?",
+    "answer": "The Legislative Council repeatedly blocked the efforts of the Assembly, acting as a powerful barrier to reform. Dominated by members of English birth and closely aligned with the governor and the so-called 'Chateau Clique,' the Council dismissed measures passed by the popularly elected Assembly, leaving its members frustrated and powerless. This persistent obstruction not only stifled the Assembly's attempts at self-government but also fueled a prolonged struggle for political control in Lower Canada.",
+    "source": "Novel-29973",
+    "evidence": "The Legislative Council blocked the efforts of the Assembly."
+  },
+  {
+    "id": "Novel-bf479234",
+    "question_type": "Contextual Summarize",
+    "question": "What were the Ninety-Two Resolutions, and what did they demand regarding Lord Aylmer?",
+    "answer": "The Ninety-Two Resolutions, passed by the Assembly of Lower Canada, were a bold and sweeping list of grievances and demands directed at the British government. Among their most dramatic points was the call not only for the removal but for the impeachment of Lord Aylmer, the governor. Laden with references to the American Revolution and a barely veiled threat of rebellion, the Resolutions reflected the Assembly's deep frustration with colonial rule and their desire for greater self-government, even as their tone and content shocked many observers of the time.",
+    "source": "Novel-29973",
+    "evidence": "The Ninety-Two Resolutions were passed by the Assembly of Lower Canada.; The Ninety-Two Resolutions demanded the impeachment of Lord Aylmer."
+  },
+  {
+    "id": "Novel-67d6c501",
+    "question_type": "Contextual Summarize",
+    "question": "How did the British government's policies affect the status of French Canadians in Lower Canada?",
+    "answer": "The British government's conciliatory policies significantly strengthened the position of French Canadians in Lower Canada. By granting generous concessions—such as restoring French laws through the Quebec Act of 1774 and allowing Catholics to sit in the Canadian representative Assemblies—French Canadians were not only affirmed in their rights and traditions, but also encouraged to take pride in their national identity. These measures fostered loyalty among the clergy, seigneurs, and the broader French-Canadian population, while also inspiring them to seek even greater liberties and recognition within the British Empire.",
+    "source": "Novel-29973",
+    "evidence": "The British government strengthened the position of French Canadians in Lower Canada."
+  },
+  {
+    "id": "Novel-aa279376",
+    "question_type": "Contextual Summarize",
+    "question": "What was Major de Salaberry's role in the battle at Chateauguay?",
+    "answer": "Major de Salaberry played a heroic and pivotal role in the battle at Chateauguay, leading his French-Canadian soldiers with remarkable courage and skill. Under his command, they stood firm against invading American forces during the War of 1812, ultimately securing a decisive victory that not only protected Lower Canada but also became a lasting testament to the loyalty and valor of French Canadians in defense of their homeland.",
+    "source": "Novel-29973",
+    "evidence": "Major de Salaberry led French-Canadian soldiers to victory at Chateauguay."
+  },
+  {
+    "id": "Novel-a3c71579",
+    "question_type": "Contextual Summarize",
+    "question": "What was the nature of the conflict between the Patriotes and the Chateau Clique in Lower Canada?",
+    "answer": "The conflict was marked by a deep and persistent struggle between the Patriotes, who sought greater recognition of French-Canadian rights and national identity, and the Chateau Clique, the entrenched elite who dominated the Executive Council and resisted reforms. This clash reflected not only political rivalry but also the Patriotes' fight for official recognition of their language and culture against the Clique's efforts to maintain their own power and influence in Lower Canada.",
+    "source": "Novel-29973",
+    "evidence": "The conflict was characterized by the struggle between the Patriotes and the Chateau Clique in Lower Canada."
+  },
+  {
+    "id": "Novel-6809b810",
+    "question_type": "Contextual Summarize",
+    "question": "What happened to Canada during the War of 1812-14?",
+    "answer": "During the War of 1812-14, Canada faced repeated invasions by American armies. In the face of these threats, French-Canadian militiamen, led by their own officers, fought valiantly alongside their English-speaking compatriots. Their loyalty to the British crown was most strikingly demonstrated at battles such as Chateauguay, where the courage and determination of Major de Salaberry and his French-Canadian soldiers secured a crucial victory for British forces.",
+    "source": "Novel-29973",
+    "evidence": "During the War of 1812-14, Canada was invaded by American armies."
+  },
+  {
+    "id": "Novel-3cf18099",
+    "question_type": "Contextual Summarize",
+    "question": "How did the British government's treatment of Catholics in Canada change?",
+    "answer": "The British government gradually extended significant liberties to Catholics in Canada, assuring them the free exercise of their religion, granting them the protection of French civil law, and even allowing them rights—such as sitting in representative assemblies—that were denied to Catholics in Britain itself. These conciliatory measures not only secured the loyalty of the French Canadian population but also fostered a sense of national identity and a desire for even greater freedoms.",
+    "source": "Novel-29973",
+    "evidence": "The British government accorded a measure of liberty to Catholics in Canada."
+  },
+  {
+    "id": "Novel-e891105b",
+    "question_type": "Contextual Summarize",
+    "question": "During periods of external conflict, such as wars involving the British Empire, how did French Canadians demonstrate their relationship to the British crown and their English-speaking fellow-countrymen?",
+    "answer": "French Canadians demonstrated steadfast loyalty to the British crown, most notably during the War of 1812, when French-Canadian militiamen, led by their own officers, fought shoulder to shoulder with their English-speaking compatriots on the battlefield. Their courage was especially evident at the Battle of Chateauguay, where the valor of Major de Salaberry and his French-Canadian soldiers secured a crucial victory for British forces, leaving an indelible mark of unity and loyalty in the face of external threats.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians were loyal to the British crown.; French-Canadian militiamen fought alongside English-speaking countrymen during periods of conflict."
+  },
+  {
+    "id": "Novel-7feddecb",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of the War of 1812-14, when the United States invaded Canada, how did this conflict shape Canadian perceptions of their relationship with their southern neighbor, given that American armies repeatedly crossed into Canadian territory?",
+    "answer": "The repeated invasions of Canada by American armies during the War of 1812-14 left a profound mark on Canadian perceptions of their southern neighbor. These incursions underscored Canada’s vulnerable, defensive position and fostered a sense of unity among its people—particularly as French-Canadian and English-speaking militiamen stood side by side to repel the invaders. The conflict deepened Canadian loyalty to the British crown and reinforced a collective identity defined, in part, by resistance to American aggression.",
+    "source": "Novel-29973",
+    "evidence": "The United States invaded Canada during the War of 1812-14.; The invasion highlighted Canada’s defensive position against American armies."
+  },
+  {
+    "id": "Novel-f0cb498c",
+    "question_type": "Contextual Summarize",
+    "question": "Under British rule in Canada, what patterns of loyalty and conflict characterized the experience of French Canadians, particularly regarding their relationship with the British crown, the Chateau Clique, and English-speaking fellow-countrymen?",
+    "answer": "French Canadians, though governed under British rule, demonstrated a complex pattern of loyalty and conflict. Their steadfast allegiance to the British crown was most vividly displayed during the War of 1812-14, when French-Canadian militiamen, led by their own officers, fought valiantly alongside their English-speaking compatriots on the battlefield. Yet, this loyalty coexisted with persistent struggles against the Chateau Clique, the powerful elite that dominated political life, as French Canadians fought for recognition of their language and national identity. Their experience was thus marked by both unity in times of external threat and ongoing internal conflict in pursuit of their rights.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians were kept under British control.; French Canadians remained loyal to the British crown.; French Canadians struggled with the Chateau Clique.; French-Canadian militiamen fought alongside English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-cdb7fa38",
+    "question_type": "Contextual Summarize",
+    "question": "How did the conflict between the Patriotes and the Chateau Clique, as well as the ongoing struggles of French Canadians against the Chateau Clique, exemplify broader social tensions within Lower Canada during the pre-rebellion period?",
+    "answer": "The conflict between the Patriotes and the Chateau Clique vividly exemplified the deep-rooted social tensions simmering within Lower Canada during the pre-rebellion period. French Canadians, striving for recognition of their language and national identity, found themselves in a persistent struggle against the entrenched power of the Chateau Clique. This ongoing confrontation was not merely a political dispute, but a reflection of the broader frustrations and aspirations of French Canadians, who felt marginalized by the English-speaking elite. The Patriotes’ resistance became a symbol of the wider fight for equality, cultural preservation, and self-determination in a society marked by division and unrest.",
+    "source": "Novel-29973",
+    "evidence": "The conflict between the Patriotes and the Chateau Clique reflected broader social tensions.; French Canadians struggled with the Chateau Clique."
+  },
+  {
+    "id": "Novel-395b1b2c",
+    "question_type": "Contextual Summarize",
+    "question": "How did the outcome of the battle at St Denis affect the status and momentum of the Patriote movement within the broader conflict in Lower Canada?",
+    "answer": "The Patriotes’ victory at St Denis marked a pivotal moment in their struggle against the Chateau Clique, infusing the movement with renewed hope and momentum. News of their unexpected triumph spread swiftly through the parishes, emboldening supporters and inspiring further resistance. Though the Patriotes were largely untrained and poorly equipped, their steadfastness in the face of adversity demonstrated both their resolve and the depth of popular support for their cause. This victory not only challenged the authority of the Chateau Clique but also galvanized the broader movement, signaling that meaningful resistance was possible and that the fight for justice and recognition was far from over.",
+    "source": "Novel-29973",
+    "evidence": "The Patriotes were victorious at St Denis.; The victory affected the Patriotes' conflict with the Chateau Clique."
+  },
+  {
+    "id": "Novel-1693ae5d",
+    "question_type": "Contextual Summarize",
+    "question": "How did the Church respond to Abbe Chartier's journey to the United States during the period of rebellion in Lower Canada, and what impact did this response have on expressions of dissent among Canadian figures?",
+    "answer": "The Church responded to Abbe Chartier's flight to the United States by placing him under interdict, a severe ecclesiastical censure that effectively cut him off from the sacraments and the community of the faithful. This public act of condemnation not only marked Chartier's permanent exile from Canadian soil but also served as a powerful warning to others who might be tempted to support or participate in rebellious activities. By making an example of Chartier, the Church reinforced its opposition to the revolutionary movement and sought to suppress further expressions of dissent among Canadian figures.",
+    "source": "Novel-29973",
+    "evidence": "The Church placed Abbe Chartier under interdict after he traveled to the United States."
+  },
+  {
+    "id": "Novel-656cfe9f",
+    "question_type": "Contextual Summarize",
+    "question": "How did British policies toward the French inhabitants of Canada—specifically, the decision not to treat them as a conquered people—shape the social order of the colony, especially regarding their relationship to the British crown and English-speaking fellow-countrymen?",
+    "answer": "Great Britain’s decision not to treat the French inhabitants of Canada as a conquered people had a profound and lasting impact on the social fabric of the colony. By extending rights and privileges—such as allowing Catholics to sit in representative assemblies and respecting their language and religion—the British fostered a sense of inclusion and respect among the French Canadians. This conciliatory approach nurtured their loyalty to the British crown, a loyalty that was vividly demonstrated during the War of 1812, when French-Canadian militiamen, led by their own officers, fought valiantly alongside their English-speaking compatriots. The unity displayed on the battlefield, particularly in the heroic defense at Chateauguay, became a testament to the strength of this social order, where former adversaries stood together in defense of their shared home.",
+    "source": "Novel-29973",
+    "evidence": "Great Britain did not treat the French inhabitants of Canada as a conquered people.; French inhabitants of Canada maintained loyalty to the British crown.; French-Canadian militiamen fought with English-speaking fellow-countrymen."
+  },
+  {
+    "id": "Novel-ddedee1e",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of Lower Canadian politics, how did the struggles between French Canadians and the Chateau Clique, along with the direct conflict between the Chateau Clique and the Patriotes, influence the shaping and pursuit of reform within the colony?",
+    "answer": "The persistent struggles between French Canadians and the Chateau Clique, marked by the former's fight for recognition of their language and national identity, created a climate of tension and resistance that deeply influenced the colony's pursuit of reform. The direct conflict between the Chateau Clique and the Patriotes further intensified these efforts, as both groups clashed over the direction and nature of political change. These overlapping struggles not only shaped the demands for reform but also fueled a broader movement for greater autonomy and justice within Lower Canadian society.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians struggled with the Chateau Clique.; The Chateau Clique conflicted with the Patriotes.; These struggles shaped attempts at reform."
+  },
+  {
+    "id": "Novel-7feb3d47",
+    "question_type": "Contextual Summarize",
+    "question": "How did the submission of the Ninety-Two Resolutions by the Assembly of Lower Canada and Lord Aylmer's subsequent actions influence the interactions and negotiations between the colonial legislature and the British government?",
+    "answer": "When the Assembly of Lower Canada submitted the Ninety-Two Resolutions—boldly demanding, among other things, the impeachment of Lord Aylmer—the British authorities at Westminster responded with caution and delay. The resolutions, with their pointed references to past revolutions and their uncompromising tone, were met with little immediate action, as political turmoil in Britain further slowed the process. Ultimately, the British government decided to send a royal commission to investigate the grievances, and Lord Aylmer was recalled, not as a result of censure, but because his strained relationship with the Assembly made further negotiation impossible. This sequence of events underscored the deepening rift between the colonial legislature and the British government, shaping their subsequent interactions and negotiations.",
+    "source": "Novel-29973",
+    "evidence": "The Ninety-Two Resolutions were received by Westminster.; The resolutions demanded the impeachment of Lord Aylmer.; Lord Aylmer made an offer to the Assembly."
+  },
+  {
+    "id": "Novel-75938aa3",
+    "question_type": "Contextual Summarize",
+    "question": "How did French Canadians demonstrate their loyalty to the British crown in both military and civil spheres?",
+    "answer": "French Canadians demonstrated their loyalty to the British crown both in spirit and in action. Nowhere was this more vividly displayed than during the War of 1812-14, when French-Canadian militiamen, led by their own officers, stood shoulder to shoulder with their English-speaking fellow-countrymen on the bloodied fields of battle. Their courage was immortalized at Chateauguay, where Major de Salaberry and his French-Canadian soldiers played a decisive role in securing victory for British arms. This unity in the face of invasion was not merely military; it was a profound testament to their commitment to the British crown, echoed in civil life by public celebrations and the support of influential clergy and seigneurs. The history of these years stands as indelible proof of French-Canadian loyalty, forged in the crucible of war and affirmed in the shared defense of their homeland.",
+    "source": "Novel-29973",
+    "evidence": "French Canadians remained loyal to the British crown.; French-Canadian militiamen fought alongside English-speaking fellow-countrymen.; This reflected their dual commitment."
+  },
+  {
+    "id": "Novel-84af5b0f",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are a French-Canadian militiaman reflecting in your diary on your loyalty to the British crown despite conflicts with the English-speaking population and the Chateau Clique.",
+    "answer": "Diary Entry — Today, I stood once more beside my English-speaking comrades, united in defense of the British crown. The memory of our valor at Chateauguay lingers, a testament to the loyalty of French Canadians, yet I cannot ignore the cold distance the British government maintains. The Chateau Clique, with their grip on power, makes daily life a struggle for us, our language and identity often dismissed or suppressed. Still, even as the Patriotes rise and the air in Montreal grows thick with unrest, my allegiance does not waver. Our loyalty is tested at every turn, but it endures, forged in the hardships we share and the hope that one day our devotion will be recognized.",
+    "source": "Novel-29973",
+    "evidence": "The militiaman fought alongside English-speaking fellow-countrymen.; The militiaman fought for the British crown.; The British government keeps French Canadians at arm's length.; The Chateau Clique makes life difficult for French Canadians.; The militiaman's allegiance to the crown is unwavering.; The Patriotes challenge the status quo.; Tensions persist in Montreal."
+  },
+  {
+    "id": "Novel-e92c0652",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are a member of the Chateau Clique writing a private letter about the ongoing conflict with the Patriotes and the struggles with French Canadians.",
+    "answer": "Private Letter — The situation grows ever more fraught with each passing day. The Patriotes, emboldened by the fervent support of their French Canadian compatriots, now stand in open and unyielding conflict with us. Their recent triumphs, most notably at St Denis, have only served to harden their resolve and rally more to their cause. Our every effort to restore order is met with stubborn resistance, and the Assembly’s ceaseless complaints about the expenditure of public moneys—without the Executive government’s consent—only serve to deepen the rift. The British government, for its part, strives to maintain the loyalty of the French Canadians, yet I fear that their allegiance to the Crown is being sorely tested by these turbulent times. The air is thick with uncertainty, and I confess that I look to the future with a sense of foreboding.",
+    "source": "Novel-29973",
+    "evidence": "The situation is growing tenser each day.; The Patriotes are supported by their French Canadian base.; The Patriotes stand in direct conflict with the Chateau Clique.; The Patriotes have achieved victories, such as at St Denis.; The Patriotes' victories have strengthened their resolve.; The Assembly has complaints about the expenditure of public moneys.; The British government remains loyal to French Canadians.; The loyalty of French Canadians to the British crown is being tested."
+  },
+  {
+    "id": "Novel-ead74cb3",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are Abbe Chartier. Write a diary entry about your journey to the United States and the conflicts you faced with the Church.",
+    "answer": "Diary Entry — My heart is heavy as I set pen to paper, recalling the day I left for the United States—a journey shadowed by sorrow and uncertainty. The Church, in its disapproval, placed me under interdict, casting a pall over my conscience and my calling. The Patriotes’ restless activity along the border only heightened the sense of danger and unease. The political climate has grown ever more volatile, with the Chateau Clique’s relentless opposition to our people and Papineau’s estrangement of former allies leaving us isolated. Home, once a place of comfort, now feels distant and fraught with peril. I pray that time and Providence may one day bring peace to our troubled land.",
+    "source": "Novel-29973",
+    "evidence": "Abbe Chartier recounts his departure for the United States.; Abbe Chartier's journey was made under difficult circumstances.; The Church placed Abbe Chartier under interdict.; The Patriotes' ties to the border increased tension.; The political climate is worsened by the Chateau Clique's conflict with the French Canadians.; Papineau's actions have alienated allies.; Home feels distant and dangerous to Abbe Chartier."
+  },
+  {
+    "id": "Novel-c77d3143",
+    "question_type": "Creative Generation",
+    "question": "Retell the events of the War of 1812-14 as a factual news report, emphasizing the involvement of the United States and Canada.",
+    "answer": "Historic Times — The War of 1812-14 erupted as American forces launched repeated invasions across the Canadian border, seeking to challenge British control in North America. On the fields of battle, French-Canadian militiamen, led by their own officers, stood resolutely alongside their English-speaking compatriots, defending their homeland against the advancing United States armies. Nowhere was this unity more evident than at the Battle of Chateauguay, where Major de Salaberry and his French-Canadian soldiers played a decisive role in securing victory for the British. Throughout the conflict, the steadfast loyalty of French Canada to the British crown became unmistakably clear, even as internal tensions with the Chateau Clique simmered beneath the surface. The war not only tested the resolve of the young Canadian colonies but also deepened the intricate web of political and cultural allegiances that defined the era.",
+    "source": "Novel-29973",
+    "evidence": "The War of 1812-14 involved American armies invading Canada.; The United States shares a border with the Patriotes' territory.; The United States made several incursions during the conflict.; French Canadians maintained loyalty to the British crown during the war.; There were internal struggles with groups like the Chateau Clique.; The war complicated the political situation in Canada.; Canada is a colony of the British government."
+  },
+  {
+    "id": "Novel-09902328",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the conflict between the Patriotes and the Chateau Clique as a newspaper story, highlighting the broader struggle for control in Canada.",
+    "answer": "The Times — Tensions in Canada have escalated as the Patriotes, champions of reform and French-Canadian rights, confront the entrenched power of the Chateau Clique, the English-speaking elite who dominate the colonial government. Frustrated by the repeated dismissal of their legislative efforts and the lack of true representation, the Patriotes have rallied support among the populace, sending a deputation to England to plead their case and achieving notable successes such as their victory at St Denis. The struggle has become emblematic of a broader contest for control over Canada’s future, pitting the aspirations of the French-Canadian majority against the authority of the British-appointed oligarchy. Amidst this political upheaval, the British crown continues to depend on the proven loyalty of French-Canadian militiamen, whose valor in past conflicts now stands in stark contrast to the growing unrest within the colony.",
+    "source": "Novel-29973",
+    "evidence": "Political conflict in Canada has reached a boiling point.; The Patriotes and the Chateau Clique are clashing over reform.; French Canadians have faced opposition from the Chateau Clique.; There are struggles within the Assembly.; The Patriotes sent a deputation to England.; The Patriotes achieved victories such as at St Denis.; The British crown relies on the loyalty of French-Canadian militiamen.; French-Canadian militiamen fought alongside English-speaking fellow-countrymen."
+  }
+]

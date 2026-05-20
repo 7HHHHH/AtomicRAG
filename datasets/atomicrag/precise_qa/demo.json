@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "demo_1",
+    "question": "What scientific discoveries did Apollo missions make with the lunar samples they brought back?",
+    "answer": "Apollo missions revealed that the Moon once had a magma ocean, calibrated crater ages to date impacts across the solar system, and provided regolith samples that showed the effects of solar wind and micrometeorite impacts.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  },
+  {
+    "_id": "demo_2",
+    "question": "Why is water ice on the Moon considered strategically important for future exploration?",
+    "answer": "Water ice can be split into oxygen and hydrogen, which are critical for both life support and rocket fuel, making it a potential resource for sustaining long-term human presence and travel beyond the Moon.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  },
+  {
+    "_id": "demo_3",
+    "question": "What advantages does the far side of the Moon offer to radio astronomy?",
+    "answer": "The far side of the Moon is shielded from Earth's radio noise, making it an ideal, quiet location for building low-frequency radio telescopes to study the early universe before the first stars formed.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  },
+  {
+    "_id": "demo_4",
+    "question": "How does the Outer Space Treaty influence the way nations and companies approach lunar exploration?",
+    "answer": "The treaty prevents any nation from claiming territory on the Moon, requiring cooperative and sustainable exploration, while newer agreements emphasize interoperability, data sharing, and preservation of heritage sites.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  },
+  {
+    "_id": "demo_5",
+    "question": "What unique challenges would humans face when living in a lunar city?",
+    "answer": "Residents would need to cope with two-week-long days and nights, extreme temperature swings, radiation, low gravity effects on the body, and the pervasive, clingy lunar dust that can damage equipment.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  },
+  {
+    "_id": "demo_6",
+    "question": "How has the Moon influenced art and culture across history according to the passage?",
+    "answer": "The Moon has long inspired poets, artists, and musicians, serving as a symbol of longing, change, time, and human emotion. Even today, it continues to shape creative expression as much as scientific curiosity.",
+    "supporting_facts": [],
+    "context": [],
+    "type": "bridge",
+    "level": "medium"
+  }
+]

@@ -1,0 +1,826 @@
+[
+  {
+    "id": "Novel-73586ddc",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative of 'An Unsentimental Journey through Cornwall', which plant known scientifically as Erica vagans is also referred to by another common name, and what is that name?",
+    "answer": "Cornish heath",
+    "source": "Novel-44557",
+    "evidence": "The plant known scientifically as Erica vagans is referred to as Cornish heath."
+  },
+  {
+    "id": "Novel-74440a6a",
+    "question_type": "Fact Retrieval",
+    "question": "Within the account of the royal visit to St. Michael's Mount in Cornwall, who is identified as the person who married Princess Frederica of Hanover?",
+    "answer": "Baron Von Pawel-Rammingen",
+    "source": "Novel-44557",
+    "evidence": "Baron Von Pawel-Rammingen married Princess Frederica of Hanover."
+  },
+  {
+    "id": "Novel-f80cbf85",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's discussion of historic sites, in which region of France is Mont St. Michel located?",
+    "answer": "Normandy",
+    "source": "Novel-44557",
+    "evidence": "Mont St. Michel is located in Normandy."
+  },
+  {
+    "id": "Novel-b3c430ef",
+    "question_type": "Fact Retrieval",
+    "question": "In the historical account relating to St. Michael's Mount, which individual is said to have caused himself to be bled to death there?",
+    "answer": "Henry de la Pomeroy",
+    "source": "Novel-44557",
+    "evidence": "Henry de la Pomeroy caused himself to be bled to death at St. Michael's Mount."
+  },
+  {
+    "id": "Novel-304b0354",
+    "question_type": "Fact Retrieval",
+    "question": "Within the Cornish legends described in the narrative, who was the figure doomed to empty Dozmare Pool as a punishment?",
+    "answer": "Tregeagle",
+    "source": "Novel-44557",
+    "evidence": "Tregeagle was doomed to empty Dozmare Pool as a punishment."
+  },
+  {
+    "id": "Novel-b1a95144",
+    "question_type": "Fact Retrieval",
+    "question": "In reference to the royal visit to St. Michael's Mount described in the narrative, to which princess did the Queen show motherly kindness during her stay?",
+    "answer": "Princess Frederica of Hanover",
+    "source": "Novel-44557",
+    "evidence": "The Queen showed motherly kindness to Princess Frederica of Hanover during her stay."
+  },
+  {
+    "id": "Novel-e05d0922",
+    "question_type": "Fact Retrieval",
+    "question": "According to the description of Kynance Cove in Cornwall, which specific feature is included as a part of Kynance Cove?",
+    "answer": "Kynance Sands",
+    "source": "Novel-44557",
+    "evidence": "Kynance Sands is a specific feature included as part of Kynance Cove."
+  },
+  {
+    "id": "Novel-dba48e64",
+    "question_type": "Fact Retrieval",
+    "question": "In the account of the travelers' visit to Kynance Cove, what natural landmarks are described as being located near or within Kynance Cove?",
+    "answer": "Asparagus Island, Gull Rock, and Bellows",
+    "source": "Novel-44557",
+    "evidence": "Asparagus Island is located near or within Kynance Cove.; Gull Rock is located near or within Kynance Cove.; Bellows is located near or within Kynance Cove."
+  },
+  {
+    "id": "Novel-ea3d4859",
+    "question_type": "Fact Retrieval",
+    "question": "During the travelers' exploration of the Cornish coastline in the narrative, what notable geographical feature is located near Housel Cove?",
+    "answer": "Penolver is located near Housel Cove.",
+    "source": "Novel-44557",
+    "evidence": "Penolver is located near Housel Cove."
+  },
+  {
+    "id": "Novel-ba894e2c",
+    "question_type": "Fact Retrieval",
+    "question": "In the retelling of the Arthurian legend within the novel, who is the character credited with producing King Arthur?",
+    "answer": "Merlin produced King Arthur.",
+    "source": "Novel-44557",
+    "evidence": "Merlin produced King Arthur."
+  },
+  {
+    "id": "Novel-42f1975a",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's summary of Arthurian history, who became king following Uther Pendragon's death?",
+    "answer": "King Arthur was proclaimed king after Uther Pendragon.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur was proclaimed king after Uther Pendragon."
+  },
+  {
+    "id": "Novel-419cadfe",
+    "question_type": "Fact Retrieval",
+    "question": "Within the summary of Arthurian legend provided in the narrative, who was King Arthur's final adversary in battle?",
+    "answer": "King Arthur fought with Mordred.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur fought with Mordred."
+  },
+  {
+    "id": "Novel-9e7500a0",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the Arthurian story as recounted in the narrative, whose love for Ygrayne set important events in motion?",
+    "answer": "Uther Pendragon fell in love with Ygrayne.",
+    "source": "Novel-44557",
+    "evidence": "Uther Pendragon fell in love with Ygrayne."
+  },
+  {
+    "id": "Novel-bffd01c2",
+    "question_type": "Fact Retrieval",
+    "question": "In the novel's retelling of the end of King Arthur's story, which knight was given the task of returning Excalibur to the mere?",
+    "answer": "Sir Bedevere threw Excalibur.",
+    "source": "Novel-44557",
+    "evidence": "Sir Bedevere threw Excalibur."
+  },
+  {
+    "id": "Novel-ef451592",
+    "question_type": "Fact Retrieval",
+    "question": "What other notable landmark is mentioned as being near Housel Cove in the narrative?",
+    "answer": "Lizard Lights is near Housel Cove.",
+    "source": "Novel-44557",
+    "evidence": "Lizard Lights is near Housel Cove."
+  },
+  {
+    "id": "Novel-eab59fae",
+    "question_type": "Fact Retrieval",
+    "question": "According to the journey described in the narrative, where is the town of Marazion located?",
+    "answer": "Marazion is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Marazion is located in Cornwall."
+  },
+  {
+    "id": "Novel-61cf41ee",
+    "question_type": "Fact Retrieval",
+    "question": "During the journey through Cornwall, who drove the carriage for the main party?",
+    "answer": "Charles is the driver of the carriage.",
+    "source": "Novel-44557",
+    "evidence": "Charles is the driver of the carriage."
+  },
+  {
+    "id": "Novel-09d21113",
+    "question_type": "Fact Retrieval",
+    "question": "After passing through Penzance in the narrative, where did Charles go with the carriage?",
+    "answer": "Charles went to Whitesand Bay after passing through Penzance.",
+    "source": "Novel-44557",
+    "evidence": "Charles went to Whitesand Bay after passing through Penzance."
+  },
+  {
+    "id": "Novel-1b7a0e02",
+    "question_type": "Fact Retrieval",
+    "question": "During the first evening at The Lizard, what did Charles exclaim when he saw the lights?",
+    "answer": "Charles called out 'The Lizard Lights'.",
+    "source": "Novel-44557",
+    "evidence": "Charles called out 'The Lizard Lights.'"
+  },
+  {
+    "id": "Novel-752ca0c2",
+    "question_type": "Fact Retrieval",
+    "question": "During the visit to Mullion in the story, whom did Mary Mundy express admiration for?",
+    "answer": "Mary Mundy admired the Professor.",
+    "source": "Novel-44557",
+    "evidence": "Mary Mundy admired the Professor."
+  },
+  {
+    "id": "Novel-4ae5ec38",
+    "question_type": "Fact Retrieval",
+    "question": "Within the travel narrative, in which English county is Whitesand Bay described as being located?",
+    "answer": "Whitesand Bay is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Whitesand Bay is located in Cornwall."
+  },
+  {
+    "id": "Novel-563587c2",
+    "question_type": "Fact Retrieval",
+    "question": "What was the destination of the carriage during the outing described in the narrative?",
+    "answer": "The carriage went to Whitesand Bay.",
+    "source": "Novel-44557",
+    "evidence": "The carriage went to Whitesand Bay."
+  },
+  {
+    "id": "Novel-6aaabde4",
+    "question_type": "Fact Retrieval",
+    "question": "Within the story's depiction of the Old Inn at Mullion, who is credited with writing a poem about Mary Mundy?",
+    "answer": "The Scotch Professor wrote a poem about Mary Mundy.",
+    "source": "Novel-44557",
+    "evidence": "The Scotch Professor wrote a poem about Mary Mundy."
+  },
+  {
+    "id": "Novel-2e9466a9",
+    "question_type": "Fact Retrieval",
+    "question": "According to the journey through coastal villages described in the book, where is the fishing village of Cadgwith located?",
+    "answer": "Cadgwith is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Cadgwith is located in Cornwall."
+  },
+  {
+    "id": "Novel-d2746bf8",
+    "question_type": "Fact Retrieval",
+    "question": "During the visit to Mullion, who was mentioned as being considered the best ghost-layer in England?",
+    "answer": "Thomas Flavel was the best ghost-layer in England.",
+    "source": "Novel-44557",
+    "evidence": "Thomas Flavel was the best ghost-layer in England."
+  },
+  {
+    "id": "Novel-75f181e8",
+    "question_type": "Fact Retrieval",
+    "question": "Which beach did Charles suggest visiting for sightseeing and bathing during the excursions from The Lizard?",
+    "answer": "Charles drove to Kennack Sands.",
+    "source": "Novel-44557",
+    "evidence": "Charles drove to Kennack Sands."
+  },
+  {
+    "id": "Novel-de0767ce",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative's account of tea at the Old Inn, what specialty did Mary Mundy prepare for her guests?",
+    "answer": "Mary Mundy made clotted cream.",
+    "source": "Novel-44557",
+    "evidence": "Mary Mundy made clotted cream."
+  },
+  {
+    "id": "Novel-d5c10dcf",
+    "question_type": "Fact Retrieval",
+    "question": "In the context of the Cornish journey, where is The Lizard, the southernmost point described in the narrative, located?",
+    "answer": "The Lizard is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "The Lizard is located in Cornwall."
+  },
+  {
+    "id": "Novel-85c57bc9",
+    "question_type": "Fact Retrieval",
+    "question": "In which Cornish village did Thomas Flavel serve as a reverend gentleman, as mentioned during the visit to the old church?",
+    "answer": "Thomas Flavel was a reverend gentleman in Mullion.",
+    "source": "Novel-44557",
+    "evidence": "Thomas Flavel was a reverend gentleman in Mullion."
+  },
+  {
+    "id": "Novel-4196794d",
+    "question_type": "Fact Retrieval",
+    "question": "What did the young members of the party do after leaving the shore during the boating excursion?",
+    "answer": "The young folks got into the boat.",
+    "source": "Novel-44557",
+    "evidence": "The young folks got into the boat."
+  },
+  {
+    "id": "Novel-51e5f06f",
+    "question_type": "Fact Retrieval",
+    "question": "After the sea-cave excursion near Church Cove, where was Charles waiting for the travelers' return?",
+    "answer": "Charles was waiting at the blacksmith's shop.",
+    "source": "Novel-44557",
+    "evidence": "Charles was waiting at the blacksmith's shop."
+  },
+  {
+    "id": "Novel-e1aa3f36",
+    "question_type": "Fact Retrieval",
+    "question": "In the retelling of the Arthurian legend within the narrative, what was the relationship between Merlin and Uther Pendragon regarding counsel or advice?",
+    "answer": "Merlin advised Uther Pendragon.",
+    "source": "Novel-44557",
+    "evidence": "Merlin advised Uther Pendragon."
+  },
+  {
+    "id": "Novel-83b8a631",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's account of Cornish coastal fauna, to which region is the sand-eel described as being peculiar?",
+    "answer": "The sand-eel is peculiar to the Cornish coast.",
+    "source": "Novel-44557",
+    "evidence": "The sand-eel is peculiar to the Cornish coast."
+  },
+  {
+    "id": "Novel-2c702150",
+    "question_type": "Fact Retrieval",
+    "question": "Within the depiction of religious communities in the narrative, in which English county is the Methodist sect noted as being present?",
+    "answer": "The Methodist sect is in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "The Methodist sect is in Cornwall."
+  },
+  {
+    "id": "Novel-5bae1c96",
+    "question_type": "Fact Retrieval",
+    "question": "In the legends recounted in the narrative, who was condemned to the endless task of emptying Dozmare Pool?",
+    "answer": "Tregeagle was doomed to empty Dozmare Pool.",
+    "source": "Novel-44557",
+    "evidence": "Tregeagle was doomed to empty Dozmare Pool."
+  },
+  {
+    "id": "Novel-a5c06d63",
+    "question_type": "Fact Retrieval",
+    "question": "Within the travelers' account of their route through Cornwall, in which county is Land's End, the furthest western point described in the story, located?",
+    "answer": "Land's End is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Land's End is located in Cornwall."
+  },
+  {
+    "id": "Novel-4de99f79",
+    "question_type": "Fact Retrieval",
+    "question": "According to the Cornish folklore referenced in the narrative, where did the legendary figure Tregeagle have his dwelling?",
+    "answer": "Tregeagle had his dwelling in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Tregeagle had his dwelling in Cornwall."
+  },
+  {
+    "id": "Novel-ebb0af4d",
+    "question_type": "Fact Retrieval",
+    "question": "In the journey along the Cornish coastline, what notable location is described as being near Housel Cove?",
+    "answer": "Lizard is near Housel Cove.",
+    "source": "Novel-44557",
+    "evidence": "Lizard is near Housel Cove."
+  },
+  {
+    "id": "Novel-8217a825",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's description of coastal towns, near which location is the town of Falmouth situated?",
+    "answer": "Falmouth is located near FLUSHING.",
+    "source": "Novel-44557",
+    "evidence": "Falmouth is located near Flushing."
+  },
+  {
+    "id": "Novel-64042235",
+    "question_type": "Fact Retrieval",
+    "question": "During the traveler's route through Cornwall in the story, who is identified as having passed through the town of Penzance?",
+    "answer": "Charles passed through Penzance.",
+    "source": "Novel-44557",
+    "evidence": "Charles passed through Penzance."
+  },
+  {
+    "id": "Novel-b4100b78",
+    "question_type": "Fact Retrieval",
+    "question": "Within the discussion of poetry in the narrative, who is credited with moralising the poem 'Maud'?",
+    "answer": "Tennyson is credited with moralising 'Maud'.",
+    "source": "Novel-44557",
+    "evidence": "Tennyson is credited with moralising the poem 'Maud'."
+  },
+  {
+    "id": "Novel-d2bac092",
+    "question_type": "Fact Retrieval",
+    "question": "In the geographical descriptions in the story, where is Whitesand Bay stated to be located?",
+    "answer": "Whitesand Bay is in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Whitesand Bay is in Cornwall."
+  },
+  {
+    "id": "Novel-eae5175c",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative's overview of the region, what natural feature is described as being part of Cornwall?",
+    "answer": "The coast is part of Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "The coast is part of Cornwall."
+  },
+  {
+    "id": "Novel-e416a392",
+    "question_type": "Fact Retrieval",
+    "question": "Within the description of regional resources in the narrative, where is slate identified as being found?",
+    "answer": "Slate is found in Delabole.",
+    "source": "Novel-44557",
+    "evidence": "Slate is found in Delabole."
+  },
+  {
+    "id": "Novel-7d087b64",
+    "question_type": "Fact Retrieval",
+    "question": "From which prominent location was Roughtor visible, as experienced by the travelers during their visit to Cornwall?",
+    "answer": "Roughtor was visible from Land's End.",
+    "source": "Novel-44557",
+    "evidence": "Roughtor was visible from Land's End."
+  },
+  {
+    "id": "Novel-1af03c49",
+    "question_type": "Fact Retrieval",
+    "question": "According to the narrative, which coastal destination does Cornwall include among its notable features?",
+    "answer": "Cornwall has Kynance.",
+    "source": "Novel-44557",
+    "evidence": "Cornwall has Kynance."
+  },
+  {
+    "id": "Novel-2d5348fe",
+    "question_type": "Fact Retrieval",
+    "question": "Where is TINTAGEL, the legendary birthplace of King Arthur, said to be located in the narrative?",
+    "answer": "TINTAGEL is located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "TINTAGEL is located in Cornwall."
+  },
+  {
+    "id": "Novel-0dd6c56f",
+    "question_type": "Fact Retrieval",
+    "question": "Where is the Falmouth Hotel located according to the narrative?",
+    "answer": "Falmouth Hotel is in Falmouth.",
+    "source": "Novel-44557",
+    "evidence": "Falmouth Hotel is in Falmouth."
+  },
+  {
+    "id": "Novel-8ff5dd5a",
+    "question_type": "Complex Reasoning",
+    "question": "Within the context of Arthurian legend as discussed by the narrator in 'An Unsentimental Journey through Cornwall', what is the relationship between King Arthur and Sir Launcelot, and how is Sir Launcelot described in relation to King Arthur and the Knights of the Round Table?",
+    "answer": "Sir Launcelot was a knight of King Arthur and was one of the Knights of the Round Table.",
+    "source": "Novel-44557",
+    "evidence": "Sir Launcelot was a knight of King Arthur.; Sir Launcelot was one of the Knights of the Round Table."
+  },
+  {
+    "id": "Novel-322bb52d",
+    "question_type": "Complex Reasoning",
+    "question": "According to the narrator's reflections in 'An Unsentimental Journey through Cornwall', how is King Arthur associated with the Land of Lyonesse, and what is said about his journey there?",
+    "answer": "King Arthur is associated with the Land of Lyonesse and was said to have sailed there.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur is associated with the Land of Lyonesse.; King Arthur was said to have sailed to the Land of Lyonesse."
+  },
+  {
+    "id": "Novel-35fee661",
+    "question_type": "Complex Reasoning",
+    "question": "In 'An Unsentimental Journey through Cornwall', how does the narrator draw a comparison between King Arthur and John Curgenven?",
+    "answer": "King Arthur reminded the narrator of John Curgenven because King Arthur was described as having a face like the stroke-oar, which was the name given to John Curgenven.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur reminded the narrator of John Curgenven.; King Arthur was described as having a face like the stroke-oar.; The stroke-oar is the name given to John Curgenven."
+  },
+  {
+    "id": "Novel-ade4b34a",
+    "question_type": "Complex Reasoning",
+    "question": "In the narrative of 'An Unsentimental Journey through Cornwall', what is King Arthur's connection to Tintagel, and how is Tintagel described in relation to his legendary birth?",
+    "answer": "Tintagel is said to be the birthplace of King Arthur, and he is associated with Tintagel.",
+    "source": "Novel-44557",
+    "evidence": "Tintagel is said to be the birthplace of King Arthur.; King Arthur is associated with Tintagel."
+  },
+  {
+    "id": "Novel-462ecc23",
+    "question_type": "Complex Reasoning",
+    "question": "In 'An Unsentimental Journey through Cornwall', what is the reason for Princess Frederica of Hanover's visit to St. Michael's Mount?",
+    "answer": "Because Princess Frederica of Hanover visited the St. Aubyns at St. Michael's Mount.",
+    "source": "Novel-44557",
+    "evidence": "Princess Frederica of Hanover visited the St. Aubyns at St. Michael's Mount."
+  },
+  {
+    "id": "Novel-4f5a8531",
+    "question_type": "Complex Reasoning",
+    "question": "How does the narrator in 'An Unsentimental Journey through Cornwall' compare Mont St. Michel in Normandy to St. Michael's Mount in Cornwall, and what similarities are noted between the two locations?",
+    "answer": "Mont St. Michel is similar to St. Michael's Mount.",
+    "source": "Novel-44557",
+    "evidence": "Mont St. Michel is similar to St. Michael's Mount."
+  },
+  {
+    "id": "Novel-0e2be889",
+    "question_type": "Complex Reasoning",
+    "question": "What was Mary Mundy's relationship or attitude toward the Professor, as depicted during the narrator's visit to Mullion in 'An Unsentimental Journey through Cornwall'?",
+    "answer": "Mary Mundy admired the Professor and sends her duty to him.",
+    "source": "Novel-44557",
+    "evidence": "Mary Mundy admired the Professor.; Mary Mundy sends her duty to the Professor."
+  },
+  {
+    "id": "Novel-0d237b40",
+    "question_type": "Complex Reasoning",
+    "question": "In 'An Unsentimental Journey through Cornwall', what is Charles the driver's connection to Mullion?",
+    "answer": "Charles would take others to Mullion.",
+    "source": "Novel-44557",
+    "evidence": "Charles would take others to Mullion."
+  },
+  {
+    "id": "Novel-346b12e8",
+    "question_type": "Complex Reasoning",
+    "question": "How are St. Michael's Mount and Marazion geographically related?",
+    "answer": "St. Michael's Mount was opposite Marazion.",
+    "source": "Novel-44557",
+    "evidence": "St. Michael's Mount was opposite Marazion."
+  },
+  {
+    "id": "Novel-302a626f",
+    "question_type": "Complex Reasoning",
+    "question": "What is John Curgenven's connection to the Lizard coast in 'An Unsentimental Journey through Cornwall'?",
+    "answer": "John Curgenven rows on the Lizard coast and is a Cornish boatman.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven rows on the Lizard coast.; John Curgenven is a Cornish boatman."
+  },
+  {
+    "id": "Novel-e894a5f5",
+    "question_type": "Complex Reasoning",
+    "question": "In 'An Unsentimental Journey through Cornwall', what is the geographical relationship between the Devil's Frying-pan and Cadgwith?",
+    "answer": "The Devil's Frying-pan is near Cadgwith.",
+    "source": "Novel-44557",
+    "evidence": "The Devil's Frying-pan is near Cadgwith."
+  },
+  {
+    "id": "Novel-f473bcb0",
+    "question_type": "Complex Reasoning",
+    "question": "In 'An Unsentimental Journey through Cornwall', what is the legend regarding King Arthur, Excalibur, and Dozmare Pool?",
+    "answer": "King Arthur had Excalibur, which was thrown into Dozmare Pool.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur had Excalibur.; Excalibur was thrown into Dozmare Pool."
+  },
+  {
+    "id": "Novel-ade95016",
+    "question_type": "Complex Reasoning",
+    "question": "How is the sea described in relation to the Lizard in Cornwall in the narrative?",
+    "answer": "The sea was often rough at the Lizard.",
+    "source": "Novel-44557",
+    "evidence": "The sea was often rough at the Lizard."
+  },
+  {
+    "id": "Novel-8435c9f6",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between St. Rumon and Goonhilly Down as described in 'An Unsentimental Journey through Cornwall'?",
+    "answer": "St. Rumon settled in Goonhilly Down and made a cell and oratory there.",
+    "source": "Novel-44557",
+    "evidence": "St. Rumon settled in Goonhilly Down.; St. Rumon made a cell in Goonhilly Down.; St. Rumon made an oratory in Goonhilly Down."
+  },
+  {
+    "id": "Novel-4124f00f",
+    "question_type": "Complex Reasoning",
+    "question": "How does 'An Unsentimental Journey through Cornwall' describe the association between King Arthur and Lyonesse, and what is said about the legendary location of Lyonesse off the coast of Cornwall?",
+    "answer": "King Arthur is associated with Lyonesse, which is said to be located off Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur is associated with Lyonesse.; Lyonesse is said to be located off Cornwall."
+  },
+  {
+    "id": "Novel-fbc9e7ec",
+    "question_type": "Complex Reasoning",
+    "question": "In the context of 'An Unsentimental Journey through Cornwall', what is the connection between the St. Aubyn family and St. Michael's Mount?",
+    "answer": "St. Aubyns own St. Michael's Mount and live on St. Michael's Mount.",
+    "source": "Novel-44557",
+    "evidence": "St. Aubyns own St. Michael's Mount.; St. Aubyns live on St. Michael's Mount."
+  },
+  {
+    "id": "Novel-0cac7cc0",
+    "question_type": "Complex Reasoning",
+    "question": "How is Devil's Throat geographically connected to the Lizard area?",
+    "answer": "Devil's Throat is a feature of Kynance, which is near Lizard, and is part of Kynance Cove.",
+    "source": "Novel-44557",
+    "evidence": "Devil's Throat is a feature of Kynance.; Kynance is near Lizard.; Devil's Throat is part of Kynance Cove."
+  },
+  {
+    "id": "Novel-bbd22f83",
+    "question_type": "Complex Reasoning",
+    "question": "Through which sequence of locations is Lizard Lights ultimately connected to Cornwall according to the narrative chains?",
+    "answer": "Lizard Lights is near Housel Cove, which is near Lizard, which is near Kynance, but only Kynance Cove is stated to be in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Lizard Lights is near Housel Cove.; Housel Cove is near Lizard.; Lizard is near Kynance.; Kynance Cove is stated to be in Cornwall."
+  },
+  {
+    "id": "Novel-31203e12",
+    "question_type": "Complex Reasoning",
+    "question": "What multi-step connection exists between John Curgenven and the launce fish as described in the subgraph chains?",
+    "answer": "John Curgenven is in a boat that ventures into a cave containing water that is home to fishes pursuing launce found at Lizard.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven is in a boat.; The boat ventures into a cave.; The cave contains water.; The water is home to fishes pursuing launce.; The launce is found at Lizard."
+  },
+  {
+    "id": "Novel-4d52d441",
+    "question_type": "Complex Reasoning",
+    "question": "How is Devil's Throat connected to the Cornish coast in the narrative?",
+    "answer": "The Cornish coast has Kynance, which has the feature Devil's Throat.",
+    "source": "Novel-44557",
+    "evidence": "The Cornish coast has Kynance.; Kynance has the feature Devil's Throat."
+  },
+  {
+    "id": "Novel-57a3172f",
+    "question_type": "Complex Reasoning",
+    "question": "How is John Curgenven's boat connected to the fishes pursuing launce in the narrative?",
+    "answer": "John Curgenven is in a boat that ventures into a cave with water containing fishes pursuing launce.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven is in a boat.; The boat ventures into a cave.; The cave has water.; The water contains fishes pursuing launce."
+  },
+  {
+    "id": "Novel-2822d1b2",
+    "question_type": "Complex Reasoning",
+    "question": "What chain of reasoning connects launce, a type of fish, to Falmouth?",
+    "answer": "Launce is found at Lizard, which is near Falmouth.",
+    "source": "Novel-44557",
+    "evidence": "Launce is found at Lizard.; Lizard is near Falmouth."
+  },
+  {
+    "id": "Novel-f021f0db",
+    "question_type": "Complex Reasoning",
+    "question": "What is the multi-step relationship between Housel Cove and Kynance?",
+    "answer": "Housel Cove is near Lizard, which is near Kynance, which is associated with Devil's Throat, part of Kynance Cove, located at Kynance.",
+    "source": "Novel-44557",
+    "evidence": "Housel Cove is near Lizard.; Lizard is near Kynance.; Kynance is associated with Devil's Throat.; Devil's Throat is part of Kynance Cove.; Kynance Cove is located at Kynance."
+  },
+  {
+    "id": "Novel-4581210b",
+    "question_type": "Complex Reasoning",
+    "question": "How is King Arthur indirectly connected to Housel Cove through locations and comparisons?",
+    "answer": "King Arthur was compared to John Curgenven, who showed Lizard Lights, which is near Housel Cove.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur was compared to John Curgenven.; John Curgenven showed Lizard Lights.; Lizard Lights is near Housel Cove."
+  },
+  {
+    "id": "Novel-8a80ef8b",
+    "question_type": "Complex Reasoning",
+    "question": "How is John Curgenven's boat journey connected to the launce fish and the area around Lizard?",
+    "answer": "John Curgenven is in a boat that ventures into a cave with water containing fishes pursuing launce, which is found at Lizard.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven is in a boat.; John Curgenven's boat ventures into a cave.; The cave contains water with fishes pursuing launce.; Launce is found at Lizard."
+  },
+  {
+    "id": "Novel-86890312",
+    "question_type": "Complex Reasoning",
+    "question": "Through which multi-hop sequence does King Arthur's comparison to John Curgenven connect to Kynance Cove?",
+    "answer": "King Arthur was compared to John Curgenven. Lizard Lights is near Housel Cove, near Lizard, near Kynance, which has Devil's Throat, part of Kynance Cove.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur was compared to John Curgenven.; Lizard Lights is near Housel Cove.; Housel Cove is near Lizard.; Lizard is near Kynance.; Kynance has a feature called Devil's Throat.; Devil's Throat is part of Kynance Cove."
+  },
+  {
+    "id": "Novel-95a177b7",
+    "question_type": "Complex Reasoning",
+    "question": "How is the feature Devil's Throat contextually linked to Cornwall via a chain of locations?",
+    "answer": "Devil's Throat is part of Kynance Cove, which is in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Devil's Throat is part of Kynance Cove.; Kynance Cove is in Cornwall."
+  },
+  {
+    "id": "Novel-6b231e0b",
+    "question_type": "Complex Reasoning",
+    "question": "What is the connection between Kynance and Cornwall as established by the narrative chains?",
+    "answer": "Kynance Cove, which includes Kynance and the feature Devil's Throat, is in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "Kynance Cove includes Kynance.; Kynance includes the feature Devil's Throat.; Kynance Cove is in Cornwall."
+  },
+  {
+    "id": "Novel-2cd5d08d",
+    "question_type": "Complex Reasoning",
+    "question": "How does King Arthur's comparison to John Curgenven link to the Lizard region?",
+    "answer": "King Arthur was compared to John Curgenven, who talked about Lizard Lights, which is near Housel Cove, near Lizard.",
+    "source": "Novel-44557",
+    "evidence": "King Arthur was compared to John Curgenven.; John Curgenven talked about Lizard Lights.; Lizard Lights is near Housel Cove.; Housel Cove is near Lizard."
+  },
+  {
+    "id": "Novel-74d6c566",
+    "question_type": "Complex Reasoning",
+    "question": "What route links Lizard Lights to Kynance Cove through physical features and locations?",
+    "answer": "Lizard Lights is near Housel Cove, near Lizard, near Kynance, which has a feature called Devil's Throat, which is part of Kynance, which is located at Kynance Cove.",
+    "source": "Novel-44557",
+    "evidence": "Lizard Lights is near Housel Cove.; Housel Cove is near Lizard.; Lizard is near Kynance.; Kynance has a feature called Devil's Throat.; Devil's Throat is part of Kynance.; Kynance is located at Kynance Cove."
+  },
+  {
+    "id": "Novel-7f6df944",
+    "question_type": "Complex Reasoning",
+    "question": "What is the relationship between Falmouth and Flushing as described in the narrative?",
+    "answer": "Falmouth is located near Flushing.",
+    "source": "Novel-44557",
+    "evidence": "Falmouth is located near Flushing."
+  },
+  {
+    "id": "Novel-ff793656",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative describing the group's visit to St. Michael's Mount in Cornwall, which notable historical or legendary figures—such as Sir John Arundel, Henry de la Pomeroy, the Giant Cormoran, and the St. Aubyn family—are connected to St. Michael's Mount, and what specific roles or events link them to this location?",
+    "answer": "St. Michael's Mount is steeped in both legend and history, its rocky silhouette echoing with the stories of remarkable figures across the centuries. The earliest inhabitant, the giant Cormoran, is said to have ruled the Mount until he was slain by the valiant Jack, a tale that lingers in the imagination as the group rows beneath the moonlit cliffs. From legend, the narrative shifts to history: Sir John Arundel met his end on the Mount's sands and was laid to rest in its chapel, while Henry de la Pomeroy, taken prisoner within the castle walls, chose to end his life by being bled to death. The St. Aubyn family, who purchased the Mount in 1660, have made it their home ever since, hosting royalty and continuing the Mount's living legacy. Each figure—giant, knight, noble, and family—has left an indelible mark on the Mount, weaving together myth and memory in its enduring presence.",
+    "source": "Novel-44557",
+    "evidence": "Sir John Arundel is associated with St. Michael's Mount.; Sir John Arundel was slain on the sands of St. Michael's Mount.; Henry de la Pomeroy is associated with St. Michael's Mount.; Henry de la Pomeroy caused himself to be bled to death on St. Michael's Mount.; The Giant Cormoran lived on St. Michael's Mount.; The St. Aubyn family lives on St. Michael's Mount.; St. Michael's Mount is noted for its similarity to Mont St. Michel in Normandy."
+  },
+  {
+    "id": "Novel-48edb564",
+    "question_type": "Contextual Summarize",
+    "question": "During the evening outing described in the novel, what significance does the sea and the cove hold for Charles and the young people as they embark on a boat ride to watch the sunset and moonrise, considering the vastness of the sea (which is said to have no other bound than America and is compared to the Mediterranean), the incoming tide at the cove, and Charles's observation that it was a fine evening for rowing?",
+    "answer": "For Charles and the young people, the sea and the cove held a sense of boundless adventure and quiet wonder. The vast expanse of water, stretching all the way to the distant shores of America and shimmering with hues as blue as the Mediterranean, seemed to invite them into its embrace. As the tide crept into the cove, transforming the familiar landscape, the group seized the rare opportunity to set out in a boat—an act made all the more special by the usually rough seas and difficult landings of the Cornish coast. Charles, ever prudent yet quietly excited, noted that it was a fine evening for rowing, the calmness of the water and the promise of watching both sunset and moonrise from the open sea lending the outing a magical, almost dreamlike quality. For a time, the world narrowed to the gentle rhythm of oars and the endless horizon, the cove and the sea becoming a stage for memory and youthful delight.",
+    "source": "Novel-44557",
+    "evidence": "The sea is described as having no other bound than America.; The sea is compared to the Mediterranean.; The tide was coming in at the cove.; The young folks got into a boat at the cove.; The young folks were heard of no more for a time after getting into the boat.; The boat was used to watch the sunset on the sea.; The boat was used to watch the moonrise on the sea.; Charles remarked it was a fine evening for a row on the sea."
+  },
+  {
+    "id": "Novel-296c7595",
+    "question_type": "Contextual Summarize",
+    "question": "According to the narrative's exploration of Cornish landmarks, what is the significance of Tintagel in the legend of King Arthur?",
+    "answer": "Tintagel stands as a windswept, sea-battered landmark perched between legend and history, its dramatic ruins clinging to the Cornish cliffs. Traditionally, it is revered as the birthplace of King Arthur, a place where myth and reality blur. The castle itself, now worn by centuries of storms and tides, is intimately tied to Arthur’s story—not only as the supposed site of his birth, but as a setting steeped in the intrigue and romance of his legend. The very landscape, with its dangerous hollows and sea-carved caves, evokes the mystery and grandeur of Arthurian tales, making Tintagel a powerful symbol of the enduring allure of King Arthur’s legacy.",
+    "source": "Novel-44557",
+    "evidence": "Tintagel is traditionally considered the birthplace of King Arthur.; Tintagel is closely associated with the legend of King Arthur."
+  },
+  {
+    "id": "Novel-e8019816",
+    "question_type": "Fact Retrieval",
+    "question": "How is the Lizard related to Cornwall?",
+    "answer": "The Lizard is a village located in Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "The Lizard is a village.; The Lizard is located in Cornwall."
+  },
+  {
+    "id": "Novel-733f63f7",
+    "question_type": "Contextual Summarize",
+    "question": "Within the context of the group's travels along the Lizard coast in Cornwall, who is John Curgenven, and what role does he play as a Cornish boatman for the visitors exploring this region?",
+    "answer": "John Curgenven is a stalwart Cornish boatman whose steady arm and honest, fearless demeanor make him an indispensable companion for visitors exploring the wild beauty of the Lizard coast. Trusted by the group to guide them safely through the region’s treacherous waters and mysterious caves, John’s local knowledge and calm courage inspire both confidence and admiration. As the group bobs along the sunlit waves, they come to rely on his skill and integrity, feeling a pang of sadness at the thought of parting from such a steadfast guide and friend.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven is a Cornish boatman.; John Curgenven rows along the Lizard coast."
+  },
+  {
+    "id": "Novel-2ab4a26d",
+    "question_type": "Contextual Summarize",
+    "question": "In the account of the group's journey through Cornwall, what is the significance of St. Michael's Mount as a location in England, how is it described as being similar to Mont St. Michel in Normandy, and what is the role of the St. Aubyn family in relation to owning the Mount?",
+    "answer": "St. Michael's Mount is located in England, is similar to Mont St. Michel in Normandy, and is owned by St. Aubyns.",
+    "source": "Novel-44557",
+    "evidence": "St. Michael's Mount is located in England.; St. Michael's Mount is similar to Mont St. Michel in Normandy.; St. Michael's Mount is owned by the St. Aubyn family."
+  },
+  {
+    "id": "Novel-f24f442f",
+    "question_type": "Contextual Summarize",
+    "question": "Based on the descriptions throughout the narrative, what are some of the cultural traditions and unique aspects of Cornwall, such as the use of the Cornish language on Goonhilly Down, the celebration of Cornish heroes at Tintagel, the belief that Cornish cream can only be made from Cornish cows, and the local legend of the Cornish chough haunting Cornwall?",
+    "answer": "Cornwall is steeped in unique cultural traditions and legends that set it apart from the rest of England. The ancient Cornish language, now nearly extinct but lingering in the names of places and people, is woven into the very landscape—Goonhilly Down, for instance, derives its name from this old tongue, evoking the region's history as a vast hunting ground. At Tintagel, the ruins and windswept cliffs are imbued with the memory of Cornish heroes and the shadowy figures of Arthurian legend, making it a place where myth and history seem to merge. The people of Cornwall also fiercely protect their culinary heritage, insisting that true Cornish cream can only be made from the milk of Cornish cows, a point of local pride. And throughout the countryside, the legend of the Cornish chough—a striking black bird with a red beak and legs—endures, with tales that its haunting presence is a symbol of Cornwall itself, forever watching over the land.",
+    "source": "Novel-44557",
+    "evidence": "Cornish is a language associated with Goonhilly Down.; Cornish heroes are celebrated at Tintagel.; Cornish cream can only be made from Cornish cows.; The Cornish chough is said to haunt Cornwall."
+  },
+  {
+    "id": "Novel-3b90994e",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of Arthurian legend as presented in the narrative, what connections are established between King Arthur, Sir Bedevere, and the legendary sword Excalibur?",
+    "answer": "Within the narrative, Sir Bedevere emerges as King Arthur’s last loyal companion, bound to him by duty and deep affection. As Arthur’s reign crumbles and his life ebbs away after the final battle at Camelford, it is Bedevere who carries the wounded king to the mist-shrouded shore of Dozmare Pool. There, at Arthur’s command, Bedevere is entrusted with the solemn task of casting the legendary sword Excalibur into the waters—a symbolic act marking the end of an era. This poignant moment not only cements the profound connection between Arthur, Bedevere, and Excalibur, but also weaves together themes of loyalty, loss, and the enduring power of legend, as the sword vanishes beneath the surface and Arthur is borne away by the mourning queens to a fate shrouded in mystery.",
+    "source": "Novel-44557",
+    "evidence": "Sir Bedevere is closely linked to King Arthur.; Sir Bedevere carried King Arthur.; Sir Bedevere threw Excalibur into Dozmare Pool.; The actions of Sir Bedevere reinforce the narrative bond between him and King Arthur.; The actions of Sir Bedevere reinforce the narrative bond between him and Excalibur."
+  },
+  {
+    "id": "Novel-613d4e81",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative illustrate the interplay between Cornwall's geography—including locations such as the Lizard, Kynance, and Dozmare Pool—and the exposition of Arthurian legend, by linking figures like Arthur, Sir Bedevere, and the casting of Excalibur into these Cornish sites?",
+    "answer": "Cornwall's geography—its windswept moors, haunting pools, and rugged coastlines at places like the Lizard, Kynance, and Dozmare Pool—serves as a living canvas for the Arthurian legend. The narrative breathes life into these landscapes by entwining them with the fates of Arthur, Sir Bedevere, and the casting of Excalibur. Dozmare Pool, for instance, is imagined as a melancholy, ghostly lake, shrouded in mist and legend, where the echoes of Arthur’s disappearance and the spectral presence of figures like Tregeagle mingle with the mythic act of Excalibur’s return to the waters. In this way, the Cornish sites are not mere backdrops, but active participants in the legend, their eerie beauty and storied pasts deepening the sense of mystery and timelessness that surrounds Arthur and his knights.",
+    "source": "Novel-44557",
+    "evidence": "Cornwall's geography includes sites such as Lizard, Kynance, and Dozmare Pool.; Cornwall's geography is integrated into the exposition of Arthurian legend.; Arthur is linked to the locations of Lizard, Kynance, and Dozmare Pool.; Sir Bedevere is linked to the locations of Lizard, Kynance, and Dozmare Pool.; Excalibur is linked to the locations of Lizard, Kynance, and Dozmare Pool."
+  },
+  {
+    "id": "Novel-69348684",
+    "question_type": "Contextual Summarize",
+    "question": "How is the scene depicted in which John Curgenven, while in a boat near the Lizard region, ventures into a cave that contains water inhabited by fishes pursuing launce, and how does this episode illustrate the local natural ecosystem encountered during such explorations?",
+    "answer": "As John Curgenven guides the boat into the shadowy mouth of the cave near the Lizard, the water beneath them glimmers with a deep olive green clarity, revealing a hidden world teeming with life. Fishes dart and swirl, relentlessly pursuing shoals of launce through the crystalline depths, while the cave’s high-vaulted roof and walls shimmer with hues of rose-pink, dark brown, and purple. The scene captures the vibrant, interconnected ecosystem of the Cornish coast, where the interplay of light, color, and movement brings the natural world into vivid relief for those who dare to explore its mysterious recesses.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven ventures into a cave while in a boat near the Lizard region.; The cave contains water.; The water in the cave is inhabited by fishes.; The fishes in the cave are pursuing launce.; This episode illustrates the natural ecosystem near Lizard."
+  },
+  {
+    "id": "Novel-19dda12f",
+    "question_type": "Contextual Summarize",
+    "question": "How is the Cornish coast described as a setting within the narrative, specifically in relation to the Lizard region and its inclusion of Kynance Cove as a notable location in Cornwall?",
+    "answer": "The Cornish coast, particularly around the Lizard region, is depicted as a dramatic and enchanting landscape, where sheer cliffs form an imposing barrier for miles, only to be broken by sudden, verdant clefts that lead down to hidden coves. Among these, Kynance Cove stands out as a jewel of the coastline—a secluded, almost magical nook accessible only at low tide, with its 'kitchen' and 'drawing-room' of natural rock formations. The narrative paints Kynance Cove as the most perfect example of these secret havens, its crystalline waters and sheltered beaches inviting both adventure and delight, and firmly situates it within the wild beauty of Cornwall.",
+    "source": "Novel-44557",
+    "evidence": "The Lizard is part of the Cornish coast.; Kynance Cove is included in the Cornish coast.; Kynance Cove is located in Cornwall."
+  },
+  {
+    "id": "Novel-6aa2cc33",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative chain connect Cornwall's legendary expression to Arthur and his associates, particularly through Arthur's relationship with Sir Bedevere and the pivotal event of Excalibur being thrown away?",
+    "answer": "Cornwall’s legendary spirit is vividly embodied in the figure of Arthur, whose story is intimately tied to the landscape through his final moments with Sir Bedevere. The narrative traces Arthur’s downfall—betrayed by his nephew Mordred and wounded at Camelford—culminating in the poignant scene where, sensing his end, Arthur entrusts his last loyal knight, Sir Bedevere, to cast Excalibur into the waters of a Cornish mere, believed to be Dozmare Pool. This act, followed by Arthur’s mysterious departure with the mourning queens across the water, weaves the mythic identity of Cornwall into the very fabric of Arthurian legend, making the region a living testament to the enduring tales of Arthur and his companions.",
+    "source": "Novel-44557",
+    "evidence": "Cornwall's legendary expression is connected to Arthur.; Arthur is associated with Sir Bedivere.; Arthur is linked to pivotal events like the throwing of Excalibur.; The narrative ties Cornwall's identity to Arthurian legend."
+  },
+  {
+    "id": "Novel-b418b955",
+    "question_type": "Contextual Summarize",
+    "question": "Within the context of Cornwall's geography, how is the feature known as the Devil's Throat depicted in the narrative?",
+    "answer": "The Devil's Throat is depicted as a striking and memorable landmark within Kynance Cove, itself a dramatic and picturesque part of Cornwall's rugged coastline. Nestled in the broader Lizard region, the Devil's Throat stands out among the cove's unique geological formations, its presence contributing to the wild, untamed beauty that characterizes this stretch of the Cornish coast.",
+    "source": "Novel-44557",
+    "evidence": "The Devil's Throat is a prominent feature of Kynance Cove.; Kynance Cove is located in Cornwall."
+  },
+  {
+    "id": "Novel-b4e9ccdc",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative depict the interrelationships among bodies of water, marine life, and local fishing practices near the Lizard area, particularly in scenes where boats venture into caves with waters inhabited by fishes that pursue launce found at Lizard?",
+    "answer": "Caves near Lizard contain water inhabited by fishes that pursue launce, which is found at Lizard, showing an interconnected aquatic environment relevant to local fishing.",
+    "source": "Novel-44557",
+    "evidence": "Caves near Lizard contain water inhabited by fishes.; Fishes in the caves pursue launce.; Launce is found at Lizard.; The narrative shows an interconnected aquatic environment relevant to local fishing."
+  },
+  {
+    "id": "Novel-ec97d8c6",
+    "question_type": "Contextual Summarize",
+    "question": "In the depiction of the natural environment around the Lizard, what role do caves play, particularly in relation to exploration by boat, their watery interiors, and the presence of aquatic life such as fishes and launce?",
+    "answer": "Caves around the Lizard are depicted as mysterious and vital elements of the natural landscape, their watery interiors inviting exploration by boat. Within these shadowy chambers, clear springs and subterranean streams teem with aquatic life—shrimps, fishes, and especially the elusive launce, a sand-eel unique to these coasts. The presence of such life, coupled with the caves' hidden beauty and the thrill of venturing into their depths, enriches the sense of the Lizard as a place where nature's wonders are both abundant and intimately connected to the rhythms of the sea.",
+    "source": "Novel-44557",
+    "evidence": "Caves are significant natural features explored by boat.; Caves contain water.; Caves support aquatic life such as fishes and launce.; Caves enhance the depiction of the area's rich environment."
+  },
+  {
+    "id": "Novel-5c7e2948",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative structure establish a sense of journey or movement across Cornish locales by describing a sequence from Lizard Lights to Housel Cove, Lizard, and Kynance—with features such as the Devil's Throat at Kynance Cove—culminating in legendary or mythic events?",
+    "answer": "The structure describes a sequence from Lizard Lights to Housel Cove, Lizard, Kynance, and Kynance Cove, often culminating with legendary events, producing a sense of journey through both real and mythic landscapes.",
+    "source": "Novel-44557",
+    "evidence": "The narrative describes a sequence from Lizard Lights to Housel Cove.; The sequence includes Lizard and Kynance.; The sequence often culminates with legendary events.; The structure produces a sense of journey through real and mythic landscapes."
+  },
+  {
+    "id": "Novel-ded63238",
+    "question_type": "Contextual Summarize",
+    "question": "How does the narrative describe the relationship between natural features—such as caves with water and marine life—and human activity in the Lizard area, as exemplified by John Curgenven's boat explorations into these caves?",
+    "answer": "The narrative vividly portrays the natural features—caves with their vaulted, multicolored roofs, mysterious darkness, and teeming marine life—as both awe-inspiring and slightly forbidding realms that beckon human curiosity. John Curgenven’s boat explorations into these shadowy caverns exemplify the delicate interplay between human presence and the wild, untamed environment. The act of rowing into the cave, the echoing thunder of a pistol shot, and the mingled feelings of solemnity and delight among the explorers all underscore how human activity is both shaped by and responsive to the unique character of these natural spaces. The narrative thus weaves together the thrill of adventure, the beauty and danger of the caves, and the trust placed in local knowledge, embodied by John Curgenven, to highlight a profound integration of human and ecological elements along the Lizard coast.",
+    "source": "Novel-44557",
+    "evidence": "Natural features like caves with water and marine life are sites of exploration.; John Curgenven explores these caves by boat.; The exploration highlights the integration of human and ecological elements."
+  },
+  {
+    "id": "Novel-c3bb8d53",
+    "question_type": "Contextual Summarize",
+    "question": "How is the motif of proximity or nearness used in the narrative to construct the spatial logic among Cornish sites, specifically connecting landmarks such as Lizard Lights, Housel Cove, Lizard, and Kynance as closely related locations?",
+    "answer": "The motif of nearness links sites such as Lizard Lights, Housel Cove, Lizard, and Kynance, building a spatial logic that situates these landmarks in close relation to one another.",
+    "source": "Novel-44557",
+    "evidence": "The motif of nearness links sites such as Lizard Lights, Housel Cove, Lizard, and Kynance.; The motif builds a spatial logic among these landmarks.; The landmarks are situated in close relation to one another."
+  },
+  {
+    "id": "Novel-dead7b52",
+    "question_type": "Contextual Summarize",
+    "question": "What does the narrative chain reveal about John Curgenven's connection to the Lizard region and Cornish nature, as seen in his exploration of caves by boat where the caves contain water and support populations of fishes?",
+    "answer": "John Curgenven is associated with exploring caves by boat, where the caves have water that contains fishes, exemplifying the link between local characters and natural features.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven explores caves by boat.; The caves contain water that supports populations of fishes.; The exploration exemplifies the link between local characters and natural features."
+  },
+  {
+    "id": "Novel-9d9b1ed1",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are a fish living in the cave near Lizard. Write a diary entry about your encounter with John Curgenven’s boat and the launce.",
+    "answer": "Fish’s Diary: Today was most unusual. The tranquil green depths of our cave were disturbed by the sudden arrival of a boat, its wooden hull gliding cautiously into our world of shifting light and shadow. John Curgenven, the human with the steady gaze, leaned over the side, his eyes searching the water as if he could truly understand our lives below. My fellow fishes and I scattered in quicksilver bursts, weaving through the shoal of launce that flickered like living silver in the filtered sunlight. The launce, ever swift and elusive, hugged the rocks near Lizard, wary of both us and the looming shadow above. The water itself seemed to tremble with the presence of the humans, their voices echoing through the vaulted, rose-tinted cave, making the familiar currents feel strange and unsettled. When the boat finally retreated, the cave felt quieter, but the memory of their intrusion lingered like a ripple long after the surface had stilled.",
+    "source": "Novel-44557",
+    "evidence": "A boat ventured into the watery cave.; John Curgenven was inside the boat.; The fish darted around, chasing launce.; Launce is swift and keeps to the waters near Lizard.; The presence of humans changed the currents."
+  },
+  {
+    "id": "Novel-dca8ac49",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are launce, a fish found at Lizard. Write a diary entry about the day the boat ventured into your cave.",
+    "answer": "Launce’s Diary: The day was peaceful until a boat, with John Curgenven aboard, entered our cave. The water stirred as the boat’s shadow passed over us. The other fishes, always chasing me, seemed distracted by the newcomers. I kept close to the rocks at Lizard, wary of both humans and my fellow fish.",
+    "source": "Novel-44557",
+    "evidence": "A boat with John Curgenven aboard entered the cave.; The water stirred as the boat's shadow passed over the fish.; The other fishes seemed distracted by the newcomers.; The launce kept close to the rocks at Lizard."
+  },
+  {
+    "id": "Novel-e89fa155",
+    "question_type": "Creative Generation",
+    "question": "Retell the scene of King Arthur’s comparison to John Curgenven and the exploration of the Cornish coastline as a newspaper article.",
+    "answer": "Cornwall Chronicle — In a scene reminiscent of Arthurian legend, local fisherman John Curgenven has drawn comparisons to King Arthur himself from those who have encountered him along the rugged Cornish coast. With a quiet dignity and a kindly, paternal smile, Curgenven is often seen guiding his boat near Housel Cove and the luminous Lizard Lights, his presence evoking both refinement and strength despite his rough fisherman’s attire. Witnesses describe his blue, keen eyes—'as blue as a child's, or as Tennyson describes King Arthur's'—and his gentle manner with both young and old. The coastline he frequents, with its dramatic features like Kynance and the Devil’s Throat, remains steeped in legend and local pride, inspiring speculation that the spirit of Arthur may yet live on in Cornwall’s own sons.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven has been compared to the legendary King Arthur.; Witnesses along the Cornish coast made the comparison.; Curgenven was seen navigating the waters near Lizard.; Curgenven was recently near Housel Cove.; Curgenven was near the famed Lizard Lights.; The coastline features Kynance and Devil’s Throat.; The coastline inspires both legend and local pride."
+  },
+  {
+    "id": "Novel-6956692c",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the journey of John Curgenven in his boat and his remarks on Lizard Lights as a news article, highlighting the nearby features.",
+    "answer": "The Lizard Gazette — Local seafarer John Curgenven was recently spotted expertly navigating his boat near the iconic Lizard Lights, their beams stretching far across the darkening sea. Curgenven, whose calm strength and gentle humor have earned him comparisons to the legendary King Arthur, spoke with admiration of the lights, recalling, 'Many's the time I've sat and read my newspaper by them a quarter of a mile off. They're seen through the blackest night, the blacker the brighter, seen through everything—except fog.' As he ferried his passengers past Housel Cove and the dramatic cliffs of the Lizard, the group was treated to the sights and sounds of the coast: the distant hum of the foghorn, the treacherous beauty of Kynance, and the mysterious Devil’s Throat. The journey, both exhilarating and tinged with the melancholy of parting, highlighted the enduring allure of this storied coastline and the steadfast character of those who call it home.",
+    "source": "Novel-44557",
+    "evidence": "John Curgenven was seen aboard his boat near the iconic Lizard Lights.; Curgenven is often compared to the legendary King Arthur.; Curgenven remarked on the beauty of the lights.; Curgenven was navigating waters close to Housel Cove.; The region is noted for the proximity of Kynance and the Devil’s Throat.; The region remains a hub for both history and natural wonders."
+  },
+  {
+    "id": "Novel-27b6e451",
+    "question_type": "Creative Generation",
+    "question": "Imagine you are a visitor to Kynance Cove. Write a diary entry describing your impressions of the Devil’s Throat and its legendary connections.",
+    "answer": "Diary: Today I visited Kynance Cove, a place of wild beauty. The Devil’s Throat is both awe-inspiring and eerie, carved into the coastline. Locals say King Arthur once passed this way, and the cove’s position in Cornwall makes the legends come alive. I stood at the edge, imagining ancient knights and mystical swords.",
+    "source": "Novel-44557",
+    "evidence": "The visitor went to Kynance Cove.; Kynance Cove is described as a place of wild beauty.; The Devil’s Throat is carved into the coastline.; The Devil’s Throat is described as awe-inspiring and eerie.; Locals say King Arthur once passed this way.; The cove’s position in Cornwall makes the legends come alive.; The visitor imagined ancient knights and mystical swords."
+  }
+]

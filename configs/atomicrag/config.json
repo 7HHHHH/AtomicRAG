@@ -1,0 +1,11 @@
+{
+  "_comment": "Edit llm.env for local LLM credentials. This file only controls application-level parameters.",
+  "models": {
+    "openai": {
+      "max_concurrency": 200
+    }
+  },
+  "evaluation": {
+    "max_concurrency": 200
+  }
+}

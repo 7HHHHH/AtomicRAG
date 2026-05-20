@@ -1,0 +1,578 @@
+[
+  {
+    "id": "Novel-6580dc7a",
+    "question_type": "Fact Retrieval",
+    "question": "During the events described in Samuel Pepys's diary, who was the lady that dined with him, as recorded in his daily account?",
+    "answer": "The Lady",
+    "source": "Novel-4128",
+    "evidence": "The lady that dined with Samuel Pepys is referred to as 'The Lady'."
+  },
+  {
+    "id": "Novel-9a0c1ed4",
+    "question_type": "Fact Retrieval",
+    "question": "According to one entry in Samuel Pepys's diary, which individual did Pepys pay a visit to during his daily activities?",
+    "answer": "Greatorex",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys paid a visit to an individual named Greatorex."
+  },
+  {
+    "id": "Novel-0cac50ed",
+    "question_type": "Fact Retrieval",
+    "question": "In Samuel Pepys's diary, with whom did Pepys have a conversation during the course of his recorded events?",
+    "answer": "Tom",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had a conversation with an individual named Tom."
+  },
+  {
+    "id": "Novel-eefdc433",
+    "question_type": "Fact Retrieval",
+    "question": "How did the Lady treat Samuel Pepys when he visited her at the Wardrobe, as detailed in his diary account?",
+    "answer": "Kindly",
+    "source": "Novel-4128",
+    "evidence": "The Lady treated Samuel Pepys kindly when he visited her at the Wardrobe."
+  },
+  {
+    "id": "Novel-6ded047c",
+    "question_type": "Fact Retrieval",
+    "question": "For which individuals did Mr. Pepys prepare a special collation, as noted in his diary record of hospitality?",
+    "answer": "Sir Williams",
+    "source": "Novel-4128",
+    "evidence": "Mr. Pepys prepared a special collation for Sir Williams."
+  },
+  {
+    "id": "Novel-38953b85",
+    "question_type": "Fact Retrieval",
+    "question": "To which location did Samuel Pepys travel during the events recorded in his diary, specifically as part of his official duties?",
+    "answer": "Deptford",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys traveled to Deptford during the events recorded in his diary.; Samuel Pepys traveled to Deptford as part of his official duties."
+  },
+  {
+    "id": "Novel-4dc9127d",
+    "question_type": "Fact Retrieval",
+    "question": "During a social occasion described in Samuel Pepys's diary, who was the companion that shared a drink with him?",
+    "answer": "Sir W. Pen",
+    "source": "Novel-4128",
+    "evidence": "Sir W. Pen shared a drink with Samuel Pepys during a social occasion described in his diary."
+  },
+  {
+    "id": "Novel-54b3e97f",
+    "question_type": "Fact Retrieval",
+    "question": "According to the diary, which individual drank with Mr. Pepys during one of his social encounters?",
+    "answer": "Mr. Starling",
+    "source": "Novel-4128",
+    "evidence": "Mr. Starling drank with Mr. Pepys during one of his social encounters."
+  },
+  {
+    "id": "Novel-142025a5",
+    "question_type": "Fact Retrieval",
+    "question": "During the diplomatic events noted in Samuel Pepys's diary, which foreign representative took leave of the King?",
+    "answer": "Portuguese Embassador",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King during the diplomatic events noted in Samuel Pepys's diary."
+  },
+  {
+    "id": "Novel-0b0c4cf9",
+    "question_type": "Fact Retrieval",
+    "question": "In the narrative of Samuel Pepys's diary, with whom was my Lord angry during the preparations for a voyage?",
+    "answer": "W. Howe",
+    "source": "Novel-4128",
+    "evidence": "My Lord was angry with W. Howe during the preparations for a voyage."
+  },
+  {
+    "id": "Novel-712b02a6",
+    "question_type": "Fact Retrieval",
+    "question": "Whom did my Lord issue orders to during the organizational matters described in Samuel Pepys's diary?",
+    "answer": "Mr. Creed",
+    "source": "Novel-4128",
+    "evidence": "My Lord issued orders to Mr. Creed during the organizational matters described in Samuel Pepys's diary."
+  },
+  {
+    "id": "Novel-daac4d33",
+    "question_type": "Fact Retrieval",
+    "question": "On the occasion described in Samuel Pepys's diary, who accompanied Samuel Pepys at dinner?",
+    "answer": "Samuel Pepys dined with Lady.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys dined with a Lady on the occasion described in his diary."
+  },
+  {
+    "id": "Novel-e31f34b7",
+    "question_type": "Fact Retrieval",
+    "question": "According to Samuel Pepys's diary, who was the person with whom Pepys had a significant conversation during his daily events?",
+    "answer": "Samuel Pepys had a talk with Tom.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had a talk with Tom during his daily events."
+  },
+  {
+    "id": "Novel-bff01916",
+    "question_type": "Fact Retrieval",
+    "question": "During the time chronicled in the diary, what item did Mr. Holden send, as mentioned in his interaction with Samuel Pepys?",
+    "answer": "Mr. Holden sent Bever.",
+    "source": "Novel-4128",
+    "evidence": "Mr. Holden sent Bever as mentioned in his interaction with Samuel Pepys."
+  },
+  {
+    "id": "Novel-85d1a489",
+    "question_type": "Fact Retrieval",
+    "question": "At which location did the Lady treat Samuel Pepys kindly, as recounted in his diary?",
+    "answer": "Lady treated Samuel Pepys kindly at the Wardrobe.",
+    "source": "Novel-4128",
+    "evidence": "The Lady treated Samuel Pepys kindly at the Wardrobe."
+  },
+  {
+    "id": "Novel-84c4f293",
+    "question_type": "Fact Retrieval",
+    "question": "Who were the guests for whom Mr. Pepys arranged a special collation, as described in his diary?",
+    "answer": "Mr. Pepys had a collation for Sir Williams.",
+    "source": "Novel-4128",
+    "evidence": "Mr. Pepys arranged a special collation for Sir Williams."
+  },
+  {
+    "id": "Novel-5a7c7b88",
+    "question_type": "Fact Retrieval",
+    "question": "To which destination did Samuel Pepys travel in the course of his professional responsibilities, as documented in his diary?",
+    "answer": "Samuel Pepys went to Deptford.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys traveled to Deptford."
+  },
+  {
+    "id": "Novel-1d62116d",
+    "question_type": "Fact Retrieval",
+    "question": "What agreement did Mr. Pepys make with Mr. Goodgroome for singing lessons, according to his diary?",
+    "answer": "Mr. Pepys agreed to give Mr. Goodgroome 20s. entrance and 20s. a month to teach him to sing.",
+    "source": "Novel-4128",
+    "evidence": "Mr. Pepys agreed to give Mr. Goodgroome 20s. for entrance.; Mr. Pepys agreed to give Mr. Goodgroome 20s. a month for singing lessons."
+  },
+  {
+    "id": "Novel-5e031204",
+    "question_type": "Fact Retrieval",
+    "question": "Who accompanied Samuel Pepys on his walk into the City, as noted in his diary?",
+    "answer": "Samuel Pepys walked into the City with Mr. Moore.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys walked into the City with Mr. Moore."
+  },
+  {
+    "id": "Novel-0c88cd2e",
+    "question_type": "Fact Retrieval",
+    "question": "Who shared a drink with Samuel Pepys during a social event described in the diary?",
+    "answer": "Samuel Pepys had a drink with Sir W. Pen.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had a drink with Sir W. Pen."
+  },
+  {
+    "id": "Novel-4cb346cb",
+    "question_type": "Fact Retrieval",
+    "question": "Who joined Samuel Pepys for a drinking occasion, as mentioned in the diary?",
+    "answer": "Mr. Starling drank with Samuel Pepys.",
+    "source": "Novel-4128",
+    "evidence": "Mr. Starling drank with Samuel Pepys."
+  },
+  {
+    "id": "Novel-0a1eb649",
+    "question_type": "Fact Retrieval",
+    "question": "Who did the narrator meet with during a social occasion, as described in the diary?",
+    "answer": "Mr. Pickering met with I.",
+    "source": "Novel-4128",
+    "evidence": "Mr. Pickering met with I."
+  },
+  {
+    "id": "Novel-185686b9",
+    "question_type": "Fact Retrieval",
+    "question": "Which ambassador took leave of the King, according to the diary's account of diplomatic affairs?",
+    "answer": "The Portuguese Embassador took leave of the King.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King."
+  },
+  {
+    "id": "Novel-5d6707ec",
+    "question_type": "Fact Retrieval",
+    "question": "Who was my Lord angry with during the preparations for the fleet's voyage, as described in the diary?",
+    "answer": "My Lord was angry with W. Howe.",
+    "source": "Novel-4128",
+    "evidence": "My Lord was angry with W. Howe."
+  },
+  {
+    "id": "Novel-d44eb527",
+    "question_type": "Fact Retrieval",
+    "question": "With whom did the narrator have a personal conversation, as described in the diary?",
+    "answer": "My Lady talked with I.",
+    "source": "Novel-4128",
+    "evidence": "My Lady talked with I."
+  },
+  {
+    "id": "Novel-7996c42e",
+    "question_type": "Fact Retrieval",
+    "question": "During the preparations for official matters, whom did my Lord instruct, according to the diary?",
+    "answer": "My Lord ordered Mr. Creed.",
+    "source": "Novel-4128",
+    "evidence": "My Lord ordered Mr. Creed."
+  },
+  {
+    "id": "Novel-a8f6fa76",
+    "question_type": "Fact Retrieval",
+    "question": "On the occasion described in the diary, who were the Ladies Jemimah that I, the narrator, met with during the festivities?",
+    "answer": "Ladies Jemimah met with I.",
+    "source": "Novel-4128",
+    "evidence": "Ladies Jemimah met with I."
+  },
+  {
+    "id": "Novel-01c7f97c",
+    "question_type": "Fact Retrieval",
+    "question": "During the events recorded in Samuel Pepys's diary, who dined with him?",
+    "answer": "Samuel Pepys had dinner with Tom Pepys.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had dinner with Tom Pepys."
+  },
+  {
+    "id": "Novel-a8bad1cf",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Lady Sandwich treat Samuel Pepys kindly during his visit, as described in his diary?",
+    "answer": "Lady Sandwich treated Samuel Pepys kindly at the Wardrobe.",
+    "source": "Novel-4128",
+    "evidence": "Lady Sandwich treated Samuel Pepys kindly.; Lady Sandwich treated Samuel Pepys kindly at the Wardrobe."
+  },
+  {
+    "id": "Novel-6d2a190d",
+    "question_type": "Fact Retrieval",
+    "question": "During the diplomatic interactions noted in Samuel Pepys's diary, which foreign envoy had an audience with the King?",
+    "answer": "The Portuguese Embassador took leave of the King.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King."
+  },
+  {
+    "id": "Novel-5ad931db",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Samuel Pepys travel during the course of his official duties, as documented in his diary?",
+    "answer": "Samuel Pepys went to Deptford.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys went to Deptford."
+  },
+  {
+    "id": "Novel-de0b30b1",
+    "question_type": "Fact Retrieval",
+    "question": "During a social gathering described in the diary, who accompanied Lady Batten?",
+    "answer": "Sir W. Pen was with Lady Batten.",
+    "source": "Novel-4128",
+    "evidence": "Sir W. Pen was with Lady Batten."
+  },
+  {
+    "id": "Novel-a296a86b",
+    "question_type": "Fact Retrieval",
+    "question": "According to the diary, whom did Samuel Pepys meet during his daily affairs?",
+    "answer": "Samuel Pepys met with Mr. Moore.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys met with Mr. Moore."
+  },
+  {
+    "id": "Novel-8d39da2e",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Samuel Pepys observe the Duke of York during a performance?",
+    "answer": "The Duke of York was at the Opera.",
+    "source": "Novel-4128",
+    "evidence": "The Duke of York was at the Opera."
+  },
+  {
+    "id": "Novel-a8ee8ba1",
+    "question_type": "Fact Retrieval",
+    "question": "Where did Sir W. Pen go as described in the diary's account of the day's activities?",
+    "answer": "Sir W. Pen went to Theatre.",
+    "source": "Novel-4128",
+    "evidence": "Sir W. Pen went to Theatre."
+  },
+  {
+    "id": "Novel-57375967",
+    "question_type": "Fact Retrieval",
+    "question": "From whom did Samuel Pepys borrow money to cover his expenses, as noted in his diary entry?",
+    "answer": "Samuel Pepys borrowed money from Sir W. Batten.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys borrowed money from Sir W. Batten."
+  },
+  {
+    "id": "Novel-97abee55",
+    "question_type": "Fact Retrieval",
+    "question": "Which destination did Samuel Pepys go to for entertainment, as recorded in his diary account?",
+    "answer": "Samuel Pepys went to Theatre.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys went to the Theatre for entertainment."
+  },
+  {
+    "id": "Novel-4cf524cb",
+    "question_type": "Fact Retrieval",
+    "question": "During a social event described in Samuel Pepys's diary, with whom did he share a drink?",
+    "answer": "Samuel Pepys drank with Mr. Moore.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys drank with Mr. Moore."
+  },
+  {
+    "id": "Novel-17ae12cd",
+    "question_type": "Fact Retrieval",
+    "question": "Which theatrical production did Samuel Pepys watch during his leisure time, as described in his diary?",
+    "answer": "Samuel Pepys saw Claracilla.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys saw Claracilla."
+  },
+  {
+    "id": "Novel-5175a85e",
+    "question_type": "Fact Retrieval",
+    "question": "During his excursions in the City, whom did Samuel Pepys meet according to his diary entry?",
+    "answer": "Samuel Pepys met Mr. Salisbury.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys met Mr. Salisbury."
+  },
+  {
+    "id": "Novel-68694b91",
+    "question_type": "Complex Reasoning",
+    "question": "During his visit to the Wardrobe, how did Lady interact with Samuel Pepys, and what was her manner toward him as described in the narrative?",
+    "answer": "Lady treated Samuel Pepys kindly at the Wardrobe.",
+    "source": "Novel-4128",
+    "evidence": "Lady treated Samuel Pepys kindly at the Wardrobe."
+  },
+  {
+    "id": "Novel-b2a64d4a",
+    "question_type": "Complex Reasoning",
+    "question": "What social engagements did Samuel Pepys participate in that demonstrate his involvement in both professional and social circles?",
+    "answer": "Samuel Pepys walked into the City with Mr. Moore, had a drink with Sir W. Pen, and sat before Mrs. Palmer.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys walked into the City with Mr. Moore.; Samuel Pepys had a drink with Sir W. Pen.; Samuel Pepys sat before Mrs. Palmer."
+  },
+  {
+    "id": "Novel-4b359d87",
+    "question_type": "Complex Reasoning",
+    "question": "What actions, such as showing ships to Lady Jemimah and Paulina and visiting Deptford, illustrate Samuel Pepys's involvement in naval or maritime matters during his daily activities?",
+    "answer": "Samuel Pepys showed ships to Lady Jemimah and Paulina and went to Deptford.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys showed ships to Lady Jemimah.; Samuel Pepys showed ships to Paulina.; Samuel Pepys went to Deptford."
+  },
+  {
+    "id": "Novel-787b9c0b",
+    "question_type": "Complex Reasoning",
+    "question": "Why was my Lord present at Whitehall at the time when the King was adjourning Parliament, and what was the purpose of his visit to the King?",
+    "answer": "My Lord was at Whitehall to take leave of the King.",
+    "source": "Novel-4128",
+    "evidence": "My Lord was at Whitehall to take leave of the King."
+  },
+  {
+    "id": "Novel-a0c1c9cd",
+    "question_type": "Complex Reasoning",
+    "question": "What evidence from the narrative indicates that members of the royal family, including the King, the Duke, the Duchess, and the Queen of Bohemia, attended the Opera?",
+    "answer": "The Opera was attended by the King, the Duke, the Duchess, and the Queen of Bohemia.",
+    "source": "Novel-4128",
+    "evidence": "The Opera was attended by the King.; The Opera was attended by the Duke.; The Opera was attended by the Duchess.; The Opera was attended by the Queen of Bohemia."
+  },
+  {
+    "id": "Novel-4744dfa7",
+    "question_type": "Complex Reasoning",
+    "question": "In what ways do Samuel Pepys's social and professional activities reflect his involvement with maritime affairs?",
+    "answer": "Samuel Pepys dined with Captain Poole and showed ships to Lady Jemimah.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys dined with Captain Poole.; Samuel Pepys showed ships to Lady Jemimah."
+  },
+  {
+    "id": "Novel-55f0c0e2",
+    "question_type": "Complex Reasoning",
+    "question": "What role did Aunt Katy Demitt play in Suza Fairfield's upbringing, and how is Suza Fairfield regarded in Port William?",
+    "answer": "The Duke of York sent an order to Samuel Pepys.",
+    "source": "Novel-4128",
+    "evidence": "The Duke of York sent an order to Samuel Pepys."
+  },
+  {
+    "id": "Novel-b7e4be0e",
+    "question_type": "Complex Reasoning",
+    "question": "What activities described in the diary show Samuel Pepys's pursuit of learning music?",
+    "answer": "Samuel Pepys learned to sing from Mr. Goodgroome, who taught him.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys learned to sing from Mr. Goodgroome.; Mr. Goodgroome taught Samuel Pepys."
+  },
+  {
+    "id": "Novel-20ad1579",
+    "question_type": "Complex Reasoning",
+    "question": "How does my Lord’s action of thanking Sir R. Slingsby relate to the Portuguese Embassador’s visit and his appointment as Embassador in the bringing over the Queen?",
+    "answer": "The Portuguese Embassador took leave of the King, who made my Lord Embassador in the bringing over the Queen, who then thanked Sir R. Slingsby.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King.; The King made my Lord Embassador in the bringing over the Queen.; My Lord thanked Sir R. Slingsby."
+  },
+  {
+    "id": "Novel-95217448",
+    "question_type": "Complex Reasoning",
+    "question": "How does the King's relationship with Mrs. Palmer connect back to the Portuguese Embassador?",
+    "answer": "The Portuguese Embassador took leave of the King, who has mistress Mrs. Palmer.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King.; The King has mistress Mrs. Palmer."
+  },
+  {
+    "id": "Novel-1fa634c8",
+    "question_type": "Complex Reasoning",
+    "question": "How is the Theatre’s play 'Harry the 4th' logically connected to Madame Palmer’s association with the King?",
+    "answer": "The King has mistress Madame Palmer, who was at the Theatre, which showed 'Harry the 4th'.",
+    "source": "Novel-4128",
+    "evidence": "The King has mistress Madame Palmer.; Madame Palmer was at the Theatre.; The Theatre showed 'Harry the 4th'."
+  },
+  {
+    "id": "Novel-ce4d7e65",
+    "question_type": "Complex Reasoning",
+    "question": "Which events connect the Portuguese Embassador’s leave-taking to my Lord Embassador’s visit to Trinity House?",
+    "answer": "The Portuguese Embassador took leave of the King, who made my Lord Embassador, who went to Trinity House.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King.; The King made my Lord Embassador.; My Lord went to Trinity House."
+  },
+  {
+    "id": "Novel-56cd616e",
+    "question_type": "Complex Reasoning",
+    "question": "What is the multi-hop reasoning that explains my Lord Embassador’s visit to Whitehall based on the Portuguese Embassador’s audience?",
+    "answer": "The Portuguese Embassador took leave of the King, who made my Lord Embassador, who went to Whitehall.",
+    "source": "Novel-4128",
+    "evidence": "The Portuguese Embassador took leave of the King.; The King made my Lord Embassador.; My Lord went to Whitehall."
+  },
+  {
+    "id": "Novel-c645ca2b",
+    "question_type": "Contextual Summarize",
+    "question": "During the months of June, July, and August 1661, what social interactions and events did Samuel Pepys participate in?",
+    "answer": "During the summer months of 1661, Samuel Pepys found himself immersed in a lively tapestry of social engagements and city life. He welcomed visits from acquaintances such as Greatorex, shared convivial meals with Lady and Captain Poole, and journeyed to Deptford, where he mingled with colleagues and observed the bustling activity of the docks. Pepys also strolled into the City with Mr. Moore, his steps echoing through the busy streets, and accompanied Dr. Peirce on various errands. His leisure hours were spent attending the Theatre, where the energy of the stage offered a welcome diversion, and walking at Graye's Inn Walk, enjoying the fresh air and the company of London's society. Each event reflected the vibrant social world Pepys navigated, blending duty and pleasure in equal measure.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys was visited by Greatorex.; Samuel Pepys dined with Lady and Captain Poole.; Samuel Pepys went to Deptford.; Samuel Pepys walked into the City with Mr. Moore.; Samuel Pepys went with Dr. Peirce.; Samuel Pepys attended the Theatre.; Samuel Pepys walked at Graye's Inn Walk."
+  },
+  {
+    "id": "Novel-13557e84",
+    "question_type": "Complex Reasoning",
+    "question": "What significant actions and movements did 'my Lord' undertake during Samuel Pepys's diary entries?",
+    "answer": "'My Lord' was angry with W. Howe, ordered Mr. Creed, took leave of the King, went to Whitehall and Trinity House, thanked Sir R. Slingsby, and is to come back to Lisbon.",
+    "source": "Novel-4128",
+    "evidence": "'My Lord' was angry with W. Howe.; 'My Lord' ordered Mr. Creed.; 'My Lord' took leave of the King.; 'My Lord' went to Whitehall.; 'My Lord' went to Trinity House.; 'My Lord' thanked Sir R. Slingsby.; 'My Lord' is to come back to Lisbon."
+  },
+  {
+    "id": "Novel-5fd3c02d",
+    "question_type": "Contextual Summarize",
+    "question": "During the period covered in the diary, what social interactions did Samuel Pepys have with individuals such as his brother Tom, Ladies Jemimah, and Mr. Moore?",
+    "answer": "During the period covered in his diary, Samuel Pepys engaged in a variety of social interactions that reveal both his personal and professional connections. He shared a meal with his brother Tom, an occasion that likely offered a rare moment of familial warmth amid his busy schedule. Later, he met with Mr. Moore, and their meeting extended into convivial drinking, suggesting a camaraderie that went beyond mere business. Additionally, Pepys enjoyed supper in the company of Ladies Jemimah, an event that would have been marked by polite conversation and the subtle navigation of social hierarchies. These interactions, scattered throughout his diary, paint a vivid picture of Pepys as a man deeply enmeshed in the social fabric of his time.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had dinner with Tom.; Samuel Pepys met with Mr. Moore.; Samuel Pepys drank with Mr. Moore.; Samuel Pepys had supper with Ladies Jemimah."
+  },
+  {
+    "id": "Novel-9c85110b",
+    "question_type": "Contextual Summarize",
+    "question": "In the course of his daily activities as recorded in his diary, which locations did Samuel Pepys visit?",
+    "answer": "Throughout the course of his daily activities, Samuel Pepys visited a number of significant locations, each reflecting a different facet of his bustling life. He traveled to Deptford and Woolwich, both vital naval centers, where he attended to official business and dined with colleagues, immersing himself in the affairs of the dockyards. His journeys also took him to Westminster and the grand Westminster Hall, where he mingled with acquaintances and observed the pulse of political life during Term time. These visits, meticulously recorded in his diary, offer a window into the rhythms of Restoration London and Pepys's own role within its ever-turning wheels.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys visited Deptford.; Samuel Pepys visited Woolwich.; Samuel Pepys visited Westminster.; Samuel Pepys visited Westminster Hall."
+  },
+  {
+    "id": "Novel-01f95b27",
+    "question_type": "Contextual Summarize",
+    "question": "What cultural activities involving the arts did Samuel Pepys engage in as described in his diary?",
+    "answer": "Samuel Pepys immersed himself in the vibrant cultural life of his time, attending celebrated theatrical performances such as 'The Siege of Rhodes' and 'Bartholomew Fayre.' Beyond simply being a spectator, he also sought to cultivate his own artistic abilities, engaging Mr. Goodgroome as his singing master and diligently beginning lessons in vocal music. These pursuits reflect Pepys's keen appreciation for the arts and his desire to participate in them both as an audience member and as a student.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys saw 'The Siege of Rhodes'.; Samuel Pepys saw 'Bartholomew Fayre'.; Samuel Pepys learned to sing from Mr. Goodgroome."
+  },
+  {
+    "id": "Novel-915df475",
+    "question_type": "Contextual Summarize",
+    "question": "Within the context of Samuel Pepys's diary entries, what were the roles and affiliations of individuals such as Roger Pepys and 'my Lord'?",
+    "answer": "Roger Pepys, Samuel's cousin, played an active role in the political sphere, as evidenced by his visits to the Parliament House, where he engaged in the affairs of government. Meanwhile, 'my Lord'—a figure of significant standing in Samuel's life—was involved in the highest circles of power, taking formal leave of the King before proceeding to Whitehall. These interactions highlight the connections and responsibilities of those around Samuel, set against the bustling backdrop of Restoration London.",
+    "source": "Novel-4128",
+    "evidence": "Roger Pepys was a cousin of Samuel Pepys.; Roger Pepys went to Parliament House.; 'My Lord' took leave of the King.; 'My Lord' went to Whitehall."
+  },
+  {
+    "id": "Novel-c39fbc42",
+    "question_type": "Complex Reasoning",
+    "question": "What personal or familial difficulties did Samuel Pepys record in his diary regarding his brother Tom, as indicated by his expression of having trouble about him?",
+    "answer": "Samuel Pepys recorded considerable anxiety regarding his brother Tom, who had been left to manage their father's trade. Pepys expressed deep concern that Tom, lacking the necessary ability and diligence, might fail in this responsibility, adding to the burdens already weighing on Samuel as he struggled to settle family affairs and manage his own financial difficulties.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys had trouble about his brother Tom."
+  },
+  {
+    "id": "Novel-16cc57e3",
+    "question_type": "Contextual Summarize",
+    "question": "In the context of the King's relationship with Madame Palmer, how do events at the Theatre demonstrate an intersection between royal relationships and cultural activities?",
+    "answer": "The presence of Madame Palmer, the King's mistress, at the performance of 'Brenoralt' at the Theatre vividly illustrates how royal relationships intersected with the cultural life of the time. Her attendance not only drew the attention of onlookers like Pepys, but also underscored how the personal affairs of the monarchy could influence and become entwined with public events and social gatherings, making the Theatre a stage not just for drama, but for the display of royal favor and intrigue.",
+    "source": "Novel-4128",
+    "evidence": "The King has Madame Palmer as a mistress.; Madame Palmer was at the Theatre.; The Theatre showed Brenoralt.; There is a connection between royal relationships and events at the Theatre."
+  },
+  {
+    "id": "Novel-a92f5660",
+    "question_type": "Contextual Summarize",
+    "question": "How does my Lord's appointment as Embassador by the King reflect the progression from diplomatic responsibilities to overseas or military planning within the narrative?",
+    "answer": "The King's appointment of my Lord as Embassador marks a significant transition from the honor of royal favor to the weighty responsibilities of international diplomacy and military oversight. Charged with bringing over the Queen, my Lord is then tasked with journeying to Algier to settle pressing affairs and organize the fleet, a clear progression from the ceremonial aspects of his role to the practical demands of overseas planning and naval preparation within the narrative.",
+    "source": "Novel-4128",
+    "evidence": "The King made my Lord Embassador.; My Lord is to go to Algier.; This represents a progression from royal appointment to overseas planning."
+  },
+  {
+    "id": "Novel-a96fad7e",
+    "question_type": "Contextual Summarize",
+    "question": "After the King's appointment of my Lord as Embassador, how do my Lord's subsequent actions illustrate the distribution of royal favor and delegation of responsibilities within the court?",
+    "answer": "Following the King's appointment of my Lord as Embassador, my Lord's actions—expressing gratitude to Sir R. Slingsby for his support and issuing orders to Mr. Creed regarding financial matters—vividly illustrate how royal favor is both acknowledged and translated into the careful delegation of duties. These gestures not only reflect the intricate web of courtly relationships but also demonstrate how responsibilities are distributed among trusted associates to ensure the smooth execution of the King's commands.",
+    "source": "Novel-4128",
+    "evidence": "After the King made my Lord Embassador, my Lord thanked Sir R. Slingsby.; My Lord ordered Mr. Creed.; This illustrates the distribution of royal responsibilities."
+  },
+  {
+    "id": "Novel-710f8505",
+    "question_type": "Contextual Summarize",
+    "question": "What does Madame Palmer's presence at the Theatre suggest about the King's interests in both personal relationships and cultural events beyond his official royal duties?",
+    "answer": "The King's mistress, Madame Palmer, was at the Theatre where Harry the 4th was shown, suggesting the King's interests include personal relationships and cultural events.",
+    "source": "Novel-4128",
+    "evidence": "Madame Palmer was at the Theatre where Harry the 4th was shown.; Madame Palmer is known to be the King's mistress.; This suggests the King's interests include personal relationships and cultural events."
+  },
+  {
+    "id": "Novel-feba1552",
+    "question_type": "Contextual Summarize",
+    "question": "How does the sequence of events involving my Lord's appointment as Embassador, his interactions with others, and his preparations for travel reflect the structure of command and influence in the narrative?",
+    "answer": "My Lord Embassador, after being made by the King, ordered Mr. Creed, was angry with W. Howe, and is to go to Algier, reflecting his authority and active role.",
+    "source": "Novel-4128",
+    "evidence": "My Lord was made Embassador by the King.; My Lord ordered Mr. Creed.; My Lord was angry with W. Howe.; My Lord is to go to Algier.; This reflects his authority and active role."
+  },
+  {
+    "id": "Novel-ac09bece",
+    "question_type": "Contextual Summarize",
+    "question": "How do ceremonial actions, such as the Portuguese Embassador and my Lord formally taking leave of the King and my Lord expressing thanks to Sir R. Slingsby, serve to structure the narrative events with a sense of ritual and formality?",
+    "answer": "Ceremonial actions such as the Portuguese Embassador and my Lord formally taking leave of the King, and my Lord expressing his gratitude to Sir R. Slingsby, imbue the narrative with a palpable sense of ritual and decorum. These moments of protocol not only mark significant transitions—such as departures and appointments—but also lend a dignified structure to the unfolding events, highlighting the importance of hierarchy, respect, and tradition in the social and political life of the time.",
+    "source": "Novel-4128",
+    "evidence": "Ceremonial actions include the Portuguese Embassador taking leave of the King.; Ceremonial actions include my Lord thanking Sir R. Slingsby.; Ceremonial actions structure the events with formality."
+  },
+  {
+    "id": "Novel-5e5e5a5f",
+    "question_type": "Contextual Summarize",
+    "question": "In the narrative, how are formal events—such as the King's appointment of my Lord as Embassador and my Lord thanking Sir R. Slingsby—interwoven with personal relationships, for example, the King's connection to his mistress Madame Palmer attending the Theatre?",
+    "answer": "The narrative deftly intertwines formal events—such as the King's appointment of my Lord as Embassador and my Lord's gracious thanks to Sir R. Slingsby—with the more intimate threads of personal relationships, exemplified by the King's mistress, Madame Palmer, attending the Theatre. This juxtaposition of public ceremony and private connection enriches the tapestry of daily life, revealing how matters of state and personal affections coexist and influence one another within the same social sphere.",
+    "source": "Novel-4128",
+    "evidence": "The King appointed my Lord as Embassador.; My Lord thanked Sir R. Slingsby.; The King's mistress attended the Theatre.; Formal events are interwoven with personal relationships."
+  },
+  {
+    "id": "Novel-bf2ee58f",
+    "question_type": "Contextual Summarize",
+    "question": "What does my Lord's range of activities—after being appointed Embassador by the King, such as visiting Whitehall and Trinity House and preparing to go to Algier—suggest about the scope and variety of his responsibilities in the narrative?",
+    "answer": "After being appointed Embassador by the King, my Lord’s activities—ranging from official visits to Whitehall and Trinity House to the significant undertaking of preparing for a mission to Algier—reveal the remarkable breadth and complexity of his responsibilities. He is entrusted not only with diplomatic duties, such as bringing over the Queen, but also with overseeing naval preparations and managing affairs in his absence, underscoring his pivotal role in both political and logistical spheres within the narrative.",
+    "source": "Novel-4128",
+    "evidence": "My Lord was appointed Embassador by the King.; My Lord visited Whitehall.; My Lord visited Trinity House.; My Lord is preparing to go to Algier.; These activities suggest a range of responsibilities."
+  },
+  {
+    "id": "Novel-6382f43c",
+    "question_type": "Contextual Summarize",
+    "question": "How does the depiction of my Lord both thanking Sir R. Slingsby and displaying anger toward W. Howe contribute to the portrayal of my Lord's character as someone who balances formal gratitude with strong personal reactions?",
+    "answer": "The depiction of my Lord graciously thanking Sir R. Slingsby for his kindness, while in the same breath displaying open anger toward W. Howe for his tardiness, paints a vivid portrait of a man who deftly navigates the demands of formal courtesy yet does not shy away from expressing his genuine emotions. This balance between public decorum and private feeling enriches his character, showing him as both a figure of authority who values protocol and a man unafraid to reveal his personal frustrations.",
+    "source": "Novel-4128",
+    "evidence": "My Lord thanked Sir R. Slingsby.; My Lord displayed anger toward W. Howe.; These actions suggest my Lord balances formal gratitude with strong personal reactions."
+  },
+  {
+    "id": "Novel-75d05962",
+    "question_type": "Contextual Summarize",
+    "question": "Following the King's decision to appoint my Lord, how do my Lord's subsequent actions—such as taking leave of the King, visiting Whitehall, and preparing for a journey to Algier—reveal his active and multifaceted role within the narrative?",
+    "answer": "After being appointed by the King, my Lord is portrayed as a figure in constant motion—taking formal leave of the King, making significant visits to places like Whitehall and the Wardrobe, and meticulously preparing for his journey to Algier. These actions not only highlight his sense of duty and readiness to serve, but also reveal the breadth of his responsibilities and connections. His ability to navigate both the ceremonial and practical aspects of his role underscores his active and multifaceted presence within the narrative.",
+    "source": "Novel-4128",
+    "evidence": "My Lord took leave of the King after being appointed.; My Lord visited important places.; My Lord prepared for travel to Algier.; These actions reveal my Lord's active and multifaceted role."
+  },
+  {
+    "id": "Novel-53254bcd",
+    "question_type": "Contextual Summarize",
+    "question": "How do my Lord's actions of expressing gratitude to Sir R. Slingsby and issuing orders to Mr. Creed demonstrate his leadership qualities and the way he exercises both appreciation and authority in his role?",
+    "answer": "By expressing heartfelt gratitude to Sir R. Slingsby for his kindness and, in the same breath, issuing clear and decisive orders to Mr. Creed, my Lord reveals a leadership style that balances genuine appreciation with firm authority. His ability to acknowledge the contributions of others while confidently directing his subordinates illustrates a nuanced command—one that inspires loyalty and respect through both warmth and decisiveness.",
+    "source": "Novel-4128",
+    "evidence": "My Lord expressed gratitude to Sir R. Slingsby.; My Lord issued orders to Mr. Creed.; These actions demonstrate my Lord's appreciation and authority.; These actions underline my Lord's leadership style."
+  },
+  {
+    "id": "Novel-0d6bcca0",
+    "question_type": "Creative Generation",
+    "question": "Rewrite the events as a diary entry from Samuel Pepys, focusing on his preparations for the Queen and observations of court drama involving my Lord and W. Howe, including my Lord's new role.",
+    "answer": "Diary Entry — This day, my chief occupation was in making ready sundry items to be dispatched to the Queen, who is soon to be brought over to England by my Lord, now lately advanced to the dignity of Embassador by His Majesty. The court is in a state of great agitation; I observed my Lord, usually so composed, lose his temper with W. Howe, the exchange sharp and ill-concealed from those nearby. Such tempers, I think, are but a reflection of the weighty matters at hand, for the Portuguese Embassador himself came to White Hall to take leave of the King, signaling the nearness of the Queen's arrival and the delicate business that attends it. Amidst these preparations and intrigues, I find myself both anxious and eager, for the eyes of many are upon us in these days of high expectation.",
+    "source": "Novel-4128",
+    "evidence": "Samuel Pepys prepared items to be sent to the Queen.; The Queen is to be brought to England by my Lord.; My Lord is newly made Embassador by the King.; The atmosphere at court is charged.; My Lord lost his temper with W. Howe.; These tensions reflect the high stakes of ongoing diplomatic efforts.; The Portuguese Embassador took leave of the King."
+  }
+]
