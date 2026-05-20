@@ -17,6 +17,18 @@ AtomicRAG addresses two common failure modes in GraphRAG-style systems:
 - Coarse chunk-level storage entangles multiple facts in one retrieval unit, which adds noise for fine-grained or multi-hop questions.
 - Predicate-labeled triple graphs can be brittle when relation extraction is incomplete or incorrect.
 
+## Motivation
+
+<p align="center">
+  <img src="assets/figures/motivation.png" alt="AtomicRAG motivation: from coarse chunks and brittle triples to atom-entity graphs" width="100%">
+</p>
+
+## Framework
+
+<p align="center">
+  <img src="assets/figures/framework.png" alt="AtomicRAG framework: atom-entity graph construction, retrieval, filtering, and generation" width="100%">
+</p>
+
 The pipeline has four stages:
 
 1. **Atom-Entity Graph Construction**: decomposes corpus chunks into knowledge atoms, extracts entities, and constructs an unlabeled weighted graph with containment, relevance, and synonym edges.
