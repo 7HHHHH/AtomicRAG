@@ -3,6 +3,7 @@ import argparse
 import json
 import logging
 import shutil
+import sys
 from typing import Dict, List
 from pathlib import Path
 from datetime import datetime
@@ -12,6 +13,7 @@ from tqdm import tqdm
 
 # Load environment variables from centralized LLM config
 REPO_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO_ROOT))
 CONFIG_DIR = REPO_ROOT / "configs" / "atomicrag"
 DATASET_DIR = REPO_ROOT / "dataset"  # Updated to use new dataset directory
 WORKSPACE_ROOT = REPO_ROOT / "workspaces" / "atomicrag"
@@ -24,11 +26,7 @@ WORKSPACE_ROOT.mkdir(parents=True, exist_ok=True)
 
 CONFIG_JSON_PATH = CONFIG_DIR / "config.json"
 
-# Import AtomicRAG components early
-from atomicrag.utils.config_utils import BaseConfig
-from atomicrag.atomicrag import AtomicRAG
-
-def apply_json_config_overrides(cfg: BaseConfig) -> BaseConfig:
+def apply_json_config_overrides(cfg):
     if not CONFIG_JSON_PATH.exists():
         return cfg
 
@@ -98,15 +96,15 @@ async def process_corpus(
     sample: int,
     use_cache: bool = False,
     max_concurrency: int | None = None,
-    qa_prompt_template: str | None = None,
-    enable_fragment_filter: bool = True,
-    enable_query_decomposition: bool = True,
-    enable_ppr: bool = True
+    qa_prompt_template: str | None = None
 ):
     """Process a single corpus: index it and answer its questions"""
     logging.info(f"📚 Processing corpus: {corpus_name}")
 
     try:
+        from atomicrag.utils.config_utils import BaseConfig
+        from atomicrag.atomicrag import AtomicRAG
+
         # If user opts out of cache, wipe any previous workspace to force a full rebuild
         cache_path = Path(base_dir) / corpus_name
         if not use_cache and cache_path.exists():
@@ -157,9 +155,6 @@ async def process_corpus(
                 damping=0.3,  # Paper setting for PPR restart/damping coefficient
                 embedding_batch_size=128,  # 批量生成向量的并行大小
                 max_new_tokens=None,  # 回答时允许生成的新token上限（None表示使用默认）
-                enable_fragment_filter=enable_fragment_filter,
-                enable_query_decomposition=enable_query_decomposition,
-                enable_ppr=enable_ppr,
                 max_retry_attempts=5   # 失败重试次数（默认5次）
             )
 
@@ -170,10 +165,6 @@ async def process_corpus(
                 cfg.qa_prompt_template = qa_prompt_template
 
             cfg = apply_json_config_overrides(cfg)
-            # CLI toggles take precedence over JSON overrides
-            cfg.enable_fragment_filter = enable_fragment_filter
-            cfg.enable_query_decomposition = enable_query_decomposition
-            cfg.enable_ppr = enable_ppr
             return cfg
 
         force_rebuild = not use_cache
@@ -283,12 +274,6 @@ def main():
                         help="Directory to save results; defaults to results/atomicrag")
     parser.add_argument("--qa_prompt_template", default=None,
                         help="Override QA prompt template (e.g., 'precise' for rag_qa_precise, 'abstract' for rag_qa_abstract)")
-    parser.add_argument("--disable_fragment_filter", action="store_true",
-                        help="Disable fragment/question filtering stage for ablation")
-    parser.add_argument("--disable_query_decomposition", action="store_true",
-                        help="Disable query decomposition module for ablation runs")
-    parser.add_argument("--disable_ppr", action="store_true",
-                        help="Skip graph-based PPR and use DPR-only retrieval")
 
     args = parser.parse_args()
 
@@ -403,10 +388,7 @@ def main():
                     sample=args.sample,
                     use_cache=use_cache,
                     max_concurrency=args.concurrency,
-                    qa_prompt_template=args.qa_prompt_template,
-                    enable_fragment_filter=not args.disable_fragment_filter,
-                    enable_query_decomposition=not args.disable_query_decomposition,
-                    enable_ppr=not args.disable_ppr
+                    qa_prompt_template=args.qa_prompt_template
                 )
 
         tasks = [process_with_limit(item) for item in corpus_data]

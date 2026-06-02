@@ -163,9 +163,6 @@ Useful flags:
 - `--use_cache true`: reuse existing OpenIE, embeddings, and graph cache when available.
 - `--sample N`: run only a prefix sample for debugging.
 - `--qa_prompt_template precise`: use concise QA prompts for short-answer benchmarks.
-- `--disable_fragment_filter`: disable Atomic Sieve for ablation.
-- `--disable_query_decomposition`: disable Atomic Question Decomposition.
-- `--disable_ppr`: use dense retrieval without graph propagation.
 
 ## Running All Benchmarks
 

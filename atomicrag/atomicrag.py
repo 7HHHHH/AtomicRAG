@@ -286,18 +286,14 @@ class AtomicRAG:
         # - max_sub_questions: 3 (reduced from 5 to avoid document dilution)
         # - complexity_threshold: 6.5 (increased from 5.0 to only decompose truly complex questions)
         # - Timeout handling: 30s API timeout with 5 retries (max 150s per query)
-        self.enable_query_decomposition = self.global_config.enable_query_decomposition
-        self.enable_ppr = self.global_config.enable_ppr
         self.query_decomposer = QueryDecomposer(
             llm_model=self.llm_model,
             max_sub_questions=3,
             complexity_threshold=6.5,
-            enable_decomposition=self.enable_query_decomposition,
             prompt_template_manager=self.prompt_template_manager
         )
         logger.info(
-            "Initialized QueryDecomposer with optimized parameters (threshold=6.5, max_subs=3, enabled=%s)",
-            "ON" if self.enable_query_decomposition else "OFF"
+            "Initialized QueryDecomposer with optimized parameters (threshold=6.5, max_subs=3)"
         )
 
         # Initialize statistics collector
@@ -518,7 +514,6 @@ class AtomicRAG:
     async def retrieve_async(self,
                              queries: List[str],
                              num_to_retrieve: int = None,
-                             enable_decomposition: Optional[bool] = None,
                              decomposition_expand_factor: float = 1.0,
                              question_types: Optional[List[str]] = None,
                              max_workers: int = None) -> List[QuerySolution]:
@@ -530,9 +525,6 @@ class AtomicRAG:
         the caller's event loop.
         """
         retrieve_start_time = time.time()
-
-        if enable_decomposition is None:
-            enable_decomposition = self.global_config.enable_query_decomposition
 
         if num_to_retrieve is None:
             num_to_retrieve = self.global_config.retrieval_top_k
@@ -556,10 +548,7 @@ class AtomicRAG:
             questions=queries,
             question_types=question_types,
             max_concurrent=decomp_max_concurrent
-        ) if enable_decomposition else [
-            DecompositionResult(original_question=q, question_type=qt)
-            for q, qt in zip(queries, question_types)
-        ]
+        )
 
         # Record decomposition time and collect metadata (use += for multi-batch accumulation)
         decomp_end_time = time.time()
@@ -613,28 +602,21 @@ class AtomicRAG:
             else:
                 max_workers = 1  # Serial mode by default for maximum stability
 
-        use_ppr = self.global_config.enable_ppr
-        if not use_ppr:
-            logger.info("🔌 PPR disabled via config: using DPR-only retrieval.")
-        if use_ppr:
-            # 先抽取实体，再预计算实体 embedding，避免检索阶段被阻塞
-            # 使用同步版本，在独立的 event loop 中运行，与 NER 阶段保持一致
-            self.prefetch_query_entities(all_queries_to_retrieve)
-            self.prefetch_query_entity_embeddings(all_queries_to_retrieve)
+        # 先抽取实体，再预计算实体 embedding，避免检索阶段被阻塞
+        # 使用同步版本，在独立的 event loop 中运行，与 NER 阶段保持一致
+        self.prefetch_query_entities(all_queries_to_retrieve)
+        self.prefetch_query_entity_embeddings(all_queries_to_retrieve)
 
         logger.info(f"Retrieving {len(all_queries_to_retrieve)} queries (max_workers={max_workers})")
 
         # Define single retrieval function
         def retrieve_single_query(query_idx_and_text):
             query_idx, query_text = query_idx_and_text
-            if use_ppr:
-                # Use graph search with DPR + PPR (no fact embeddings needed)
-                sorted_doc_ids, sorted_doc_scores = self.graph_search_with_fact_entities(
-                    query=query_text,
-                    passage_node_weight=self.global_config.passage_node_weight
-                )
-            else:
-                sorted_doc_ids, sorted_doc_scores = self.dense_passage_retrieval(query_text)
+            # Use graph search with DPR + PPR (no fact embeddings needed)
+            sorted_doc_ids, sorted_doc_scores = self.graph_search_with_fact_entities(
+                query=query_text,
+                passage_node_weight=self.global_config.passage_node_weight
+            )
 
             top_k_docs = [self.hierarchical_fragment_store.get_row(self.fragment_node_keys[idx])["content"]
                          for idx in sorted_doc_ids[:num_to_retrieve]]
@@ -674,52 +656,51 @@ class AtomicRAG:
         # Sort results by query index to maintain order
         all_retrieval_results = sorted(all_retrieval_results, key=lambda x: x["query_idx"])
 
-        # Optional: filter each query's retrieved fragments before merging
-        if self.global_config.enable_fragment_filter:
-            per_query_filter_requests = [
-                FragmentFilterRequest(
-                    request_id=result["query_idx"],
-                    question=result["query"],
-                    fragments=result["docs"]
+        # Filter each query's retrieved fragments before merging.
+        per_query_filter_requests = [
+            FragmentFilterRequest(
+                request_id=result["query_idx"],
+                question=result["query"],
+                fragments=result["docs"]
+            )
+            for result in all_retrieval_results
+            if result["docs"]
+        ]
+
+        if per_query_filter_requests:
+            logger.info(f"Pre-filtering fragments for {len(per_query_filter_requests)} queries")
+
+            filter_start_time = time.time()
+            batch_results = await self.fragment_filter.filter_fragments_batch_async(
+                requests=per_query_filter_requests
+            )
+            filter_end_time = time.time()
+            self.stats.fragment_filter_time += filter_end_time - filter_start_time
+
+            if hasattr(self.fragment_filter, 'metadata_list'):
+                self._update_token_stats(self.fragment_filter.metadata_list, 'filter')
+                self.fragment_filter.metadata_list = []
+
+            logger.info(f"🔍 Fragment Filter (per-query) - Time: {filter_end_time - filter_start_time:.2f}s, "
+                       f"Tokens: prompt={self.stats.filter_prompt_tokens:,}, "
+                       f"completion={self.stats.filter_completion_tokens:,}, "
+                       f"total={self.stats.filter_prompt_tokens + self.stats.filter_completion_tokens:,}")
+
+            # Apply filtered fragments back to results
+            retrieval_result_map = {r["query_idx"]: r for r in all_retrieval_results}
+            for request in per_query_filter_requests:
+                filtered_docs, kept_indices = batch_results.get(
+                    request.request_id,
+                    (request.fragments, list(range(len(request.fragments))))
                 )
-                for result in all_retrieval_results
-                if result["docs"]
-            ]
-
-            if per_query_filter_requests:
-                logger.info(f"Pre-filtering fragments for {len(per_query_filter_requests)} queries")
-
-                filter_start_time = time.time()
-                batch_results = await self.fragment_filter.filter_fragments_batch_async(
-                    requests=per_query_filter_requests
-                )
-                filter_end_time = time.time()
-                self.stats.fragment_filter_time += filter_end_time - filter_start_time
-
-                if hasattr(self.fragment_filter, 'metadata_list'):
-                    self._update_token_stats(self.fragment_filter.metadata_list, 'filter')
-                    self.fragment_filter.metadata_list = []
-
-                logger.info(f"🔍 Fragment Filter (per-query) - Time: {filter_end_time - filter_start_time:.2f}s, "
-                           f"Tokens: prompt={self.stats.filter_prompt_tokens:,}, "
-                           f"completion={self.stats.filter_completion_tokens:,}, "
-                           f"total={self.stats.filter_prompt_tokens + self.stats.filter_completion_tokens:,}")
-
-                # Apply filtered fragments back to results
-                retrieval_result_map = {r["query_idx"]: r for r in all_retrieval_results}
-                for request in per_query_filter_requests:
-                    filtered_docs, kept_indices = batch_results.get(
-                        request.request_id,
-                        (request.fragments, list(range(len(request.fragments))))
-                    )
-                    result_ref = retrieval_result_map.get(request.request_id)
-                    if result_ref is None:
-                        continue
-                    result_ref["docs"] = filtered_docs
-                    if kept_indices:
-                        result_ref["scores"] = np.array([result_ref["scores"][i] for i in kept_indices])
-                    else:
-                        result_ref["scores"] = np.array([])
+                result_ref = retrieval_result_map.get(request.request_id)
+                if result_ref is None:
+                    continue
+                result_ref["docs"] = filtered_docs
+                if kept_indices:
+                    result_ref["scores"] = np.array([result_ref["scores"][i] for i in kept_indices])
+                else:
+                    result_ref["scores"] = np.array([])
 
         # Step 4: Merge results for decomposed queries (same as sequential version)
         query_solution_data: List[Dict[str, Any]] = []
@@ -828,9 +809,8 @@ class AtomicRAG:
 
         self.all_retrieval_time += retrieve_end_time - retrieve_start_time
 
-        ppr_stat = f"{self.ppr_time:.2f}s" if self.global_config.enable_ppr else "disabled"
         logger.info(f"🔎 Retrieval Stage - Total Time: {retrieve_end_time - retrieve_start_time:.2f}s, "
-                   f"PPR: {ppr_stat}")
+                   f"PPR: {self.ppr_time:.2f}s")
 
         # Log decomposition and concurrency statistics
         num_decomposed = sum(1 for dr in decomposition_results if dr.is_decomposed)
@@ -850,20 +830,15 @@ class AtomicRAG:
     def retrieve(self,
                  queries: List[str],
                  num_to_retrieve: int = None,
-                 enable_decomposition: Optional[bool] = None,
                  decomposition_expand_factor: float = 1.0,
                  question_types: Optional[List[str]] = None,
                  max_workers: int = None) -> List[QuerySolution]:
         """
         Synchronous wrapper for `retrieve_async` (backward compatible entry point).
         """
-        if enable_decomposition is None:
-            enable_decomposition = self.global_config.enable_query_decomposition
-
         return self._run_async(self.retrieve_async(
             queries=queries,
             num_to_retrieve=num_to_retrieve,
-            enable_decomposition=enable_decomposition,
             decomposition_expand_factor=decomposition_expand_factor,
             question_types=question_types,
             max_workers=max_workers
@@ -1734,7 +1709,7 @@ class AtomicRAG:
         异步并发预取查询的实体抽取结果（仅 NER），并缓存。
         并发度直接使用 OpenIE 内部信号量（max_concurrency）。
         """
-        if not queries or not self.global_config.enable_ppr:
+        if not queries:
             return
 
         sem = self.openie._get_semaphore()
@@ -1779,7 +1754,7 @@ class AtomicRAG:
         异步并发预计算查询实体的 embedding（在实体抽取已完成的基础上）。
         使用跨查询去重的批量编码，减少调用次数。
         """
-        if not queries or not self.global_config.enable_ppr:
+        if not queries:
             return
 
         # 收集每个查询的实体列表

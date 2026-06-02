@@ -89,7 +89,6 @@ class QueryDecomposer:
                  llm_model: BaseLLM,
                  max_sub_questions: int = 5,
                  complexity_threshold: float = 5.0,
-                 enable_decomposition: bool = True,
                  prompt_template_manager: Optional[PromptTemplateManager] = None):
         """
         Initialize the QueryDecomposer.
@@ -98,13 +97,11 @@ class QueryDecomposer:
             llm_model: The LLM instance from AtomicRAG
             max_sub_questions: Maximum number of sub-questions to generate (default: 5)
             complexity_threshold: Threshold for decomposition decision (default: 5.0)
-            enable_decomposition: Global flag to enable/disable decomposition (default: True)
             prompt_template_manager: Optional prompt manager (defaults to a new instance)
         """
         self.llm_model = llm_model
         self.max_sub_questions = max_sub_questions
         self.complexity_threshold = complexity_threshold
-        self.enable_decomposition = enable_decomposition
         self.prompt_template_manager = prompt_template_manager or PromptTemplateManager()
 
         # Metadata collector for token statistics
@@ -204,9 +201,6 @@ class QueryDecomposer:
         Returns:
             Tuple of (needs_decomposition, complexity_score, reasoning, sub_questions)
         """
-        if not self.enable_decomposition:
-            return False, 0.0, "Decomposition globally disabled", []
-
         try:
             messages = self._build_analysis_messages(question, question_type)
             response_message, metadata, _ = await self.llm_model.ainfer(messages)

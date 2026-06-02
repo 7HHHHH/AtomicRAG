@@ -178,20 +178,6 @@ class BaseConfig:
         metadata={"help": "Override the QA prompt template name (without the `rag_qa_` prefix)."}
     )
 
-    # Feature toggles
-    enable_fragment_filter: bool = field(
-        default=True,
-        metadata={"help": "Enable LLM-based fragment filtering before QA generation to remove irrelevant knowledge fragments"}
-    )
-    enable_query_decomposition: bool = field(
-        default=True,
-        metadata={"help": "Toggle LLM-based query decomposition for complex questions"}
-    )
-    enable_ppr: bool = field(
-        default=True,
-        metadata={"help": "Enable Personalized PageRank graph reasoning; when False, fall back to DPR-only retrieval"}
-    )
-
     # Save dir (highest level directory)
     save_dir: str = field(
         default=None,
